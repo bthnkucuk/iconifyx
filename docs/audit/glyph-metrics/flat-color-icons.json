@@ -107,7 +107,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57405,
       "icon": "numerical-sorting-21",
       "prefix": "flat-color-icons",
@@ -128,7 +128,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57404,
       "icon": "numerical-sorting-12",
       "prefix": "flat-color-icons",
@@ -149,7 +149,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57430,
       "icon": "todo-list",
       "prefix": "flat-color-icons",
@@ -170,7 +170,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57345,
       "icon": "alphabetical-sorting-za",
       "prefix": "flat-color-icons",
@@ -191,7 +191,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57344,
       "icon": "alphabetical-sorting-az",
       "prefix": "flat-color-icons",
@@ -212,7 +212,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57390,
       "icon": "high-priority",
       "prefix": "flat-color-icons",
@@ -233,7 +233,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57391,
       "icon": "info",
       "prefix": "flat-color-icons",
@@ -254,7 +254,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57422,
       "icon": "services",
       "prefix": "flat-color-icons",
@@ -275,7 +275,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57354,
       "icon": "broken-link",
       "prefix": "flat-color-icons",
@@ -296,7 +296,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57399,
       "icon": "link",
       "prefix": "flat-color-icons",
@@ -317,7 +317,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57360,
       "icon": "copyleft",
       "prefix": "flat-color-icons",
@@ -338,7 +338,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57361,
       "icon": "copyright",
       "prefix": "flat-color-icons",
@@ -359,7 +359,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57382,
       "icon": "flash-off",
       "prefix": "flat-color-icons",
@@ -380,7 +380,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57381,
       "icon": "flash-auto",
       "prefix": "flat-color-icons",
@@ -401,7 +401,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57426,
       "icon": "sound-recording-copyright",
       "prefix": "flat-color-icons",
@@ -422,7 +422,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57408,
       "icon": "package",
       "prefix": "flat-color-icons",
@@ -443,7 +443,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57427,
       "icon": "start",
       "prefix": "flat-color-icons",
@@ -464,7 +464,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57414,
       "icon": "registered-trademark",
       "prefix": "flat-color-icons",
@@ -485,7 +485,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57420,
       "icon": "ruler",
       "prefix": "flat-color-icons",
@@ -506,7 +506,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57436,
       "icon": "video-call",
       "prefix": "flat-color-icons",
@@ -527,41 +527,7 @@
       "secondaryFont": "FlatColorIconsSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "FlatColorIcons",
-      "headBbox": "-1..1001 / 0..964",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "flat-color-icons",
-      "reasons": [
-        "head.xMin=-1",
-        "head.xMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "FlatColorIconsSecondary",
-      "headBbox": "0..1001 / 0..959",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "flat-color-icons",
-      "reasons": [
-        "head.xMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "flat-color-icons",
   "ttfs": [
@@ -571,9 +537,9 @@
       "glyphCount": 97,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1001,
-        "xMin": -1,
-        "yMax": 964,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -584,7 +550,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -594,9 +560,9 @@
       "glyphCount": 61,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1001,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 959,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -607,7 +573,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

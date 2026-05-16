@@ -55,7 +55,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57695,
       "icon": "mastercard",
       "prefix": "grommet-icons",
@@ -76,7 +76,7 @@
       "secondaryFont": "GrommetIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57841,
       "icon": "star-half",
       "prefix": "grommet-icons",
@@ -97,7 +97,7 @@
       "secondaryFont": "GrommetIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57969,
       "icon": "wifi-none",
       "prefix": "grommet-icons",
@@ -118,7 +118,7 @@
       "secondaryFont": "GrommetIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57967,
       "icon": "wifi-low",
       "prefix": "grommet-icons",
@@ -139,44 +139,7 @@
       "secondaryFont": "GrommetIconsSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "GrommetIcons",
-      "headBbox": "-21..1960 / -14..1010",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 14,
-      "prefix": "grommet-icons",
-      "reasons": [
-        "head.xMin=-21",
-        "head.xMax=1960",
-        "head.yMin=-14",
-        "head.yMax=1010",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=14"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "GrommetIconsSecondary",
-      "headBbox": "0..1005 / 0..915",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "grommet-icons",
-      "reasons": [
-        "head.xMax=1005",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 2000,
@@ -219,32 +182,9 @@
       "glyphCount": 637,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1960,
-        "xMin": -21,
-        "yMax": 1010,
-        "yMin": -14
-      },
-      "hhea": {
-        "advanceWidthMax": 2000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 14
-      }
-    },
-    {
-      "error": null,
-      "font": "GrommetIconsSecondary",
-      "glyphCount": 5,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 1005,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 915,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -255,7 +195,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "GrommetIconsSecondary",
+      "glyphCount": 5,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

@@ -63,7 +63,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57457,
       "icon": "media-chromecast-1",
       "prefix": "nrk",
@@ -84,7 +84,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57458,
       "icon": "media-chromecast-2",
       "prefix": "nrk",
@@ -105,7 +105,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57482,
       "icon": "media-playlist",
       "prefix": "nrk",
@@ -126,7 +126,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57459,
       "icon": "media-chromecast-3",
       "prefix": "nrk",
@@ -147,7 +147,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57484,
       "icon": "media-playlist-add-later",
       "prefix": "nrk",
@@ -168,7 +168,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57485,
       "icon": "media-playlist-add-next",
       "prefix": "nrk",
@@ -189,7 +189,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57563,
       "icon": "some-youtube",
       "prefix": "nrk",
@@ -210,7 +210,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57463,
       "icon": "media-direkte-golive",
       "prefix": "nrk",
@@ -231,7 +231,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57464,
       "icon": "media-direkte-notlive",
       "prefix": "nrk",
@@ -252,7 +252,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57474,
       "icon": "media-media-incomplete",
       "prefix": "nrk",
@@ -273,7 +273,7 @@
       "secondaryFont": "NrkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57381,
       "icon": "dialogue",
       "prefix": "nrk",
@@ -294,40 +294,7 @@
       "secondaryFont": "NrkSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Nrk",
-      "headBbox": "0..1667 / 0..1001",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "nrk",
-      "reasons": [
-        "head.xMax=1667",
-        "head.yMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "NrkSecondary",
-      "headBbox": "0..1000 / 0..1000",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "nrk",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 1666,
@@ -466,20 +433,20 @@
       "glyphCount": 241,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1667,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 1001,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1666,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -502,7 +469,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

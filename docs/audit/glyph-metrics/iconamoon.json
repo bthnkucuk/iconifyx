@@ -165,36 +165,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "apps",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "apps",
-        "apps-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "arrow-bottom-left-1",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "arrow-bottom-left-1",
-        "arrow-bottom-left-1-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "arrow-bottom-left-2",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "arrow-bottom-left-2",
-        "arrow-bottom-left-2-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "arrow-bottom-left-3-square",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -230,16 +200,6 @@
       "sampleIcons": [
         "arrow-bottom-left-6-circle",
         "arrow-bottom-left-6-circle-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "arrow-bottom-right-1",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "arrow-bottom-right-1",
-        "arrow-bottom-right-1-duotone"
       ]
     },
     {
@@ -475,26 +435,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "arrow-top-left-1",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "arrow-top-left-1",
-        "arrow-top-left-1-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "arrow-top-left-2",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "arrow-top-left-2",
-        "arrow-top-left-2-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "arrow-top-left-3-square",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -530,26 +470,6 @@
       "sampleIcons": [
         "arrow-top-left-6-circle",
         "arrow-top-left-6-circle-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "arrow-top-right-1",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "arrow-top-right-1",
-        "arrow-top-right-1-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "arrow-top-right-2",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "arrow-top-right-2",
-        "arrow-top-right-2-duotone"
       ]
     },
     {
@@ -1175,16 +1095,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "download",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "download",
-        "download-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "edit",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -1210,16 +1120,6 @@
       "sampleIcons": [
         "enter",
         "enter-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "exit",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "exit",
-        "exit-duotone"
       ]
     },
     {
@@ -1675,16 +1575,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "menu-kebab-horizontal",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "menu-kebab-horizontal",
-        "menu-kebab-horizontal-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "menu-kebab-horizontal-circle",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -1700,16 +1590,6 @@
       "sampleIcons": [
         "menu-kebab-horizontal-square",
         "menu-kebab-horizontal-square-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "menu-kebab-vertical",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "menu-kebab-vertical",
-        "menu-kebab-vertical-duotone"
       ]
     },
     {
@@ -1895,16 +1775,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "number-1",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "number-1",
-        "number-1-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "number-1-circle",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -1955,16 +1825,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "number-3",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "number-3",
-        "number-3-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "number-3-circle",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -1985,16 +1845,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "number-4",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "number-4",
-        "number-4-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "number-4-circle",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -2010,16 +1860,6 @@
       "sampleIcons": [
         "number-4-square",
         "number-4-square-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "number-5",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "number-5",
-        "number-5-duotone"
       ]
     },
     {
@@ -2070,16 +1910,6 @@
       "sampleIcons": [
         "number-6-square",
         "number-6-square-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "number-7",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "number-7",
-        "number-7-duotone"
       ]
     },
     {
@@ -2275,36 +2105,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "playlist",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "playlist",
-        "playlist-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "playlist-repeat-list",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "playlist-repeat-list",
-        "playlist-repeat-list-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "playlist-repeat-song",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "playlist-repeat-song",
-        "playlist-repeat-song-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "playlist-shuffle",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -2380,16 +2180,6 @@
       "sampleIcons": [
         "restart",
         "restart-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "scanner",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "scanner",
-        "scanner-duotone"
       ]
     },
     {
@@ -2535,16 +2325,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "sign-division-slash",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-division-slash",
-        "sign-division-slash-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "sign-division-square",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -2555,51 +2335,11 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "sign-equal",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-equal",
-        "sign-equal-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "sign-f",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-f",
-        "sign-f-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "sign-factorial",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-factorial",
-        "sign-factorial-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "sign-lemniscate",
       "prefix": "iconamoon",
       "sampleIcons": [
         "sign-lemniscate",
         "sign-lemniscate-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "sign-minus",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-minus",
-        "sign-minus-duotone"
       ]
     },
     {
@@ -2625,36 +2365,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "sign-percent",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-percent",
-        "sign-percent-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "sign-pi",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-pi",
-        "sign-pi-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "sign-plus",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-plus",
-        "sign-plus-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "sign-plus-circle",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -2665,31 +2375,11 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "sign-plus-minus",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-plus-minus",
-        "sign-plus-minus-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "sign-plus-square",
       "prefix": "iconamoon",
       "sampleIcons": [
         "sign-plus-square",
         "sign-plus-square-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "sign-radical",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-radical",
-        "sign-radical-duotone"
       ]
     },
     {
@@ -2710,26 +2400,6 @@
       "sampleIcons": [
         "sign-times-square",
         "sign-times-square-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "sign-x",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-x",
-        "sign-x-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "sign-y",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "sign-y",
-        "sign-y-duotone"
       ]
     },
     {
@@ -2825,16 +2495,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "swap",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "swap",
-        "swap-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "synchronize",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -2875,26 +2535,6 @@
     {
       "codepointCount": 2,
       "font": "Iconamoon",
-      "glyphName": "trend-down",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "trend-down",
-        "trend-down-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "trend-up",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "trend-up",
-        "trend-up-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
       "glyphName": "type",
       "prefix": "iconamoon",
       "sampleIcons": [
@@ -2910,16 +2550,6 @@
       "sampleIcons": [
         "unavailable",
         "unavailable-duotone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Iconamoon",
-      "glyphName": "upload",
-      "prefix": "iconamoon",
-      "sampleIcons": [
-        "upload",
-        "upload-duotone"
       ]
     },
     {
@@ -3025,81 +2655,18 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
-      "codepoint": 57946,
-      "icon": "delivery-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 959,
-        "xMin": 0,
-        "yMax": 917,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 417,
-      "secondary": {
-        "xMax": 542,
-        "xMin": 0,
-        "yMax": 875,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 57949,
-      "icon": "delivery-fast-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 959,
-        "xMin": 0,
-        "yMax": 917,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 417,
-      "secondary": {
-        "xMax": 542,
-        "xMin": 0,
-        "yMax": 875,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 57956,
-      "icon": "delivery-free-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 959,
-        "xMin": 0,
-        "yMax": 919,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 417,
-      "secondary": {
-        "xMax": 542,
-        "xMin": 0,
-        "yMax": 709,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57910,
       "icon": "compare-duotone",
       "prefix": "iconamoon",
       "primary": {
         "xMax": 875,
-        "xMin": 0,
+        "xMin": 125,
         "yMax": 961,
-        "yMin": 0
+        "yMin": 39
       },
       "primaryFont": "Iconamoon",
-      "score": 375,
+      "score": 500,
       "secondary": {
         "xMax": 500,
         "xMin": 0,
@@ -3109,144 +2676,18 @@
       "secondaryFont": "IconamoonSecondary"
     },
     {
-      "cause": "shifted",
-      "codepoint": 58414,
-      "icon": "music-album-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 958,
-        "xMin": 0,
-        "yMax": 959,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 374,
-      "secondary": {
-        "xMax": 584,
-        "xMin": 0,
-        "yMax": 590,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 59134,
-      "icon": "volume-off-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 917,
-        "xMin": 0,
-        "yMax": 805,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 369,
-      "secondary": {
-        "xMax": 548,
-        "xMin": 0,
-        "yMax": 767,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 59140,
-      "icon": "volume-up-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 917,
-        "xMin": 0,
-        "yMax": 805,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 369,
-      "secondary": {
-        "xMax": 548,
-        "xMin": 0,
-        "yMax": 767,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 58420,
-      "icon": "music-artist-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 958,
-        "xMin": 0,
-        "yMax": 877,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 329,
-      "secondary": {
-        "xMax": 629,
-        "xMin": 0,
-        "yMax": 834,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 58371,
-      "icon": "microphone-off-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 878,
-        "xMin": 0,
-        "yMax": 917,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 313,
-      "secondary": {
-        "xMax": 565,
-        "xMin": 0,
-        "yMax": 626,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 58690,
-      "icon": "player-previous-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 917,
-        "xMin": 0,
-        "yMax": 847,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 291,
-      "secondary": {
-        "xMax": 626,
-        "xMin": 0,
-        "yMax": 805,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58402,
       "icon": "music-1-duotone",
       "prefix": "iconamoon",
       "primary": {
         "xMax": 792,
-        "xMin": 0,
+        "xMin": 206,
         "yMax": 917,
-        "yMin": 0
+        "yMin": 78
       },
       "primaryFont": "Iconamoon",
-      "score": 288,
+      "score": 494,
       "secondary": {
         "xMax": 504,
         "xMin": 0,
@@ -3256,102 +2697,123 @@
       "secondaryFont": "IconamoonSecondary"
     },
     {
-      "cause": "shifted",
-      "codepoint": 58384,
-      "icon": "mode-light-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 916,
-        "xMin": 0,
-        "yMax": 919,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 248,
-      "secondary": {
-        "xMax": 668,
-        "xMin": 0,
-        "yMax": 667,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 58653,
-      "icon": "phone-off-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 878,
-        "xMin": 0,
-        "yMax": 878,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 239,
-      "secondary": {
-        "xMax": 639,
-        "xMin": 0,
-        "yMax": 480,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 58209,
-      "icon": "heart-off-duotone",
-      "prefix": "iconamoon",
-      "primary": {
-        "xMax": 907,
-        "xMin": 0,
-        "yMax": 878,
-        "yMin": 0
-      },
-      "primaryFont": "Iconamoon",
-      "score": 235,
-      "secondary": {
-        "xMax": 672,
-        "xMin": 0,
-        "yMax": 769,
-        "yMin": 0
-      },
-      "secondaryFont": "IconamoonSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 58041,
-      "icon": "eye-off-duotone",
+      "cause": "asymmetric",
+      "codepoint": 57946,
+      "icon": "delivery-duotone",
       "prefix": "iconamoon",
       "primary": {
         "xMax": 959,
-        "xMin": 0,
-        "yMax": 878,
-        "yMin": 0
+        "xMin": 41,
+        "yMax": 917,
+        "yMin": 84
       },
       "primaryFont": "Iconamoon",
-      "score": 230,
+      "score": 458,
       "secondary": {
-        "xMax": 729,
+        "xMax": 542,
         "xMin": 0,
-        "yMax": 729,
+        "yMax": 875,
         "yMin": 0
       },
       "secondaryFont": "IconamoonSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
+      "codepoint": 57956,
+      "icon": "delivery-free-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 959,
+        "xMin": 41,
+        "yMax": 919,
+        "yMin": 84
+      },
+      "primaryFont": "Iconamoon",
+      "score": 458,
+      "secondary": {
+        "xMax": 542,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58420,
+      "icon": "music-artist-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 958,
+        "xMin": 125,
+        "yMax": 877,
+        "yMin": 125
+      },
+      "primaryFont": "Iconamoon",
+      "score": 454,
+      "secondary": {
+        "xMax": 629,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58414,
+      "icon": "music-album-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 958,
+        "xMin": 70,
+        "yMax": 959,
+        "yMin": 84
+      },
+      "primaryFont": "Iconamoon",
+      "score": 444,
+      "secondary": {
+        "xMax": 584,
+        "xMin": 0,
+        "yMax": 590,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58371,
+      "icon": "microphone-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 878,
+        "xMin": 125,
+        "yMax": 917,
+        "yMin": 81
+      },
+      "primaryFont": "Iconamoon",
+      "score": 438,
+      "secondary": {
+        "xMax": 565,
+        "xMin": 0,
+        "yMax": 626,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
       "codepoint": 58366,
       "icon": "microphone-duotone",
       "prefix": "iconamoon",
       "primary": {
         "xMax": 836,
-        "xMin": 0,
+        "xMin": 164,
         "yMax": 919,
-        "yMin": 0
+        "yMin": 81
       },
       "primaryFont": "Iconamoon",
-      "score": 210,
+      "score": 374,
       "secondary": {
         "xMax": 626,
         "xMin": 0,
@@ -3361,39 +2823,144 @@
       "secondaryFont": "IconamoonSecondary"
     },
     {
-      "cause": "shifted",
-      "codepoint": 59049,
-      "icon": "star-off-duotone",
+      "cause": "asymmetric",
+      "codepoint": 58653,
+      "icon": "phone-off-duotone",
       "prefix": "iconamoon",
       "primary": {
-        "xMax": 979,
-        "xMin": 0,
-        "yMax": 960,
-        "yMin": 0
+        "xMax": 878,
+        "xMin": 124,
+        "yMax": 878,
+        "yMin": 125
       },
       "primaryFont": "Iconamoon",
-      "score": 210,
+      "score": 363,
       "secondary": {
-        "xMax": 769,
+        "xMax": 639,
         "xMin": 0,
-        "yMax": 635,
+        "yMax": 480,
         "yMin": 0
       },
       "secondaryFont": "IconamoonSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
+      "codepoint": 58209,
+      "icon": "heart-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 907,
+        "xMin": 102,
+        "yMax": 878,
+        "yMin": 125
+      },
+      "primaryFont": "Iconamoon",
+      "score": 337,
+      "secondary": {
+        "xMax": 672,
+        "xMin": 0,
+        "yMax": 769,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58114,
+      "icon": "flag-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 877,
+        "xMin": 292,
+        "yMax": 919,
+        "yMin": 81
+      },
+      "primaryFont": "Iconamoon",
+      "score": 335,
+      "secondary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58690,
+      "icon": "player-previous-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 917,
+        "xMin": 42,
+        "yMax": 847,
+        "yMin": 159
+      },
+      "primaryFont": "Iconamoon",
+      "score": 333,
+      "secondary": {
+        "xMax": 626,
+        "xMin": 0,
+        "yMax": 805,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58384,
+      "icon": "mode-light-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 916,
+        "xMin": 84,
+        "yMax": 919,
+        "yMin": 81
+      },
+      "primaryFont": "Iconamoon",
+      "score": 332,
+      "secondary": {
+        "xMax": 668,
+        "xMin": 0,
+        "yMax": 667,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58298,
+      "icon": "location-pin-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 878,
+        "xMin": 125,
+        "yMax": 908,
+        "yMin": 42
+      },
+      "primaryFont": "Iconamoon",
+      "score": 293,
+      "secondary": {
+        "xMax": 710,
+        "xMin": 0,
+        "yMax": 749,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
       "codepoint": 57736,
       "icon": "camera-video-duotone",
       "prefix": "iconamoon",
       "primary": {
         "xMax": 917,
-        "xMin": 0,
+        "xMin": 84,
         "yMax": 834,
-        "yMin": 0
+        "yMin": 167
       },
       "primaryFont": "Iconamoon",
-      "score": 208,
+      "score": 292,
       "secondary": {
         "xMax": 709,
         "xMin": 0,
@@ -3403,18 +2970,165 @@
       "secondaryFont": "IconamoonSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
+      "codepoint": 58456,
+      "icon": "number-0-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 750,
+        "xMin": 250,
+        "yMax": 879,
+        "yMin": 125
+      },
+      "primaryFont": "Iconamoon",
+      "score": 292,
+      "secondary": {
+        "xMax": 708,
+        "xMin": 0,
+        "yMax": 839,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58618,
+      "icon": "number-9-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 750,
+        "xMin": 250,
+        "yMax": 875,
+        "yMin": 122
+      },
+      "primaryFont": "Iconamoon",
+      "score": 292,
+      "secondary": {
+        "xMax": 708,
+        "xMin": 0,
+        "yMax": 839,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58564,
+      "icon": "number-6-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 749,
+        "xMin": 250,
+        "yMax": 880,
+        "yMin": 125
+      },
+      "primaryFont": "Iconamoon",
+      "score": 291,
+      "secondary": {
+        "xMax": 708,
+        "xMin": 0,
+        "yMax": 589,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58600,
+      "icon": "number-8-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 749,
+        "xMin": 250,
+        "yMax": 877,
+        "yMin": 125
+      },
+      "primaryFont": "Iconamoon",
+      "score": 291,
+      "secondary": {
+        "xMax": 708,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58630,
+      "icon": "options-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 875,
+        "xMin": 125,
+        "yMax": 792,
+        "yMin": 208
+      },
+      "primaryFont": "Iconamoon",
+      "score": 291,
+      "secondary": {
+        "xMax": 709,
+        "xMin": 0,
+        "yMax": 757,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58666,
+      "icon": "player-end-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 875,
+        "xMin": 166,
+        "yMax": 842,
+        "yMin": 159
+      },
+      "primaryFont": "Iconamoon",
+      "score": 291,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 804,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58006,
+      "icon": "edit-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 916,
+        "xMin": 125,
+        "yMax": 885,
+        "yMin": 124
+      },
+      "primaryFont": "Iconamoon",
+      "score": 290,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
       "codepoint": 58432,
       "icon": "news-duotone",
       "prefix": "iconamoon",
       "primary": {
         "xMax": 916,
-        "xMin": 0,
+        "xMin": 83,
         "yMax": 875,
-        "yMin": 0
+        "yMin": 125
       },
       "primaryFont": "Iconamoon",
-      "score": 207,
+      "score": 290,
       "secondary": {
         "xMax": 709,
         "xMin": 0,
@@ -3424,18 +3138,39 @@
       "secondaryFont": "IconamoonSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
+      "codepoint": 58684,
+      "icon": "player-play-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 875,
+        "xMin": 249,
+        "yMax": 842,
+        "yMin": 159
+      },
+      "primaryFont": "Iconamoon",
+      "score": 290,
+      "secondary": {
+        "xMax": 834,
+        "xMin": 0,
+        "yMax": 804,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
       "codepoint": 59128,
       "icon": "volume-down-duotone",
       "prefix": "iconamoon",
       "primary": {
         "xMax": 750,
-        "xMin": 0,
+        "xMin": 84,
         "yMax": 805,
-        "yMin": 0
+        "yMin": 193
       },
       "primaryFont": "Iconamoon",
-      "score": 202,
+      "score": 286,
       "secondary": {
         "xMax": 548,
         "xMin": 0,
@@ -3443,53 +3178,550 @@
         "yMin": 0
       },
       "secondaryFont": "IconamoonSecondary"
-    }
-  ],
-  "nonCanonical": [
-    {
-      "font": "Iconamoon",
-      "headBbox": "-6..988 / 0..974",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "iconamoon",
-      "reasons": [
-        "head.xMin=-6",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
     },
     {
-      "font": "IconamoonSecondary",
-      "headBbox": "0..936 / 0..917",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
+      "cause": "asymmetric",
+      "codepoint": 58833,
+      "icon": "shield-off-duotone",
       "prefix": "iconamoon",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
+      "primary": {
+        "xMax": 878,
+        "xMin": 125,
+        "yMax": 918,
+        "yMin": 82
+      },
+      "primaryFont": "Iconamoon",
+      "score": 274,
+      "secondary": {
+        "xMax": 729,
+        "xMin": 0,
+        "yMax": 762,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58041,
+      "icon": "eye-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 959,
+        "xMin": 40,
+        "yMax": 878,
+        "yMin": 125
+      },
+      "primaryFont": "Iconamoon",
+      "score": 270,
+      "secondary": {
+        "xMax": 729,
+        "xMin": 0,
+        "yMax": 729,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58443,
+      "icon": "notification-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 878,
+        "xMin": 125,
+        "yMax": 959,
+        "yMin": 41
+      },
+      "primaryFont": "Iconamoon",
+      "score": 253,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 713,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58264,
+      "icon": "lightning-2-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 794,
+        "xMin": 208,
+        "yMax": 959,
+        "yMin": 37
+      },
+      "primaryFont": "Iconamoon",
+      "score": 252,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 917,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 57676,
+      "icon": "bookmark-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 792,
+        "xMin": 208,
+        "yMax": 917,
+        "yMin": 82
+      },
+      "primaryFont": "Iconamoon",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 57681,
+      "icon": "bookmark-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 875,
+        "xMin": 125,
+        "yMax": 917,
+        "yMin": 82
+      },
+      "primaryFont": "Iconamoon",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 751,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58174,
+      "icon": "frame-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 916,
+        "xMin": 84,
+        "yMax": 919,
+        "yMin": 80
+      },
+      "primaryFont": "Iconamoon",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 750,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58258,
+      "icon": "lightning-1-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 794,
+        "xMin": 206,
+        "yMax": 960,
+        "yMin": 41
+      },
+      "primaryFont": "Iconamoon",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 916,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58390,
+      "icon": "mouse-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 792,
+        "xMin": 208,
+        "yMax": 917,
+        "yMin": 84
+      },
+      "primaryFont": "Iconamoon",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 59080,
+      "icon": "trash-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 875,
+        "xMin": 125,
+        "yMax": 917,
+        "yMin": 84
+      },
+      "primaryFont": "Iconamoon",
+      "score": 250,
+      "secondary": {
+        "xMax": 750,
+        "xMin": 0,
+        "yMax": 709,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58438,
+      "icon": "notification-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 875,
+        "xMin": 125,
+        "yMax": 959,
+        "yMin": 41
+      },
+      "primaryFont": "Iconamoon",
+      "score": 249,
+      "secondary": {
+        "xMax": 751,
+        "xMin": 0,
+        "yMax": 834,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 59049,
+      "icon": "star-off-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 979,
+        "xMin": 19,
+        "yMax": 960,
+        "yMin": 42
+      },
+      "primaryFont": "Iconamoon",
+      "score": 229,
+      "secondary": {
+        "xMax": 769,
+        "xMin": 0,
+        "yMax": 635,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58740,
+      "icon": "profile-circle-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 919,
+        "xMin": 84,
+        "yMax": 917,
+        "yMin": 82
+      },
+      "primaryFont": "Iconamoon",
+      "score": 217,
+      "secondary": {
+        "xMax": 786,
+        "xMin": 0,
+        "yMax": 375,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58061,
+      "icon": "file-add-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 834,
+        "xMin": 167,
+        "yMax": 917,
+        "yMin": 84
+      },
+      "primaryFont": "Iconamoon",
+      "score": 209,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58822,
+      "icon": "shield-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 834,
+        "xMin": 166,
+        "yMax": 917,
+        "yMin": 81
+      },
+      "primaryFont": "Iconamoon",
+      "score": 209,
+      "secondary": {
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 57670,
+      "icon": "bluetooth-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 835,
+        "xMin": 164,
+        "yMax": 919,
+        "yMin": 80
+      },
+      "primaryFont": "Iconamoon",
+      "score": 208,
+      "secondary": {
+        "xMax": 791,
+        "xMin": 0,
+        "yMax": 876,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 57700,
+      "icon": "calculator-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 833,
+        "xMin": 167,
+        "yMax": 917,
+        "yMin": 84
+      },
+      "primaryFont": "Iconamoon",
+      "score": 208,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 625,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58222,
+      "icon": "home-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 918,
+        "xMin": 82,
+        "yMax": 919,
+        "yMin": 83
+      },
+      "primaryFont": "Iconamoon",
+      "score": 208,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58240,
+      "icon": "invoice-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 834,
+        "xMin": 166,
+        "yMax": 917,
+        "yMin": 81
+      },
+      "primaryFont": "Iconamoon",
+      "score": 208,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 875,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58306,
+      "icon": "lock-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 833,
+        "xMin": 167,
+        "yMax": 922,
+        "yMin": 84
+      },
+      "primaryFont": "Iconamoon",
+      "score": 208,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 584,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58678,
+      "icon": "player-pause-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 833,
+        "xMin": 167,
+        "yMax": 834,
+        "yMin": 167
+      },
+      "primaryFont": "Iconamoon",
+      "score": 208,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58702,
+      "icon": "player-stop-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 833,
+        "xMin": 167,
+        "yMax": 833,
+        "yMin": 167
+      },
+      "primaryFont": "Iconamoon",
+      "score": 208,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 792,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 58792,
+      "icon": "search-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 916,
+        "xMin": 83,
+        "yMax": 917,
+        "yMin": 80
+      },
+      "primaryFont": "Iconamoon",
+      "score": 207,
+      "secondary": {
+        "xMax": 792,
+        "xMin": 0,
+        "yMax": 878,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 57748,
+      "icon": "certificate-badge-duotone",
+      "prefix": "iconamoon",
+      "primary": {
+        "xMax": 830,
+        "xMin": 170,
+        "yMax": 955,
+        "yMin": 39
+      },
+      "primaryFont": "Iconamoon",
+      "score": 206,
+      "secondary": {
+        "xMax": 794,
+        "xMin": 0,
+        "yMax": 914,
+        "yMin": 0
+      },
+      "secondaryFont": "IconamoonSecondary"
     }
   ],
-  "outliers": [],
+  "nonCanonical": [],
+  "outliers": [
+    {
+      "codepoint": 58356,
+      "contentWidth": 94,
+      "font": "Iconamoon",
+      "name": "menu-kebab-vertical-light",
+      "prefix": "iconamoon",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 58363,
+      "contentWidth": 68,
+      "font": "Iconamoon",
+      "name": "menu-kebab-vertical-thin",
+      "prefix": "iconamoon",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 58909,
+      "contentWidth": 82,
+      "font": "Iconamoon",
+      "name": "sign-factorial-thin",
+      "prefix": "iconamoon",
+      "reason": "narrow"
+    }
+  ],
   "prefix": "iconamoon",
   "ttfs": [
     {
       "error": null,
       "font": "Iconamoon",
-      "glyphCount": 1818,
+      "glyphCount": 1781,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 988,
-        "xMin": -6,
-        "yMax": 974,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -3500,7 +3732,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -3510,9 +3742,9 @@
       "glyphCount": 235,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 936,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 917,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -3523,7 +3755,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

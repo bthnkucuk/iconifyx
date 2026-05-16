@@ -12,23 +12,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "Charm",
-      "headBbox": "0..975 / 0..973",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "charm",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "charm",
   "ttfs": [
@@ -38,9 +22,9 @@
       "glyphCount": 263,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 975,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 973,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -51,7 +35,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

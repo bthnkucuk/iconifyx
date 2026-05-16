@@ -165,39 +165,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "FluentEmoji",
-      "headBbox": "0..1001 / 0..978",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "fluent-emoji",
-      "reasons": [
-        "head.xMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "FluentEmojiSecondary",
-      "headBbox": "0..750 / 0..624",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "fluent-emoji",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 969,
@@ -277,35 +245,12 @@
     {
       "error": null,
       "font": "FluentEmoji",
-      "glyphCount": 2777,
+      "glyphCount": 2767,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1001,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 978,
-        "yMin": 0
-      },
-      "hhea": {
-        "advanceWidthMax": 1031,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 0
-      }
-    },
-    {
-      "error": null,
-      "font": "FluentEmojiSecondary",
-      "glyphCount": 1,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 750,
-        "xMin": 0,
-        "yMax": 624,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -316,7 +261,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "FluentEmojiSecondary",
+      "glyphCount": 1,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

@@ -1,0 +1,105 @@
+{
+  "iconRef": "ic:twotone-motorcycle",
+  "prefix": "ic",
+  "iconName": "twotone-motorcycle",
+  "packageName": "iconifyx_ic",
+  "duotone": true,
+  "primary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_ic/assets/fonts/Ic.ttf",
+    "codepoint": "0xf1324",
+    "glyphName": "twotone-motorcycle",
+    "advance": 1000,
+    "lsb": 0,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 0,
+      "yMin": 208,
+      "xMax": 1000,
+      "yMax": 792,
+      "width": 1000,
+      "height": 584,
+      "cx": 500,
+      "cy": 500
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "secondary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_ic/assets/fonts/IcSecondary.ttf",
+    "codepoint": "0xf1324",
+    "glyphName": "twotone-motorcycle",
+    "advance": 1000,
+    "lsb": 374,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 374,
+      "yMin": 458,
+      "xMax": 530,
+      "yMax": 542,
+      "width": 156,
+      "height": 84,
+      "cx": 452,
+      "cy": 500
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "files": {
+    "upstreamSvg": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ic__twotone-motorcycle/upstream.svg",
+    "upstreamPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ic__twotone-motorcycle/upstream.png",
+    "primaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ic__twotone-motorcycle/glyph-primary.png",
+    "secondaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ic__twotone-motorcycle/glyph-secondary.png",
+    "ttfComposedPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ic__twotone-motorcycle/ttf-composed.png",
+    "flutterPng": null,
+    "diffSvgVsFlutter": null,
+    "diffSvgVsTtf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ic__twotone-motorcycle/diff-svg-vs-ttf.png",
+    "diffTtfVsFlutter": null
+  },
+  "diffs": {
+    "svgVsTtf": {
+      "width": 256,
+      "height": 256,
+      "mismatchPixels": 115,
+      "totalPixels": 65536,
+      "mismatchPct": 0.0017547607421875,
+      "inkA": 0.263031005859375,
+      "inkB": 0.2630157470703125,
+      "cxA": 128.7274625826662,
+      "cyA": 134.5883513168581,
+      "cxB": 128.7279108893659,
+      "cyB": 134.65806114753147,
+      "cxDriftPx": 0.00044830669969542214,
+      "cyDriftPx": 0.06970983067336078,
+      "dHashA": "00000840a9248600",
+      "dHashB": "00000840a8248200",
+      "hamming": 2,
+      "ssim": 0.9497004686089324
+    },
+    "ttfVsFlutter": null,
+    "svgVsFlutter": null
+  },
+  "legacyDiff": null,
+  "verdict": {
+    "status": "different",
+    "primaryReason": "DUOTONE_BBOX_MISMATCH",
+    "confidence": "high",
+    "problem": "Primary glyph centroid (500,500) differs from secondary (452,500) by 4.8% / 0.0% of em — layers will overlay misaligned",
+    "remediation": "GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup (identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see RESEARCH_PLAN §33 for fix."
+  },
+  "fontTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_ic/assets/fonts/Ic.ttf",
+  "secondaryTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_ic/assets/fonts/IcSecondary.ttf",
+  "timings": {
+    "upstream": 196,
+    "primaryGlyph": 1815,
+    "secondaryGlyph": 67,
+    "ttfCompose": 15,
+    "diffSvgVsTtf": 13,
+    "total": 2123
+  }
+}

@@ -1,28 +1,7 @@
 {
   "dedupCollisions": [],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "Covid",
-      "headBbox": "-11..1007 / -6..1007",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 6,
-      "prefix": "covid",
-      "reasons": [
-        "head.xMin=-11",
-        "head.xMax=1007",
-        "head.yMin=-6",
-        "head.yMax=1007",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=6"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 960,
@@ -41,10 +20,10 @@
       "glyphCount": 142,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1007,
-        "xMin": -11,
-        "yMax": 1007,
-        "yMin": -6
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -54,8 +33,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 6
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

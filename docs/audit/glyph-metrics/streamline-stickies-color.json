@@ -1,44 +1,7 @@
 {
   "dedupCollisions": [],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "StreamlineStickiesColor",
-      "headBbox": "-13..1027 / -11..1007",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 11,
-      "prefix": "streamline-stickies-color",
-      "reasons": [
-        "head.xMin=-13",
-        "head.xMax=1027",
-        "head.yMin=-11",
-        "head.yMax=1007",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=11"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "StreamlineStickiesColorSecondary",
-      "headBbox": "-2..974 / 0..996",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "streamline-stickies-color",
-      "reasons": [
-        "head.xMin=-2",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "streamline-stickies-color",
   "ttfs": [
@@ -48,32 +11,9 @@
       "glyphCount": 165,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1027,
-        "xMin": -13,
-        "yMax": 1007,
-        "yMin": -11
-      },
-      "hhea": {
-        "advanceWidthMax": 1000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 11
-      }
-    },
-    {
-      "error": null,
-      "font": "StreamlineStickiesColorSecondary",
-      "glyphCount": 5,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 974,
-        "xMin": -2,
-        "yMax": 996,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -84,7 +24,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "StreamlineStickiesColorSecondary",
+      "glyphCount": 5,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

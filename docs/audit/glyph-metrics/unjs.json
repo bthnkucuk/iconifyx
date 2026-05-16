@@ -1,24 +1,7 @@
 {
   "dedupCollisions": [],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "Unjs",
-      "headBbox": "-1..1000 / 0..939",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "unjs",
-      "reasons": [
-        "head.xMin=-1",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "unjs",
   "ttfs": [
@@ -29,8 +12,8 @@
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
-        "xMin": -1,
-        "yMax": 939,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -41,7 +24,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

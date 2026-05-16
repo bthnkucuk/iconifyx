@@ -2255,27 +2255,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "LineMd",
-      "headBbox": "-6..1012 / -2..999",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 2,
-      "prefix": "line-md",
-      "reasons": [
-        "head.xMin=-6",
-        "head.xMax=1012",
-        "head.yMin=-2",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=2"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "line-md",
   "ttfs": [
@@ -2285,10 +2265,10 @@
       "glyphCount": 1279,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1012,
-        "xMin": -6,
-        "yMax": 999,
-        "yMin": -2
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -2298,8 +2278,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 2
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

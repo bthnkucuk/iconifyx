@@ -362,25 +362,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "Fa7Brands",
-      "headBbox": "-7..1011 / 0..961",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "fa7-brands",
-      "reasons": [
-        "head.xMin=-7",
-        "head.xMax=1011",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "fa7-brands",
   "ttfs": [
@@ -390,9 +372,9 @@
       "glyphCount": 586,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1011,
-        "xMin": -7,
-        "yMax": 961,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -403,7 +385,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

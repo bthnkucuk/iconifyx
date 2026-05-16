@@ -2,28 +2,7 @@
   "dedupCollisions": [],
   "duotoneMismatches": [
     {
-      "cause": "secondary-empty",
-      "codepoint": 57353,
-      "icon": "box",
-      "prefix": "flat-ui",
-      "primary": {
-        "xMax": 929,
-        "xMin": 0,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "primaryFont": "FlatUi",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "FlatUiSecondary"
-    },
-    {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57387,
       "icon": "magicmouse",
       "prefix": "flat-ui",
@@ -44,7 +23,7 @@
       "secondaryFont": "FlatUiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57390,
       "icon": "money",
       "prefix": "flat-ui",
@@ -65,7 +44,7 @@
       "secondaryFont": "FlatUiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57385,
       "icon": "loop",
       "prefix": "flat-ui",
@@ -86,7 +65,7 @@
       "secondaryFont": "FlatUiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57406,
       "icon": "shield",
       "prefix": "flat-ui",
@@ -107,7 +86,7 @@
       "secondaryFont": "FlatUiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57411,
       "icon": "toilet-paper",
       "prefix": "flat-ui",
@@ -128,7 +107,7 @@
       "secondaryFont": "FlatUiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57418,
       "icon": "yinyang",
       "prefix": "flat-ui",
@@ -149,7 +128,7 @@
       "secondaryFont": "FlatUiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57370,
       "icon": "earth",
       "prefix": "flat-ui",
@@ -170,7 +149,7 @@
       "secondaryFont": "FlatUiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57388,
       "icon": "map",
       "prefix": "flat-ui",
@@ -191,7 +170,7 @@
       "secondaryFont": "FlatUiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57393,
       "icon": "paper-bag",
       "prefix": "flat-ui",
@@ -212,47 +191,7 @@
       "secondaryFont": "FlatUiSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "FlatUi",
-      "headBbox": "-19..1499 / -15..1004",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 15,
-      "prefix": "flat-ui",
-      "reasons": [
-        "head.xMin=-19",
-        "head.xMax=1499",
-        "head.yMin=-15",
-        "head.yMax=1004",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=15"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "FlatUiSecondary",
-      "headBbox": "-1..1001 / -1..1001",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 1,
-      "prefix": "flat-ui",
-      "reasons": [
-        "head.xMin=-1",
-        "head.xMax=1001",
-        "head.yMin=-1",
-        "head.yMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 540,
@@ -476,47 +415,47 @@
     {
       "error": null,
       "font": "FlatUi",
-      "glyphCount": 75,
+      "glyphCount": 74,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1499,
-        "xMin": -19,
-        "yMax": 1004,
-        "yMin": -15
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1500,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 15
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     },
     {
       "error": null,
       "font": "FlatUiSecondary",
-      "glyphCount": 20,
+      "glyphCount": 19,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1001,
-        "xMin": -1,
-        "yMax": 1001,
-        "yMin": -1
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1009,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 1
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

@@ -72,78 +72,19 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "RadixIcons",
-      "headBbox": "-8..1005 / -2..1005",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 2,
-      "prefix": "radix-icons",
-      "reasons": [
-        "head.xMin=-8",
-        "head.xMax=1005",
-        "head.yMin=-2",
-        "head.yMax=1005",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=2"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "RadixIconsSecondary",
-      "headBbox": "0..1000 / 0..924",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "radix-icons",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "radix-icons",
   "ttfs": [
     {
       "error": null,
       "font": "RadixIcons",
-      "glyphCount": 345,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 1005,
-        "xMin": -8,
-        "yMax": 1005,
-        "yMin": -2
-      },
-      "hhea": {
-        "advanceWidthMax": 1000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 2
-      }
-    },
-    {
-      "error": null,
-      "font": "RadixIconsSecondary",
-      "glyphCount": 4,
+      "glyphCount": 344,
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
         "xMin": 0,
-        "yMax": 924,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -154,7 +95,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "RadixIconsSecondary",
+      "glyphCount": 4,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

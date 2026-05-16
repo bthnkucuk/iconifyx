@@ -25,7 +25,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57429,
       "icon": "toggle",
       "prefix": "duo-icons",
@@ -46,7 +46,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57357,
       "icon": "baby-carriage",
       "prefix": "duo-icons",
@@ -67,7 +67,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57374,
       "icon": "building",
       "prefix": "duo-icons",
@@ -88,7 +88,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57418,
       "icon": "moon-stars",
       "prefix": "duo-icons",
@@ -109,7 +109,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57348,
       "icon": "align-bottom",
       "prefix": "duo-icons",
@@ -130,7 +130,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57351,
       "icon": "app",
       "prefix": "duo-icons",
@@ -151,7 +151,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57352,
       "icon": "app-dots",
       "prefix": "duo-icons",
@@ -172,7 +172,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57399,
       "icon": "dashboard",
       "prefix": "duo-icons",
@@ -193,7 +193,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57347,
       "icon": "alert-triangle",
       "prefix": "duo-icons",
@@ -214,7 +214,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57346,
       "icon": "alert-octagon",
       "prefix": "duo-icons",
@@ -235,7 +235,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57408,
       "icon": "info",
       "prefix": "duo-icons",
@@ -256,7 +256,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57380,
       "icon": "campground",
       "prefix": "duo-icons",
@@ -277,7 +277,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57401,
       "icon": "disk",
       "prefix": "duo-icons",
@@ -298,7 +298,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57359,
       "icon": "battery",
       "prefix": "duo-icons",
@@ -319,7 +319,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57390,
       "icon": "cloud-lightning",
       "prefix": "duo-icons",
@@ -340,7 +340,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57421,
       "icon": "settings",
       "prefix": "duo-icons",
@@ -361,7 +361,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57405,
       "icon": "folder-upload",
       "prefix": "duo-icons",
@@ -382,7 +382,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57345,
       "icon": "airplay",
       "prefix": "duo-icons",
@@ -403,7 +403,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57409,
       "icon": "lamp",
       "prefix": "duo-icons",
@@ -424,7 +424,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57368,
       "icon": "bread",
       "prefix": "duo-icons",
@@ -445,7 +445,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57391,
       "icon": "cloud-snow",
       "prefix": "duo-icons",
@@ -466,7 +466,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57400,
       "icon": "discount",
       "prefix": "duo-icons",
@@ -487,7 +487,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57360,
       "icon": "bell",
       "prefix": "duo-icons",
@@ -508,7 +508,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57369,
       "icon": "bridge",
       "prefix": "duo-icons",
@@ -529,7 +529,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57386,
       "icon": "chip",
       "prefix": "duo-icons",
@@ -550,7 +550,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57415,
       "icon": "message-2",
       "prefix": "duo-icons",
@@ -571,7 +571,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57424,
       "icon": "smartphone",
       "prefix": "duo-icons",
@@ -592,7 +592,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57422,
       "icon": "shopping-bag",
       "prefix": "duo-icons",
@@ -613,7 +613,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57393,
       "icon": "compass",
       "prefix": "duo-icons",
@@ -634,7 +634,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57353,
       "icon": "apple",
       "prefix": "duo-icons",
@@ -655,7 +655,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57354,
       "icon": "approved",
       "prefix": "duo-icons",
@@ -676,7 +676,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57398,
       "icon": "currency-euro",
       "prefix": "duo-icons",
@@ -697,7 +697,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57420,
       "icon": "rocket",
       "prefix": "duo-icons",
@@ -718,7 +718,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57428,
       "icon": "target",
       "prefix": "duo-icons",
@@ -739,7 +739,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57344,
       "icon": "add-circle",
       "prefix": "duo-icons",
@@ -760,7 +760,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57358,
       "icon": "bank",
       "prefix": "duo-icons",
@@ -781,7 +781,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57414,
       "icon": "message",
       "prefix": "duo-icons",
@@ -802,7 +802,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57423,
       "icon": "slideshow",
       "prefix": "duo-icons",
@@ -823,7 +823,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57403,
       "icon": "fire",
       "prefix": "duo-icons",
@@ -844,7 +844,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57378,
       "icon": "camera",
       "prefix": "duo-icons",
@@ -865,7 +865,7 @@
       "secondaryFont": "DuoIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57373,
       "icon": "bug",
       "prefix": "duo-icons",
@@ -886,38 +886,7 @@
       "secondaryFont": "DuoIconsSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "DuoIcons",
-      "headBbox": "0..959 / 0..959",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "duo-icons",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "DuoIconsSecondary",
-      "headBbox": "0..959 / 0..960",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "duo-icons",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "duo-icons",
   "ttfs": [
@@ -927,9 +896,9 @@
       "glyphCount": 91,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 959,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 959,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -940,7 +909,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -950,9 +919,9 @@
       "glyphCount": 91,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 959,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 960,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -963,7 +932,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

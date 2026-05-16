@@ -42,25 +42,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "MdiLight",
-      "headBbox": "-1..963 / -1..959",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 1,
-      "prefix": "mdi-light",
-      "reasons": [
-        "head.xMin=-1",
-        "head.yMin=-1",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "mdi-light",
   "ttfs": [
@@ -70,10 +52,10 @@
       "glyphCount": 304,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 963,
-        "xMin": -1,
-        "yMax": 959,
-        "yMin": -1
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -83,8 +65,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 1
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

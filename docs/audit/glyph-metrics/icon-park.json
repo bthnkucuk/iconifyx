@@ -120,28 +120,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "secondary-empty",
-      "codepoint": 59648,
-      "icon": "switch-button",
-      "prefix": "icon-park",
-      "primary": {
-        "xMax": 958,
-        "xMin": 0,
-        "yMax": 959,
-        "yMin": 0
-      },
-      "primaryFont": "IconPark",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "IconParkSecondary"
-    },
-    {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57587,
       "icon": "bird",
       "prefix": "icon-park",
@@ -162,7 +141,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57951,
       "icon": "damage-map",
       "prefix": "icon-park",
@@ -183,7 +162,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58065,
       "icon": "dolphin",
       "prefix": "icon-park",
@@ -204,7 +183,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59890,
       "icon": "video-one",
       "prefix": "icon-park",
@@ -225,7 +204,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57888,
       "icon": "contrast",
       "prefix": "icon-park",
@@ -246,7 +225,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59667,
       "icon": "tag-one",
       "prefix": "icon-park",
@@ -267,7 +246,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59462,
       "icon": "server",
       "prefix": "icon-park",
@@ -288,7 +267,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58111,
       "icon": "eagle",
       "prefix": "icon-park",
@@ -309,7 +288,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59945,
       "icon": "webcam",
       "prefix": "icon-park",
@@ -330,7 +309,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57926,
       "icon": "crown",
       "prefix": "icon-park",
@@ -351,7 +330,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58957,
       "icon": "more-three",
       "prefix": "icon-park",
@@ -372,7 +351,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58716,
       "icon": "keyhole",
       "prefix": "icon-park",
@@ -393,7 +372,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58993,
       "icon": "mute",
       "prefix": "icon-park",
@@ -414,7 +393,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58488,
       "icon": "gps",
       "prefix": "icon-park",
@@ -435,7 +414,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59237,
       "icon": "preview-open",
       "prefix": "icon-park",
@@ -456,7 +435,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59468,
       "icon": "setting-one",
       "prefix": "icon-park",
@@ -477,7 +456,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59464,
       "icon": "setting",
       "prefix": "icon-park",
@@ -498,7 +477,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59271,
       "icon": "radiation",
       "prefix": "icon-park",
@@ -519,7 +498,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59200,
       "icon": "play",
       "prefix": "icon-park",
@@ -540,7 +519,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59993,
       "icon": "youtobe",
       "prefix": "icon-park",
@@ -561,7 +540,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57590,
       "icon": "black-eight",
       "prefix": "icon-park",
@@ -582,7 +561,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59994,
       "icon": "youtube",
       "prefix": "icon-park",
@@ -603,7 +582,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59990,
       "icon": "xingfuli",
       "prefix": "icon-park",
@@ -624,7 +603,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58313,
       "icon": "financing",
       "prefix": "icon-park",
@@ -645,7 +624,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58368,
       "icon": "folder-focus",
       "prefix": "icon-park",
@@ -666,7 +645,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58208,
       "icon": "eyebrow",
       "prefix": "icon-park",
@@ -687,7 +666,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59080,
       "icon": "painted-eggshell",
       "prefix": "icon-park",
@@ -708,7 +687,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58538,
       "icon": "handle-left",
       "prefix": "icon-park",
@@ -729,7 +708,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57875,
       "icon": "config",
       "prefix": "icon-park",
@@ -750,7 +729,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59996,
       "icon": "zijinyunying",
       "prefix": "icon-park",
@@ -771,7 +750,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58155,
       "icon": "endocrine",
       "prefix": "icon-park",
@@ -792,7 +771,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58378,
       "icon": "folder-protection",
       "prefix": "icon-park",
@@ -813,7 +792,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59199,
       "icon": "platte",
       "prefix": "icon-park",
@@ -834,7 +813,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59470,
       "icon": "setting-two",
       "prefix": "icon-park",
@@ -855,7 +834,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58539,
       "icon": "handle-right",
       "prefix": "icon-park",
@@ -876,7 +855,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58380,
       "icon": "folder-quality",
       "prefix": "icon-park",
@@ -897,7 +876,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58647,
       "icon": "inclusive-gateway",
       "prefix": "icon-park",
@@ -918,7 +897,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59275,
       "icon": "radio-two",
       "prefix": "icon-park",
@@ -939,7 +918,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59205,
       "icon": "play-two",
       "prefix": "icon-park",
@@ -960,7 +939,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57695,
       "icon": "camera",
       "prefix": "icon-park",
@@ -981,7 +960,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57952,
       "icon": "dark-mode",
       "prefix": "icon-park",
@@ -1002,7 +981,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58243,
       "icon": "figma",
       "prefix": "icon-park",
@@ -1023,7 +1002,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57582,
       "icon": "bib",
       "prefix": "icon-park",
@@ -1044,7 +1023,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59900,
       "icon": "vigo",
       "prefix": "icon-park",
@@ -1065,7 +1044,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58537,
       "icon": "handle-down",
       "prefix": "icon-park",
@@ -1086,7 +1065,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58543,
       "icon": "handle-up",
       "prefix": "icon-park",
@@ -1107,7 +1086,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59989,
       "icon": "xigua",
       "prefix": "icon-park",
@@ -1128,7 +1107,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59597,
       "icon": "stamp",
       "prefix": "icon-park",
@@ -1149,7 +1128,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57750,
       "icon": "checkbox",
       "prefix": "icon-park",
@@ -1170,7 +1149,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59576,
       "icon": "speaker",
       "prefix": "icon-park",
@@ -1191,7 +1170,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57928,
       "icon": "crown-two",
       "prefix": "icon-park",
@@ -1212,7 +1191,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59525,
       "icon": "sketch",
       "prefix": "icon-park",
@@ -1233,7 +1212,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58818,
       "icon": "local-two",
       "prefix": "icon-park",
@@ -1254,7 +1233,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59302,
       "icon": "red-cross",
       "prefix": "icon-park",
@@ -1275,7 +1254,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57511,
       "icon": "avocado",
       "prefix": "icon-park",
@@ -1296,7 +1275,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57849,
       "icon": "collection-files",
       "prefix": "icon-park",
@@ -1317,7 +1296,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58231,
       "icon": "factory-building",
       "prefix": "icon-park",
@@ -1338,7 +1317,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59168,
       "icon": "phone-two",
       "prefix": "icon-park",
@@ -1359,7 +1338,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58916,
       "icon": "messages-one",
       "prefix": "icon-park",
@@ -1380,7 +1359,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59918,
       "icon": "vr-glasses",
       "prefix": "icon-park",
@@ -1401,7 +1380,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58227,
       "icon": "facetime",
       "prefix": "icon-park",
@@ -1422,7 +1401,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59807,
       "icon": "tumblr",
       "prefix": "icon-park",
@@ -1443,7 +1422,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59895,
       "icon": "view-grid-card",
       "prefix": "icon-park",
@@ -1464,7 +1443,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57461,
       "icon": "apple",
       "prefix": "icon-park",
@@ -1485,7 +1464,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59189,
       "icon": "pill",
       "prefix": "icon-park",
@@ -1506,7 +1485,7 @@
       "secondaryFont": "IconParkSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58450,
       "icon": "gavel",
       "prefix": "icon-park",
@@ -1527,43 +1506,7 @@
       "secondaryFont": "IconParkSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "IconPark",
-      "headBbox": "-9..1008 / -8..1006",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 8,
-      "prefix": "icon-park",
-      "reasons": [
-        "head.xMin=-9",
-        "head.xMax=1008",
-        "head.yMin=-8",
-        "head.yMax=1006",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=8"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "IconParkSecondary",
-      "headBbox": "0..1000 / 0..985",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "icon-park",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 1020,
@@ -1643,35 +1586,12 @@
     {
       "error": null,
       "font": "IconPark",
-      "glyphCount": 2658,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 1008,
-        "xMin": -9,
-        "yMax": 1006,
-        "yMin": -8
-      },
-      "hhea": {
-        "advanceWidthMax": 1020,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 8
-      }
-    },
-    {
-      "error": null,
-      "font": "IconParkSecondary",
-      "glyphCount": 80,
+      "glyphCount": 2656,
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
         "xMin": 0,
-        "yMax": 985,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -1682,7 +1602,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "IconParkSecondary",
+      "glyphCount": 79,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

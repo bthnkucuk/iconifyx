@@ -572,35 +572,260 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
+  "nonCanonical": [],
+  "outliers": [
     {
+      "codepoint": 57491,
+      "contentWidth": 99,
       "font": "Meteocons",
-      "headBbox": "0..1000 / 0..869",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
+      "name": "overcast-day-fill",
       "prefix": "meteocons",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57493,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57495,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57497,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57503,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57505,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57510,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57512,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57518,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57520,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57522,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57524,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57530,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57532,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57538,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57540,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57583,
+      "contentWidth": 71,
+      "font": "Meteocons",
+      "name": "pollen-tree",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57584,
+      "contentWidth": 80,
+      "font": "Meteocons",
+      "name": "pollen-tree-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57595,
+      "contentWidth": 22,
+      "font": "Meteocons",
+      "name": "rainbow-clear-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57596,
+      "contentWidth": 22,
+      "font": "Meteocons",
+      "name": "rainbow-clear-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57664,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57666,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57681,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57683,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57687,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57689,
+      "contentWidth": 99,
+      "font": "Meteocons",
+      "name": "overcast-day-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57749,
+      "contentWidth": 70,
+      "font": "Meteocons",
+      "name": "wind-beaufort-1",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57750,
+      "contentWidth": 70,
+      "font": "Meteocons",
+      "name": "wind-beaufort-1",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57775,
+      "contentWidth": 39,
+      "font": "Meteocons",
+      "name": "wind-offshore-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
+    },
+    {
+      "codepoint": 57777,
+      "contentWidth": 34,
+      "font": "Meteocons",
+      "name": "wind-onshore-fill",
+      "prefix": "meteocons",
+      "reason": "narrow"
     }
   ],
-  "outliers": [],
   "prefix": "meteocons",
   "ttfs": [
     {
       "error": null,
       "font": "Meteocons",
-      "glyphCount": 440,
+      "glyphCount": 282,
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
         "xMin": 0,
-        "yMax": 869,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -611,7 +836,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

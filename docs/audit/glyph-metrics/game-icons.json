@@ -32,27 +32,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "GameIcons",
-      "headBbox": "-38..1002 / -28..994",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 28,
-      "prefix": "game-icons",
-      "reasons": [
-        "head.xMin=-38",
-        "head.xMax=1002",
-        "head.yMin=-28",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=28"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "game-icons",
   "ttfs": [
@@ -62,10 +42,10 @@
       "glyphCount": 4061,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1002,
-        "xMin": -38,
-        "yMax": 994,
-        "yMin": -28
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -75,8 +55,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 28
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

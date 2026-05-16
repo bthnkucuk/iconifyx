@@ -1,7 +1,7 @@
 {
   "dedupCollisions": [
     {
-      "codepointCount": 49,
+      "codepointCount": 47,
       "font": "Openmoji",
       "glyphName": "alabama-flag",
       "prefix": "openmoji",
@@ -39,18 +39,6 @@
     {
       "codepointCount": 20,
       "font": "Openmoji",
-      "glyphName": "angry-face",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "angry-face",
-        "annoyed-face-with-tongue",
-        "confounded-face",
-        "confused-face"
-      ]
-    },
-    {
-      "codepointCount": 20,
-      "font": "Openmoji",
       "glyphName": "blue-square",
       "prefix": "openmoji",
       "sampleIcons": [
@@ -58,6 +46,18 @@
         "combining-enclosing-keycap",
         "green-square",
         "japanese-discount-button"
+      ]
+    },
+    {
+      "codepointCount": 18,
+      "font": "Openmoji",
+      "glyphName": "angry-face",
+      "prefix": "openmoji",
+      "sampleIcons": [
+        "angry-face",
+        "annoyed-face-with-tongue",
+        "confounded-face",
+        "confused-face"
       ]
     },
     {
@@ -70,18 +70,6 @@
         "purple-circle",
         "red-circle",
         "rounded-symbol-for-cai"
-      ]
-    },
-    {
-      "codepointCount": 8,
-      "font": "Openmoji",
-      "glyphName": "man-with-probing-cane",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-with-probing-cane",
-        "man-with-probing-cane-light-skin-tone",
-        "man-with-white-cane",
-        "man-with-white-cane-light-skin-tone"
       ]
     },
     {
@@ -178,18 +166,6 @@
         "green-heart",
         "white-heart",
         "yellow-heart"
-      ]
-    },
-    {
-      "codepointCount": 4,
-      "font": "Openmoji",
-      "glyphName": "bride-with-veil",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "bride-with-veil",
-        "bride-with-veil-light-skin-tone",
-        "person-with-veil",
-        "person-with-veil-light-skin-tone"
       ]
     },
     {
@@ -687,18 +663,6 @@
     {
       "codepointCount": 4,
       "font": "Openmoji",
-      "glyphName": "man-in-suit-levitating",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-in-suit-levitating",
-        "man-in-suit-levitating-light-skin-tone",
-        "person-in-suit-levitating",
-        "person-in-suit-levitating-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 4,
-      "font": "Openmoji",
       "glyphName": "man-kneeling",
       "prefix": "openmoji",
       "sampleIcons": [
@@ -843,73 +807,13 @@
     {
       "codepointCount": 4,
       "font": "Openmoji",
-      "glyphName": "man-with-probing-cane-dark-skin-tone",
+      "glyphName": "man-with-white-cane",
       "prefix": "openmoji",
       "sampleIcons": [
-        "man-with-probing-cane-dark-skin-tone",
-        "man-with-white-cane-dark-skin-tone",
-        "person-with-probing-cane-dark-skin-tone",
-        "person-with-white-cane-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 4,
-      "font": "Openmoji",
-      "glyphName": "man-with-probing-cane-medium-dark-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-with-probing-cane-medium-dark-skin-tone",
-        "man-with-white-cane-medium-dark-skin-tone",
-        "person-with-probing-cane-medium-dark-skin-tone",
-        "person-with-white-cane-medium-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 4,
-      "font": "Openmoji",
-      "glyphName": "man-with-probing-cane-medium-light-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-with-probing-cane-medium-light-skin-tone",
-        "man-with-white-cane-medium-light-skin-tone",
-        "person-with-probing-cane-medium-light-skin-tone",
-        "person-with-white-cane-medium-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 4,
-      "font": "Openmoji",
-      "glyphName": "man-with-probing-cane-medium-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-with-probing-cane-medium-skin-tone",
-        "man-with-white-cane-medium-skin-tone",
-        "person-with-probing-cane-medium-skin-tone",
-        "person-with-white-cane-medium-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 4,
-      "font": "Openmoji",
-      "glyphName": "man-with-skullcap",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-with-skullcap",
-        "man-with-skullcap-light-skin-tone",
-        "person-with-skullcap",
-        "person-with-skullcap-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 4,
-      "font": "Openmoji",
-      "glyphName": "man-with-skullcap-dark-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-with-skullcap-dark-skin-tone",
-        "man-with-skullcap-medium-dark-skin-tone",
-        "person-with-skullcap-dark-skin-tone",
-        "person-with-skullcap-medium-dark-skin-tone"
+        "person-with-probing-cane",
+        "person-with-probing-cane-light-skin-tone",
+        "person-with-white-cane",
+        "person-with-white-cane-light-skin-tone"
       ]
     },
     {
@@ -1059,18 +963,6 @@
     {
       "codepointCount": 4,
       "font": "Openmoji",
-      "glyphName": "woman-with-probing-cane",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "woman-with-probing-cane",
-        "woman-with-probing-cane-light-skin-tone",
-        "woman-with-white-cane",
-        "woman-with-white-cane-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 4,
-      "font": "Openmoji",
       "glyphName": "women-with-bunny-ears-dark-skin-tone",
       "prefix": "openmoji",
       "sampleIcons": [
@@ -1105,17 +997,6 @@
     {
       "codepointCount": 3,
       "font": "Openmoji",
-      "glyphName": "flag-ceuta-and-melilla",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "flag-ceuta-and-melilla",
-        "flag-ceuta-melilla",
-        "flag-spain"
-      ]
-    },
-    {
-      "codepointCount": 3,
-      "font": "Openmoji",
       "glyphName": "flag-cote-divoire",
       "prefix": "openmoji",
       "sampleIcons": [
@@ -1138,34 +1019,12 @@
     {
       "codepointCount": 3,
       "font": "Openmoji",
-      "glyphName": "flag-norway",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "flag-norway",
-        "flag-svalbard-and-jan-mayen",
-        "flag-svalbard-jan-mayen"
-      ]
-    },
-    {
-      "codepointCount": 3,
-      "font": "Openmoji",
       "glyphName": "grey-heart",
       "prefix": "openmoji",
       "sampleIcons": [
         "grey-heart",
         "light-blue-heart",
         "pink-heart"
-      ]
-    },
-    {
-      "codepointCount": 3,
-      "font": "Openmoji",
-      "glyphName": "hyphen-minus",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "hyphen-minus",
-        "minus",
-        "minus-sign"
       ]
     },
     {
@@ -1199,16 +1058,6 @@
         "raising-hands",
         "raising-hands-dark-skin-tone",
         "raising-hands-medium-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "anatomical-heart",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "anatomical-heart",
-        "heart"
       ]
     },
     {
@@ -1334,16 +1183,6 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "autonom-car",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "autonom-car",
-        "autonomous-car"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
       "glyphName": "axe",
       "prefix": "openmoji",
       "sampleIcons": [
@@ -1429,56 +1268,6 @@
       "sampleIcons": [
         "breast-feeding",
         "breast-feeding-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "bride-with-veil-dark-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "bride-with-veil-dark-skin-tone",
-        "person-with-veil-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "bride-with-veil-medium-dark-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "bride-with-veil-medium-dark-skin-tone",
-        "person-with-veil-medium-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "bride-with-veil-medium-light-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "bride-with-veil-medium-light-skin-tone",
-        "person-with-veil-medium-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "bride-with-veil-medium-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "bride-with-veil-medium-skin-tone",
-        "person-with-veil-medium-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "bullseye",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "bullseye",
-        "direct-hit"
       ]
     },
     {
@@ -1814,16 +1603,6 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "divide",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "divide",
-        "division-sign"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
       "glyphName": "dj",
       "prefix": "openmoji",
       "sampleIcons": [
@@ -1839,16 +1618,6 @@
       "sampleIcons": [
         "elevator",
         "elevator2"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "exclamation-mark",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "exclamation-mark",
-        "red-exclamation-mark"
       ]
     },
     {
@@ -1914,11 +1683,11 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "flag-antigua-and-barbuda",
+      "glyphName": "flag-ceuta-and-melilla",
       "prefix": "openmoji",
       "sampleIcons": [
-        "flag-antigua-and-barbuda",
-        "flag-antigua-barbuda"
+        "flag-ceuta-melilla",
+        "flag-spain"
       ]
     },
     {
@@ -1929,6 +1698,16 @@
       "sampleIcons": [
         "flag-indonesia",
         "flag-monaco"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Openmoji",
+      "glyphName": "flag-norway",
+      "prefix": "openmoji",
+      "sampleIcons": [
+        "flag-norway",
+        "flag-svalbard-jan-mayen"
       ]
     },
     {
@@ -1949,66 +1728,6 @@
       "sampleIcons": [
         "flag-st-barthelemy",
         "flag-st-barthlemy"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "flag-st-kitts-and-nevis",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "flag-st-kitts-and-nevis",
-        "flag-st-kitts-nevis"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "flag-st-pierre-and-miquelon",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "flag-st-pierre-and-miquelon",
-        "flag-st-pierre-miquelon"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "flag-st-vincent-and-grenadines",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "flag-st-vincent-and-grenadines",
-        "flag-st-vincent-grenadines"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "flag-trinidad-and-tobago",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "flag-trinidad-and-tobago",
-        "flag-trinidad-tobago"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "flag-turkey",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "flag-turkey",
-        "flag-turkiye"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "flag-wallis-and-futuna",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "flag-wallis-and-futuna",
-        "flag-wallis-futuna"
       ]
     },
     {
@@ -2154,21 +1873,11 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "hugging-face",
+      "glyphName": "hyphen-minus",
       "prefix": "openmoji",
       "sampleIcons": [
-        "hugging-face",
-        "smiling-face-with-open-hands"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "ice-bear",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "ice-bear",
-        "polar-bear"
+        "hyphen-minus",
+        "minus-sign"
       ]
     },
     {
@@ -2499,26 +2208,6 @@
       "sampleIcons": [
         "leg",
         "leg-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "link",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "link",
-        "link2"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "lung",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "lung",
-        "lungs"
       ]
     },
     {
@@ -2859,46 +2548,6 @@
       "sampleIcons": [
         "man-in-motorized-wheelchair-medium-skin-tone-facing-right",
         "person-in-motorized-wheelchair-medium-skin-tone-facing-right"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "man-in-suit-levitating-dark-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-in-suit-levitating-dark-skin-tone",
-        "person-in-suit-levitating-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "man-in-suit-levitating-medium-dark-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-in-suit-levitating-medium-dark-skin-tone",
-        "person-in-suit-levitating-medium-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "man-in-suit-levitating-medium-light-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-in-suit-levitating-medium-light-skin-tone",
-        "person-in-suit-levitating-medium-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "man-in-suit-levitating-medium-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-in-suit-levitating-medium-skin-tone",
-        "person-in-suit-levitating-medium-skin-tone"
       ]
     },
     {
@@ -3494,21 +3143,11 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "man-with-skullcap-medium-light-skin-tone",
+      "glyphName": "man-with-white-cane-dark-skin-tone",
       "prefix": "openmoji",
       "sampleIcons": [
-        "man-with-skullcap-medium-light-skin-tone",
-        "person-with-skullcap-medium-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "man-with-skullcap-medium-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "man-with-skullcap-medium-skin-tone",
-        "person-with-skullcap-medium-skin-tone"
+        "person-with-probing-cane-dark-skin-tone",
+        "person-with-white-cane-dark-skin-tone"
       ]
     },
     {
@@ -3524,6 +3163,16 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
+      "glyphName": "man-with-white-cane-medium-dark-skin-tone",
+      "prefix": "openmoji",
+      "sampleIcons": [
+        "person-with-probing-cane-medium-dark-skin-tone",
+        "person-with-white-cane-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Openmoji",
       "glyphName": "man-with-white-cane-medium-dark-skin-tone-facing-right",
       "prefix": "openmoji",
       "sampleIcons": [
@@ -3534,11 +3183,31 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
+      "glyphName": "man-with-white-cane-medium-light-skin-tone",
+      "prefix": "openmoji",
+      "sampleIcons": [
+        "person-with-probing-cane-medium-light-skin-tone",
+        "person-with-white-cane-medium-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Openmoji",
       "glyphName": "man-with-white-cane-medium-light-skin-tone-facing-right",
       "prefix": "openmoji",
       "sampleIcons": [
         "man-with-white-cane-medium-light-skin-tone-facing-right",
         "person-with-white-cane-medium-light-skin-tone-facing-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Openmoji",
+      "glyphName": "man-with-white-cane-medium-skin-tone",
+      "prefix": "openmoji",
+      "sampleIcons": [
+        "person-with-probing-cane-medium-skin-tone",
+        "person-with-white-cane-medium-skin-tone"
       ]
     },
     {
@@ -3699,16 +3368,6 @@
       "sampleIcons": [
         "mrs-claus-dark-skin-tone",
         "mrs-claus-medium-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "multiplication-sign",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "multiplication-sign",
-        "multiply"
       ]
     },
     {
@@ -3904,16 +3563,6 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "people-hugging",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "people-hugging",
-        "persons-hugging"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
       "glyphName": "people-with-bunny-ears-dark-skin-tone",
       "prefix": "openmoji",
       "sampleIcons": [
@@ -4039,6 +3688,16 @@
       "sampleIcons": [
         "person-in-lotus-position",
         "person-in-lotus-position-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Openmoji",
+      "glyphName": "person-in-suit-levitating",
+      "prefix": "openmoji",
+      "sampleIcons": [
+        "person-in-suit-levitating",
+        "person-in-suit-levitating-light-skin-tone"
       ]
     },
     {
@@ -4194,21 +3853,41 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "pinching-hand",
+      "glyphName": "person-with-skullcap",
       "prefix": "openmoji",
       "sampleIcons": [
-        "pinching-hand",
-        "pinching-hand-light-skin-tone"
+        "person-with-skullcap",
+        "person-with-skullcap-light-skin-tone"
       ]
     },
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "plus",
+      "glyphName": "person-with-skullcap-dark-skin-tone",
       "prefix": "openmoji",
       "sampleIcons": [
-        "plus",
-        "plus-sign"
+        "person-with-skullcap-dark-skin-tone",
+        "person-with-skullcap-medium-dark-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Openmoji",
+      "glyphName": "person-with-veil",
+      "prefix": "openmoji",
+      "sampleIcons": [
+        "person-with-veil",
+        "person-with-veil-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Openmoji",
+      "glyphName": "pinching-hand",
+      "prefix": "openmoji",
+      "sampleIcons": [
+        "pinching-hand",
+        "pinching-hand-light-skin-tone"
       ]
     },
     {
@@ -4264,41 +3943,11 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "probing-cane",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "probing-cane",
-        "white-cane"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "question-mark",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "question-mark",
-        "red-question-mark"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
       "glyphName": "raised-hand-light-skin-tone",
       "prefix": "openmoji",
       "sampleIcons": [
         "raised-hand-light-skin-tone",
         "raised-hand-medium-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "return",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "return",
-        "return-back-button"
       ]
     },
     {
@@ -4439,16 +4088,6 @@
       "sampleIcons": [
         "supervillain-dark-skin-tone",
         "supervillain-medium-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "surveilance",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "surveilance",
-        "surveillance"
       ]
     },
     {
@@ -5254,51 +4893,21 @@
     {
       "codepointCount": 2,
       "font": "Openmoji",
-      "glyphName": "woman-with-probing-cane-dark-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "woman-with-probing-cane-dark-skin-tone",
-        "woman-with-white-cane-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "woman-with-probing-cane-medium-dark-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "woman-with-probing-cane-medium-dark-skin-tone",
-        "woman-with-white-cane-medium-dark-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "woman-with-probing-cane-medium-light-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "woman-with-probing-cane-medium-light-skin-tone",
-        "woman-with-white-cane-medium-light-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
-      "glyphName": "woman-with-probing-cane-medium-skin-tone",
-      "prefix": "openmoji",
-      "sampleIcons": [
-        "woman-with-probing-cane-medium-skin-tone",
-        "woman-with-white-cane-medium-skin-tone"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Openmoji",
       "glyphName": "woman-with-veil",
       "prefix": "openmoji",
       "sampleIcons": [
         "woman-with-veil",
         "woman-with-veil-light-skin-tone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Openmoji",
+      "glyphName": "woman-with-white-cane",
+      "prefix": "openmoji",
+      "sampleIcons": [
+        "woman-with-white-cane",
+        "woman-with-white-cane-light-skin-tone"
       ]
     },
     {
@@ -5412,52 +5021,93 @@
       ]
     }
   ],
-  "duotoneMismatches": [],
-  "nonCanonical": [
+  "duotoneMismatches": [
     {
-      "font": "Openmoji",
-      "headBbox": "-1..1000 / 0..997",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
+      "cause": "asymmetric",
+      "codepoint": 57509,
+      "icon": "black-chess-king",
       "prefix": "openmoji",
-      "reasons": [
-        "head.xMin=-1",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
+      "primary": {
+        "xMax": 807,
+        "xMin": 192,
+        "yMax": 855,
+        "yMin": 145
+      },
+      "primaryFont": "Openmoji",
+      "score": 469,
+      "secondary": {
+        "xMax": 573,
+        "xMin": 427,
+        "yMax": 734,
+        "yMin": 589
+      },
+      "secondaryFont": "OpenmojiSecondary"
     },
     {
-      "font": "OpenmojiSecondary",
-      "headBbox": "0..639 / 0..542",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
+      "cause": "asymmetric",
+      "codepoint": 60163,
+      "icon": "pomegranate",
       "prefix": "openmoji",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
+      "primary": {
+        "xMax": 859,
+        "xMin": 140,
+        "yMax": 889,
+        "yMin": 112
+      },
+      "primaryFont": "Openmoji",
+      "score": 353,
+      "secondary": {
+        "xMax": 859,
+        "xMin": 493,
+        "yMax": 855,
+        "yMin": 118
+      },
+      "secondaryFont": "OpenmojiSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 59536,
+      "icon": "new-moon-face",
+      "prefix": "openmoji",
+      "primary": {
+        "xMax": 903,
+        "xMin": 97,
+        "yMax": 904,
+        "yMin": 97
+      },
+      "primaryFont": "Openmoji",
+      "score": 263,
+      "secondary": {
+        "xMax": 891,
+        "xMin": 348,
+        "yMax": 863,
+        "yMin": 107
+      },
+      "secondaryFont": "OpenmojiSecondary"
     }
   ],
-  "outliers": [],
+  "nonCanonical": [],
+  "outliers": [
+    {
+      "codepoint": 60182,
+      "contentWidth": 28,
+      "font": "Openmoji",
+      "name": "power-on-symbol",
+      "prefix": "openmoji",
+      "reason": "narrow"
+    }
+  ],
   "prefix": "openmoji",
   "ttfs": [
     {
       "error": null,
       "font": "Openmoji",
-      "glyphCount": 4049,
+      "glyphCount": 3979,
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
-        "xMin": -1,
-        "yMax": 997,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -5468,19 +5118,19 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
     {
       "error": null,
       "font": "OpenmojiSecondary",
-      "glyphCount": 1,
+      "glyphCount": 5,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 639,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 542,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -5491,7 +5141,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

@@ -1,28 +1,7 @@
 {
   "dedupCollisions": [],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "RivetIcons",
-      "headBbox": "-10..1011 / -13..1013",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 13,
-      "prefix": "rivet-icons",
-      "reasons": [
-        "head.xMin=-10",
-        "head.xMax=1011",
-        "head.yMin=-13",
-        "head.yMax=1013",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=13"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "rivet-icons",
   "ttfs": [
@@ -32,10 +11,10 @@
       "glyphCount": 210,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1011,
-        "xMin": -10,
-        "yMax": 1013,
-        "yMin": -13
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -45,8 +24,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 13
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

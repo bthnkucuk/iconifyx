@@ -1,0 +1,106 @@
+{
+  "iconRef": "cryptocurrency-color:ngc",
+  "prefix": "cryptocurrency-color",
+  "iconName": "ngc",
+  "packageName": "iconifyx_cryptocurrency_color",
+  "duotone": true,
+  "duotoneKind": "paintOrder",
+  "primary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_cryptocurrency_color/assets/fonts/CryptocurrencyColor.ttf",
+    "codepoint": "0xe118",
+    "glyphName": "aave",
+    "advance": 1000,
+    "lsb": 0,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 1,
+      "yMin": 1,
+      "xMax": 999,
+      "yMax": 999.5,
+      "width": 998,
+      "height": 998.5,
+      "cx": 500,
+      "cy": 500.25
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "secondary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_cryptocurrency_color/assets/fonts/CryptocurrencyColorSecondary.ttf",
+    "codepoint": "0xe118",
+    "glyphName": "ngc",
+    "advance": 1000,
+    "lsb": 0,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 390,
+      "yMin": 194.0625,
+      "xMax": 639.5023923444976,
+      "yMax": 812,
+      "width": 249.5023923444976,
+      "height": 617.9375,
+      "cx": 514.7511961722488,
+      "cy": 503.03125
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "files": {
+    "upstreamSvg": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/cryptocurrency-color__ngc/upstream.svg",
+    "upstreamPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/cryptocurrency-color__ngc/upstream.png",
+    "primaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/cryptocurrency-color__ngc/glyph-primary.png",
+    "secondaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/cryptocurrency-color__ngc/glyph-secondary.png",
+    "ttfComposedPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/cryptocurrency-color__ngc/ttf-composed.png",
+    "flutterPng": null,
+    "diffSvgVsFlutter": null,
+    "diffSvgVsTtf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/cryptocurrency-color__ngc/diff-svg-vs-ttf.png",
+    "diffTtfVsFlutter": null
+  },
+  "diffs": {
+    "svgVsTtf": {
+      "width": 256,
+      "height": 256,
+      "mismatchPixels": 46504,
+      "totalPixels": 65536,
+      "mismatchPct": 0.7095947265625,
+      "inkA": 0.715118408203125,
+      "inkB": 0.7200775146484375,
+      "cxA": 127.34709597576068,
+      "cyA": 127.76035932232323,
+      "cxB": 127.36197580047043,
+      "cyB": 127.83564662753491,
+      "cxDriftPx": 0.014879824709751688,
+      "cyDriftPx": 0.07528730521168825,
+      "dHashA": "1040808404848840",
+      "dHashB": "1040808404848840",
+      "hamming": 0,
+      "ssim": 0.3131364783077158
+    },
+    "ttfVsFlutter": null,
+    "svgVsFlutter": null
+  },
+  "legacyDiff": null,
+  "verdict": {
+    "status": "same",
+    "primaryReason": "OK_3WAY",
+    "confidence": "medium",
+    "problem": "—",
+    "remediation": "—"
+  },
+  "fontTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_cryptocurrency_color/assets/fonts/CryptocurrencyColor.ttf",
+  "secondaryTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_cryptocurrency_color/assets/fonts/CryptocurrencyColorSecondary.ttf",
+  "timings": {
+    "upstream": 180,
+    "primaryGlyph": 68,
+    "secondaryGlyph": 65,
+    "ttfCompose": 14,
+    "diffSvgVsTtf": 17,
+    "total": 348
+  }
+}

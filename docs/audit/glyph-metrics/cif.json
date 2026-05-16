@@ -110,7 +110,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57491,
       "icon": "qa",
       "prefix": "cif",
@@ -131,7 +131,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57521,
       "icon": "to",
       "prefix": "cif",
@@ -152,7 +152,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57381,
       "icon": "cn",
       "prefix": "cif",
@@ -173,7 +173,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57473,
       "icon": "ng",
       "prefix": "cif",
@@ -194,7 +194,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57489,
       "icon": "pw",
       "prefix": "cif",
@@ -215,7 +215,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57441,
       "icon": "kz",
       "prefix": "cif",
@@ -236,7 +236,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57453,
       "icon": "ma",
       "prefix": "cif",
@@ -257,7 +257,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57357,
       "icon": "bd",
       "prefix": "cif",
@@ -278,7 +278,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57536,
       "icon": "vn",
       "prefix": "cif",
@@ -299,7 +299,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57402,
       "icon": "fm",
       "prefix": "cif",
@@ -320,7 +320,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57522,
       "icon": "tr",
       "prefix": "cif",
@@ -341,7 +341,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57507,
       "icon": "so",
       "prefix": "cif",
@@ -362,7 +362,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57520,
       "icon": "tn",
       "prefix": "cif",
@@ -383,7 +383,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57483,
       "icon": "pe",
       "prefix": "cif",
@@ -404,7 +404,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57372,
       "icon": "ca",
       "prefix": "cif",
@@ -425,7 +425,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57416,
       "icon": "hk",
       "prefix": "cif",
@@ -446,7 +446,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57431,
       "icon": "jp",
       "prefix": "cif",
@@ -467,7 +467,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57348,
       "icon": "al",
       "prefix": "cif",
@@ -488,7 +488,7 @@
       "secondaryFont": "CifSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57496,
       "icon": "sa",
       "prefix": "cif",
@@ -509,43 +509,7 @@
       "secondaryFont": "CifSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Cif",
-      "headBbox": "0..2526 / -2..1001",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 2,
-      "prefix": "cif",
-      "reasons": [
-        "head.xMax=2526",
-        "head.yMin=-2",
-        "head.yMax=1001",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=2"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "CifSecondary",
-      "headBbox": "0..1991 / 0..1000",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "cif",
-      "reasons": [
-        "head.xMax=1991",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 1428,
@@ -4036,21 +4000,21 @@
       "glyphCount": 199,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 2526,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 1001,
-        "yMin": -2
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 2529,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 2
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     },
     {
@@ -4059,20 +4023,20 @@
       "glyphCount": 35,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1991,
+        "xMax": 1000,
         "xMin": 0,
         "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 2529,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

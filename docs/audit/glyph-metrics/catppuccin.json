@@ -1219,7 +1219,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57854,
       "icon": "playwright",
       "prefix": "catppuccin",
@@ -1240,7 +1240,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57945,
       "icon": "symlink",
       "prefix": "catppuccin",
@@ -1261,7 +1261,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57750,
       "icon": "javascript-map",
       "prefix": "catppuccin",
@@ -1282,7 +1282,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57956,
       "icon": "twine",
       "prefix": "catppuccin",
@@ -1303,7 +1303,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57406,
       "icon": "commitlint",
       "prefix": "catppuccin",
@@ -1324,7 +1324,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57944,
       "icon": "swiftformat",
       "prefix": "catppuccin",
@@ -1345,7 +1345,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57791,
       "icon": "makefile",
       "prefix": "catppuccin",
@@ -1366,7 +1366,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57849,
       "icon": "phrase",
       "prefix": "catppuccin",
@@ -1387,7 +1387,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57796,
       "icon": "matlab",
       "prefix": "catppuccin",
@@ -1408,7 +1408,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57820,
       "icon": "netlify",
       "prefix": "catppuccin",
@@ -1429,7 +1429,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57768,
       "icon": "latte",
       "prefix": "catppuccin",
@@ -1450,7 +1450,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57959,
       "icon": "typescript-def",
       "prefix": "catppuccin",
@@ -1471,7 +1471,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57778,
       "icon": "lua",
       "prefix": "catppuccin",
@@ -1492,7 +1492,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57880,
       "icon": "rdata",
       "prefix": "catppuccin",
@@ -1513,7 +1513,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57941,
       "icon": "svelte-config",
       "prefix": "catppuccin",
@@ -1534,7 +1534,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57955,
       "icon": "twig",
       "prefix": "catppuccin",
@@ -1555,7 +1555,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57901,
       "icon": "ruby-gem-lock",
       "prefix": "catppuccin",
@@ -1576,7 +1576,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57392,
       "icon": "caddy",
       "prefix": "catppuccin",
@@ -1597,7 +1597,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57809,
       "icon": "msbuild",
       "prefix": "catppuccin",
@@ -1618,7 +1618,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57454,
       "icon": "eslint",
       "prefix": "catppuccin",
@@ -1639,7 +1639,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57701,
       "icon": "git",
       "prefix": "catppuccin",
@@ -1660,7 +1660,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57396,
       "icon": "certificate",
       "prefix": "catppuccin",
@@ -1681,7 +1681,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57749,
       "icon": "javascript-config",
       "prefix": "catppuccin",
@@ -1702,7 +1702,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57416,
       "icon": "css3",
       "prefix": "catppuccin",
@@ -1723,7 +1723,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57878,
       "icon": "racket",
       "prefix": "catppuccin",
@@ -1744,7 +1744,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57726,
       "icon": "html",
       "prefix": "catppuccin",
@@ -1765,7 +1765,7 @@
       "secondaryFont": "CatppuccinSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57729,
       "icon": "hugo",
       "prefix": "catppuccin",
@@ -1786,48 +1786,7 @@
       "secondaryFont": "CatppuccinSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Catppuccin",
-      "headBbox": "-10..1009 / -10..1007",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 10,
-      "prefix": "catppuccin",
-      "reasons": [
-        "head.xMin=-10",
-        "head.xMax=1009",
-        "head.yMin=-10",
-        "head.yMax=1007",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=10"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "CatppuccinSecondary",
-      "headBbox": "-4..1009 / -11..1007",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 11,
-      "prefix": "catppuccin",
-      "reasons": [
-        "head.xMin=-4",
-        "head.xMax=1009",
-        "head.yMin=-11",
-        "head.yMax=1007",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=11"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 941,
@@ -1854,10 +1813,10 @@
       "glyphCount": 660,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1009,
-        "xMin": -10,
-        "yMax": 1007,
-        "yMin": -10
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -1867,8 +1826,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 10
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     },
     {
@@ -1877,10 +1836,10 @@
       "glyphCount": 264,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1009,
-        "xMin": -4,
-        "yMax": 1007,
-        "yMin": -11
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -1890,8 +1849,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 11
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

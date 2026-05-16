@@ -177,7 +177,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57489,
       "icon": "head-side-cough",
       "prefix": "uim",
@@ -198,7 +198,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57403,
       "icon": "border-left",
       "prefix": "uim",
@@ -219,7 +219,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57486,
       "icon": "grids",
       "prefix": "uim",
@@ -240,7 +240,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57479,
       "icon": "google",
       "prefix": "uim",
@@ -261,7 +261,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57519,
       "icon": "line-spacing",
       "prefix": "uim",
@@ -282,7 +282,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57630,
       "icon": "web-section-alt",
       "prefix": "uim",
@@ -303,7 +303,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57632,
       "icon": "window-grid",
       "prefix": "uim",
@@ -324,7 +324,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57454,
       "icon": "document-layout-left",
       "prefix": "uim",
@@ -345,7 +345,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57517,
       "icon": "left-indent-alt",
       "prefix": "uim",
@@ -366,7 +366,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57533,
       "icon": "microscope",
       "prefix": "uim",
@@ -387,7 +387,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57559,
       "icon": "right-indent-alt",
       "prefix": "uim",
@@ -408,7 +408,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57604,
       "icon": "toggle-off",
       "prefix": "uim",
@@ -429,7 +429,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57474,
       "icon": "flip-v-alt",
       "prefix": "uim",
@@ -450,7 +450,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57606,
       "icon": "toilet-paper",
       "prefix": "uim",
@@ -471,7 +471,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57375,
       "icon": "apps",
       "prefix": "uim",
@@ -492,7 +492,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57428,
       "icon": "columns",
       "prefix": "uim",
@@ -513,7 +513,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57579,
       "icon": "slack-alt",
       "prefix": "uim",
@@ -534,7 +534,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57578,
       "icon": "slack",
       "prefix": "uim",
@@ -555,7 +555,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57418,
       "icon": "circle-layer",
       "prefix": "uim",
@@ -576,7 +576,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57464,
       "icon": "exclamation-triangle",
       "prefix": "uim",
@@ -597,7 +597,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57509,
       "icon": "key-skeleton",
       "prefix": "uim",
@@ -618,7 +618,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57510,
       "icon": "key-skeleton-alt",
       "prefix": "uim",
@@ -639,7 +639,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57591,
       "icon": "star-half-alt",
       "prefix": "uim",
@@ -660,7 +660,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57480,
       "icon": "google-drive",
       "prefix": "uim",
@@ -681,7 +681,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57515,
       "icon": "layers-alt",
       "prefix": "uim",
@@ -702,7 +702,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57421,
       "icon": "clock-eight",
       "prefix": "uim",
@@ -723,7 +723,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57423,
       "icon": "clock-nine",
       "prefix": "uim",
@@ -744,7 +744,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57424,
       "icon": "clock-seven",
       "prefix": "uim",
@@ -765,7 +765,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57425,
       "icon": "clock-ten",
       "prefix": "uim",
@@ -786,7 +786,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57462,
       "icon": "exclamation-circle",
       "prefix": "uim",
@@ -807,7 +807,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57463,
       "icon": "exclamation-octagon",
       "prefix": "uim",
@@ -828,7 +828,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57473,
       "icon": "flip-v",
       "prefix": "uim",
@@ -849,7 +849,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57597,
       "icon": "sync-exclamation",
       "prefix": "uim",
@@ -870,7 +870,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57484,
       "icon": "graph-bar",
       "prefix": "uim",
@@ -891,7 +891,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57573,
       "icon": "signal-alt-3",
       "prefix": "uim",
@@ -912,7 +912,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57387,
       "icon": "battery-bolt",
       "prefix": "uim",
@@ -933,7 +933,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57407,
       "icon": "border-vertical",
       "prefix": "uim",
@@ -954,7 +954,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57495,
       "icon": "hospital",
       "prefix": "uim",
@@ -975,7 +975,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57511,
       "icon": "keyhole-circle",
       "prefix": "uim",
@@ -996,7 +996,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57512,
       "icon": "keyhole-square",
       "prefix": "uim",
@@ -1017,7 +1017,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57513,
       "icon": "keyhole-square-full",
       "prefix": "uim",
@@ -1038,7 +1038,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57422,
       "icon": "clock-five",
       "prefix": "uim",
@@ -1059,7 +1059,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57419,
       "icon": "clinic-medical",
       "prefix": "uim",
@@ -1080,7 +1080,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57557,
       "icon": "refresh",
       "prefix": "uim",
@@ -1101,7 +1101,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57555,
       "icon": "reddit-alien-alt",
       "prefix": "uim",
@@ -1122,7 +1122,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57531,
       "icon": "master-card",
       "prefix": "uim",
@@ -1143,7 +1143,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57577,
       "icon": "skype-alt",
       "prefix": "uim",
@@ -1164,7 +1164,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57452,
       "icon": "docker",
       "prefix": "uim",
@@ -1185,7 +1185,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57420,
       "icon": "clock",
       "prefix": "uim",
@@ -1206,7 +1206,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57427,
       "icon": "clock-two",
       "prefix": "uim",
@@ -1227,7 +1227,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57610,
       "icon": "tumblr-square",
       "prefix": "uim",
@@ -1248,7 +1248,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57571,
       "icon": "sign-out-alt",
       "prefix": "uim",
@@ -1269,7 +1269,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57362,
       "icon": "android",
       "prefix": "uim",
@@ -1290,7 +1290,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57426,
       "icon": "clock-three",
       "prefix": "uim",
@@ -1311,7 +1311,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57433,
       "icon": "comment-alt-plus",
       "prefix": "uim",
@@ -1332,7 +1332,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57436,
       "icon": "comment-plus",
       "prefix": "uim",
@@ -1353,7 +1353,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57453,
       "icon": "document-layout-center",
       "prefix": "uim",
@@ -1374,7 +1374,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57494,
       "icon": "horizontal-align-left",
       "prefix": "uim",
@@ -1395,7 +1395,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57496,
       "icon": "hospital-square-sign",
       "prefix": "uim",
@@ -1416,7 +1416,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57497,
       "icon": "hospital-symbol",
       "prefix": "uim",
@@ -1437,7 +1437,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57520,
       "icon": "link-h",
       "prefix": "uim",
@@ -1458,7 +1458,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57558,
       "icon": "repeat",
       "prefix": "uim",
@@ -1479,7 +1479,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57627,
       "icon": "web-grid",
       "prefix": "uim",
@@ -1500,7 +1500,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57629,
       "icon": "web-section",
       "prefix": "uim",
@@ -1521,7 +1521,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57392,
       "icon": "bitcoin",
       "prefix": "uim",
@@ -1542,7 +1542,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57603,
       "icon": "times-circle",
       "prefix": "uim",
@@ -1563,7 +1563,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57616,
       "icon": "user-arrows",
       "prefix": "uim",
@@ -1584,7 +1584,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57625,
       "icon": "vuejs",
       "prefix": "uim",
@@ -1605,7 +1605,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57624,
       "icon": "vk-alt",
       "prefix": "uim",
@@ -1626,7 +1626,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57498,
       "icon": "house-user",
       "prefix": "uim",
@@ -1647,7 +1647,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57576,
       "icon": "skype",
       "prefix": "uim",
@@ -1668,7 +1668,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57376,
       "icon": "arrow-circle-down",
       "prefix": "uim",
@@ -1689,7 +1689,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57379,
       "icon": "arrow-circle-up",
       "prefix": "uim",
@@ -1710,7 +1710,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57567,
       "icon": "shield-plus",
       "prefix": "uim",
@@ -1731,7 +1731,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57347,
       "icon": "airplay",
       "prefix": "uim",
@@ -1752,7 +1752,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57377,
       "icon": "arrow-circle-left",
       "prefix": "uim",
@@ -1773,7 +1773,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57378,
       "icon": "arrow-circle-right",
       "prefix": "uim",
@@ -1794,7 +1794,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57413,
       "icon": "chart-pie",
       "prefix": "uim",
@@ -1815,7 +1815,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57431,
       "icon": "comment-alt-dots",
       "prefix": "uim",
@@ -1836,7 +1836,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57434,
       "icon": "comment-dots",
       "prefix": "uim",
@@ -1857,7 +1857,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57456,
       "icon": "download-alt",
       "prefix": "uim",
@@ -1878,7 +1878,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57527,
       "icon": "lock-access",
       "prefix": "uim",
@@ -1899,7 +1899,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57570,
       "icon": "sign-out",
       "prefix": "uim",
@@ -1920,7 +1920,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57575,
       "icon": "signout",
       "prefix": "uim",
@@ -1941,7 +1941,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57615,
       "icon": "upload-alt",
       "prefix": "uim",
@@ -1962,7 +1962,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57482,
       "icon": "google-hangouts-alt",
       "prefix": "uim",
@@ -1983,7 +1983,7 @@
       "secondaryFont": "UimSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57600,
       "icon": "telegram",
       "prefix": "uim",
@@ -2004,38 +2004,7 @@
       "secondaryFont": "UimSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Uim",
-      "headBbox": "0..966 / 0..968",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "uim",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "UimSecondary",
-      "headBbox": "0..965 / 0..970",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "uim",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "uim",
   "ttfs": [
@@ -2045,9 +2014,9 @@
       "glyphCount": 295,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 966,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 968,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -2058,7 +2027,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -2068,9 +2037,9 @@
       "glyphCount": 188,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 965,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 970,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -2081,7 +2050,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

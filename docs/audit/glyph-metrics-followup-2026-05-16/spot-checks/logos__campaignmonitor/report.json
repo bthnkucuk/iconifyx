@@ -1,0 +1,106 @@
+{
+  "iconRef": "logos:campaignmonitor",
+  "prefix": "logos",
+  "iconName": "campaignmonitor",
+  "packageName": "iconifyx_logos",
+  "duotone": true,
+  "duotoneKind": "paintOrder",
+  "primary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_logos/assets/fonts/Logos.ttf",
+    "codepoint": "0xe081",
+    "glyphName": "campaignmonitor",
+    "advance": 10039,
+    "lsb": 1385,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 1385,
+      "yMin": 3,
+      "xMax": 10038.222222222223,
+      "yMax": 1000,
+      "width": 8653.222222222223,
+      "height": 997,
+      "cx": 5711.611111111111,
+      "cy": 501.5
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "secondary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_logos/assets/fonts/LogosSecondary.ttf",
+    "codepoint": "0xe081",
+    "glyphName": "campaignmonitor",
+    "advance": 10039,
+    "lsb": 0,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 0,
+      "yMin": 249,
+      "xMax": 998,
+      "yMax": 924.1666666666666,
+      "width": 998,
+      "height": 675.1666666666666,
+      "cx": 499,
+      "cy": 586.5833333333333
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "files": {
+    "upstreamSvg": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/logos__campaignmonitor/upstream.svg",
+    "upstreamPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/logos__campaignmonitor/upstream.png",
+    "primaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/logos__campaignmonitor/glyph-primary.png",
+    "secondaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/logos__campaignmonitor/glyph-secondary.png",
+    "ttfComposedPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/logos__campaignmonitor/ttf-composed.png",
+    "flutterPng": null,
+    "diffSvgVsFlutter": null,
+    "diffSvgVsTtf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/logos__campaignmonitor/diff-svg-vs-ttf.png",
+    "diffTtfVsFlutter": null
+  },
+  "diffs": {
+    "svgVsTtf": {
+      "width": 256,
+      "height": 256,
+      "mismatchPixels": 1575,
+      "totalPixels": 65536,
+      "mismatchPct": 0.0240325927734375,
+      "inkA": 0.02813720703125,
+      "inkB": 0.0324554443359375,
+      "cxA": 122.38069414316703,
+      "cyA": 126.30422993492408,
+      "cxB": 143.53831687823225,
+      "cyB": 126.46121297602257,
+      "cxDriftPx": 21.157622735065218,
+      "cyDriftPx": 0.15698304109848493,
+      "dHashA": "000000000a000000",
+      "dHashB": "000000000a000000",
+      "hamming": 0,
+      "ssim": 0.9688881332556819
+    },
+    "ttfVsFlutter": null,
+    "svgVsFlutter": null
+  },
+  "legacyDiff": null,
+  "verdict": {
+    "status": "different",
+    "primaryReason": "DUOTONE_BBOX_MISMATCH",
+    "confidence": "high",
+    "problem": "Primary glyph centroid (5712,502) differs from secondary (499,587) by 521.3% / 8.5% of em — layers will overlay misaligned",
+    "remediation": "GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup (identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see RESEARCH_PLAN §33 for fix."
+  },
+  "fontTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_logos/assets/fonts/Logos.ttf",
+  "secondaryTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_logos/assets/fonts/LogosSecondary.ttf",
+  "timings": {
+    "upstream": 193,
+    "primaryGlyph": 87,
+    "secondaryGlyph": 69,
+    "ttfCompose": 13,
+    "diffSvgVsTtf": 14,
+    "total": 389
+  }
+}

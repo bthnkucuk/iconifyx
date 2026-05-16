@@ -22,28 +22,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "MeteorIcons",
-      "headBbox": "-5..1010 / -18..1006",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 18,
-      "prefix": "meteor-icons",
-      "reasons": [
-        "head.xMin=-5",
-        "head.xMax=1010",
-        "head.yMin=-18",
-        "head.yMax=1006",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=18"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "meteor-icons",
   "ttfs": [
@@ -53,10 +32,10 @@
       "glyphCount": 321,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1010,
-        "xMin": -5,
-        "yMax": 1006,
-        "yMin": -18
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -66,8 +45,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 18
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

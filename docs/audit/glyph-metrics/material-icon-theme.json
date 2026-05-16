@@ -2567,7 +2567,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58097,
       "icon": "velite",
       "prefix": "material-icon-theme",
@@ -2588,7 +2588,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57907,
       "icon": "fsharp",
       "prefix": "material-icon-theme",
@@ -2609,7 +2609,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58001,
       "icon": "playwright",
       "prefix": "material-icon-theme",
@@ -2630,7 +2630,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57957,
       "icon": "markdoc",
       "prefix": "material-icon-theme",
@@ -2651,7 +2651,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58090,
       "icon": "twine",
       "prefix": "material-icon-theme",
@@ -2672,7 +2672,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57971,
       "icon": "netlify",
       "prefix": "material-icon-theme",
@@ -2693,7 +2693,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57972,
       "icon": "netlify-light",
       "prefix": "material-icon-theme",
@@ -2714,7 +2714,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58039,
       "icon": "scons",
       "prefix": "material-icon-theme",
@@ -2735,7 +2735,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58040,
       "icon": "scons-light",
       "prefix": "material-icon-theme",
@@ -2756,7 +2756,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58071,
       "icon": "taze",
       "prefix": "material-icon-theme",
@@ -2777,7 +2777,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58108,
       "icon": "vlang",
       "prefix": "material-icon-theme",
@@ -2798,7 +2798,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57345,
       "icon": "adobe-illustrator",
       "prefix": "material-icon-theme",
@@ -2819,7 +2819,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57346,
       "icon": "adobe-illustrator-light",
       "prefix": "material-icon-theme",
@@ -2840,7 +2840,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57420,
       "icon": "eslint",
       "prefix": "material-icon-theme",
@@ -2861,7 +2861,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58047,
       "icon": "siyuan",
       "prefix": "material-icon-theme",
@@ -2882,7 +2882,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58119,
       "icon": "wrangler",
       "prefix": "material-icon-theme",
@@ -2903,7 +2903,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58013,
       "icon": "python",
       "prefix": "material-icon-theme",
@@ -2924,7 +2924,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58016,
       "icon": "racket",
       "prefix": "material-icon-theme",
@@ -2945,44 +2945,7 @@
       "secondaryFont": "MaterialIconThemeSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "MaterialIconTheme",
-      "headBbox": "-1..1500 / -500..1834",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1834,
-      "os2WinDesc": 500,
-      "prefix": "material-icon-theme",
-      "reasons": [
-        "head.xMin=-1",
-        "head.xMax=1500",
-        "head.yMin=-500",
-        "head.yMax=1834",
-        "OS/2.winAsc=1834",
-        "OS/2.winDesc=500"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "MaterialIconThemeSecondary",
-      "headBbox": "0..1013 / 0..950",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "material-icon-theme",
-      "reasons": [
-        "head.xMax=1013",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 1041,
@@ -3030,24 +2993,24 @@
     {
       "error": null,
       "font": "MaterialIconTheme",
-      "glyphCount": 778,
+      "glyphCount": 775,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1500,
-        "xMin": -1,
-        "yMax": 1834,
-        "yMin": -500
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1041,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1834,
-        "usWinDescent": 500
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     },
     {
@@ -3056,20 +3019,20 @@
       "glyphCount": 539,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1013,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 950,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1002,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

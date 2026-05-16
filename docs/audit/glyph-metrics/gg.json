@@ -43,7 +43,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57806,
       "icon": "patreon",
       "prefix": "gg",
@@ -64,7 +64,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57628,
       "icon": "feed",
       "prefix": "gg",
@@ -85,7 +85,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57452,
       "icon": "border-left",
       "prefix": "gg",
@@ -106,7 +106,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57956,
       "icon": "spinner",
       "prefix": "gg",
@@ -127,7 +127,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57433,
       "icon": "atlasian",
       "prefix": "gg",
@@ -148,7 +148,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57601,
       "icon": "edit-flip-h",
       "prefix": "gg",
@@ -169,7 +169,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57889,
       "icon": "reorder",
       "prefix": "gg",
@@ -190,7 +190,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57660,
       "icon": "framer",
       "prefix": "gg",
@@ -211,7 +211,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57353,
       "icon": "align-left",
       "prefix": "gg",
@@ -232,7 +232,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57354,
       "icon": "align-middle",
       "prefix": "gg",
@@ -253,7 +253,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57453,
       "icon": "border-right",
       "prefix": "gg",
@@ -274,7 +274,7 @@
       "secondaryFont": "GgSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57583,
       "icon": "distribute-horizontal",
       "prefix": "gg",
@@ -295,43 +295,7 @@
       "secondaryFont": "GgSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Gg",
-      "headBbox": "-6..1007 / -10..1006",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 10,
-      "prefix": "gg",
-      "reasons": [
-        "head.xMin=-6",
-        "head.xMax=1007",
-        "head.yMin=-10",
-        "head.yMax=1006",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=10"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "GgSecondary",
-      "headBbox": "0..917 / 0..918",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "gg",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "gg",
   "ttfs": [
@@ -341,32 +305,9 @@
       "glyphCount": 705,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1007,
-        "xMin": -6,
-        "yMax": 1006,
-        "yMin": -10
-      },
-      "hhea": {
-        "advanceWidthMax": 1000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 10
-      }
-    },
-    {
-      "error": null,
-      "font": "GgSecondary",
-      "glyphCount": 31,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 917,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 918,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -377,7 +318,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "GgSecondary",
+      "glyphCount": 31,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

@@ -63,7 +63,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58034,
       "icon": "mail-right",
       "prefix": "pixelarticons",
@@ -84,7 +84,7 @@
       "secondaryFont": "PixelarticonsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58035,
       "icon": "mail-right-sharp",
       "prefix": "pixelarticons",
@@ -105,38 +105,7 @@
       "secondaryFont": "PixelarticonsSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Pixelarticons",
-      "headBbox": "0..1000 / 0..1000",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "pixelarticons",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "PixelarticonsSecondary",
-      "headBbox": "0..750 / 0..667",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "pixelarticons",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "pixelarticons",
   "ttfs": [
@@ -159,7 +128,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -169,9 +138,9 @@
       "glyphCount": 2,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 750,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 667,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -182,7 +151,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

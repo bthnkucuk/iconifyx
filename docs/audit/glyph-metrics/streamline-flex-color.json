@@ -222,7 +222,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57838,
       "icon": "like-1-flat",
       "prefix": "streamline-flex-color",
@@ -243,7 +243,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57784,
       "icon": "increase-indent-flat",
       "prefix": "streamline-flex-color",
@@ -264,7 +264,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58069,
       "icon": "screwdriver-wrench-flat",
       "prefix": "streamline-flex-color",
@@ -285,7 +285,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58341,
       "icon": "zoom-out-gesture-flat",
       "prefix": "streamline-flex-color",
@@ -306,7 +306,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57389,
       "icon": "arrow-cursor-move-flat",
       "prefix": "streamline-flex-color",
@@ -327,7 +327,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57981,
       "icon": "pin-1-flat",
       "prefix": "streamline-flex-color",
@@ -348,7 +348,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57663,
       "icon": "fahrenheit-flat",
       "prefix": "streamline-flex-color",
@@ -369,7 +369,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58239,
       "icon": "triangle-flag-flat",
       "prefix": "streamline-flex-color",
@@ -390,7 +390,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57691,
       "icon": "flip-horizontal-circle-2-flat",
       "prefix": "streamline-flex-color",
@@ -411,7 +411,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58063,
       "icon": "screen-broadcast-flat",
       "prefix": "streamline-flex-color",
@@ -432,7 +432,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57747,
       "icon": "hierarchy-16-flat",
       "prefix": "streamline-flex-color",
@@ -453,7 +453,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58149,
       "icon": "stopwatch-three-quarter-flat",
       "prefix": "streamline-flex-color",
@@ -474,7 +474,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58175,
       "icon": "tag-flat",
       "prefix": "streamline-flex-color",
@@ -495,7 +495,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57595,
       "icon": "delete-tag-flat",
       "prefix": "streamline-flex-color",
@@ -516,7 +516,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57523,
       "icon": "cloud-flat",
       "prefix": "streamline-flex-color",
@@ -537,7 +537,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57780,
       "icon": "incoming-call-flat",
       "prefix": "streamline-flex-color",
@@ -558,7 +558,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57930,
       "icon": "open-umbrella-flat",
       "prefix": "streamline-flex-color",
@@ -579,7 +579,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57788,
       "icon": "input-box-flat",
       "prefix": "streamline-flex-color",
@@ -600,7 +600,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57892,
       "icon": "multiple-stars-flat",
       "prefix": "streamline-flex-color",
@@ -621,7 +621,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57415,
       "icon": "battery-medium-1-flat",
       "prefix": "streamline-flex-color",
@@ -642,7 +642,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57447,
       "icon": "broken-link-1-flat",
       "prefix": "streamline-flex-color",
@@ -663,7 +663,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58157,
       "icon": "street-sign-flat",
       "prefix": "streamline-flex-color",
@@ -684,7 +684,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57882,
       "icon": "microscope-observation-sciene-flat",
       "prefix": "streamline-flex-color",
@@ -705,7 +705,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57940,
       "icon": "paintbrush-2-flat",
       "prefix": "streamline-flex-color",
@@ -726,7 +726,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57790,
       "icon": "insert-center-left-1-flat",
       "prefix": "streamline-flex-color",
@@ -747,7 +747,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58155,
       "icon": "street-road-flat",
       "prefix": "streamline-flex-color",
@@ -768,7 +768,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57435,
       "icon": "bluetooth-searching-flat",
       "prefix": "streamline-flex-color",
@@ -789,7 +789,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57689,
       "icon": "flip-horizontal-arrow-1-flat",
       "prefix": "streamline-flex-color",
@@ -810,7 +810,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57349,
       "icon": "3d-rotate-y-axis-flat",
       "prefix": "streamline-flex-color",
@@ -831,7 +831,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57665,
       "icon": "feather-pen-flat",
       "prefix": "streamline-flex-color",
@@ -852,7 +852,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57862,
       "icon": "magic-wand-2-flat",
       "prefix": "streamline-flex-color",
@@ -873,7 +873,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57527,
       "icon": "cloud-warning-flat",
       "prefix": "streamline-flex-color",
@@ -894,7 +894,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57463,
       "icon": "button-power-1-flat",
       "prefix": "streamline-flex-color",
@@ -915,7 +915,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57485,
       "icon": "camping-tent-flat",
       "prefix": "streamline-flex-color",
@@ -936,7 +936,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57967,
       "icon": "phone-ringing-1-flat",
       "prefix": "streamline-flex-color",
@@ -957,7 +957,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57755,
       "icon": "home-2-flat",
       "prefix": "streamline-flex-color",
@@ -978,7 +978,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58291,
       "icon": "warning-diamond-flat",
       "prefix": "streamline-flex-color",
@@ -999,7 +999,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57884,
       "icon": "missed-call-flat",
       "prefix": "streamline-flex-color",
@@ -1020,7 +1020,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58279,
       "icon": "volume-level-high-flat",
       "prefix": "streamline-flex-color",
@@ -1041,7 +1041,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58285,
       "icon": "walker-flat",
       "prefix": "streamline-flex-color",
@@ -1062,7 +1062,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57796,
       "icon": "investing-and-banking-flat",
       "prefix": "streamline-flex-color",
@@ -1083,7 +1083,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57399,
       "icon": "artist-song-flat",
       "prefix": "streamline-flex-color",
@@ -1104,7 +1104,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58317,
       "icon": "wifi-antenna-flat",
       "prefix": "streamline-flex-color",
@@ -1125,7 +1125,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58281,
       "icon": "volume-mute-flat",
       "prefix": "streamline-flex-color",
@@ -1146,7 +1146,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57876,
       "icon": "megaphone-1-flat",
       "prefix": "streamline-flex-color",
@@ -1167,7 +1167,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57946,
       "icon": "party-popper-flat",
       "prefix": "streamline-flex-color",
@@ -1188,7 +1188,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58312,
       "icon": "wheelchair-1-flat",
       "prefix": "streamline-flex-color",
@@ -1209,7 +1209,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58182,
       "icon": "target-dollar-flat",
       "prefix": "streamline-flex-color",
@@ -1230,7 +1230,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57669,
       "icon": "file-code-1-flat",
       "prefix": "streamline-flex-color",
@@ -1251,7 +1251,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57677,
       "icon": "finger-snapping-flat",
       "prefix": "streamline-flex-color",
@@ -1272,7 +1272,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57667,
       "icon": "file-bookmark-flat",
       "prefix": "streamline-flex-color",
@@ -1293,7 +1293,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58231,
       "icon": "transfer-forwarding-call-flat",
       "prefix": "streamline-flex-color",
@@ -1314,7 +1314,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57955,
       "icon": "pen-tool-flat",
       "prefix": "streamline-flex-color",
@@ -1335,7 +1335,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57932,
       "icon": "package-dimension-flat",
       "prefix": "streamline-flex-color",
@@ -1356,7 +1356,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57557,
       "icon": "countdown-timer-flat",
       "prefix": "streamline-flex-color",
@@ -1377,7 +1377,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57860,
       "icon": "magic-wand-1-flat",
       "prefix": "streamline-flex-color",
@@ -1398,7 +1398,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57924,
       "icon": "office-building-1-flat",
       "prefix": "streamline-flex-color",
@@ -1419,7 +1419,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57419,
       "icon": "bell-notification-flat",
       "prefix": "streamline-flex-color",
@@ -1440,7 +1440,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58031,
       "icon": "reduced-inequalities-flat",
       "prefix": "streamline-flex-color",
@@ -1461,7 +1461,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57571,
       "icon": "cursor-click-flat",
       "prefix": "streamline-flex-color",
@@ -1482,7 +1482,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57551,
       "icon": "controller-stick-flat",
       "prefix": "streamline-flex-color",
@@ -1503,7 +1503,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57695,
       "icon": "flower-flat",
       "prefix": "streamline-flex-color",
@@ -1524,7 +1524,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57741,
       "icon": "help-chat-1-flat",
       "prefix": "streamline-flex-color",
@@ -1545,7 +1545,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58159,
       "icon": "subscription-cashflow-flat",
       "prefix": "streamline-flex-color",
@@ -1566,7 +1566,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58227,
       "icon": "tooth-flat",
       "prefix": "streamline-flex-color",
@@ -1587,7 +1587,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57357,
       "icon": "ai-scanner-robot-flat",
       "prefix": "streamline-flex-color",
@@ -1608,7 +1608,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58265,
       "icon": "user-sync-online-in-person-flat",
       "prefix": "streamline-flex-color",
@@ -1629,7 +1629,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58123,
       "icon": "smoking-area-flat",
       "prefix": "streamline-flex-color",
@@ -1650,7 +1650,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57983,
       "icon": "pine-tree-flat",
       "prefix": "streamline-flex-color",
@@ -1671,7 +1671,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58029,
       "icon": "recycle-bin-throw-2-flat",
       "prefix": "streamline-flex-color",
@@ -1692,7 +1692,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57539,
       "icon": "color-picker-flat",
       "prefix": "streamline-flex-color",
@@ -1713,7 +1713,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57965,
       "icon": "phone-qr-flat",
       "prefix": "streamline-flex-color",
@@ -1734,7 +1734,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57345,
       "icon": "3d-coordinate-axis-flat",
       "prefix": "streamline-flex-color",
@@ -1755,7 +1755,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58119,
       "icon": "small-caps-flat",
       "prefix": "streamline-flex-color",
@@ -1776,7 +1776,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57413,
       "icon": "battery-charging-flat",
       "prefix": "streamline-flex-color",
@@ -1797,7 +1797,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57786,
       "icon": "information-circle-flat",
       "prefix": "streamline-flex-color",
@@ -1818,7 +1818,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58005,
       "icon": "printer-wireless-flat",
       "prefix": "streamline-flex-color",
@@ -1839,7 +1839,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57971,
       "icon": "phone-shield-flat",
       "prefix": "streamline-flex-color",
@@ -1860,7 +1860,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57703,
       "icon": "fried-egg-breakfast-flat",
       "prefix": "streamline-flex-color",
@@ -1881,7 +1881,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57517,
       "icon": "clean-broom-wipe-flat",
       "prefix": "streamline-flex-color",
@@ -1902,7 +1902,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57963,
       "icon": "phone-notification-flat",
       "prefix": "streamline-flex-color",
@@ -1923,7 +1923,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58125,
       "icon": "snooze-flat",
       "prefix": "streamline-flex-color",
@@ -1944,7 +1944,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57713,
       "icon": "gas-station-fuel-petroleum-flat",
       "prefix": "streamline-flex-color",
@@ -1965,7 +1965,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58255,
       "icon": "user-feedback-heart-flat",
       "prefix": "streamline-flex-color",
@@ -1986,7 +1986,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57445,
       "icon": "brightness-4-flat",
       "prefix": "streamline-flex-color",
@@ -2007,7 +2007,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57465,
       "icon": "button-record-1-flat",
       "prefix": "streamline-flex-color",
@@ -2028,7 +2028,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57854,
       "icon": "lock-rotation-flat",
       "prefix": "streamline-flex-color",
@@ -2049,7 +2049,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57912,
       "icon": "non-commercial-dollars-flat",
       "prefix": "streamline-flex-color",
@@ -2070,7 +2070,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58323,
       "icon": "wireless-fast-charging-flat",
       "prefix": "streamline-flex-color",
@@ -2091,7 +2091,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57461,
       "icon": "button-pause-circle-flat",
       "prefix": "streamline-flex-color",
@@ -2112,7 +2112,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57431,
       "icon": "blood-donate-drop-flat",
       "prefix": "streamline-flex-color",
@@ -2133,7 +2133,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57473,
       "icon": "call-center-support-service-flat",
       "prefix": "streamline-flex-color",
@@ -2154,7 +2154,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57475,
       "icon": "camera-1-flat",
       "prefix": "streamline-flex-color",
@@ -2175,7 +2175,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57842,
       "icon": "location-compass-1-flat",
       "prefix": "streamline-flex-color",
@@ -2196,7 +2196,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57736,
       "icon": "heart-cross-flat",
       "prefix": "streamline-flex-color",
@@ -2217,7 +2217,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57776,
       "icon": "inbox-tray-1-flat",
       "prefix": "streamline-flex-color",
@@ -2238,7 +2238,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58229,
       "icon": "track-select-right-tool-flat",
       "prefix": "streamline-flex-color",
@@ -2259,7 +2259,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58017,
       "icon": "record-player-flat",
       "prefix": "streamline-flex-color",
@@ -2280,7 +2280,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57832,
       "icon": "left-click-flat",
       "prefix": "streamline-flex-color",
@@ -2301,7 +2301,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58083,
       "icon": "share-link-flat",
       "prefix": "streamline-flex-color",
@@ -2322,7 +2322,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57363,
       "icon": "airship-flat",
       "prefix": "streamline-flex-color",
@@ -2343,7 +2343,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57411,
       "icon": "balloon-flat",
       "prefix": "streamline-flex-color",
@@ -2364,7 +2364,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57493,
       "icon": "cat-2-flat",
       "prefix": "streamline-flex-color",
@@ -2385,7 +2385,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57623,
       "icon": "dollar-increase-flat",
       "prefix": "streamline-flex-color",
@@ -2406,7 +2406,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57613,
       "icon": "discount-percent-coupon-flat",
       "prefix": "streamline-flex-color",
@@ -2427,7 +2427,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58293,
       "icon": "warranty-badge-highlight-flat",
       "prefix": "streamline-flex-color",
@@ -2448,7 +2448,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57950,
       "icon": "pathfinder-minus-front-2-flat",
       "prefix": "streamline-flex-color",
@@ -2469,7 +2469,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58333,
       "icon": "youtube-flat",
       "prefix": "streamline-flex-color",
@@ -2490,7 +2490,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57441,
       "icon": "bow-tie-flat",
       "prefix": "streamline-flex-color",
@@ -2511,7 +2511,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57922,
       "icon": "nurse-assistant-emergency-flat",
       "prefix": "streamline-flex-color",
@@ -2532,7 +2532,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57969,
       "icon": "phone-rotate-mobile-flat",
       "prefix": "streamline-flex-color",
@@ -2553,7 +2553,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57489,
       "icon": "carrot-flat",
       "prefix": "streamline-flex-color",
@@ -2574,7 +2574,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57522,
       "icon": "cloud-download-flat",
       "prefix": "streamline-flex-color",
@@ -2595,7 +2595,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57850,
       "icon": "location-pin-medical-hospital-2-flat",
       "prefix": "streamline-flex-color",
@@ -2616,7 +2616,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57942,
       "icon": "panoramic-screen-flat",
       "prefix": "streamline-flex-color",
@@ -2637,7 +2637,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57565,
       "icon": "critical-thinking-2-flat",
       "prefix": "streamline-flex-color",
@@ -2658,7 +2658,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57641,
       "icon": "eject-square-flat",
       "prefix": "streamline-flex-color",
@@ -2679,7 +2679,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58089,
       "icon": "shield-cross-flat",
       "prefix": "streamline-flex-color",
@@ -2700,7 +2700,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58163,
       "icon": "sun-flat",
       "prefix": "streamline-flex-color",
@@ -2721,7 +2721,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57499,
       "icon": "charging-flat",
       "prefix": "streamline-flex-color",
@@ -2742,7 +2742,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57705,
       "icon": "full-screen-osx-flat",
       "prefix": "streamline-flex-color",
@@ -2763,7 +2763,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57985,
       "icon": "play-list-4-flat",
       "prefix": "streamline-flex-color",
@@ -2784,7 +2784,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58189,
       "icon": "text-square-flat",
       "prefix": "streamline-flex-color",
@@ -2805,7 +2805,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58065,
       "icon": "screen-curve-flat",
       "prefix": "streamline-flex-color",
@@ -2826,7 +2826,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57507,
       "icon": "check-square-flat",
       "prefix": "streamline-flex-color",
@@ -2847,7 +2847,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57433,
       "icon": "bluetooth-disabled-flat",
       "prefix": "streamline-flex-color",
@@ -2868,7 +2868,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57973,
       "icon": "photo-camera-flat",
       "prefix": "streamline-flex-color",
@@ -2889,7 +2889,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58243,
       "icon": "tune-adjust-volume-flat",
       "prefix": "streamline-flex-color",
@@ -2910,7 +2910,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57844,
       "icon": "location-compass-2-flat",
       "prefix": "streamline-flex-color",
@@ -2931,7 +2931,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57856,
       "icon": "login-1-flat",
       "prefix": "streamline-flex-color",
@@ -2952,7 +2952,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58307,
       "icon": "webcam-flat",
       "prefix": "streamline-flex-color",
@@ -2973,7 +2973,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58027,
       "icon": "recycle-bin-flat",
       "prefix": "streamline-flex-color",
@@ -2994,7 +2994,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58007,
       "icon": "production-belt-time-flat",
       "prefix": "streamline-flex-color",
@@ -3015,7 +3015,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58187,
       "icon": "text-file-flat",
       "prefix": "streamline-flex-color",
@@ -3036,7 +3036,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57503,
       "icon": "chat-bubble-text-square-flat",
       "prefix": "streamline-flex-color",
@@ -3057,7 +3057,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58103,
       "icon": "show-layer-flat",
       "prefix": "streamline-flex-color",
@@ -3078,7 +3078,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58153,
       "icon": "story-post-flat",
       "prefix": "streamline-flex-color",
@@ -3099,7 +3099,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57371,
       "icon": "align-text-top-flat",
       "prefix": "streamline-flex-color",
@@ -3120,7 +3120,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57858,
       "icon": "logout-1-flat",
       "prefix": "streamline-flex-color",
@@ -3141,7 +3141,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58021,
       "icon": "rectangle-split-thirds-flat",
       "prefix": "streamline-flex-color",
@@ -3162,7 +3162,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58015,
       "icon": "receipt-flat",
       "prefix": "streamline-flex-color",
@@ -3183,7 +3183,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58245,
       "icon": "typewriter-flat",
       "prefix": "streamline-flex-color",
@@ -3204,7 +3204,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57629,
       "icon": "download-tray-flat",
       "prefix": "streamline-flex-color",
@@ -3225,7 +3225,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58099,
       "icon": "shopping-basket-add-flat",
       "prefix": "streamline-flex-color",
@@ -3246,7 +3246,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58095,
       "icon": "shopping-bag-hand-bag-2-flat",
       "prefix": "streamline-flex-color",
@@ -3267,7 +3267,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57367,
       "icon": "align-back-1-flat",
       "prefix": "streamline-flex-color",
@@ -3288,7 +3288,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57800,
       "icon": "ios-ipados-flat",
       "prefix": "streamline-flex-color",
@@ -3309,7 +3309,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58059,
       "icon": "school-flat",
       "prefix": "streamline-flex-color",
@@ -3330,7 +3330,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57501,
       "icon": "chat-bubble-square-phone-flat",
       "prefix": "streamline-flex-color",
@@ -3351,7 +3351,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57591,
       "icon": "deepfake-technology-1-flat",
       "prefix": "streamline-flex-color",
@@ -3372,7 +3372,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57581,
       "icon": "dark-dislay-mode-flat",
       "prefix": "streamline-flex-color",
@@ -3393,7 +3393,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58035,
       "icon": "return-square-2-flat",
       "prefix": "streamline-flex-color",
@@ -3414,7 +3414,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58001,
       "icon": "presentation-flat",
       "prefix": "streamline-flex-color",
@@ -3435,7 +3435,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57607,
       "icon": "dice-5-flat",
       "prefix": "streamline-flex-color",
@@ -3456,7 +3456,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58171,
       "icon": "tablet-capsule-flat",
       "prefix": "streamline-flex-color",
@@ -3477,7 +3477,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58199,
       "icon": "thread-post-tweet-flat",
       "prefix": "streamline-flex-color",
@@ -3498,7 +3498,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58135,
       "icon": "speaker-1-flat",
       "prefix": "streamline-flex-color",
@@ -3519,7 +3519,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58325,
       "icon": "word-wrap-around-bounding-box-flat",
       "prefix": "streamline-flex-color",
@@ -3540,7 +3540,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57443,
       "icon": "brightness-1-flat",
       "prefix": "streamline-flex-color",
@@ -3561,7 +3561,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57834,
       "icon": "less-than-sign-circle-flat",
       "prefix": "streamline-flex-color",
@@ -3582,7 +3582,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58205,
       "icon": "threat-usb-flat",
       "prefix": "streamline-flex-color",
@@ -3603,7 +3603,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58203,
       "icon": "threat-phone-flat",
       "prefix": "streamline-flex-color",
@@ -3624,7 +3624,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57687,
       "icon": "flash-warning-flat",
       "prefix": "streamline-flex-color",
@@ -3645,7 +3645,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58277,
       "icon": "voice-scan-2-flat",
       "prefix": "streamline-flex-color",
@@ -3666,7 +3666,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57846,
       "icon": "location-heart-pin-flat",
       "prefix": "streamline-flex-color",
@@ -3687,7 +3687,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57659,
       "icon": "face-scan-1-flat",
       "prefix": "streamline-flex-color",
@@ -3708,7 +3708,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57868,
       "icon": "mail-send-email-message-circle-flat",
       "prefix": "streamline-flex-color",
@@ -3729,7 +3729,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57681,
       "icon": "fire-alarm-2-flat",
       "prefix": "streamline-flex-color",
@@ -3750,7 +3750,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57693,
       "icon": "floppy-disk-flat",
       "prefix": "streamline-flex-color",
@@ -3771,7 +3771,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57355,
       "icon": "ai-generate-portrait-image-spark-flat",
       "prefix": "streamline-flex-color",
@@ -3792,7 +3792,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58241,
       "icon": "trophy-flat",
       "prefix": "streamline-flex-color",
@@ -3813,7 +3813,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57577,
       "icon": "customer-support-7-flat",
       "prefix": "streamline-flex-color",
@@ -3834,7 +3834,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58331,
       "icon": "wrench-hand-flat",
       "prefix": "streamline-flex-color",
@@ -3855,7 +3855,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57864,
       "icon": "magnifying-glass-flat",
       "prefix": "streamline-flex-color",
@@ -3876,7 +3876,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57979,
       "icon": "piggy-bank-flat",
       "prefix": "streamline-flex-color",
@@ -3897,7 +3897,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57520,
       "icon": "cloud-data-transfer-flat",
       "prefix": "streamline-flex-color",
@@ -3918,7 +3918,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57617,
       "icon": "dislike-circle-flat",
       "prefix": "streamline-flex-color",
@@ -3939,7 +3939,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58271,
       "icon": "visual-blind-1-flat",
       "prefix": "streamline-flex-color",
@@ -3960,7 +3960,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57579,
       "icon": "cyborg-2-flat",
       "prefix": "streamline-flex-color",
@@ -3981,7 +3981,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57729,
       "icon": "happy-face-flat",
       "prefix": "streamline-flex-color",
@@ -4002,7 +4002,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57820,
       "icon": "landscape-2-flat",
       "prefix": "streamline-flex-color",
@@ -4023,7 +4023,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57647,
       "icon": "empty-clipboard-flat",
       "prefix": "streamline-flex-color",
@@ -4044,7 +4044,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57719,
       "icon": "graduation-cap-flat",
       "prefix": "streamline-flex-color",
@@ -4065,7 +4065,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57878,
       "icon": "merge-pdf-flat",
       "prefix": "streamline-flex-color",
@@ -4086,7 +4086,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58121,
       "icon": "smiley-blessed-flat",
       "prefix": "streamline-flex-color",
@@ -4107,7 +4107,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58037,
       "icon": "rocket-flat",
       "prefix": "streamline-flex-color",
@@ -4128,7 +4128,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58177,
       "icon": "tall-hat-flat",
       "prefix": "streamline-flex-color",
@@ -4149,7 +4149,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58111,
       "icon": "signage-1-flat",
       "prefix": "streamline-flex-color",
@@ -4170,7 +4170,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57423,
       "icon": "bill-4-flat",
       "prefix": "streamline-flex-color",
@@ -4191,7 +4191,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57802,
       "icon": "iphone-flat",
       "prefix": "streamline-flex-color",
@@ -4212,7 +4212,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58269,
       "icon": "virus-antivirus-flat",
       "prefix": "streamline-flex-color",
@@ -4233,48 +4233,7 @@
       "secondaryFont": "StreamlineFlexColorSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "StreamlineFlexColor",
-      "headBbox": "-36..1018 / -6..1008",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 6,
-      "prefix": "streamline-flex-color",
-      "reasons": [
-        "head.xMin=-36",
-        "head.xMax=1018",
-        "head.yMin=-6",
-        "head.yMax=1008",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=6"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "StreamlineFlexColorSecondary",
-      "headBbox": "-7..1007 / -12..1006",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 12,
-      "prefix": "streamline-flex-color",
-      "reasons": [
-        "head.xMin=-7",
-        "head.xMax=1007",
-        "head.yMin=-12",
-        "head.yMax=1006",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=12"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "streamline-flex-color",
   "ttfs": [
@@ -4284,10 +4243,10 @@
       "glyphCount": 998,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1018,
-        "xMin": -36,
-        "yMax": 1008,
-        "yMin": -6
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -4297,8 +4256,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 6
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     },
     {
@@ -4307,10 +4266,10 @@
       "glyphCount": 433,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1007,
-        "xMin": -7,
-        "yMax": 1006,
-        "yMin": -12
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -4320,8 +4279,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 12
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

@@ -548,16 +548,6 @@
     {
       "codepointCount": 2,
       "font": "VscodeIcons",
-      "glyphName": "file-type-light-prettier",
-      "prefix": "vscode-icons",
-      "sampleIcons": [
-        "file-type-light-prettier",
-        "file-type-prettier"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "VscodeIcons",
       "glyphName": "file-type-light-quasar",
       "prefix": "vscode-icons",
       "sampleIcons": [
@@ -1238,70 +1228,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "secondary-empty",
-      "codepoint": 57547,
-      "icon": "file-type-knip",
-      "prefix": "vscode-icons",
-      "primary": {
-        "xMax": 921,
-        "xMin": 0,
-        "yMax": 934,
-        "yMin": 0
-      },
-      "primaryFont": "VscodeIcons",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "VscodeIconsSecondary"
-    },
-    {
-      "cause": "secondary-empty",
-      "codepoint": 57606,
-      "icon": "file-type-light-prettier",
-      "prefix": "vscode-icons",
-      "primary": {
-        "xMax": 821,
-        "xMin": 0,
-        "yMax": 859,
-        "yMin": 0
-      },
-      "primaryFont": "VscodeIcons",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "VscodeIconsSecondary"
-    },
-    {
-      "cause": "secondary-empty",
-      "codepoint": 57807,
-      "icon": "file-type-shellcheck",
-      "prefix": "vscode-icons",
-      "primary": {
-        "xMax": 966,
-        "xMin": 0,
-        "yMax": 954,
-        "yMin": 0
-      },
-      "primaryFont": "VscodeIcons",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "VscodeIconsSecondary"
-    },
-    {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57361,
       "icon": "file-type-apib",
       "prefix": "vscode-icons",
@@ -1322,7 +1249,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57362,
       "icon": "file-type-apib2",
       "prefix": "vscode-icons",
@@ -1343,7 +1270,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57662,
       "icon": "file-type-mjml",
       "prefix": "vscode-icons",
@@ -1364,7 +1291,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57677,
       "icon": "file-type-mysql",
       "prefix": "vscode-icons",
@@ -1385,7 +1312,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57782,
       "icon": "file-type-remark",
       "prefix": "vscode-icons",
@@ -1406,7 +1333,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57833,
       "icon": "file-type-swig",
       "prefix": "vscode-icons",
@@ -1427,7 +1354,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57479,
       "icon": "file-type-fsharp2",
       "prefix": "vscode-icons",
@@ -1448,7 +1375,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57787,
       "icon": "file-type-rmd",
       "prefix": "vscode-icons",
@@ -1469,7 +1396,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57467,
       "icon": "file-type-excel2",
       "prefix": "vscode-icons",
@@ -1490,7 +1417,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57522,
       "icon": "file-type-informix",
       "prefix": "vscode-icons",
@@ -1511,7 +1438,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57478,
       "icon": "file-type-fsharp",
       "prefix": "vscode-icons",
@@ -1532,7 +1459,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57545,
       "icon": "file-type-kitchenci",
       "prefix": "vscode-icons",
@@ -1553,7 +1480,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57349,
       "icon": "file-type-actionscript2",
       "prefix": "vscode-icons",
@@ -1574,7 +1501,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57365,
       "icon": "file-type-appsemble",
       "prefix": "vscode-icons",
@@ -1595,7 +1522,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57714,
       "icon": "file-type-numpy",
       "prefix": "vscode-icons",
@@ -1616,7 +1543,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57409,
       "icon": "file-type-clojurescript",
       "prefix": "vscode-icons",
@@ -1637,7 +1564,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57679,
       "icon": "file-type-neo4j",
       "prefix": "vscode-icons",
@@ -1658,7 +1585,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57394,
       "icon": "file-type-c3",
       "prefix": "vscode-icons",
@@ -1679,7 +1606,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57417,
       "icon": "file-type-commitlint",
       "prefix": "vscode-icons",
@@ -1700,7 +1627,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57450,
       "icon": "file-type-doxygen",
       "prefix": "vscode-icons",
@@ -1721,7 +1648,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57790,
       "icon": "file-type-robots",
       "prefix": "vscode-icons",
@@ -1742,7 +1669,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57385,
       "icon": "file-type-blitzbasic",
       "prefix": "vscode-icons",
@@ -1763,7 +1690,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57781,
       "icon": "file-type-rehype",
       "prefix": "vscode-icons",
@@ -1784,7 +1711,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57732,
       "icon": "file-type-pcl",
       "prefix": "vscode-icons",
@@ -1805,7 +1732,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57604,
       "icon": "file-type-light-pcl",
       "prefix": "vscode-icons",
@@ -1826,7 +1753,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57510,
       "icon": "file-type-hjson",
       "prefix": "vscode-icons",
@@ -1847,7 +1774,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57444,
       "icon": "file-type-docker2",
       "prefix": "vscode-icons",
@@ -1868,7 +1795,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57445,
       "icon": "file-type-dockertest2",
       "prefix": "vscode-icons",
@@ -1889,7 +1816,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57880,
       "icon": "file-type-vlang",
       "prefix": "vscode-icons",
@@ -1910,7 +1837,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57656,
       "icon": "file-type-mdx",
       "prefix": "vscode-icons",
@@ -1931,7 +1858,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57767,
       "icon": "file-type-qlikview",
       "prefix": "vscode-icons",
@@ -1952,7 +1879,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57538,
       "icon": "file-type-json5",
       "prefix": "vscode-icons",
@@ -1973,7 +1900,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57727,
       "icon": "file-type-ovpn",
       "prefix": "vscode-icons",
@@ -1994,7 +1921,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57825,
       "icon": "file-type-storyboard",
       "prefix": "vscode-icons",
@@ -2015,7 +1942,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57357,
       "icon": "file-type-allcontributors",
       "prefix": "vscode-icons",
@@ -2036,7 +1963,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57707,
       "icon": "file-type-noc",
       "prefix": "vscode-icons",
@@ -2057,7 +1984,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57786,
       "icon": "file-type-retext",
       "prefix": "vscode-icons",
@@ -2078,7 +2005,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57464,
       "icon": "file-type-eslint",
       "prefix": "vscode-icons",
@@ -2099,7 +2026,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57400,
       "icon": "file-type-ceylon",
       "prefix": "vscode-icons",
@@ -2120,7 +2047,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57399,
       "icon": "file-type-cddl",
       "prefix": "vscode-icons",
@@ -2141,7 +2068,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57658,
       "icon": "file-type-meson",
       "prefix": "vscode-icons",
@@ -2162,7 +2089,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57793,
       "icon": "file-type-rproj",
       "prefix": "vscode-icons",
@@ -2183,7 +2110,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57908,
       "icon": "file-type-yang",
       "prefix": "vscode-icons",
@@ -2204,7 +2131,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57823,
       "icon": "file-type-stan",
       "prefix": "vscode-icons",
@@ -2225,7 +2152,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57550,
       "icon": "file-type-latino",
       "prefix": "vscode-icons",
@@ -2246,7 +2173,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57598,
       "icon": "file-type-light-mypy",
       "prefix": "vscode-icons",
@@ -2267,7 +2194,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57676,
       "icon": "file-type-mypy",
       "prefix": "vscode-icons",
@@ -2288,7 +2215,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57851,
       "icon": "file-type-toml",
       "prefix": "vscode-icons",
@@ -2309,7 +2236,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57624,
       "icon": "file-type-light-systemd",
       "prefix": "vscode-icons",
@@ -2330,7 +2257,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57835,
       "icon": "file-type-systemd",
       "prefix": "vscode-icons",
@@ -2351,7 +2278,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57440,
       "icon": "file-type-devcontainer",
       "prefix": "vscode-icons",
@@ -2372,7 +2299,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57799,
       "icon": "file-type-sas",
       "prefix": "vscode-icons",
@@ -2393,7 +2320,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57366,
       "icon": "file-type-appveyor",
       "prefix": "vscode-icons",
@@ -2414,7 +2341,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57527,
       "icon": "file-type-janet",
       "prefix": "vscode-icons",
@@ -2435,7 +2362,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57838,
       "icon": "file-type-teal",
       "prefix": "vscode-icons",
@@ -2456,7 +2383,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57551,
       "icon": "file-type-layout",
       "prefix": "vscode-icons",
@@ -2477,7 +2404,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57779,
       "icon": "file-type-registry",
       "prefix": "vscode-icons",
@@ -2498,42 +2425,7 @@
       "secondaryFont": "VscodeIconsSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "VscodeIcons",
-      "headBbox": "-318..1191 / 0..1001",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "vscode-icons",
-      "reasons": [
-        "head.xMin=-318",
-        "head.xMax=1191",
-        "head.yMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "VscodeIconsSecondary",
-      "headBbox": "0..1002 / 0..967",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "vscode-icons",
-      "reasons": [
-        "head.xMax=1002",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 878,
@@ -2685,35 +2577,12 @@
     {
       "error": null,
       "font": "VscodeIcons",
-      "glyphCount": 701,
+      "glyphCount": 671,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1191,
-        "xMin": -318,
-        "yMax": 1001,
-        "yMin": 0
-      },
-      "hhea": {
-        "advanceWidthMax": 1280,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 0
-      }
-    },
-    {
-      "error": null,
-      "font": "VscodeIconsSecondary",
-      "glyphCount": 329,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 1002,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 967,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -2724,7 +2593,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "VscodeIconsSecondary",
+      "glyphCount": 326,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

@@ -155,7 +155,28 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
+      "codepoint": 57556,
+      "icon": "so",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 896,
+      "secondary": {
+        "xMax": 896,
+        "xMin": 458,
+        "yMax": 750,
+        "yMin": 288
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "asymmetric",
       "codepoint": 57366,
       "icon": "bh",
       "prefix": "flagpack",
@@ -176,91 +197,7 @@
       "secondaryFont": "FlagpackSecondary"
     },
     {
-      "cause": "shifted",
-      "codepoint": 57537,
-      "icon": "qa",
-      "prefix": "flagpack",
-      "primary": {
-        "xMax": 1334,
-        "xMin": 0,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "primaryFont": "Flagpack",
-      "score": 837,
-      "secondary": {
-        "xMax": 497,
-        "xMin": 0,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "secondaryFont": "FlagpackSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 57393,
-      "icon": "cn",
-      "prefix": "flagpack",
-      "primary": {
-        "xMax": 1334,
-        "xMin": 0,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "primaryFont": "Flagpack",
-      "score": 558,
-      "secondary": {
-        "xMax": 776,
-        "xMin": 0,
-        "yMax": 919,
-        "yMin": 0
-      },
-      "secondaryFont": "FlagpackSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 57362,
-      "icon": "bd",
-      "prefix": "flagpack",
-      "primary": {
-        "xMax": 1334,
-        "xMin": 0,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "primaryFont": "Flagpack",
-      "score": 489,
-      "secondary": {
-        "xMax": 845,
-        "xMin": 0,
-        "yMax": 792,
-        "yMin": 0
-      },
-      "secondaryFont": "FlagpackSecondary"
-    },
-    {
-      "cause": "shifted",
-      "codepoint": 57556,
-      "icon": "so",
-      "prefix": "flagpack",
-      "primary": {
-        "xMax": 1334,
-        "xMin": 0,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "primaryFont": "Flagpack",
-      "score": 438,
-      "secondary": {
-        "xMax": 896,
-        "xMin": 0,
-        "yMax": 750,
-        "yMin": 0
-      },
-      "secondaryFont": "FlagpackSecondary"
-    },
-    {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57513,
       "icon": "nf",
       "prefix": "flagpack",
@@ -271,38 +208,38 @@
         "yMin": 0
       },
       "primaryFont": "Flagpack",
-      "score": 416,
+      "score": 831,
       "secondary": {
         "xMax": 918,
-        "xMin": 0,
+        "xMin": 415,
         "yMax": 1000,
         "yMin": 0
       },
       "secondaryFont": "FlagpackSecondary"
     },
     {
-      "cause": "shifted",
-      "codepoint": 57383,
-      "icon": "ca",
+      "cause": "asymmetric",
+      "codepoint": 57362,
+      "icon": "bd",
       "prefix": "flagpack",
       "primary": {
-        "xMax": 1000,
-        "xMin": 0,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "primaryFont": "Flagpack",
-      "score": 334,
-      "secondary": {
         "xMax": 1334,
         "xMin": 0,
         "yMax": 1000,
         "yMin": 0
       },
+      "primaryFont": "Flagpack",
+      "score": 739,
+      "secondary": {
+        "xMax": 845,
+        "xMin": 250,
+        "yMax": 792,
+        "yMin": 208
+      },
       "secondaryFont": "FlagpackSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57349,
       "icon": "al",
       "prefix": "flagpack",
@@ -313,54 +250,80 @@
         "yMin": 0
       },
       "primaryFont": "Flagpack",
-      "score": 333,
+      "score": 708,
       "secondary": {
         "xMax": 1001,
-        "xMin": 0,
+        "xMin": 375,
         "yMax": 849,
+        "yMin": 101
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 57383,
+      "icon": "ca",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1000,
+        "xMin": 333,
+        "yMax": 1000,
         "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 667,
+      "secondary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 57393,
+      "icon": "cn",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 658,
+      "secondary": {
+        "xMax": 776,
+        "xMin": 100,
+        "yMax": 919,
+        "yMin": 326
+      },
+      "secondaryFont": "FlagpackSecondary"
+    },
+    {
+      "cause": "asymmetric",
+      "codepoint": 57543,
+      "icon": "sa",
+      "prefix": "flagpack",
+      "primary": {
+        "xMax": 1334,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "primaryFont": "Flagpack",
+      "score": 393,
+      "secondary": {
+        "xMax": 1139,
+        "xMin": 198,
+        "yMax": 846,
+        "yMin": 192
       },
       "secondaryFont": "FlagpackSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Flagpack",
-      "headBbox": "-1..1335 / -1..1001",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 1,
-      "prefix": "flagpack",
-      "reasons": [
-        "head.xMin=-1",
-        "head.xMax=1335",
-        "head.yMin=-1",
-        "head.yMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "FlagpackSecondary",
-      "headBbox": "-1..1334 / 0..1000",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "flagpack",
-      "reasons": [
-        "head.xMin=-1",
-        "head.xMax=1334",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 1333,
@@ -1116,14 +1079,6 @@
     },
     {
       "advance": 1333,
-      "codepoint": 57442,
-      "font": "Flagpack",
-      "name": "gu",
-      "prefix": "flagpack",
-      "reason": "advance"
-    },
-    {
-      "advance": 1333,
       "codepoint": 57443,
       "font": "Flagpack",
       "name": "gw",
@@ -1468,14 +1423,6 @@
     },
     {
       "advance": 1333,
-      "codepoint": 57489,
-      "font": "Flagpack",
-      "name": "md",
-      "prefix": "flagpack",
-      "reason": "advance"
-    },
-    {
-      "advance": 1333,
       "codepoint": 57490,
       "font": "Flagpack",
       "name": "me",
@@ -1591,14 +1538,6 @@
       "codepoint": 57504,
       "font": "Flagpack",
       "name": "id",
-      "prefix": "flagpack",
-      "reason": "advance"
-    },
-    {
-      "advance": 1333,
-      "codepoint": 57505,
-      "font": "Flagpack",
-      "name": "mv",
       "prefix": "flagpack",
       "reason": "advance"
     },
@@ -2331,6 +2270,14 @@
       "reason": "advance"
     },
     {
+      "codepoint": 57384,
+      "contentWidth": 67,
+      "font": "Flagpack",
+      "name": "cc",
+      "prefix": "flagpack",
+      "reason": "narrow"
+    },
+    {
       "codepoint": 57344,
       "contentWidth": 1334,
       "font": "Flagpack",
@@ -2484,17 +2431,9 @@
     },
     {
       "codepoint": 57367,
-      "contentWidth": 1332,
+      "contentWidth": 1331,
       "font": "Flagpack",
       "name": "bi",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
-      "codepoint": 57368,
-      "contentWidth": 1334,
-      "font": "Flagpack",
-      "name": "bj",
       "prefix": "flagpack",
       "reason": "wide"
     },
@@ -2532,7 +2471,7 @@
     },
     {
       "codepoint": 57373,
-      "contentWidth": 1334,
+      "contentWidth": 1333,
       "font": "Flagpack",
       "name": "bq-bo",
       "prefix": "flagpack",
@@ -2564,7 +2503,7 @@
     },
     {
       "codepoint": 57378,
-      "contentWidth": 1334,
+      "contentWidth": 1331,
       "font": "Flagpack",
       "name": "bt",
       "prefix": "flagpack",
@@ -2588,7 +2527,7 @@
     },
     {
       "codepoint": 57381,
-      "contentWidth": 1334,
+      "contentWidth": 1333,
       "font": "Flagpack",
       "name": "by",
       "prefix": "flagpack",
@@ -2884,7 +2823,7 @@
     },
     {
       "codepoint": 57427,
-      "contentWidth": 1229,
+      "contentWidth": 1107,
       "font": "Flagpack",
       "name": "gb-wls",
       "prefix": "flagpack",
@@ -2983,14 +2922,6 @@
       "contentWidth": 1334,
       "font": "Flagpack",
       "name": "gs",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
-      "codepoint": 57442,
-      "contentWidth": 1334,
-      "font": "Flagpack",
-      "name": "gu",
       "prefix": "flagpack",
       "reason": "wide"
     },
@@ -3099,14 +3030,6 @@
       "reason": "wide"
     },
     {
-      "codepoint": 57460,
-      "contentWidth": 1334,
-      "font": "Flagpack",
-      "name": "it",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
       "codepoint": 57461,
       "contentWidth": 1335,
       "font": "Flagpack",
@@ -3163,14 +3086,6 @@
       "reason": "wide"
     },
     {
-      "codepoint": 57469,
-      "contentWidth": 1334,
-      "font": "Flagpack",
-      "name": "km",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
       "codepoint": 57470,
       "contentWidth": 1334,
       "font": "Flagpack",
@@ -3188,7 +3103,7 @@
     },
     {
       "codepoint": 57472,
-      "contentWidth": 1241,
+      "contentWidth": 1112,
       "font": "Flagpack",
       "name": "kr",
       "prefix": "flagpack",
@@ -3236,7 +3151,7 @@
     },
     {
       "codepoint": 57480,
-      "contentWidth": 1252,
+      "contentWidth": 1168,
       "font": "Flagpack",
       "name": "lk",
       "prefix": "flagpack",
@@ -3307,34 +3222,10 @@
       "reason": "wide"
     },
     {
-      "codepoint": 57489,
-      "contentWidth": 1334,
-      "font": "Flagpack",
-      "name": "md",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
-      "codepoint": 57490,
-      "contentWidth": 1167,
-      "font": "Flagpack",
-      "name": "me",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
       "codepoint": 57491,
       "contentWidth": 1334,
       "font": "Flagpack",
       "name": "bl",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
-      "codepoint": 57492,
-      "contentWidth": 1334,
-      "font": "Flagpack",
-      "name": "mg",
       "prefix": "flagpack",
       "reason": "wide"
     },
@@ -3411,26 +3302,10 @@
       "reason": "wide"
     },
     {
-      "codepoint": 57503,
-      "contentWidth": 1334,
-      "font": "Flagpack",
-      "name": "mt",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
       "codepoint": 57504,
       "contentWidth": 1334,
       "font": "Flagpack",
       "name": "id",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
-      "codepoint": 57505,
-      "contentWidth": 1334,
-      "font": "Flagpack",
-      "name": "mv",
       "prefix": "flagpack",
       "reason": "wide"
     },
@@ -3596,17 +3471,9 @@
     },
     {
       "codepoint": 57527,
-      "contentWidth": 1334,
+      "contentWidth": 1333,
       "font": "Flagpack",
       "name": "ph",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
-      "codepoint": 57528,
-      "contentWidth": 1334,
-      "font": "Flagpack",
-      "name": "pk",
       "prefix": "flagpack",
       "reason": "wide"
     },
@@ -3844,7 +3711,7 @@
     },
     {
       "codepoint": 57561,
-      "contentWidth": 1334,
+      "contentWidth": 1215,
       "font": "Flagpack",
       "name": "sx",
       "prefix": "flagpack",
@@ -4027,14 +3894,6 @@
       "reason": "wide"
     },
     {
-      "codepoint": 57590,
-      "contentWidth": 1185,
-      "font": "Flagpack",
-      "name": "vi",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
       "codepoint": 57591,
       "contentWidth": 1334,
       "font": "Flagpack",
@@ -4076,7 +3935,7 @@
     },
     {
       "codepoint": 57596,
-      "contentWidth": 1298,
+      "contentWidth": 1263,
       "font": "Flagpack",
       "name": "yt",
       "prefix": "flagpack",
@@ -4091,16 +3950,8 @@
       "reason": "wide"
     },
     {
-      "codepoint": 57598,
-      "contentWidth": 1335,
-      "font": "Flagpack",
-      "name": "zm",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
       "codepoint": 57599,
-      "contentWidth": 1334,
+      "contentWidth": 1333,
       "font": "Flagpack",
       "name": "zw",
       "prefix": "flagpack",
@@ -4291,14 +4142,6 @@
       "reason": "wide"
     },
     {
-      "codepoint": 57543,
-      "contentWidth": 1139,
-      "font": "FlagpackSecondary",
-      "name": "sa",
-      "prefix": "flagpack",
-      "reason": "wide"
-    },
-    {
       "codepoint": 57568,
       "contentWidth": 1334,
       "font": "FlagpackSecondary",
@@ -4312,24 +4155,24 @@
     {
       "error": null,
       "font": "Flagpack",
-      "glyphCount": 256,
+      "glyphCount": 243,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1335,
-        "xMin": -1,
-        "yMax": 1001,
-        "yMin": -1
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1333,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 1
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     },
     {
@@ -4338,20 +4181,20 @@
       "glyphCount": 16,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1334,
-        "xMin": -1,
+        "xMax": 1000,
+        "xMin": 0,
         "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1333,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

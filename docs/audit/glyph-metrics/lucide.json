@@ -49,6 +49,162 @@
       ]
     },
     {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "divide-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "divide-square",
+        "minus-square",
+        "square-divide",
+        "square-minus"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "divide-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "divide-square-bold",
+        "minus-square-bold",
+        "square-divide-bold",
+        "square-minus-bold"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "divide-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "divide-square-light",
+        "minus-square-light",
+        "square-divide-light",
+        "square-minus-light"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "divide-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "divide-square-thin",
+        "minus-square-thin",
+        "square-divide-thin",
+        "square-minus-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "edit",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "edit",
+        "pen-box",
+        "pen-square",
+        "square-pen"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "edit-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "edit-bold",
+        "pen-box-bold",
+        "pen-square-bold",
+        "square-pen-bold"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "edit-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "edit-light",
+        "pen-box-light",
+        "pen-square-light",
+        "square-pen-light"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "edit-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "edit-thin",
+        "pen-box-thin",
+        "pen-square-thin",
+        "square-pen-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "gantt-chart-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "gantt-chart-square",
+        "square-chart-gantt",
+        "square-gantt",
+        "square-gantt-chart"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "gantt-chart-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "gantt-chart-square-bold",
+        "square-chart-gantt-bold",
+        "square-gantt-bold",
+        "square-gantt-chart-bold"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "gantt-chart-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "gantt-chart-square-light",
+        "square-chart-gantt-light",
+        "square-gantt-chart-light",
+        "square-gantt-light"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "gantt-chart-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "gantt-chart-square-thin",
+        "square-chart-gantt-thin",
+        "square-gantt-chart-thin",
+        "square-gantt-thin"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "Lucide",
+      "glyphName": "search-large",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "search-large",
+        "search-large-bold",
+        "search-large-light",
+        "search-large-thin"
+      ]
+    },
+    {
       "codepointCount": 3,
       "font": "Lucide",
       "glyphName": "circle-help",
@@ -95,45 +251,45 @@
     {
       "codepointCount": 3,
       "font": "Lucide",
-      "glyphName": "edit",
+      "glyphName": "columns-3-cog",
       "prefix": "lucide",
       "sampleIcons": [
-        "edit",
-        "pen-box",
-        "pen-square"
+        "columns-3-cog",
+        "columns-settings",
+        "table-config"
       ]
     },
     {
       "codepointCount": 3,
       "font": "Lucide",
-      "glyphName": "edit-bold",
+      "glyphName": "columns-3-cog-bold",
       "prefix": "lucide",
       "sampleIcons": [
-        "edit-bold",
-        "pen-box-bold",
-        "pen-square-bold"
+        "columns-3-cog-bold",
+        "columns-settings-bold",
+        "table-config-bold"
       ]
     },
     {
       "codepointCount": 3,
       "font": "Lucide",
-      "glyphName": "edit-light",
+      "glyphName": "columns-3-cog-light",
       "prefix": "lucide",
       "sampleIcons": [
-        "edit-light",
-        "pen-box-light",
-        "pen-square-light"
+        "columns-3-cog-light",
+        "columns-settings-light",
+        "table-config-light"
       ]
     },
     {
       "codepointCount": 3,
       "font": "Lucide",
-      "glyphName": "edit-thin",
+      "glyphName": "columns-3-cog-thin",
       "prefix": "lucide",
       "sampleIcons": [
-        "edit-thin",
-        "pen-box-thin",
-        "pen-square-thin"
+        "columns-3-cog-thin",
+        "columns-settings-thin",
+        "table-config-thin"
       ]
     },
     {
@@ -178,6 +334,178 @@
         "grid-3-x-3-thin",
         "grid-3x3-thin",
         "grid-thin"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "inspect",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "inspect",
+        "mouse-pointer-square",
+        "square-mouse-pointer"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "inspect-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "inspect-bold",
+        "mouse-pointer-square-bold",
+        "square-mouse-pointer-bold"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "inspect-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "inspect-light",
+        "mouse-pointer-square-light",
+        "square-mouse-pointer-light"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "inspect-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "inspect-thin",
+        "mouse-pointer-square-thin",
+        "square-mouse-pointer-thin"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "kanban-square-dashed",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "kanban-square-dashed",
+        "square-dashed-kanban",
+        "square-kanban-dashed"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "kanban-square-dashed-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "kanban-square-dashed-bold",
+        "square-dashed-kanban-bold",
+        "square-kanban-dashed-bold"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "kanban-square-dashed-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "kanban-square-dashed-light",
+        "square-dashed-kanban-light",
+        "square-kanban-dashed-light"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "kanban-square-dashed-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "kanban-square-dashed-thin",
+        "square-dashed-kanban-thin",
+        "square-kanban-dashed-thin"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "square-dashed-text",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-dashed-text",
+        "text-select",
+        "text-selection"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "square-dashed-text-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-dashed-text-bold",
+        "text-select-bold",
+        "text-selection-bold"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "square-dashed-text-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-dashed-text-light",
+        "text-select-light",
+        "text-selection-light"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "Lucide",
+      "glyphName": "square-dashed-text-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-dashed-text-thin",
+        "text-select-thin",
+        "text-selection-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "activity-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "activity-square",
+        "square-activity"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "activity-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "activity-square-bold",
+        "square-activity-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "activity-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "activity-square-light",
+        "square-activity-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "activity-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "activity-square-thin",
+        "square-activity-thin"
       ]
     },
     {
@@ -378,6 +706,46 @@
       "sampleIcons": [
         "alert-octagon-thin",
         "octagon-alert-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "alert-triangle",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "alert-triangle",
+        "triangle-alert"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "alert-triangle-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "alert-triangle-bold",
+        "triangle-alert-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "alert-triangle-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "alert-triangle-light",
+        "triangle-alert-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "alert-triangle-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "alert-triangle-thin",
+        "triangle-alert-thin"
       ]
     },
     {
@@ -703,6 +1071,86 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "arrow-down-left-from-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-left-from-square",
+        "square-arrow-out-down-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-left-from-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-left-from-square-bold",
+        "square-arrow-out-down-left-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-left-from-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-left-from-square-light",
+        "square-arrow-out-down-left-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-left-from-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-left-from-square-thin",
+        "square-arrow-out-down-left-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-left-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-left-square",
+        "square-arrow-down-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-left-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-left-square-bold",
+        "square-arrow-down-left-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-left-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-left-square-light",
+        "square-arrow-down-left-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-left-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-left-square-thin",
+        "square-arrow-down-left-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "arrow-down-right-from-circle",
       "prefix": "lucide",
       "sampleIcons": [
@@ -738,6 +1186,166 @@
       "sampleIcons": [
         "arrow-down-right-from-circle-thin",
         "circle-arrow-out-down-right-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-right-from-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-right-from-square",
+        "square-arrow-out-down-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-right-from-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-right-from-square-bold",
+        "square-arrow-out-down-right-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-right-from-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-right-from-square-light",
+        "square-arrow-out-down-right-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-right-from-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-right-from-square-thin",
+        "square-arrow-out-down-right-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-right-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-right-square",
+        "square-arrow-down-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-right-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-right-square-bold",
+        "square-arrow-down-right-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-right-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-right-square-light",
+        "square-arrow-down-right-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-right-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-right-square-thin",
+        "square-arrow-down-right-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-square",
+        "square-arrow-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-square-bold",
+        "square-arrow-down-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-square-light",
+        "square-arrow-down-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-square-thin",
+        "square-arrow-down-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-wide-narrow",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-wide-narrow",
+        "sort-desc"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-wide-narrow-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-wide-narrow-bold",
+        "sort-desc-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-wide-narrow-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-wide-narrow-light",
+        "sort-desc-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-down-wide-narrow-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-down-wide-narrow-thin",
+        "sort-desc-thin"
       ]
     },
     {
@@ -823,6 +1431,46 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "arrow-left-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-left-square",
+        "square-arrow-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-left-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-left-square-bold",
+        "square-arrow-left-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-left-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-left-square-light",
+        "square-arrow-left-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-left-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-left-square-thin",
+        "square-arrow-left-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "arrow-right-circle",
       "prefix": "lucide",
       "sampleIcons": [
@@ -858,6 +1506,46 @@
       "sampleIcons": [
         "arrow-right-circle-thin",
         "circle-arrow-right-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-right-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-right-square",
+        "square-arrow-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-right-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-right-square-bold",
+        "square-arrow-right-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-right-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-right-square-light",
+        "square-arrow-right-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-right-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-right-square-thin",
+        "square-arrow-right-thin"
       ]
     },
     {
@@ -1063,6 +1751,126 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "arrow-up-left-from-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-left-from-square",
+        "square-arrow-out-up-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-left-from-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-left-from-square-bold",
+        "square-arrow-out-up-left-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-left-from-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-left-from-square-light",
+        "square-arrow-out-up-left-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-left-from-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-left-from-square-thin",
+        "square-arrow-out-up-left-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-left-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-left-square",
+        "square-arrow-up-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-left-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-left-square-bold",
+        "square-arrow-up-left-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-left-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-left-square-light",
+        "square-arrow-up-left-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-left-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-left-square-thin",
+        "square-arrow-up-left-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-narrow-wide",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-narrow-wide",
+        "sort-asc"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-narrow-wide-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-narrow-wide-bold",
+        "sort-asc-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-narrow-wide-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-narrow-wide-light",
+        "sort-asc-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-narrow-wide-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-narrow-wide-thin",
+        "sort-asc-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "arrow-up-right-from-circle",
       "prefix": "lucide",
       "sampleIcons": [
@@ -1098,6 +1906,126 @@
       "sampleIcons": [
         "arrow-up-right-from-circle-thin",
         "circle-arrow-out-up-right-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-right-from-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-right-from-square",
+        "square-arrow-out-up-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-right-from-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-right-from-square-bold",
+        "square-arrow-out-up-right-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-right-from-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-right-from-square-light",
+        "square-arrow-out-up-right-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-right-from-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-right-from-square-thin",
+        "square-arrow-out-up-right-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-right-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-right-square",
+        "square-arrow-up-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-right-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-right-square-bold",
+        "square-arrow-up-right-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-right-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-right-square-light",
+        "square-arrow-up-right-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-right-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-right-square-thin",
+        "square-arrow-up-right-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-square",
+        "square-arrow-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-square-bold",
+        "square-arrow-up-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-square-light",
+        "square-arrow-up-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "arrow-up-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "arrow-up-square-thin",
+        "square-arrow-up-thin"
       ]
     },
     {
@@ -1143,6 +2071,46 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "asterisk-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "asterisk-square",
+        "square-asterisk"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "asterisk-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "asterisk-square-bold",
+        "square-asterisk-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "asterisk-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "asterisk-square-light",
+        "square-asterisk-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "asterisk-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "asterisk-square-thin",
+        "square-asterisk-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "axis-3-d",
       "prefix": "lucide",
       "sampleIcons": [
@@ -1178,6 +2146,46 @@
       "sampleIcons": [
         "axis-3-d-thin",
         "axis-3d-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "badge-check",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "badge-check",
+        "verified"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "badge-check-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "badge-check-bold",
+        "verified-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "badge-check-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "badge-check-light",
+        "verified-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "badge-check-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "badge-check-thin",
+        "verified-thin"
       ]
     },
     {
@@ -1423,6 +2431,46 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "box-select",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "box-select",
+        "square-dashed"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "box-select-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "box-select-bold",
+        "square-dashed-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "box-select-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "box-select-light",
+        "square-dashed-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "box-select-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "box-select-thin",
+        "square-dashed-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "braces",
       "prefix": "lucide",
       "sampleIcons": [
@@ -1458,6 +2506,46 @@
       "sampleIcons": [
         "braces-thin",
         "curly-braces-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "captions",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "captions",
+        "subtitles"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "captions-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "captions-bold",
+        "subtitles-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "captions-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "captions-light",
+        "subtitles-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "captions-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "captions-thin",
+        "subtitles-thin"
       ]
     },
     {
@@ -1583,6 +2671,86 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "check-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "check-square",
+        "square-check-big"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "check-square-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "check-square-2",
+        "square-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "check-square-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "check-square-2-bold",
+        "square-check-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "check-square-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "check-square-2-light",
+        "square-check-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "check-square-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "check-square-2-thin",
+        "square-check-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "check-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "check-square-bold",
+        "square-check-big-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "check-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "check-square-light",
+        "square-check-big-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "check-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "check-square-thin",
+        "square-check-big-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "chevron-down-circle",
       "prefix": "lucide",
       "sampleIcons": [
@@ -1618,6 +2786,46 @@
       "sampleIcons": [
         "chevron-down-circle-thin",
         "circle-chevron-down-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-down-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-down-square",
+        "square-chevron-down"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-down-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-down-square-bold",
+        "square-chevron-down-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-down-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-down-square-light",
+        "square-chevron-down-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-down-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-down-square-thin",
+        "square-chevron-down-thin"
       ]
     },
     {
@@ -1663,6 +2871,46 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "chevron-left-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-left-square",
+        "square-chevron-left"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-left-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-left-square-bold",
+        "square-chevron-left-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-left-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-left-square-light",
+        "square-chevron-left-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-left-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-left-square-thin",
+        "square-chevron-left-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "chevron-right-circle",
       "prefix": "lucide",
       "sampleIcons": [
@@ -1703,6 +2951,46 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "chevron-right-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-right-square",
+        "square-chevron-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-right-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-right-square-bold",
+        "square-chevron-right-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-right-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-right-square-light",
+        "square-chevron-right-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-right-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-right-square-thin",
+        "square-chevron-right-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "chevron-up-circle",
       "prefix": "lucide",
       "sampleIcons": [
@@ -1738,6 +3026,46 @@
       "sampleIcons": [
         "chevron-up-circle-thin",
         "circle-chevron-up-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-up-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-up-square",
+        "square-chevron-up"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-up-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-up-square-bold",
+        "square-chevron-up-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-up-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-up-square-light",
+        "square-chevron-up-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "chevron-up-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "chevron-up-square-thin",
+        "square-chevron-up-thin"
       ]
     },
     {
@@ -2143,6 +3471,166 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "circle-stop",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-stop",
+        "stop-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-stop-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-stop-bold",
+        "stop-circle-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-stop-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-stop-light",
+        "stop-circle-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-stop-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-stop-thin",
+        "stop-circle-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-user",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-user",
+        "user-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-user-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-user-bold",
+        "user-circle-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-user-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-user-light",
+        "user-circle-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-user-round",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-user-round",
+        "user-circle-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-user-round-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-user-round-bold",
+        "user-circle-2-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-user-round-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-user-round-light",
+        "user-circle-2-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-user-round-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-user-round-thin",
+        "user-circle-2-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-user-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-user-thin",
+        "user-circle-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-x",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-x",
+        "x-circle"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-x-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-x-bold",
+        "x-circle-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-x-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-x-light",
+        "x-circle-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "circle-x-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "circle-x-thin",
+        "x-circle-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "clipboard-edit",
       "prefix": "lucide",
       "sampleIcons": [
@@ -2303,6 +3791,46 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "cloud-upload",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "cloud-upload",
+        "upload-cloud"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "cloud-upload-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "cloud-upload-bold",
+        "upload-cloud-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "cloud-upload-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "cloud-upload-light",
+        "upload-cloud-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "cloud-upload-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "cloud-upload-thin",
+        "upload-cloud-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "code-2",
       "prefix": "lucide",
       "sampleIcons": [
@@ -2338,6 +3866,46 @@
       "sampleIcons": [
         "code-2-thin",
         "code-xml-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "code-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "code-square",
+        "square-code"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "code-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "code-square-bold",
+        "square-code-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "code-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "code-square-light",
+        "square-code-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "code-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "code-square-thin",
+        "square-code-thin"
       ]
     },
     {
@@ -2398,46 +3966,6 @@
       "sampleIcons": [
         "columns-3-bold",
         "panels-left-right-bold"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Lucide",
-      "glyphName": "columns-3-cog",
-      "prefix": "lucide",
-      "sampleIcons": [
-        "columns-3-cog",
-        "columns-settings"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Lucide",
-      "glyphName": "columns-3-cog-bold",
-      "prefix": "lucide",
-      "sampleIcons": [
-        "columns-3-cog-bold",
-        "columns-settings-bold"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Lucide",
-      "glyphName": "columns-3-cog-light",
-      "prefix": "lucide",
-      "sampleIcons": [
-        "columns-3-cog-light",
-        "columns-settings-light"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Lucide",
-      "glyphName": "columns-3-cog-thin",
-      "prefix": "lucide",
-      "sampleIcons": [
-        "columns-3-cog-thin",
-        "columns-settings-thin"
       ]
     },
     {
@@ -2543,41 +4071,41 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
-      "glyphName": "divide-square",
+      "glyphName": "dot-square",
       "prefix": "lucide",
       "sampleIcons": [
-        "divide-square",
-        "minus-square"
+        "dot-square",
+        "square-dot"
       ]
     },
     {
       "codepointCount": 2,
       "font": "Lucide",
-      "glyphName": "divide-square-bold",
+      "glyphName": "dot-square-bold",
       "prefix": "lucide",
       "sampleIcons": [
-        "divide-square-bold",
-        "minus-square-bold"
+        "dot-square-bold",
+        "square-dot-bold"
       ]
     },
     {
       "codepointCount": 2,
       "font": "Lucide",
-      "glyphName": "divide-square-light",
+      "glyphName": "dot-square-light",
       "prefix": "lucide",
       "sampleIcons": [
-        "divide-square-light",
-        "minus-square-light"
+        "dot-square-light",
+        "square-dot-light"
       ]
     },
     {
       "codepointCount": 2,
       "font": "Lucide",
-      "glyphName": "divide-square-thin",
+      "glyphName": "dot-square-thin",
       "prefix": "lucide",
       "sampleIcons": [
-        "divide-square-thin",
-        "minus-square-thin"
+        "dot-square-thin",
+        "square-dot-thin"
       ]
     },
     {
@@ -2778,6 +4306,46 @@
       "sampleIcons": [
         "ellipsis-vertical-thin",
         "more-vertical-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "equal-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "equal-square",
+        "square-equal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "equal-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "equal-square-bold",
+        "square-equal-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "equal-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "equal-square-light",
+        "square-equal-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "equal-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "equal-square-thin",
+        "square-equal-thin"
       ]
     },
     {
@@ -3223,6 +4791,86 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "flip-horizontal",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "flip-horizontal",
+        "square-centerline-dashed-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "flip-horizontal-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "flip-horizontal-bold",
+        "square-centerline-dashed-horizontal-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "flip-horizontal-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "flip-horizontal-light",
+        "square-centerline-dashed-horizontal-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "flip-horizontal-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "flip-horizontal-thin",
+        "square-centerline-dashed-horizontal-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "flip-vertical",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "flip-vertical",
+        "square-centerline-dashed-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "flip-vertical-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "flip-vertical-bold",
+        "square-centerline-dashed-vertical-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "flip-vertical-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "flip-vertical-light",
+        "square-centerline-dashed-vertical-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "flip-vertical-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "flip-vertical-thin",
+        "square-centerline-dashed-vertical-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "folder-cog",
       "prefix": "lucide",
       "sampleIcons": [
@@ -3303,6 +4951,86 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "fork-knife",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "fork-knife",
+        "utensils"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "fork-knife-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "fork-knife-bold",
+        "utensils-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "fork-knife-crossed",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "fork-knife-crossed",
+        "utensils-crossed"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "fork-knife-crossed-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "fork-knife-crossed-bold",
+        "utensils-crossed-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "fork-knife-crossed-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "fork-knife-crossed-light",
+        "utensils-crossed-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "fork-knife-crossed-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "fork-knife-crossed-thin",
+        "utensils-crossed-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "fork-knife-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "fork-knife-light",
+        "utensils-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "fork-knife-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "fork-knife-thin",
+        "utensils-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "form-input",
       "prefix": "lucide",
       "sampleIcons": [
@@ -3338,6 +5066,46 @@
       "sampleIcons": [
         "form-input-thin",
         "rectangle-ellipsis-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "function-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "function-square",
+        "square-function"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "function-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "function-square-bold",
+        "square-function-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "function-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "function-square-light",
+        "square-function-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "function-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "function-square-thin",
+        "square-function-thin"
       ]
     },
     {
@@ -3823,46 +5591,6 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
-      "glyphName": "inspect",
-      "prefix": "lucide",
-      "sampleIcons": [
-        "inspect",
-        "mouse-pointer-square"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Lucide",
-      "glyphName": "inspect-bold",
-      "prefix": "lucide",
-      "sampleIcons": [
-        "inspect-bold",
-        "mouse-pointer-square-bold"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Lucide",
-      "glyphName": "inspect-light",
-      "prefix": "lucide",
-      "sampleIcons": [
-        "inspect-light",
-        "mouse-pointer-square-light"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Lucide",
-      "glyphName": "inspect-thin",
-      "prefix": "lucide",
-      "sampleIcons": [
-        "inspect-thin",
-        "mouse-pointer-square-thin"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "Lucide",
       "glyphName": "japanese-yen",
       "prefix": "lucide",
       "sampleIcons": [
@@ -3898,6 +5626,46 @@
       "sampleIcons": [
         "japanese-yen-thin",
         "jersey-pound-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "kanban-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "kanban-square",
+        "square-kanban"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "kanban-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "kanban-square-bold",
+        "square-kanban-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "kanban-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "kanban-square-light",
+        "square-kanban-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "kanban-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "kanban-square-thin",
+        "square-kanban-thin"
       ]
     },
     {
@@ -3983,6 +5751,46 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "library-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "library-square",
+        "square-library"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "library-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "library-square-bold",
+        "square-library-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "library-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "library-square-light",
+        "square-library-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "library-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "library-square-thin",
+        "square-library-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "loader-2",
       "prefix": "lucide",
       "sampleIcons": [
@@ -4063,6 +5871,126 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "lock-keyhole-open",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "lock-keyhole-open",
+        "unlock-keyhole"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "lock-keyhole-open-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "lock-keyhole-open-bold",
+        "unlock-keyhole-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "lock-keyhole-open-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "lock-keyhole-open-light",
+        "unlock-keyhole-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "lock-keyhole-open-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "lock-keyhole-open-thin",
+        "unlock-keyhole-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "lock-open",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "lock-open",
+        "unlock"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "lock-open-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "lock-open-bold",
+        "unlock-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "lock-open-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "lock-open-light",
+        "unlock-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "lock-open-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "lock-open-thin",
+        "unlock-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "m-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "m-square",
+        "square-m"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "m-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "m-square-bold",
+        "square-m-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "m-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "m-square-light",
+        "square-m-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "m-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "m-square-thin",
+        "square-m-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "mail-question",
       "prefix": "lucide",
       "sampleIcons": [
@@ -4098,6 +6026,46 @@
       "sampleIcons": [
         "mail-question-mark-thin",
         "mail-question-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "menu-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "menu-square",
+        "square-menu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "menu-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "menu-square-bold",
+        "square-menu-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "menu-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "menu-square-light",
+        "square-menu-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "menu-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "menu-square-thin",
+        "square-menu-thin"
       ]
     },
     {
@@ -4183,6 +6151,46 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "mouse-pointer-square-dashed",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "mouse-pointer-square-dashed",
+        "square-dashed-mouse-pointer"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "mouse-pointer-square-dashed-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "mouse-pointer-square-dashed-bold",
+        "square-dashed-mouse-pointer-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "mouse-pointer-square-dashed-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "mouse-pointer-square-dashed-light",
+        "square-dashed-mouse-pointer-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "mouse-pointer-square-dashed-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "mouse-pointer-square-dashed-thin",
+        "square-dashed-mouse-pointer-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "move-3-d",
       "prefix": "lucide",
       "sampleIcons": [
@@ -4263,6 +6271,46 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "octagon-x",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "octagon-x",
+        "x-octagon"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "octagon-x-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "octagon-x-bold",
+        "x-octagon-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "octagon-x-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "octagon-x-light",
+        "x-octagon-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "octagon-x-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "octagon-x-thin",
+        "x-octagon-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "paintbrush-2",
       "prefix": "lucide",
       "sampleIcons": [
@@ -4298,6 +6346,46 @@
       "sampleIcons": [
         "paintbrush-2-thin",
         "paintbrush-vertical-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "palmtree",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "palmtree",
+        "tree-palm"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "palmtree-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "palmtree-bold",
+        "tree-palm-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "palmtree-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "palmtree-light",
+        "tree-palm-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "palmtree-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "palmtree-thin",
+        "tree-palm-thin"
       ]
     },
     {
@@ -4343,6 +6431,66 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "panel-left",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left",
+        "sidebar"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-bold",
+        "sidebar-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-close",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-close",
+        "sidebar-close"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-close-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-close-bold",
+        "sidebar-close-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-close-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-close-light",
+        "sidebar-close-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-close-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-close-thin",
+        "sidebar-close-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "panel-left-dashed",
       "prefix": "lucide",
       "sampleIcons": [
@@ -4378,6 +6526,66 @@
       "sampleIcons": [
         "panel-left-dashed-thin",
         "panel-left-inactive-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-light",
+        "sidebar-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-open",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-open",
+        "sidebar-open"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-open-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-open-bold",
+        "sidebar-open-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-open-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-open-light",
+        "sidebar-open-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-open-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-open-thin",
+        "sidebar-open-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "panel-left-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "panel-left-thin",
+        "sidebar-thin"
       ]
     },
     {
@@ -4503,6 +6711,246 @@
     {
       "codepointCount": 2,
       "font": "Lucide",
+      "glyphName": "parking-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "parking-square",
+        "square-parking"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "parking-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "parking-square-bold",
+        "square-parking-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "parking-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "parking-square-light",
+        "square-parking-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "parking-square-off",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "parking-square-off",
+        "square-parking-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "parking-square-off-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "parking-square-off-bold",
+        "square-parking-off-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "parking-square-off-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "parking-square-off-light",
+        "square-parking-off-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "parking-square-off-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "parking-square-off-thin",
+        "square-parking-off-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "parking-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "parking-square-thin",
+        "square-parking-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "percent-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "percent-square",
+        "square-percent"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "percent-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "percent-square-bold",
+        "square-percent-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "percent-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "percent-square-light",
+        "square-percent-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "percent-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "percent-square-thin",
+        "square-percent-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "pi-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "pi-square",
+        "square-pi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "pi-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "pi-square-bold",
+        "square-pi-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "pi-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "pi-square-light",
+        "square-pi-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "pi-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "pi-square-thin",
+        "square-pi-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "pilcrow-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "pilcrow-square",
+        "square-pilcrow"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "pilcrow-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "pilcrow-square-bold",
+        "square-pilcrow-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "pilcrow-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "pilcrow-square-light",
+        "square-pilcrow-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "pilcrow-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "pilcrow-square-thin",
+        "square-pilcrow-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "play-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "play-square",
+        "square-play"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "play-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "play-square-bold",
+        "square-play-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "play-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "play-square-light",
+        "square-play-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "play-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "play-square-thin",
+        "square-play-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
       "glyphName": "plug-zap",
       "prefix": "lucide",
       "sampleIcons": [
@@ -4538,6 +6986,86 @@
       "sampleIcons": [
         "plug-zap-2-thin",
         "plug-zap-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "plus-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "plus-square",
+        "square-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "plus-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "plus-square-bold",
+        "square-plus-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "plus-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "plus-square-light",
+        "square-plus-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "plus-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "plus-square-thin",
+        "square-plus-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "power-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "power-square",
+        "square-power"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "power-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "power-square-bold",
+        "square-power-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "power-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "power-square-light",
+        "square-power-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "power-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "power-square-thin",
+        "square-power-thin"
       ]
     },
     {
@@ -4659,100 +7187,1131 @@
         "scale-3-d-thin",
         "scale-3d-thin"
       ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "school-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "school-2",
+        "university"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "school-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "school-2-bold",
+        "university-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "school-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "school-2-light",
+        "university-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "school-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "school-2-thin",
+        "university-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "scissors-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "scissors-square",
+        "square-scissors"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "scissors-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "scissors-square-bold",
+        "square-scissors-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "scissors-square-dashed-bottom",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "scissors-square-dashed-bottom",
+        "square-bottom-dashed-scissors"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "scissors-square-dashed-bottom-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "scissors-square-dashed-bottom-bold",
+        "square-bottom-dashed-scissors-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "scissors-square-dashed-bottom-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "scissors-square-dashed-bottom-light",
+        "square-bottom-dashed-scissors-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "scissors-square-dashed-bottom-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "scissors-square-dashed-bottom-thin",
+        "square-bottom-dashed-scissors-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "scissors-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "scissors-square-light",
+        "square-scissors-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "scissors-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "scissors-square-thin",
+        "square-scissors-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "send-horizonal",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "send-horizonal",
+        "send-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "send-horizonal-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "send-horizonal-bold",
+        "send-horizontal-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "send-horizonal-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "send-horizonal-light",
+        "send-horizontal-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "send-horizonal-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "send-horizonal-thin",
+        "send-horizontal-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "shield-close",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "shield-close",
+        "shield-x"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "shield-close-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "shield-close-bold",
+        "shield-x-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "shield-close-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "shield-close-light",
+        "shield-x-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "shield-close-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "shield-close-thin",
+        "shield-x-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "shield-question",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "shield-question",
+        "shield-question-mark"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "shield-question-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "shield-question-bold",
+        "shield-question-mark-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "shield-question-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "shield-question-light",
+        "shield-question-mark-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "shield-question-mark-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "shield-question-mark-thin",
+        "shield-question-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sigma-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sigma-square",
+        "square-sigma"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sigma-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sigma-square-bold",
+        "square-sigma-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sigma-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sigma-square-light",
+        "square-sigma-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sigma-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sigma-square-thin",
+        "square-sigma-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "slash-square",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "slash-square",
+        "square-slash"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "slash-square-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "slash-square-bold",
+        "square-slash-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "slash-square-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "slash-square-light",
+        "square-slash-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "slash-square-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "slash-square-thin",
+        "square-slash-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sliders",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sliders",
+        "sliders-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sliders-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sliders-bold",
+        "sliders-vertical-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sliders-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sliders-light",
+        "sliders-vertical-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sliders-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sliders-thin",
+        "sliders-vertical-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sparkles",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sparkles",
+        "stars"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sparkles-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sparkles-bold",
+        "stars-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sparkles-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sparkles-light",
+        "stars-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "sparkles-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "sparkles-thin",
+        "stars-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "split-square-horizontal",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "split-square-horizontal",
+        "square-split-horizontal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "split-square-horizontal-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "split-square-horizontal-bold",
+        "square-split-horizontal-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "split-square-horizontal-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "split-square-horizontal-light",
+        "square-split-horizontal-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "split-square-horizontal-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "split-square-horizontal-thin",
+        "square-split-horizontal-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "split-square-vertical",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "split-square-vertical",
+        "square-split-vertical"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "split-square-vertical-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "split-square-vertical-bold",
+        "square-split-vertical-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "split-square-vertical-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "split-square-vertical-light",
+        "square-split-vertical-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "split-square-vertical-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "split-square-vertical-thin",
+        "square-split-vertical-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-terminal",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-terminal",
+        "terminal-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-terminal-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-terminal-bold",
+        "terminal-square-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-terminal-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-terminal-light",
+        "terminal-square-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-terminal-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-terminal-thin",
+        "terminal-square-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-user",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-user",
+        "user-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-user-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-user-bold",
+        "user-square-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-user-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-user-light",
+        "user-square-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-user-round",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-user-round",
+        "user-square-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-user-round-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-user-round-bold",
+        "user-square-2-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-user-round-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-user-round-light",
+        "user-square-2-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-user-round-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-user-round-thin",
+        "user-square-2-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-user-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-user-thin",
+        "user-square-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-x",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-x",
+        "x-square"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-x-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-x-bold",
+        "x-square-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-x-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-x-light",
+        "x-square-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "square-x-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "square-x-thin",
+        "x-square-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "test-tube-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "test-tube-2",
+        "test-tube-diagonal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "test-tube-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "test-tube-2-bold",
+        "test-tube-diagonal-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "test-tube-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "test-tube-2-light",
+        "test-tube-diagonal-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "test-tube-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "test-tube-2-thin",
+        "test-tube-diagonal-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "train",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "train",
+        "tram-front"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "train-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "train-bold",
+        "tram-front-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "train-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "train-light",
+        "tram-front-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "train-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "train-thin",
+        "tram-front-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "tv-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "tv-2",
+        "tv-minimal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "tv-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "tv-2-bold",
+        "tv-minimal-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "tv-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "tv-2-light",
+        "tv-minimal-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "tv-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "tv-2-thin",
+        "tv-minimal-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-2",
+        "user-round"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-2-bold",
+        "user-round-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-2-light",
+        "user-round-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-2-thin",
+        "user-round-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-check-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-check-2",
+        "user-round-check"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-check-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-check-2-bold",
+        "user-round-check-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-check-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-check-2-light",
+        "user-round-check-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-check-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-check-2-thin",
+        "user-round-check-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-cog-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-cog-2",
+        "user-round-cog"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-cog-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-cog-2-bold",
+        "user-round-cog-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-cog-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-cog-2-light",
+        "user-round-cog-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-cog-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-cog-2-thin",
+        "user-round-cog-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-minus-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-minus-2",
+        "user-round-minus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-minus-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-minus-2-bold",
+        "user-round-minus-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-minus-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-minus-2-light",
+        "user-round-minus-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-minus-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-minus-2-thin",
+        "user-round-minus-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-plus-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-plus-2",
+        "user-round-plus"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-plus-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-plus-2-bold",
+        "user-round-plus-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-plus-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-plus-2-light",
+        "user-round-plus-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-plus-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-plus-2-thin",
+        "user-round-plus-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-round-x",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-round-x",
+        "user-x-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-round-x-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-round-x-bold",
+        "user-x-2-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-round-x-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-round-x-light",
+        "user-x-2-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "user-round-x-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "user-round-x-thin",
+        "user-x-2-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "users-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "users-2",
+        "users-round"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "users-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "users-2-bold",
+        "users-round-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "users-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "users-2-light",
+        "users-round-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "users-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "users-2-thin",
+        "users-round-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "wallet-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "wallet-2",
+        "wallet-minimal"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "wallet-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "wallet-2-bold",
+        "wallet-minimal-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "wallet-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "wallet-2-light",
+        "wallet-minimal-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "wallet-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "wallet-2-thin",
+        "wallet-minimal-thin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "wand-2",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "wand-2",
+        "wand-sparkles"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "wand-2-bold",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "wand-2-bold",
+        "wand-sparkles-bold"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "wand-2-light",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "wand-2-light",
+        "wand-sparkles-light"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "Lucide",
+      "glyphName": "wand-2-thin",
+      "prefix": "lucide",
+      "sampleIcons": [
+        "wand-2-thin",
+        "wand-sparkles-thin"
+      ]
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "Lucide",
-      "headBbox": "13..990 / 0..992",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "lucide",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
-  "outliers": [
-    {
-      "codepoint": 983320,
-      "contentWidth": 82,
-      "font": "Lucide",
-      "name": "Lucide_2__signal-zero",
-      "prefix": "lucide",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 983322,
-      "contentWidth": 64,
-      "font": "Lucide",
-      "name": "Lucide_2__signal-zero-light",
-      "prefix": "lucide",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 983323,
-      "contentWidth": 43,
-      "font": "Lucide",
-      "name": "Lucide_2__signal-zero-thin",
-      "prefix": "lucide",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 984008,
-      "contentWidth": 82,
-      "font": "Lucide",
-      "name": "Lucide_2__tally-1",
-      "prefix": "lucide",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 984010,
-      "contentWidth": 63,
-      "font": "Lucide",
-      "name": "Lucide_2__tally-1-light",
-      "prefix": "lucide",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 984011,
-      "contentWidth": 43,
-      "font": "Lucide",
-      "name": "Lucide_2__tally-1-thin",
-      "prefix": "lucide",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 984832,
-      "contentWidth": 83,
-      "font": "Lucide",
-      "name": "Lucide_2__wifi-zero",
-      "prefix": "lucide",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 984834,
-      "contentWidth": 64,
-      "font": "Lucide",
-      "name": "Lucide_2__wifi-zero-light",
-      "prefix": "lucide",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 984835,
-      "contentWidth": 44,
-      "font": "Lucide",
-      "name": "Lucide_2__wifi-zero-thin",
-      "prefix": "lucide",
-      "reason": "narrow"
-    }
-  ],
+  "nonCanonical": [],
+  "outliers": [],
   "prefix": "lucide",
   "ttfs": [
     {
@@ -4761,9 +8320,9 @@
       "glyphCount": 7920,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 990,
-        "xMin": 13,
-        "yMax": 992,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -4774,7 +8333,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

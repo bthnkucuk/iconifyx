@@ -177,16 +177,6 @@
     {
       "codepointCount": 2,
       "font": "SkillIconsSecondary",
-      "glyphName": "ipfs-dark",
-      "prefix": "skill-icons",
-      "sampleIcons": [
-        "ipfs-dark",
-        "ipfs-light"
-      ]
-    },
-    {
-      "codepointCount": 2,
-      "font": "SkillIconsSecondary",
       "glyphName": "laravel-dark",
       "prefix": "skill-icons",
       "sampleIcons": [
@@ -417,133 +407,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "secondary-empty",
-      "codepoint": 57395,
-      "icon": "cassandra-dark",
-      "prefix": "skill-icons",
-      "primary": {
-        "xMax": 1000,
-        "xMin": -1,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "primaryFont": "SkillIcons",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "SkillIconsSecondary"
-    },
-    {
-      "cause": "primary-empty",
-      "codepoint": 57505,
-      "icon": "ipfs-light",
-      "prefix": "skill-icons",
-      "primary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "primaryFont": "SkillIcons",
-      "score": -1,
-      "secondary": {
-        "xMax": 839,
-        "xMin": 0,
-        "yMax": 697,
-        "yMin": 0
-      },
-      "secondaryFont": "SkillIconsSecondary"
-    },
-    {
-      "cause": "primary-empty",
-      "codepoint": 57664,
-      "icon": "solidity",
-      "prefix": "skill-icons",
-      "primary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "primaryFont": "SkillIcons",
-      "score": -1,
-      "secondary": {
-        "xMax": 794,
-        "xMin": 0,
-        "yMax": 904,
-        "yMin": 0
-      },
-      "secondaryFont": "SkillIconsSecondary"
-    },
-    {
-      "cause": "secondary-empty",
-      "codepoint": 57707,
-      "icon": "verilog",
-      "prefix": "skill-icons",
-      "primary": {
-        "xMax": 1000,
-        "xMin": 0,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "primaryFont": "SkillIcons",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "SkillIconsSecondary"
-    },
-    {
-      "cause": "secondary-empty",
-      "codepoint": 57714,
-      "icon": "vitest-dark",
-      "prefix": "skill-icons",
-      "primary": {
-        "xMax": 1000,
-        "xMin": -1,
-        "yMax": 1000,
-        "yMin": 0
-      },
-      "primaryFont": "SkillIcons",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "SkillIconsSecondary"
-    },
-    {
-      "cause": "primary-empty",
-      "codepoint": 57715,
-      "icon": "vitest-light",
-      "prefix": "skill-icons",
-      "primary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "primaryFont": "SkillIcons",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "SkillIconsSecondary"
-    },
-    {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57451,
       "icon": "fediverse-dark",
       "prefix": "skill-icons",
@@ -564,7 +428,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57487,
       "icon": "gulp",
       "prefix": "skill-icons",
@@ -585,7 +449,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57452,
       "icon": "fediverse-light",
       "prefix": "skill-icons",
@@ -606,7 +470,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57494,
       "icon": "heroku",
       "prefix": "skill-icons",
@@ -627,7 +491,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57430,
       "icon": "django",
       "prefix": "skill-icons",
@@ -648,7 +512,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57445,
       "icon": "ember",
       "prefix": "skill-icons",
@@ -669,7 +533,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57502,
       "icon": "illustrator",
       "prefix": "skill-icons",
@@ -690,7 +554,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57611,
       "icon": "pug-dark",
       "prefix": "skill-icons",
@@ -711,7 +575,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57610,
       "icon": "prometheus",
       "prefix": "skill-icons",
@@ -732,7 +596,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57606,
       "icon": "premiere",
       "prefix": "skill-icons",
@@ -753,7 +617,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57603,
       "icon": "postman",
       "prefix": "skill-icons",
@@ -774,7 +638,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57623,
       "icon": "rabbitmq-dark",
       "prefix": "skill-icons",
@@ -795,7 +659,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57624,
       "icon": "rabbitmq-light",
       "prefix": "skill-icons",
@@ -816,7 +680,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57641,
       "icon": "replit-dark",
       "prefix": "skill-icons",
@@ -837,7 +701,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57642,
       "icon": "replit-light",
       "prefix": "skill-icons",
@@ -858,7 +722,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57612,
       "icon": "pug-light",
       "prefix": "skill-icons",
@@ -879,7 +743,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57617,
       "icon": "pytorch-dark",
       "prefix": "skill-icons",
@@ -900,7 +764,7 @@
       "secondaryFont": "SkillIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57618,
       "icon": "pytorch-light",
       "prefix": "skill-icons",
@@ -921,72 +785,14 @@
       "secondaryFont": "SkillIconsSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "SkillIcons",
-      "headBbox": "-1..1001 / -1..1001",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 1,
-      "prefix": "skill-icons",
-      "reasons": [
-        "head.xMin=-1",
-        "head.xMax=1001",
-        "head.yMin=-1",
-        "head.yMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "SkillIconsSecondary",
-      "headBbox": "0..1000 / 0..1000",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "skill-icons",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "skill-icons",
   "ttfs": [
     {
       "error": null,
       "font": "SkillIcons",
-      "glyphCount": 400,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 1001,
-        "xMin": -1,
-        "yMax": 1001,
-        "yMin": -1
-      },
-      "hhea": {
-        "advanceWidthMax": 1000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 1
-      }
-    },
-    {
-      "error": null,
-      "font": "SkillIconsSecondary",
-      "glyphCount": 131,
+      "glyphCount": 379,
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
@@ -1002,7 +808,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "SkillIconsSecondary",
+      "glyphCount": 125,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

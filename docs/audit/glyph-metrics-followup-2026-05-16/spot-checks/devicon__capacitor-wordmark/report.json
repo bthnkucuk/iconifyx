@@ -1,0 +1,105 @@
+{
+  "iconRef": "devicon:capacitor-wordmark",
+  "prefix": "devicon",
+  "iconName": "capacitor-wordmark",
+  "packageName": "iconifyx_devicon",
+  "duotone": true,
+  "primary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_devicon/assets/fonts/Devicon.ttf",
+    "codepoint": "0xe078",
+    "glyphName": "capacitor-wordmark",
+    "advance": 1000,
+    "lsb": 236,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 238.09677419354838,
+      "yMin": 413,
+      "xMax": 1000,
+      "yMax": 571.6666666666666,
+      "width": 761.9032258064516,
+      "height": 158.66666666666663,
+      "cx": 619.0483870967741,
+      "cy": 492.3333333333333
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "secondary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_devicon/assets/fonts/DeviconSecondary.ttf",
+    "codepoint": "0xe078",
+    "glyphName": "capacitor-wordmark",
+    "advance": 1000,
+    "lsb": 74,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 75,
+      "yMin": 439,
+      "xMax": 116,
+      "yMax": 560,
+      "width": 41,
+      "height": 121,
+      "cx": 95.5,
+      "cy": 499.5
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "files": {
+    "upstreamSvg": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/devicon__capacitor-wordmark/upstream.svg",
+    "upstreamPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/devicon__capacitor-wordmark/upstream.png",
+    "primaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/devicon__capacitor-wordmark/glyph-primary.png",
+    "secondaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/devicon__capacitor-wordmark/glyph-secondary.png",
+    "ttfComposedPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/devicon__capacitor-wordmark/ttf-composed.png",
+    "flutterPng": null,
+    "diffSvgVsFlutter": null,
+    "diffSvgVsTtf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/devicon__capacitor-wordmark/diff-svg-vs-ttf.png",
+    "diffTtfVsFlutter": null
+  },
+  "diffs": {
+    "svgVsTtf": {
+      "width": 256,
+      "height": 256,
+      "mismatchPixels": 1205,
+      "totalPixels": 65536,
+      "mismatchPct": 0.0183868408203125,
+      "inkA": 0.050262451171875,
+      "inkB": 0.0497283935546875,
+      "cxA": 144.7246508803886,
+      "cyA": 129.2182756527019,
+      "cxB": 157.8229518257134,
+      "cyB": 129.36084688554772,
+      "cxDriftPx": 13.098300945324809,
+      "cyDriftPx": 0.14257123284582462,
+      "dHashA": "0000000092000000",
+      "dHashB": "0000000012000000",
+      "hamming": 1,
+      "ssim": 0.9512098587621601
+    },
+    "ttfVsFlutter": null,
+    "svgVsFlutter": null
+  },
+  "legacyDiff": null,
+  "verdict": {
+    "status": "different",
+    "primaryReason": "DUOTONE_BBOX_MISMATCH",
+    "confidence": "high",
+    "problem": "Primary glyph centroid (619,492) differs from secondary (96,500) by 52.4% / 0.7% of em — layers will overlay misaligned (bboxes disjoint along x axis)",
+    "remediation": "GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup (identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see RESEARCH_PLAN §33 for fix."
+  },
+  "fontTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_devicon/assets/fonts/Devicon.ttf",
+  "secondaryTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_devicon/assets/fonts/DeviconSecondary.ttf",
+  "timings": {
+    "upstream": 206,
+    "primaryGlyph": 145,
+    "secondaryGlyph": 77,
+    "ttfCompose": 18,
+    "diffSvgVsTtf": 16,
+    "total": 470
+  }
+}

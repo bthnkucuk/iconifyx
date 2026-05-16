@@ -6616,7 +6616,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58916,
       "icon": "sound-twotone",
       "prefix": "ant-design",
@@ -6637,7 +6637,7 @@
       "secondaryFont": "AntDesignSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57564,
       "icon": "build-twotone",
       "prefix": "ant-design",
@@ -6658,7 +6658,7 @@
       "secondaryFont": "AntDesignSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 59136,
       "icon": "video-camera-twotone",
       "prefix": "ant-design",
@@ -6679,7 +6679,7 @@
       "secondaryFont": "AntDesignSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57456,
       "icon": "audio-twotone",
       "prefix": "ant-design",
@@ -6700,7 +6700,7 @@
       "secondaryFont": "AntDesignSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57549,
       "icon": "box-plot-twotone",
       "prefix": "ant-design",
@@ -6721,7 +6721,7 @@
       "secondaryFont": "AntDesignSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57558,
       "icon": "bug-twotone",
       "prefix": "ant-design",
@@ -6742,39 +6742,7 @@
       "secondaryFont": "AntDesignSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "AntDesign",
-      "headBbox": "0..1001 / 0..1000",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "ant-design",
-      "reasons": [
-        "head.xMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "AntDesignSecondary",
-      "headBbox": "0..932 / 0..938",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "ant-design",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "ant-design",
   "ttfs": [
@@ -6784,7 +6752,7 @@
       "glyphCount": 1870,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1001,
+        "xMax": 1000,
         "xMin": 0,
         "yMax": 1000,
         "yMin": 0
@@ -6797,7 +6765,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -6807,9 +6775,9 @@
       "glyphCount": 153,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 932,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 938,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -6820,7 +6788,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

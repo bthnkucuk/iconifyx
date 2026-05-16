@@ -3797,7 +3797,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58019,
       "icon": "line-y-off",
       "prefix": "pepicons-print",
@@ -3818,7 +3818,7 @@
       "secondaryFont": "PepiconsPrintSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57683,
       "icon": "dots-y-off",
       "prefix": "pepicons-print",
@@ -3839,44 +3839,7 @@
       "secondaryFont": "PepiconsPrintSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "PepiconsPrint",
-      "headBbox": "0..1007 / 0..1001",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "pepicons-print",
-      "reasons": [
-        "head.xMax=1007",
-        "head.yMax=1001",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "PepiconsPrintSecondary",
-      "headBbox": "0..1011 / -11..1001",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 11,
-      "prefix": "pepicons-print",
-      "reasons": [
-        "head.xMax=1011",
-        "head.yMin=-11",
-        "head.yMax=1001",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=11"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "pepicons-print",
   "ttfs": [
@@ -3886,9 +3849,9 @@
       "glyphCount": 1286,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1007,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 1001,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -3899,7 +3862,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -3909,10 +3872,10 @@
       "glyphCount": 703,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1011,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 1001,
-        "yMin": -11
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -3922,8 +3885,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 11
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

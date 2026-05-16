@@ -123,7 +123,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58160,
       "icon": "ui-panels-right-bottom-16",
       "prefix": "qlementine-icons",
@@ -144,7 +144,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57366,
       "icon": "anchor-bottom-left-16",
       "prefix": "qlementine-icons",
@@ -165,7 +165,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57369,
       "icon": "anchor-center-left-16",
       "prefix": "qlementine-icons",
@@ -186,7 +186,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57372,
       "icon": "anchor-top-left-16",
       "prefix": "qlementine-icons",
@@ -207,7 +207,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57951,
       "icon": "quality-1-16",
       "prefix": "qlementine-icons",
@@ -228,7 +228,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57563,
       "icon": "enlarge-16",
       "prefix": "qlementine-icons",
@@ -249,7 +249,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57472,
       "icon": "chevron-smooth-left-16",
       "prefix": "qlementine-icons",
@@ -270,7 +270,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57633,
       "icon": "gamepad-button-left-16",
       "prefix": "qlementine-icons",
@@ -291,7 +291,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57952,
       "icon": "quality-2-16",
       "prefix": "qlementine-icons",
@@ -312,7 +312,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58095,
       "icon": "stereo-left-16",
       "prefix": "qlementine-icons",
@@ -333,7 +333,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58096,
       "icon": "stereo-right-16",
       "prefix": "qlementine-icons",
@@ -354,7 +354,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57367,
       "icon": "anchor-bottom-middle-16",
       "prefix": "qlementine-icons",
@@ -375,7 +375,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57370,
       "icon": "anchor-center-middle-16",
       "prefix": "qlementine-icons",
@@ -396,7 +396,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57373,
       "icon": "anchor-top-middle-16",
       "prefix": "qlementine-icons",
@@ -417,7 +417,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57634,
       "icon": "gamepad-button-right-16",
       "prefix": "qlementine-icons",
@@ -438,7 +438,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57883,
       "icon": "pages-first-16",
       "prefix": "qlementine-icons",
@@ -459,7 +459,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57884,
       "icon": "pages-last-16",
       "prefix": "qlementine-icons",
@@ -480,7 +480,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57473,
       "icon": "chevron-smooth-right-16",
       "prefix": "qlementine-icons",
@@ -501,7 +501,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57777,
       "icon": "light-bulb-on-16",
       "prefix": "qlementine-icons",
@@ -522,7 +522,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57632,
       "icon": "gamepad-button-bottom-16",
       "prefix": "qlementine-icons",
@@ -543,7 +543,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57635,
       "icon": "gamepad-button-top-16",
       "prefix": "qlementine-icons",
@@ -564,7 +564,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57434,
       "icon": "buffer-16",
       "prefix": "qlementine-icons",
@@ -585,7 +585,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57953,
       "icon": "quality-3-16",
       "prefix": "qlementine-icons",
@@ -606,7 +606,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57428,
       "icon": "boolean-intersect-16",
       "prefix": "qlementine-icons",
@@ -627,45 +627,7 @@
       "secondaryFont": "QlementineIconsSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "QlementineIcons",
-      "headBbox": "-15..1016 / -20..1011",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 20,
-      "prefix": "qlementine-icons",
-      "reasons": [
-        "head.xMin=-15",
-        "head.xMax=1016",
-        "head.yMin=-20",
-        "head.yMax=1011",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=20"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "QlementineIconsSecondary",
-      "headBbox": "-6..1007 / 0..1000",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "qlementine-icons",
-      "reasons": [
-        "head.xMin=-6",
-        "head.xMax=1007",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 941,
@@ -681,34 +643,11 @@
     {
       "error": null,
       "font": "QlementineIcons",
-      "glyphCount": 885,
+      "glyphCount": 884,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1016,
-        "xMin": -15,
-        "yMax": 1011,
-        "yMin": -20
-      },
-      "hhea": {
-        "advanceWidthMax": 1000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 20
-      }
-    },
-    {
-      "error": null,
-      "font": "QlementineIconsSecondary",
-      "glyphCount": 45,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 1007,
-        "xMin": -6,
+        "xMax": 1000,
+        "xMin": 0,
         "yMax": 1000,
         "yMin": 0
       },
@@ -720,7 +659,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "QlementineIconsSecondary",
+      "glyphCount": 45,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

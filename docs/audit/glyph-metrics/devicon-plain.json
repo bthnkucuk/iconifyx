@@ -33,7 +33,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58076,
       "icon": "weblate-wordmark",
       "prefix": "devicon-plain",
@@ -54,43 +54,7 @@
       "secondaryFont": "DeviconPlainSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "DeviconPlain",
-      "headBbox": "-174..1174 / -109..1110",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1110,
-      "os2WinDesc": 109,
-      "prefix": "devicon-plain",
-      "reasons": [
-        "head.xMin=-174",
-        "head.xMax=1174",
-        "head.yMin=-109",
-        "head.yMax=1110",
-        "OS/2.winAsc=1110",
-        "OS/2.winDesc=109"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "DeviconPlainSecondary",
-      "headBbox": "0..749 / 0..528",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "devicon-plain",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "codepoint": 57976,
@@ -109,32 +73,9 @@
       "glyphCount": 758,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1174,
-        "xMin": -174,
-        "yMax": 1110,
-        "yMin": -109
-      },
-      "hhea": {
-        "advanceWidthMax": 1000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1110,
-        "usWinDescent": 109
-      }
-    },
-    {
-      "error": null,
-      "font": "DeviconPlainSecondary",
-      "glyphCount": 2,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 749,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 528,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -145,7 +86,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "DeviconPlainSecondary",
+      "glyphCount": 2,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

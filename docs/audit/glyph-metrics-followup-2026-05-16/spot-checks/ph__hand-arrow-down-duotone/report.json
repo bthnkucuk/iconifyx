@@ -1,0 +1,105 @@
+{
+  "iconRef": "ph:hand-arrow-down-duotone",
+  "prefix": "ph",
+  "iconName": "hand-arrow-down-duotone",
+  "packageName": "iconifyx_ph",
+  "duotone": true,
+  "primary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_ph/assets/fonts/Ph.ttf",
+    "codepoint": "0xf179",
+    "glyphName": "hand-arrow-down",
+    "advance": 1000,
+    "lsb": 0,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 0,
+      "yMin": 156,
+      "xMax": 938,
+      "yMax": 938,
+      "width": 938,
+      "height": 782,
+      "cx": 469,
+      "cy": 547
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "secondary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_ph/assets/fonts/PhSecondary.ttf",
+    "codepoint": "0xf179",
+    "glyphName": "hand-arrow-down-duotone",
+    "advance": 1000,
+    "lsb": 31,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 31,
+      "yMin": 187.9047619047619,
+      "xMax": 188,
+      "yMax": 406,
+      "width": 157,
+      "height": 218.0952380952381,
+      "cx": 109.5,
+      "cy": 296.95238095238096
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "files": {
+    "upstreamSvg": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ph__hand-arrow-down-duotone/upstream.svg",
+    "upstreamPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ph__hand-arrow-down-duotone/upstream.png",
+    "primaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ph__hand-arrow-down-duotone/glyph-primary.png",
+    "secondaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ph__hand-arrow-down-duotone/glyph-secondary.png",
+    "ttfComposedPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ph__hand-arrow-down-duotone/ttf-composed.png",
+    "flutterPng": null,
+    "diffSvgVsFlutter": null,
+    "diffSvgVsTtf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/ph__hand-arrow-down-duotone/diff-svg-vs-ttf.png",
+    "diffTtfVsFlutter": null
+  },
+  "diffs": {
+    "svgVsTtf": {
+      "width": 256,
+      "height": 256,
+      "mismatchPixels": 1206,
+      "totalPixels": 65536,
+      "mismatchPct": 0.018402099609375,
+      "inkA": 0.20196533203125,
+      "inkB": 0.2039642333984375,
+      "cxA": 128.5259141734663,
+      "cyA": 147.228543366576,
+      "cxB": 128.04511109448643,
+      "cyB": 147.31645096132266,
+      "cxDriftPx": -0.48080307897987495,
+      "cyDriftPx": 0.08790759474666743,
+      "dHashA": "0002020228110400",
+      "dHashB": "0002020200110400",
+      "hamming": 2,
+      "ssim": 0.937567133563803
+    },
+    "ttfVsFlutter": null,
+    "svgVsFlutter": null
+  },
+  "legacyDiff": null,
+  "verdict": {
+    "status": "different",
+    "primaryReason": "DUOTONE_BBOX_MISMATCH",
+    "confidence": "high",
+    "problem": "Primary glyph centroid (469,547) differs from secondary (110,297) by 35.9% / 25.0% of em — layers will overlay misaligned",
+    "remediation": "GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup (identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see RESEARCH_PLAN §33 for fix."
+  },
+  "fontTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_ph/assets/fonts/Ph.ttf",
+  "secondaryTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_ph/assets/fonts/PhSecondary.ttf",
+  "timings": {
+    "upstream": 181,
+    "primaryGlyph": 83,
+    "secondaryGlyph": 78,
+    "ttfCompose": 16,
+    "diffSvgVsTtf": 14,
+    "total": 385
+  }
+}

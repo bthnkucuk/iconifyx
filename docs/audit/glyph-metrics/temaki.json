@@ -1,43 +1,7 @@
 {
   "dedupCollisions": [],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "Temaki",
-      "headBbox": "-51..1011 / -34..1051",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 34,
-      "prefix": "temaki",
-      "reasons": [
-        "head.xMin=-51",
-        "head.xMax=1011",
-        "head.yMin=-34",
-        "head.yMax=1051",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=34"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "TemakiSecondary",
-      "headBbox": "0..800 / 0..834",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "temaki",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 458,
@@ -64,32 +28,9 @@
       "glyphCount": 555,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1011,
-        "xMin": -51,
-        "yMax": 1051,
-        "yMin": -34
-      },
-      "hhea": {
-        "advanceWidthMax": 1000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 34
-      }
-    },
-    {
-      "error": null,
-      "font": "TemakiSecondary",
-      "glyphCount": 1,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 800,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 834,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -100,7 +41,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "TemakiSecondary",
+      "glyphCount": 1,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

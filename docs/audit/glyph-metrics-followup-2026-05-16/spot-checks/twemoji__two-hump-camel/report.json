@@ -1,0 +1,106 @@
+{
+  "iconRef": "twemoji:two-hump-camel",
+  "prefix": "twemoji",
+  "iconName": "two-hump-camel",
+  "packageName": "iconifyx_twemoji",
+  "duotone": true,
+  "duotoneKind": "paintOrder",
+  "primary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_twemoji/assets/fonts/Twemoji.ttf",
+    "codepoint": "0xe29d",
+    "glyphName": "two-hump-camel",
+    "advance": 1000,
+    "lsb": 0,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 32.75,
+      "yMin": 0.4782608695652174,
+      "xMax": 995,
+      "yMax": 917,
+      "width": 962.25,
+      "height": 916.5217391304348,
+      "cx": 513.875,
+      "cy": 458.7391304347826
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "secondary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_twemoji/assets/fonts/TwemojiSecondary.ttf",
+    "codepoint": "0xe29d",
+    "glyphName": "two-hump-camel",
+    "advance": 1000,
+    "lsb": 0,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 169,
+      "yMin": 730,
+      "xMax": 225,
+      "yMax": 785.53125,
+      "width": 56,
+      "height": 55.53125,
+      "cx": 197,
+      "cy": 757.765625
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "files": {
+    "upstreamSvg": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/twemoji__two-hump-camel/upstream.svg",
+    "upstreamPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/twemoji__two-hump-camel/upstream.png",
+    "primaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/twemoji__two-hump-camel/glyph-primary.png",
+    "secondaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/twemoji__two-hump-camel/glyph-secondary.png",
+    "ttfComposedPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/twemoji__two-hump-camel/ttf-composed.png",
+    "flutterPng": null,
+    "diffSvgVsFlutter": null,
+    "diffSvgVsTtf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/twemoji__two-hump-camel/diff-svg-vs-ttf.png",
+    "diffTtfVsFlutter": null
+  },
+  "diffs": {
+    "svgVsTtf": {
+      "width": 256,
+      "height": 256,
+      "mismatchPixels": 29248,
+      "totalPixels": 65536,
+      "mismatchPct": 0.4462890625,
+      "inkA": 0.0027313232421875,
+      "inkB": 0.461700439453125,
+      "cxA": 49.977653631284916,
+      "cyA": 61.46368715083799,
+      "cxB": 142.89929935884726,
+      "cyB": 124.63189900191685,
+      "cxDriftPx": 92.92164572756235,
+      "cyDriftPx": 63.16821185107886,
+      "dHashA": "0012d04040202212",
+      "dHashB": "0012904040202212",
+      "hamming": 1,
+      "ssim": 0.5346279397935951
+    },
+    "ttfVsFlutter": null,
+    "svgVsFlutter": null
+  },
+  "legacyDiff": null,
+  "verdict": {
+    "status": "different",
+    "primaryReason": "DUOTONE_BBOX_MISMATCH",
+    "confidence": "high",
+    "problem": "Primary glyph centroid (514,459) differs from secondary (197,758) by 31.7% / 29.9% of em — layers will overlay misaligned",
+    "remediation": "GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup (identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see RESEARCH_PLAN §33 for fix."
+  },
+  "fontTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_twemoji/assets/fonts/Twemoji.ttf",
+  "secondaryTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_twemoji/assets/fonts/TwemojiSecondary.ttf",
+  "timings": {
+    "upstream": 177,
+    "primaryGlyph": 77,
+    "secondaryGlyph": 75,
+    "ttfCompose": 15,
+    "diffSvgVsTtf": 15,
+    "total": 379
+  }
+}

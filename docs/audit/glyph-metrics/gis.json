@@ -1,28 +1,7 @@
 {
   "dedupCollisions": [],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "Gis",
-      "headBbox": "-16..1016 / -14..1008",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 14,
-      "prefix": "gis",
-      "reasons": [
-        "head.xMin=-16",
-        "head.xMax=1016",
-        "head.yMin=-14",
-        "head.yMax=1008",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=14"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "gis",
   "ttfs": [
@@ -32,10 +11,10 @@
       "glyphCount": 367,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1016,
-        "xMin": -16,
-        "yMax": 1008,
-        "yMin": -14
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -45,8 +24,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 14
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

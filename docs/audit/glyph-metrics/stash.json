@@ -842,7 +842,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57666,
       "icon": "domain-duotone",
       "prefix": "stash",
@@ -863,7 +863,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57942,
       "icon": "list-ul",
       "prefix": "stash",
@@ -884,7 +884,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58260,
       "icon": "trend-arrow-up-duotone",
       "prefix": "stash",
@@ -905,7 +905,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58257,
       "icon": "trend-arrow-down-duotone",
       "prefix": "stash",
@@ -926,7 +926,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57955,
       "icon": "mailbox-empty-duotone",
       "prefix": "stash",
@@ -947,7 +947,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57836,
       "icon": "graduation-cap-duotone",
       "prefix": "stash",
@@ -968,7 +968,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58027,
       "icon": "pencil-writing-duotone",
       "prefix": "stash",
@@ -989,7 +989,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58023,
       "icon": "pencil-single-duotone",
       "prefix": "stash",
@@ -1010,7 +1010,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57579,
       "icon": "cloud-plus-duotone",
       "prefix": "stash",
@@ -1031,7 +1031,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57729,
       "icon": "exclamation-triangle-duotone",
       "prefix": "stash",
@@ -1052,7 +1052,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58069,
       "icon": "podcast-duotone",
       "prefix": "stash",
@@ -1073,7 +1073,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57570,
       "icon": "cloud-check-duotone",
       "prefix": "stash",
@@ -1094,7 +1094,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57576,
       "icon": "cloud-minus-duotone",
       "prefix": "stash",
@@ -1115,7 +1115,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57872,
       "icon": "image-duotone",
       "prefix": "stash",
@@ -1136,7 +1136,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57436,
       "icon": "bell-duotone",
       "prefix": "stash",
@@ -1157,7 +1157,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57564,
       "icon": "cloud-arrow-down-duotone",
       "prefix": "stash",
@@ -1178,7 +1178,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57567,
       "icon": "cloud-arrow-up-duotone",
       "prefix": "stash",
@@ -1199,7 +1199,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57725,
       "icon": "exclamation-circle-duotone",
       "prefix": "stash",
@@ -1220,7 +1220,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57407,
       "icon": "article-plus-duotone",
       "prefix": "stash",
@@ -1241,7 +1241,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57994,
       "icon": "pack-duotone",
       "prefix": "stash",
@@ -1262,7 +1262,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58315,
       "icon": "version-duotone",
       "prefix": "stash",
@@ -1283,7 +1283,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57909,
       "icon": "info-circle-duotone",
       "prefix": "stash",
@@ -1304,7 +1304,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57977,
       "icon": "monetize-duotone",
       "prefix": "stash",
@@ -1325,7 +1325,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57764,
       "icon": "filter-duotone",
       "prefix": "stash",
@@ -1346,7 +1346,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57860,
       "icon": "home-duotone",
       "prefix": "stash",
@@ -1367,7 +1367,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58294,
       "icon": "user-heart-duotone",
       "prefix": "stash",
@@ -1388,7 +1388,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58267,
       "icon": "user-arrow-down-duotone",
       "prefix": "stash",
@@ -1409,7 +1409,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58279,
       "icon": "user-clock-duotone",
       "prefix": "stash",
@@ -1430,7 +1430,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58300,
       "icon": "user-minus-duotone",
       "prefix": "stash",
@@ -1451,7 +1451,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58303,
       "icon": "user-plus-duotone",
       "prefix": "stash",
@@ -1472,7 +1472,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57396,
       "icon": "arrows-switch-duotone",
       "prefix": "stash",
@@ -1493,7 +1493,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57919,
       "icon": "last-updates-duotone",
       "prefix": "stash",
@@ -1514,7 +1514,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58322,
       "icon": "wand-duotone",
       "prefix": "stash",
@@ -1535,7 +1535,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58270,
       "icon": "user-at-duotone",
       "prefix": "stash",
@@ -1556,7 +1556,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58288,
       "icon": "user-envelope-duotone",
       "prefix": "stash",
@@ -1577,7 +1577,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58119,
       "icon": "search-split-duotone",
       "prefix": "stash",
@@ -1598,7 +1598,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57902,
       "icon": "inbox-duotone",
       "prefix": "stash",
@@ -1619,7 +1619,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57616,
       "icon": "creators-club-duotone",
       "prefix": "stash",
@@ -1640,7 +1640,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57991,
       "icon": "outbox-duotone",
       "prefix": "stash",
@@ -1661,7 +1661,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57597,
       "icon": "copy-duotone",
       "prefix": "stash",
@@ -1682,7 +1682,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57559,
       "icon": "clock-duotone",
       "prefix": "stash",
@@ -1703,7 +1703,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58136,
       "icon": "shield-check-duotone",
       "prefix": "stash",
@@ -1724,7 +1724,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57949,
       "icon": "lock-closed-duotone",
       "prefix": "stash",
@@ -1745,7 +1745,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57952,
       "icon": "lock-opened-duotone",
       "prefix": "stash",
@@ -1766,7 +1766,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58040,
       "icon": "pin-location-duotone",
       "prefix": "stash",
@@ -1787,7 +1787,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58081,
       "icon": "question-duotone",
       "prefix": "stash",
@@ -1808,7 +1808,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57932,
       "icon": "light-bulb-exclamation-duotone",
       "prefix": "stash",
@@ -1829,7 +1829,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57424,
       "icon": "badge-dollar-duotone",
       "prefix": "stash",
@@ -1850,7 +1850,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58001,
       "icon": "pagination-duotone",
       "prefix": "stash",
@@ -1871,7 +1871,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57455,
       "icon": "burger-arrow-right-duotone",
       "prefix": "stash",
@@ -1892,7 +1892,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58263,
       "icon": "trophy-duotone",
       "prefix": "stash",
@@ -1913,7 +1913,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58282,
       "icon": "user-cog-duotone",
       "prefix": "stash",
@@ -1934,7 +1934,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58306,
       "icon": "user-shield-duotone",
       "prefix": "stash",
@@ -1955,7 +1955,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57946,
       "icon": "location-duotone",
       "prefix": "stash",
@@ -1976,7 +1976,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58214,
       "icon": "stars-duotone",
       "prefix": "stash",
@@ -1997,7 +1997,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57583,
       "icon": "cog-duotone",
       "prefix": "stash",
@@ -2018,7 +2018,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57741,
       "icon": "explicit-content-duotone",
       "prefix": "stash",
@@ -2039,7 +2039,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57961,
       "icon": "marker-duotone",
       "prefix": "stash",
@@ -2060,7 +2060,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58225,
       "icon": "sun-duotone",
       "prefix": "stash",
@@ -2081,7 +2081,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58276,
       "icon": "user-check-duotone",
       "prefix": "stash",
@@ -2102,7 +2102,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58285,
       "icon": "user-dollar-duotone",
       "prefix": "stash",
@@ -2123,7 +2123,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57401,
       "icon": "article-alt-duotone",
       "prefix": "stash",
@@ -2144,7 +2144,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58161,
       "icon": "signin-alt-duotone",
       "prefix": "stash",
@@ -2165,7 +2165,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57447,
       "icon": "bug-duotone",
       "prefix": "stash",
@@ -2186,7 +2186,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58043,
       "icon": "pin-place-duotone",
       "prefix": "stash",
@@ -2207,7 +2207,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58104,
       "icon": "screw-nut-duotone",
       "prefix": "stash",
@@ -2228,7 +2228,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57749,
       "icon": "eye-opened-duotone",
       "prefix": "stash",
@@ -2249,7 +2249,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58221,
       "icon": "subscription-list-duotone",
       "prefix": "stash",
@@ -2270,7 +2270,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57512,
       "icon": "check-circle-duotone",
       "prefix": "stash",
@@ -2291,7 +2291,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58163,
       "icon": "signin-duotone",
       "prefix": "stash",
@@ -2312,7 +2312,7 @@
       "secondaryFont": "StashSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58247,
       "icon": "times-circle-duotone",
       "prefix": "stash",
@@ -2333,41 +2333,7 @@
       "secondaryFont": "StashSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Stash",
-      "headBbox": "-7..1005 / 0..950",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "stash",
-      "reasons": [
-        "head.xMin=-7",
-        "head.xMax=1005",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "StashSecondary",
-      "headBbox": "-1..990 / 0..920",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "stash",
-      "reasons": [
-        "head.xMin=-1",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "codepoint": 57666,
@@ -2386,9 +2352,9 @@
       "glyphCount": 980,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1005,
-        "xMin": -7,
-        "yMax": 950,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -2399,7 +2365,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -2409,9 +2375,9 @@
       "glyphCount": 193,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 990,
-        "xMin": -1,
-        "yMax": 920,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -2422,7 +2388,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

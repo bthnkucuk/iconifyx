@@ -103,7 +103,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57973,
       "icon": "keyboard-circle-filled",
       "prefix": "pepicons-pop",
@@ -124,43 +124,7 @@
       "secondaryFont": "PepiconsPopSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "PepiconsPop",
-      "headBbox": "-1..1002 / -7..1008",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 7,
-      "prefix": "pepicons-pop",
-      "reasons": [
-        "head.xMin=-1",
-        "head.xMax=1002",
-        "head.yMin=-7",
-        "head.yMax=1008",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=7"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "PepiconsPopSecondary",
-      "headBbox": "0..654 / 0..347",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "pepicons-pop",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "pepicons-pop",
   "ttfs": [
@@ -170,32 +134,9 @@
       "glyphCount": 1298,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1002,
-        "xMin": -1,
-        "yMax": 1008,
-        "yMin": -7
-      },
-      "hhea": {
-        "advanceWidthMax": 1000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 7
-      }
-    },
-    {
-      "error": null,
-      "font": "PepiconsPopSecondary",
-      "glyphCount": 1,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 654,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 347,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -206,7 +147,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "PepiconsPopSecondary",
+      "glyphCount": 1,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

@@ -1,26 +1,7 @@
 {
   "dedupCollisions": [],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "StreamlineLogos",
-      "headBbox": "0..990 / -8..1002",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 8,
-      "prefix": "streamline-logos",
-      "reasons": [
-        "head.yMin=-8",
-        "head.yMax=1002",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=8"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "streamline-logos",
   "ttfs": [
@@ -30,10 +11,10 @@
       "glyphCount": 1362,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 990,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 1002,
-        "yMin": -8
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -43,8 +24,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 8
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

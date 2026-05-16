@@ -768,7 +768,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57585,
       "icon": "old-key",
       "prefix": "emojione",
@@ -789,7 +789,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57552,
       "icon": "letter-i",
       "prefix": "emojione",
@@ -810,7 +810,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57427,
       "icon": "flag-for-bahrain",
       "prefix": "emojione",
@@ -831,7 +831,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57437,
       "icon": "flag-for-flag-bahrain",
       "prefix": "emojione",
@@ -852,7 +852,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57352,
       "icon": "atom-symbol",
       "prefix": "emojione",
@@ -873,7 +873,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57394,
       "icon": "digit-one",
       "prefix": "emojione",
@@ -894,7 +894,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57629,
       "icon": "reverse-button",
       "prefix": "emojione",
@@ -915,7 +915,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57455,
       "icon": "flag-for-flag-palau",
       "prefix": "emojione",
@@ -936,7 +936,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57476,
       "icon": "flag-for-palau",
       "prefix": "emojione",
@@ -957,7 +957,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57598,
       "icon": "pill",
       "prefix": "emojione",
@@ -978,7 +978,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57576,
       "icon": "mens-room",
       "prefix": "emojione",
@@ -999,7 +999,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57698,
       "icon": "womens-room",
       "prefix": "emojione",
@@ -1020,7 +1020,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57553,
       "icon": "letter-j",
       "prefix": "emojione",
@@ -1041,7 +1041,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57397,
       "icon": "digit-three",
       "prefix": "emojione",
@@ -1062,7 +1062,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57391,
       "icon": "digit-five",
       "prefix": "emojione",
@@ -1083,7 +1083,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57396,
       "icon": "digit-six",
       "prefix": "emojione",
@@ -1104,7 +1104,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57390,
       "icon": "digit-eight",
       "prefix": "emojione",
@@ -1125,7 +1125,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57393,
       "icon": "digit-nine",
       "prefix": "emojione",
@@ -1146,7 +1146,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57398,
       "icon": "digit-two",
       "prefix": "emojione",
@@ -1167,7 +1167,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57399,
       "icon": "digit-zero",
       "prefix": "emojione",
@@ -1188,7 +1188,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57453,
       "icon": "flag-for-flag-nigeria",
       "prefix": "emojione",
@@ -1209,7 +1209,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57456,
       "icon": "flag-for-flag-peru",
       "prefix": "emojione",
@@ -1230,7 +1230,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57474,
       "icon": "flag-for-nigeria",
       "prefix": "emojione",
@@ -1251,7 +1251,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57477,
       "icon": "flag-for-peru",
       "prefix": "emojione",
@@ -1272,7 +1272,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57549,
       "icon": "letter-f",
       "prefix": "emojione",
@@ -1293,7 +1293,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57636,
       "icon": "round-pushpin",
       "prefix": "emojione",
@@ -1314,7 +1314,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57353,
       "icon": "b-button",
       "prefix": "emojione",
@@ -1335,7 +1335,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57395,
       "icon": "digit-seven",
       "prefix": "emojione",
@@ -1356,7 +1356,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57430,
       "icon": "flag-for-china",
       "prefix": "emojione",
@@ -1377,7 +1377,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57439,
       "icon": "flag-for-flag-china",
       "prefix": "emojione",
@@ -1398,7 +1398,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57548,
       "icon": "letter-e",
       "prefix": "emojione",
@@ -1419,7 +1419,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57555,
       "icon": "letter-l",
       "prefix": "emojione",
@@ -1440,7 +1440,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57569,
       "icon": "letter-z",
       "prefix": "emojione",
@@ -1461,7 +1461,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57551,
       "icon": "letter-h",
       "prefix": "emojione",
@@ -1482,7 +1482,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57557,
       "icon": "letter-n",
       "prefix": "emojione",
@@ -1503,7 +1503,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57563,
       "icon": "letter-t",
       "prefix": "emojione",
@@ -1524,7 +1524,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57564,
       "icon": "letter-u",
       "prefix": "emojione",
@@ -1545,7 +1545,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57392,
       "icon": "digit-four",
       "prefix": "emojione",
@@ -1566,7 +1566,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57449,
       "icon": "flag-for-flag-japan",
       "prefix": "emojione",
@@ -1587,7 +1587,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57470,
       "icon": "flag-for-japan",
       "prefix": "emojione",
@@ -1608,7 +1608,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57596,
       "icon": "pause-button",
       "prefix": "emojione",
@@ -1629,7 +1629,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57420,
       "icon": "fast-reverse-button",
       "prefix": "emojione",
@@ -1650,7 +1650,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57559,
       "icon": "letter-p",
       "prefix": "emojione",
@@ -1671,7 +1671,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57562,
       "icon": "letter-s",
       "prefix": "emojione",
@@ -1692,7 +1692,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57407,
       "icon": "down-right-arrow",
       "prefix": "emojione",
@@ -1713,7 +1713,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57678,
       "icon": "up-right-arrow",
       "prefix": "emojione",
@@ -1734,7 +1734,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57565,
       "icon": "letter-v",
       "prefix": "emojione",
@@ -1755,7 +1755,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57546,
       "icon": "letter-c",
       "prefix": "emojione",
@@ -1776,7 +1776,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57561,
       "icon": "letter-r",
       "prefix": "emojione",
@@ -1797,7 +1797,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57567,
       "icon": "letter-x",
       "prefix": "emojione",
@@ -1818,7 +1818,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57545,
       "icon": "letter-b",
       "prefix": "emojione",
@@ -1839,7 +1839,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57568,
       "icon": "letter-y",
       "prefix": "emojione",
@@ -1860,7 +1860,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57601,
       "icon": "play-button",
       "prefix": "emojione",
@@ -1881,7 +1881,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57633,
       "icon": "right-arrow-curving-down",
       "prefix": "emojione",
@@ -1902,7 +1902,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57635,
       "icon": "right-arrow-curving-up",
       "prefix": "emojione",
@@ -1923,7 +1923,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57547,
       "icon": "letter-d",
       "prefix": "emojione",
@@ -1944,7 +1944,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57550,
       "icon": "letter-g",
       "prefix": "emojione",
@@ -1965,7 +1965,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57544,
       "icon": "letter-a",
       "prefix": "emojione",
@@ -1986,7 +1986,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57554,
       "icon": "letter-k",
       "prefix": "emojione",
@@ -2007,7 +2007,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57558,
       "icon": "letter-o",
       "prefix": "emojione",
@@ -2028,7 +2028,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57560,
       "icon": "letter-q",
       "prefix": "emojione",
@@ -2049,7 +2049,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57450,
       "icon": "flag-for-flag-micronesia",
       "prefix": "emojione",
@@ -2070,7 +2070,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57452,
       "icon": "flag-for-flag-morocco",
       "prefix": "emojione",
@@ -2091,7 +2091,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57454,
       "icon": "flag-for-flag-norfolk-island",
       "prefix": "emojione",
@@ -2112,7 +2112,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57471,
       "icon": "flag-for-micronesia",
       "prefix": "emojione",
@@ -2133,7 +2133,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57473,
       "icon": "flag-for-morocco",
       "prefix": "emojione",
@@ -2154,7 +2154,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57475,
       "icon": "flag-for-norfolk-island",
       "prefix": "emojione",
@@ -2175,7 +2175,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57518,
       "icon": "input-numbers",
       "prefix": "emojione",
@@ -2196,7 +2196,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57556,
       "icon": "letter-m",
       "prefix": "emojione",
@@ -2217,7 +2217,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57351,
       "icon": "asterisk",
       "prefix": "emojione",
@@ -2238,7 +2238,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57543,
       "icon": "leo",
       "prefix": "emojione",
@@ -2259,7 +2259,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57599,
       "icon": "pisces",
       "prefix": "emojione",
@@ -2280,7 +2280,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57682,
       "icon": "virgo",
       "prefix": "emojione",
@@ -2301,7 +2301,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57577,
       "icon": "musical-score",
       "prefix": "emojione",
@@ -2322,7 +2322,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57446,
       "icon": "flag-for-flag-hong-kong-sar-china",
       "prefix": "emojione",
@@ -2343,7 +2343,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57467,
       "icon": "flag-for-hong-kong-sar-china",
       "prefix": "emojione",
@@ -2364,7 +2364,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57344,
       "icon": "a-button",
       "prefix": "emojione",
@@ -2385,7 +2385,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57375,
       "icon": "circled-m",
       "prefix": "emojione",
@@ -2406,7 +2406,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57416,
       "icon": "eye-in-speech-bubble",
       "prefix": "emojione",
@@ -2427,7 +2427,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57460,
       "icon": "flag-for-flag-switzerland",
       "prefix": "emojione",
@@ -2448,7 +2448,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57481,
       "icon": "flag-for-switzerland",
       "prefix": "emojione",
@@ -2469,7 +2469,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57516,
       "icon": "input-latin-lowercase",
       "prefix": "emojione",
@@ -2490,7 +2490,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57519,
       "icon": "japanese-application-button",
       "prefix": "emojione",
@@ -2511,7 +2511,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57524,
       "icon": "japanese-monthly-amount-button",
       "prefix": "emojione",
@@ -2532,7 +2532,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57541,
       "icon": "left-arrow-curving-right",
       "prefix": "emojione",
@@ -2553,7 +2553,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57595,
       "icon": "p-button",
       "prefix": "emojione",
@@ -2574,7 +2574,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57621,
       "icon": "record-button",
       "prefix": "emojione",
@@ -2595,7 +2595,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57652,
       "icon": "stop-button",
       "prefix": "emojione",
@@ -2616,7 +2616,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57406,
       "icon": "down-left-arrow",
       "prefix": "emojione",
@@ -2637,7 +2637,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57530,
       "icon": "japanese-service-charge-button",
       "prefix": "emojione",
@@ -2658,7 +2658,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57677,
       "icon": "up-left-arrow",
       "prefix": "emojione",
@@ -2679,7 +2679,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57404,
       "icon": "down-arrow",
       "prefix": "emojione",
@@ -2700,7 +2700,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57412,
       "icon": "eject-button",
       "prefix": "emojione",
@@ -2721,7 +2721,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57428,
       "icon": "flag-for-canada",
       "prefix": "emojione",
@@ -2742,7 +2742,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57438,
       "icon": "flag-for-flag-canada",
       "prefix": "emojione",
@@ -2763,7 +2763,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57458,
       "icon": "flag-for-flag-somalia",
       "prefix": "emojione",
@@ -2784,7 +2784,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57463,
       "icon": "flag-for-flag-vietnam",
       "prefix": "emojione",
@@ -2805,7 +2805,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57479,
       "icon": "flag-for-somalia",
       "prefix": "emojione",
@@ -2826,7 +2826,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57484,
       "icon": "flag-for-vietnam",
       "prefix": "emojione",
@@ -2847,7 +2847,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57527,
       "icon": "japanese-open-for-business-button",
       "prefix": "emojione",
@@ -2868,7 +2868,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57583,
       "icon": "o-button",
       "prefix": "emojione",
@@ -2889,7 +2889,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57604,
       "icon": "potable-water",
       "prefix": "emojione",
@@ -2910,7 +2910,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57637,
       "icon": "sagittarius",
       "prefix": "emojione",
@@ -2931,7 +2931,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57674,
       "icon": "up-arrow",
       "prefix": "emojione",
@@ -2952,7 +2952,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57676,
       "icon": "up-down-arrow",
       "prefix": "emojione",
@@ -2973,7 +2973,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57368,
       "icon": "capricorn",
       "prefix": "emojione",
@@ -2994,7 +2994,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57657,
       "icon": "taurus",
       "prefix": "emojione",
@@ -3015,7 +3015,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57379,
       "icon": "cocktail-glass",
       "prefix": "emojione",
@@ -3036,7 +3036,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57424,
       "icon": "flag-for-albania",
       "prefix": "emojione",
@@ -3057,7 +3057,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57434,
       "icon": "flag-for-flag-albania",
       "prefix": "emojione",
@@ -3078,7 +3078,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57376,
       "icon": "cl-button",
       "prefix": "emojione",
@@ -3099,7 +3099,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57514,
       "icon": "id-button",
       "prefix": "emojione",
@@ -3120,7 +3120,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57521,
       "icon": "japanese-discount-button",
       "prefix": "emojione",
@@ -3141,7 +3141,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57532,
       "icon": "japanese-vacancy-button",
       "prefix": "emojione",
@@ -3162,7 +3162,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57540,
       "icon": "left-arrow",
       "prefix": "emojione",
@@ -3183,7 +3183,7 @@
       "secondaryFont": "EmojioneSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57632,
       "icon": "right-arrow",
       "prefix": "emojione",
@@ -3204,46 +3204,7 @@
       "secondaryFont": "EmojioneSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Emojione",
-      "headBbox": "-4..1001 / -2..1004",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 2,
-      "prefix": "emojione",
-      "reasons": [
-        "head.xMin=-4",
-        "head.xMax=1001",
-        "head.yMin=-2",
-        "head.yMax=1004",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=2"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "EmojioneSecondary",
-      "headBbox": "-5..1005 / 0..1005",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "emojione",
-      "reasons": [
-        "head.xMin=-5",
-        "head.xMax=1005",
-        "head.yMax=1005",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "emojione",
   "ttfs": [
@@ -3253,32 +3214,9 @@
       "glyphCount": 357,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1001,
-        "xMin": -4,
-        "yMax": 1004,
-        "yMin": -2
-      },
-      "hhea": {
-        "advanceWidthMax": 1000,
-        "ascent": 1000,
-        "descent": 0
-      },
-      "os2": {
-        "sTypoAscender": 1000,
-        "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 2
-      }
-    },
-    {
-      "error": null,
-      "font": "EmojioneSecondary",
-      "glyphCount": 271,
-      "head": {
-        "unitsPerEm": 1000,
-        "xMax": 1005,
-        "xMin": -5,
-        "yMax": 1005,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -3289,7 +3227,30 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
+        "usWinDescent": 0
+      }
+    },
+    {
+      "error": null,
+      "font": "EmojioneSecondary",
+      "glyphCount": 271,
+      "head": {
+        "unitsPerEm": 1000,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
+      },
+      "hhea": {
+        "advanceWidthMax": 1000,
+        "ascent": 1000,
+        "descent": 0
+      },
+      "os2": {
+        "sTypoAscender": 1000,
+        "sTypoDescender": 0,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

@@ -1,6 +1,247 @@
 {
   "dedupCollisions": [
     {
+      "codepointCount": 4,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "brightness-1",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "brightness-1",
+        "circle",
+        "lens",
+        "panorama-fish-eye"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "chevron-backward",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "chevron-backward",
+        "chevron-left",
+        "keyboard-arrow-left",
+        "navigate-before"
+      ]
+    },
+    {
+      "codepointCount": 4,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "chevron-forward",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "chevron-forward",
+        "chevron-right",
+        "keyboard-arrow-right",
+        "navigate-next"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "bedtime",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "bedtime",
+        "clear-night",
+        "quiet-time"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile",
+        "smartphone",
+        "stay-current-portrait"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-alert",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-alert",
+        "security-update-warning",
+        "stay-primary-portrait"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-landscape",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-landscape",
+        "stay-current-landscape",
+        "stay-primary-landscape"
+      ]
+    },
+    {
+      "codepointCount": 3,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-1",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-1",
+        "wifi-calling-3",
+        "wifi-calling-bar-3"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ac-unit-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ac-unit-rounded",
+        "mode-cool"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ad-units",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ad-units",
+        "mobile-text"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ad-units-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ad-units-outline",
+        "mobile-text-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ad-units-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ad-units-outline-rounded",
+        "mobile-text-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ad-units-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ad-units-outline-sharp",
+        "mobile-text-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ad-units-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ad-units-rounded",
+        "mobile-text-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "ad-units-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "ad-units-sharp",
+        "mobile-text-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "add-to-home-screen",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "add-to-home-screen",
+        "mobile-arrow-up-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "add-to-home-screen-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "add-to-home-screen-outline",
+        "mobile-arrow-up-right-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "add-to-home-screen-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "add-to-home-screen-outline-rounded",
+        "mobile-arrow-up-right-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "add-to-home-screen-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "add-to-home-screen-outline-sharp",
+        "mobile-arrow-up-right-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "add-to-home-screen-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "add-to-home-screen-rounded",
+        "mobile-arrow-up-right-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "add-to-home-screen-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "add-to-home-screen-sharp",
+        "mobile-arrow-up-right-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "add-to-photos",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "add-to-photos",
+        "library-add"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "adjust",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "adjust",
+        "mode-standby"
+      ]
+    },
+    {
       "codepointCount": 2,
       "font": "MaterialSymbolsLight",
       "glyphName": "airplanemode-active",
@@ -28,6 +269,106 @@
       "sampleIcons": [
         "airware-rounded",
         "airwave-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "aod",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "aod",
+        "mobile-text-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "aod-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "aod-outline",
+        "mobile-text-2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "aod-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "aod-outline-rounded",
+        "mobile-text-2-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "aod-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "aod-outline-sharp",
+        "mobile-text-2-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "aod-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "aod-rounded",
+        "mobile-text-2-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "aod-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "aod-sharp",
+        "mobile-text-2-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "app-blocking",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "app-blocking",
+        "mobile-block"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "app-blocking-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "app-blocking-outline",
+        "mobile-block-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "app-blocking-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "app-blocking-outline-sharp",
+        "mobile-block-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "app-blocking-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "app-blocking-sharp",
+        "mobile-block-sharp"
       ]
     },
     {
@@ -123,11 +464,81 @@
     {
       "codepointCount": 2,
       "font": "MaterialSymbolsLight",
-      "glyphName": "bedtime",
+      "glyphName": "bedtime-off",
       "prefix": "material-symbols-light",
       "sampleIcons": [
-        "bedtime",
-        "clear-night"
+        "bedtime-off",
+        "quiet-time-active"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "blur-on",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "blur-on",
+        "lens-blur"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "book-online",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "book-online",
+        "mobile-ticket"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "book-online-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "book-online-outline",
+        "mobile-ticket-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "book-online-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "book-online-outline-rounded",
+        "mobile-ticket-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "book-online-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "book-online-outline-sharp",
+        "mobile-ticket-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "book-online-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "book-online-rounded",
+        "mobile-ticket-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "book-online-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "book-online-sharp",
+        "mobile-ticket-sharp"
       ]
     },
     {
@@ -143,11 +554,11 @@
     {
       "codepointCount": 2,
       "font": "MaterialSymbolsLight",
-      "glyphName": "brightness-1",
+      "glyphName": "brightness-2",
       "prefix": "material-symbols-light",
       "sampleIcons": [
-        "brightness-1",
-        "circle"
+        "brightness-2",
+        "mode-night"
       ]
     },
     {
@@ -183,6 +594,136 @@
     {
       "codepointCount": 2,
       "font": "MaterialSymbolsLight",
+      "glyphName": "call-made",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "call-made",
+        "north-east"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-front",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-front",
+        "mobile-camera-front"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-front-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-front-outline",
+        "mobile-camera-front-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-front-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-front-outline-rounded",
+        "mobile-camera-front-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-front-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-front-outline-sharp",
+        "mobile-camera-front-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-front-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-front-rounded",
+        "mobile-camera-front-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-front-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-front-sharp",
+        "mobile-camera-front-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-rear",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-rear",
+        "mobile-camera-rear"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-rear-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-rear-outline",
+        "mobile-camera-rear-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-rear-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-rear-outline-rounded",
+        "mobile-camera-rear-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-rear-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-rear-outline-sharp",
+        "mobile-camera-rear-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-rear-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-rear-rounded",
+        "mobile-camera-rear-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "camera-rear-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "camera-rear-sharp",
+        "mobile-camera-rear-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
       "glyphName": "car-defrost-mid-left",
       "prefix": "material-symbols-light",
       "sampleIcons": [
@@ -198,6 +739,16 @@
       "sampleIcons": [
         "car-defrost-mid-low-right",
         "car-defrost-mid-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "charging-station",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "charging-station",
+        "mobile-charge"
       ]
     },
     {
@@ -223,21 +774,21 @@
     {
       "codepointCount": 2,
       "font": "MaterialSymbolsLight",
-      "glyphName": "chevron-backward",
+      "glyphName": "circle-outline",
       "prefix": "material-symbols-light",
       "sampleIcons": [
-        "chevron-backward",
-        "chevron-left"
+        "circle-outline",
+        "lens-outline"
       ]
     },
     {
       "codepointCount": 2,
       "font": "MaterialSymbolsLight",
-      "glyphName": "chevron-forward",
+      "glyphName": "clear-day",
       "prefix": "material-symbols-light",
       "sampleIcons": [
-        "chevron-forward",
-        "chevron-right"
+        "clear-day",
+        "sunny"
       ]
     },
     {
@@ -263,6 +814,26 @@
     {
       "codepointCount": 2,
       "font": "MaterialSymbolsLight",
+      "glyphName": "contrast-circle",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "contrast-circle",
+        "unknown-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "crop-16-9-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "crop-16-9-sharp",
+        "variables"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
       "glyphName": "delete-history",
       "prefix": "material-symbols-light",
       "sampleIcons": [
@@ -273,11 +844,301 @@
     {
       "codepointCount": 2,
       "font": "MaterialSymbolsLight",
+      "glyphName": "developer-mode",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "developer-mode",
+        "mobile-code"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "device-reset",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "device-reset",
+        "history"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "device-unknown",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "device-unknown",
+        "mobile-question"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "device-unknown-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "device-unknown-outline",
+        "mobile-question-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "device-unknown-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "device-unknown-outline-rounded",
+        "mobile-question-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "device-unknown-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "device-unknown-outline-sharp",
+        "mobile-question-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "device-unknown-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "device-unknown-rounded",
+        "mobile-question-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "device-unknown-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "device-unknown-sharp",
+        "mobile-question-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "devices-off",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "devices-off",
+        "phonelink-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
       "glyphName": "download-done",
       "prefix": "material-symbols-light",
       "sampleIcons": [
         "download-done",
         "file-download-done"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "draft",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "draft",
+        "note"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "draft-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "draft-outline",
+        "note-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "draft-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "draft-outline-rounded",
+        "note-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "draft-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "draft-outline-sharp",
+        "note-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "draft-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "draft-rounded",
+        "note-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "draft-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "draft-sharp",
+        "note-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "dry-cleaning",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "dry-cleaning",
+        "styler"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-high",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-high",
+        "mobile-sensor-hi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-high-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-high-outline",
+        "mobile-sensor-hi-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-high-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-high-outline-rounded",
+        "mobile-sensor-hi-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-high-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-high-outline-sharp",
+        "mobile-sensor-hi-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-high-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-high-rounded",
+        "mobile-sensor-hi-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-high-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-high-sharp",
+        "mobile-sensor-hi-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-low",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-low",
+        "mobile-sensor-lo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-low-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-low-outline",
+        "mobile-sensor-lo-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-low-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-low-outline-rounded",
+        "mobile-sensor-lo-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-low-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-low-outline-sharp",
+        "mobile-sensor-lo-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-low-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-low-rounded",
+        "mobile-sensor-lo-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "edgesensor-low-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "edgesensor-low-sharp",
+        "mobile-sensor-lo-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "emoji-events",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "emoji-events",
+        "trophy"
       ]
     },
     {
@@ -359,100 +1220,1221 @@
         "ev-charger-sharp",
         "ev-station-sharp"
       ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "feed",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "feed",
+        "news"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "feed-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "feed-outline",
+        "news-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "feed-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "feed-outline-rounded",
+        "news-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "feed-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "feed-outline-sharp",
+        "news-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "feed-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "feed-rounded",
+        "news-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "feed-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "feed-sharp",
+        "news-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "filter",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "filter",
+        "photo-library"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "filter-hdr",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "filter-hdr",
+        "landscape"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "flightsmode",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "flightsmode",
+        "travel"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "fluorescent",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "fluorescent",
+        "wb-iridescent"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "google-tv-remote",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "google-tv-remote",
+        "nest-remote"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "google-tv-remote-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "google-tv-remote-outline",
+        "nest-remote-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "google-wifi",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "google-wifi",
+        "nest-gale-wifi"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "grade",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "grade",
+        "star"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "hide-source",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "hide-source",
+        "motion-photos-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "image",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "image",
+        "photo"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "keep",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "keep",
+        "push-pin"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "keep-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "keep-outline",
+        "push-pin-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "keyboard-double-arrow-down",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "keyboard-double-arrow-down",
+        "stat-minus-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "keyboard-double-arrow-up",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "keyboard-double-arrow-up",
+        "stat-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "keyboard-voice",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "keyboard-voice",
+        "mic"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "light-mode",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "light-mode",
+        "light-mode-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "light-mode-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "light-mode-outline",
+        "light-mode-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "local-dining",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "local-dining",
+        "restaurant-menu"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "local-fire-department",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "local-fire-department",
+        "mode-heat"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "margin",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "margin",
+        "margin-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "margin-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "margin-outline",
+        "margin-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mimo",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mimo",
+        "monitor"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-2",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-2",
+        "phone-android"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-3",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-3",
+        "phone-iphone"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-down",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-down",
+        "system-update"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-down-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-down-outline",
+        "system-update-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-down-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-down-outline-rounded",
+        "system-update-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-down-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-down-outline-sharp",
+        "system-update-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-down-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-down-rounded",
+        "system-update-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-down-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-down-sharp",
+        "system-update-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-right",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-right",
+        "send-to-mobile"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-right-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-right-outline",
+        "send-to-mobile-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-right-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-right-outline-rounded",
+        "send-to-mobile-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-right-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-right-outline-sharp",
+        "send-to-mobile-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-right-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-right-rounded",
+        "send-to-mobile-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-arrow-right-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-arrow-right-sharp",
+        "send-to-mobile-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-camera",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-camera",
+        "smartphone-camera"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-cancel",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-cancel",
+        "phonelink-erase"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-cast",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-cast",
+        "tap-and-play"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-chat",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-chat",
+        "stream-apps"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-check",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-check",
+        "security-update-good"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-dots",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-dots",
+        "smart-screen"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-gear",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-gear",
+        "phonelink-setup"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-info",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-info",
+        "perm-device-information"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-lock-landscape",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-lock-landscape",
+        "screen-lock-landscape"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-lock-portrait",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-lock-portrait",
+        "screen-lock-portrait"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-menu",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-menu",
+        "settings-cell"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-rotate",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-rotate",
+        "screen-rotation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-rotate-lock",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-rotate-lock",
+        "screen-lock-rotation"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-screen-share",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-screen-share",
+        "mobile-share"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-share-stack",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-share-stack",
+        "offline-share"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-share-stack-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-share-stack-outline",
+        "offline-share-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-share-stack-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-share-stack-outline-rounded",
+        "offline-share-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-share-stack-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-share-stack-outline-sharp",
+        "offline-share-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-share-stack-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-share-stack-rounded",
+        "offline-share-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-share-stack-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-share-stack-sharp",
+        "offline-share-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-sound",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-sound",
+        "phonelink-ring"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-sound-off",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-sound-off",
+        "phonelink-ring-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-vibrate",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-vibrate",
+        "vibration"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-vibrate-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-vibrate-outline",
+        "vibration-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-vibrate-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-vibrate-outline-rounded",
+        "vibration-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-vibrate-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-vibrate-outline-sharp",
+        "vibration-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-vibrate-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-vibrate-rounded",
+        "vibration-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mobile-vibrate-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mobile-vibrate-sharp",
+        "vibration-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "mode-cool-off",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "mode-cool-off",
+        "mode-cool-off-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "monetization-on",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "monetization-on",
+        "paid"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "money-off-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "money-off-outline-rounded",
+        "money-off-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "moving-ministry",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "moving-ministry",
+        "outpatient"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "new-releases",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "new-releases",
+        "verified"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "nights-stay",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "nights-stay",
+        "partly-cloudy-night"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "nights-stay-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "nights-stay-outline",
+        "partly-cloudy-night-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "nights-stay-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "nights-stay-outline-rounded",
+        "partly-cloudy-night-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "nights-stay-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "nights-stay-rounded",
+        "partly-cloudy-night-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "numbers",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "numbers",
+        "tag"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "portable-wifi-off",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "portable-wifi-off",
+        "wifi-tethering-off"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "pregnancy",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "pregnancy",
+        "pregnant-woman"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "price-change",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "price-change",
+        "price-change-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "price-change-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "price-change-outline",
+        "price-change-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "public-off-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "public-off-outline-sharp",
+        "public-off-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "remove-shopping-cart-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "remove-shopping-cart-outline-rounded",
+        "shopping-cart-off-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "remove-shopping-cart-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "remove-shopping-cart-outline-sharp",
+        "shopping-cart-off-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "security-update-warning-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "security-update-warning-outline",
+        "stay-primary-portrait-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "security-update-warning-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "security-update-warning-outline-rounded",
+        "stay-primary-portrait-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "security-update-warning-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "security-update-warning-outline-sharp",
+        "stay-primary-portrait-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "security-update-warning-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "security-update-warning-rounded",
+        "stay-primary-portrait-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "security-update-warning-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "security-update-warning-sharp",
+        "stay-primary-portrait-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "share-location-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "share-location-outline-rounded",
+        "share-location-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "share-location-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "share-location-outline-sharp",
+        "share-location-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "signal-cellular-0-bar",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "signal-cellular-0-bar",
+        "signal-cellular-null"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "signal-wifi-0-bar",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "signal-wifi-0-bar",
+        "signal-wifi-statusbar-null"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "split-scene",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "split-scene",
+        "split-scene-right"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "split-scene-right-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "split-scene-right-rounded",
+        "split-scene-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "split-scene-right-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "split-scene-right-sharp",
+        "split-scene-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "swipe-right",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "swipe-right",
+        "swipe-right-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "table",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "table",
+        "table-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "text-up",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "text-up",
+        "unknown-7"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "travel-explore-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "travel-explore-outline-rounded",
+        "travel-explore-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "universal-currency-alt",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "universal-currency-alt",
+        "universal-currency-alt-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "universal-currency-alt-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "universal-currency-alt-outline",
+        "universal-currency-alt-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "volume-down",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "volume-down",
+        "volume-down-alt"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-1-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-1-outline",
+        "wifi-calling-bar-3-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-1-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-1-outline-rounded",
+        "wifi-calling-bar-3-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-1-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-1-outline-sharp",
+        "wifi-calling-bar-3-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-1-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-1-rounded",
+        "wifi-calling-bar-3-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-1-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-1-sharp",
+        "wifi-calling-bar-3-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-2",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-2",
+        "wifi-calling-bar-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-2-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-2-outline",
+        "wifi-calling-bar-2-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-2-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-2-outline-rounded",
+        "wifi-calling-bar-2-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-2-outline-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-2-outline-sharp",
+        "wifi-calling-bar-2-outline-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-2-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-2-rounded",
+        "wifi-calling-bar-2-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "wifi-calling-2-sharp",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "wifi-calling-2-sharp",
+        "wifi-calling-bar-2-sharp"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "youtube-activity",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "youtube-activity",
+        "youtube-activity-2"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "youtube-activity-2-outline",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "youtube-activity-2-outline",
+        "youtube-activity-outline"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "youtube-activity-2-outline-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "youtube-activity-2-outline-rounded",
+        "youtube-activity-outline-rounded"
+      ]
+    },
+    {
+      "codepointCount": 2,
+      "font": "MaterialSymbolsLight",
+      "glyphName": "youtube-activity-2-rounded",
+      "prefix": "material-symbols-light",
+      "sampleIcons": [
+        "youtube-activity-2-rounded",
+        "youtube-activity-rounded"
+      ]
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "MaterialSymbolsLight",
-      "headBbox": "6..994 / 0..982",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "material-symbols-light",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
-  "outliers": [
-    {
-      "codepoint": 62486,
-      "contentWidth": 42,
-      "font": "MaterialSymbolsLight",
-      "name": "exclamation",
-      "prefix": "material-symbols-light",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 62487,
-      "contentWidth": 42,
-      "font": "MaterialSymbolsLight",
-      "name": "exclamation-rounded",
-      "prefix": "material-symbols-light",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 983597,
-      "contentWidth": 84,
-      "font": "MaterialSymbolsLight",
-      "name": "MaterialSymbolsLight_2__go-to-line",
-      "prefix": "material-symbols-light",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 983598,
-      "contentWidth": 84,
-      "font": "MaterialSymbolsLight",
-      "name": "MaterialSymbolsLight_2__go-to-line-rounded",
-      "prefix": "material-symbols-light",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 986303,
-      "contentWidth": 84,
-      "font": "MaterialSymbolsLight",
-      "name": "MaterialSymbolsLight_2__more-vert",
-      "prefix": "material-symbols-light",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 988212,
-      "contentWidth": 84,
-      "font": "MaterialSymbolsLight",
-      "name": "MaterialSymbolsLight_2__priority-high",
-      "prefix": "material-symbols-light",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 988213,
-      "contentWidth": 84,
-      "font": "MaterialSymbolsLight",
-      "name": "MaterialSymbolsLight_2__priority-high-rounded",
-      "prefix": "material-symbols-light",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 989716,
-      "contentWidth": 67,
-      "font": "MaterialSymbolsLight",
-      "name": "MaterialSymbolsLight_3__signal-cellular-alt-1-bar",
-      "prefix": "material-symbols-light",
-      "reason": "narrow"
-    },
-    {
-      "codepoint": 989717,
-      "contentWidth": 67,
-      "font": "MaterialSymbolsLight",
-      "name": "MaterialSymbolsLight_3__signal-cellular-alt-1-bar-rounded",
-      "prefix": "material-symbols-light",
-      "reason": "narrow"
-    }
-  ],
+  "nonCanonical": [],
+  "outliers": [],
   "prefix": "material-symbols-light",
   "ttfs": [
     {
@@ -461,9 +2443,9 @@
       "glyphCount": 15997,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 994,
-        "xMin": 6,
-        "yMax": 982,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -474,7 +2456,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

@@ -395,28 +395,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "secondary-empty",
-      "codepoint": 58017,
-      "icon": "timer-fast",
-      "prefix": "glyphs-poly",
-      "primary": {
-        "xMax": 913,
-        "xMin": 0,
-        "yMax": 860,
-        "yMin": 0
-      },
-      "primaryFont": "GlyphsPoly",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "GlyphsPolySecondary"
-    },
-    {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58054,
       "icon": "volume-3",
       "prefix": "glyphs-poly",
@@ -437,7 +416,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57660,
       "icon": "grid-list",
       "prefix": "glyphs-poly",
@@ -458,7 +437,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57926,
       "icon": "signal-25",
       "prefix": "glyphs-poly",
@@ -479,7 +458,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57808,
       "icon": "night",
       "prefix": "glyphs-poly",
@@ -500,7 +479,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57678,
       "icon": "h-4",
       "prefix": "glyphs-poly",
@@ -521,7 +500,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57537,
       "icon": "columns-2",
       "prefix": "glyphs-poly",
@@ -542,7 +521,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57843,
       "icon": "pill",
       "prefix": "glyphs-poly",
@@ -563,7 +542,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57676,
       "icon": "h-2",
       "prefix": "glyphs-poly",
@@ -584,7 +563,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57449,
       "icon": "book-open",
       "prefix": "glyphs-poly",
@@ -605,7 +584,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57677,
       "icon": "h-3",
       "prefix": "glyphs-poly",
@@ -626,7 +605,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57905,
       "icon": "seek-skip",
       "prefix": "glyphs-poly",
@@ -647,7 +626,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57576,
       "icon": "directions-sign-1",
       "prefix": "glyphs-poly",
@@ -668,7 +647,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58062,
       "icon": "wifi",
       "prefix": "glyphs-poly",
@@ -689,7 +668,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57391,
       "icon": "arrows-compress-quad",
       "prefix": "glyphs-poly",
@@ -710,7 +689,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57526,
       "icon": "cloudy",
       "prefix": "glyphs-poly",
@@ -731,7 +710,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57632,
       "icon": "font",
       "prefix": "glyphs-poly",
@@ -752,7 +731,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57575,
       "icon": "directions-sign",
       "prefix": "glyphs-poly",
@@ -773,7 +752,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57784,
       "icon": "map-signs",
       "prefix": "glyphs-poly",
@@ -794,7 +773,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58021,
       "icon": "toggle-1",
       "prefix": "glyphs-poly",
@@ -815,7 +794,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57822,
       "icon": "palm-tree",
       "prefix": "glyphs-poly",
@@ -836,7 +815,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58022,
       "icon": "toggle-2",
       "prefix": "glyphs-poly",
@@ -857,7 +836,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57517,
       "icon": "circle-half-1",
       "prefix": "glyphs-poly",
@@ -878,7 +857,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57518,
       "icon": "circle-half-2",
       "prefix": "glyphs-poly",
@@ -899,7 +878,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57929,
       "icon": "signal-50",
       "prefix": "glyphs-poly",
@@ -920,7 +899,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57348,
       "icon": "adjust-1",
       "prefix": "glyphs-poly",
@@ -941,7 +920,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57973,
       "icon": "star-half-2",
       "prefix": "glyphs-poly",
@@ -962,7 +941,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58053,
       "icon": "volume-2",
       "prefix": "glyphs-poly",
@@ -983,7 +962,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57389,
       "icon": "arrow-u-turn",
       "prefix": "glyphs-poly",
@@ -1004,7 +983,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57908,
       "icon": "send",
       "prefix": "glyphs-poly",
@@ -1025,7 +1004,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57400,
       "icon": "axe",
       "prefix": "glyphs-poly",
@@ -1046,7 +1025,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57702,
       "icon": "heart-half-1",
       "prefix": "glyphs-poly",
@@ -1067,7 +1046,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57703,
       "icon": "heart-half-2",
       "prefix": "glyphs-poly",
@@ -1088,7 +1067,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58042,
       "icon": "users-1",
       "prefix": "glyphs-poly",
@@ -1109,7 +1088,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58020,
       "icon": "toggle",
       "prefix": "glyphs-poly",
@@ -1130,7 +1109,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57675,
       "icon": "h-1",
       "prefix": "glyphs-poly",
@@ -1151,7 +1130,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57347,
       "icon": "adjust",
       "prefix": "glyphs-poly",
@@ -1172,7 +1151,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57534,
       "icon": "cogs",
       "prefix": "glyphs-poly",
@@ -1193,7 +1172,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57528,
       "icon": "cloudy-partly",
       "prefix": "glyphs-poly",
@@ -1214,7 +1193,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57457,
       "icon": "border-center",
       "prefix": "glyphs-poly",
@@ -1235,7 +1214,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57965,
       "icon": "square-half-1",
       "prefix": "glyphs-poly",
@@ -1256,7 +1235,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57594,
       "icon": "ellipsis-circle",
       "prefix": "glyphs-poly",
@@ -1277,7 +1256,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57966,
       "icon": "square-half-2",
       "prefix": "glyphs-poly",
@@ -1298,7 +1277,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57595,
       "icon": "ellipsis-square",
       "prefix": "glyphs-poly",
@@ -1319,7 +1298,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58027,
       "icon": "tree",
       "prefix": "glyphs-poly",
@@ -1340,7 +1319,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57388,
       "icon": "arrow-turn",
       "prefix": "glyphs-poly",
@@ -1361,7 +1340,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57684,
       "icon": "hand-holding-dollar",
       "prefix": "glyphs-poly",
@@ -1382,7 +1361,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57687,
       "icon": "hand-holding-water",
       "prefix": "glyphs-poly",
@@ -1403,7 +1382,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58065,
       "icon": "wifi-2",
       "prefix": "glyphs-poly",
@@ -1424,7 +1403,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57704,
       "icon": "heart-hands",
       "prefix": "glyphs-poly",
@@ -1445,7 +1424,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57867,
       "icon": "rain",
       "prefix": "glyphs-poly",
@@ -1466,7 +1445,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57849,
       "icon": "plane-side",
       "prefix": "glyphs-poly",
@@ -1487,7 +1466,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57774,
       "icon": "lock-open-1",
       "prefix": "glyphs-poly",
@@ -1508,7 +1487,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57914,
       "icon": "shield-exclamation",
       "prefix": "glyphs-poly",
@@ -1529,7 +1508,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57936,
       "icon": "sleet",
       "prefix": "glyphs-poly",
@@ -1550,7 +1529,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57452,
       "icon": "bookmark",
       "prefix": "glyphs-poly",
@@ -1571,7 +1550,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57766,
       "icon": "lightning",
       "prefix": "glyphs-poly",
@@ -1592,7 +1571,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57780,
       "icon": "map",
       "prefix": "glyphs-poly",
@@ -1613,7 +1592,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58035,
       "icon": "u-turn-sign",
       "prefix": "glyphs-poly",
@@ -1634,7 +1613,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58040,
       "icon": "user-comment",
       "prefix": "glyphs-poly",
@@ -1655,7 +1634,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58066,
       "icon": "wifi-25",
       "prefix": "glyphs-poly",
@@ -1676,7 +1655,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57870,
       "icon": "record",
       "prefix": "glyphs-poly",
@@ -1697,7 +1676,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58049,
       "icon": "virus",
       "prefix": "glyphs-poly",
@@ -1718,7 +1697,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57396,
       "icon": "arrows-round",
       "prefix": "glyphs-poly",
@@ -1739,7 +1718,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57480,
       "icon": "camcorder",
       "prefix": "glyphs-poly",
@@ -1760,7 +1739,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57771,
       "icon": "location-arrow",
       "prefix": "glyphs-poly",
@@ -1781,7 +1760,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58046,
       "icon": "video",
       "prefix": "glyphs-poly",
@@ -1802,7 +1781,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57977,
       "icon": "stop-hand",
       "prefix": "glyphs-poly",
@@ -1823,7 +1802,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57707,
       "icon": "heartbreak",
       "prefix": "glyphs-poly",
@@ -1844,7 +1823,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57876,
       "icon": "replay",
       "prefix": "glyphs-poly",
@@ -1865,7 +1844,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58028,
       "icon": "tree-1",
       "prefix": "glyphs-poly",
@@ -1886,7 +1865,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57570,
       "icon": "die-1",
       "prefix": "glyphs-poly",
@@ -1907,7 +1886,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57901,
       "icon": "search",
       "prefix": "glyphs-poly",
@@ -1928,7 +1907,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57985,
       "icon": "sun-1",
       "prefix": "glyphs-poly",
@@ -1949,7 +1928,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58041,
       "icon": "users",
       "prefix": "glyphs-poly",
@@ -1970,7 +1949,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57871,
       "icon": "rectangle",
       "prefix": "glyphs-poly",
@@ -1991,7 +1970,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57494,
       "icon": "caret-square",
       "prefix": "glyphs-poly",
@@ -2012,7 +1991,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57801,
       "icon": "mouse-1",
       "prefix": "glyphs-poly",
@@ -2033,7 +2012,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57984,
       "icon": "sun",
       "prefix": "glyphs-poly",
@@ -2054,7 +2033,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57679,
       "icon": "hammer",
       "prefix": "glyphs-poly",
@@ -2075,7 +2054,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57378,
       "icon": "arrow-round",
       "prefix": "glyphs-poly",
@@ -2096,7 +2075,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57783,
       "icon": "map-marker-2",
       "prefix": "glyphs-poly",
@@ -2117,7 +2096,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57471,
       "icon": "briefcase-1",
       "prefix": "glyphs-poly",
@@ -2138,7 +2117,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57602,
       "icon": "exclude",
       "prefix": "glyphs-poly",
@@ -2159,38 +2138,7 @@
       "secondaryFont": "GlyphsPolySecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "GlyphsPoly",
-      "headBbox": "0..1000 / 0..953",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "glyphs-poly",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "GlyphsPolySecondary",
-      "headBbox": "0..1000 / 0..976",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "glyphs-poly",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 963,
@@ -2270,46 +2218,46 @@
     {
       "error": null,
       "font": "GlyphsPoly",
-      "glyphCount": 733,
+      "glyphCount": 722,
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
         "xMin": 0,
-        "yMax": 953,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1050,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
     {
       "error": null,
       "font": "GlyphsPolySecondary",
-      "glyphCount": 294,
+      "glyphCount": 293,
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
         "xMin": 0,
-        "yMax": 976,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1050,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

@@ -32,28 +32,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "Garden",
-      "headBbox": "-11..4377 / -11..1011",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 11,
-      "prefix": "garden",
-      "reasons": [
-        "head.xMin=-11",
-        "head.xMax=4377",
-        "head.yMin=-11",
-        "head.yMax=1011",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=11"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 1062,
@@ -472,21 +451,21 @@
       "glyphCount": 1027,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 4377,
-        "xMin": -11,
-        "yMax": 1011,
-        "yMin": -11
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 4423,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 11
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

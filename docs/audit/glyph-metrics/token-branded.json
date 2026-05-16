@@ -206,49 +206,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "primary-empty",
-      "codepoint": 57950,
-      "icon": "h2o",
-      "prefix": "token-branded",
-      "primary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "primaryFont": "TokenBranded",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "TokenBrandedSecondary"
-    },
-    {
-      "cause": "primary-empty",
-      "codepoint": 58722,
-      "icon": "susd",
-      "prefix": "token-branded",
-      "primary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "primaryFont": "TokenBranded",
-      "score": -1,
-      "secondary": {
-        "xMax": 0,
-        "xMin": 0,
-        "yMax": 0,
-        "yMin": 0
-      },
-      "secondaryFont": "TokenBrandedSecondary"
-    },
-    {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58029,
       "icon": "inv",
       "prefix": "token-branded",
@@ -269,7 +227,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58280,
       "icon": "mvl",
       "prefix": "token-branded",
@@ -290,7 +248,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57918,
       "icon": "go",
       "prefix": "token-branded",
@@ -311,7 +269,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58302,
       "icon": "nct",
       "prefix": "token-branded",
@@ -332,7 +290,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58440,
       "icon": "pkt",
       "prefix": "token-branded",
@@ -353,7 +311,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57672,
       "icon": "cuminu",
       "prefix": "token-branded",
@@ -374,7 +332,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57985,
       "icon": "hpo",
       "prefix": "token-branded",
@@ -395,7 +353,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57366,
       "icon": "adoge",
       "prefix": "token-branded",
@@ -416,7 +374,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58037,
       "icon": "iq",
       "prefix": "token-branded",
@@ -437,7 +395,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57875,
       "icon": "fx",
       "prefix": "token-branded",
@@ -458,7 +416,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57344,
       "icon": "0x0",
       "prefix": "token-branded",
@@ -479,7 +437,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58453,
       "icon": "png",
       "prefix": "token-branded",
@@ -500,7 +458,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57986,
       "icon": "hst",
       "prefix": "token-branded",
@@ -521,7 +479,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57715,
       "icon": "dgnx",
       "prefix": "token-branded",
@@ -542,7 +500,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58538,
       "icon": "rbd",
       "prefix": "token-branded",
@@ -563,7 +521,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57819,
       "icon": "exd",
       "prefix": "token-branded",
@@ -584,7 +542,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58125,
       "icon": "libre",
       "prefix": "token-branded",
@@ -605,7 +563,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57624,
       "icon": "cnd",
       "prefix": "token-branded",
@@ -626,7 +584,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57430,
       "icon": "asd",
       "prefix": "token-branded",
@@ -647,7 +605,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58415,
       "icon": "pdex",
       "prefix": "token-branded",
@@ -668,7 +626,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58508,
       "icon": "qanx",
       "prefix": "token-branded",
@@ -689,7 +647,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58298,
       "icon": "nblu",
       "prefix": "token-branded",
@@ -710,7 +668,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57379,
       "icon": "ai",
       "prefix": "token-branded",
@@ -731,7 +689,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57542,
       "icon": "bscpad",
       "prefix": "token-branded",
@@ -752,7 +710,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58162,
       "icon": "lusd",
       "prefix": "token-branded",
@@ -773,7 +731,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58212,
       "icon": "milkomeda-a1",
       "prefix": "token-branded",
@@ -794,7 +752,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58213,
       "icon": "milkomeda-c1",
       "prefix": "token-branded",
@@ -815,7 +773,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58419,
       "icon": "pendle",
       "prefix": "token-branded",
@@ -836,7 +794,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58875,
       "icon": "vix",
       "prefix": "token-branded",
@@ -857,7 +815,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57473,
       "icon": "bcd",
       "prefix": "token-branded",
@@ -878,7 +836,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57797,
       "icon": "es",
       "prefix": "token-branded",
@@ -899,7 +857,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58735,
       "icon": "sylo",
       "prefix": "token-branded",
@@ -920,7 +878,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57736,
       "icon": "dose",
       "prefix": "token-branded",
@@ -941,7 +899,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58394,
       "icon": "oxb",
       "prefix": "token-branded",
@@ -962,7 +920,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57629,
       "icon": "coinex-smart-chain",
       "prefix": "token-branded",
@@ -983,7 +941,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57830,
       "icon": "fdusd",
       "prefix": "token-branded",
@@ -1004,7 +962,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58009,
       "icon": "idia",
       "prefix": "token-branded",
@@ -1025,7 +983,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58141,
       "icon": "looks",
       "prefix": "token-branded",
@@ -1046,7 +1004,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58467,
       "icon": "pond",
       "prefix": "token-branded",
@@ -1067,7 +1025,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57637,
       "icon": "corn",
       "prefix": "token-branded",
@@ -1088,7 +1046,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58030,
       "icon": "ion",
       "prefix": "token-branded",
@@ -1109,7 +1067,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58451,
       "icon": "ply",
       "prefix": "token-branded",
@@ -1130,7 +1088,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58579,
       "icon": "rpg",
       "prefix": "token-branded",
@@ -1151,7 +1109,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57515,
       "icon": "bmx",
       "prefix": "token-branded",
@@ -1172,7 +1130,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57960,
       "icon": "hedera",
       "prefix": "token-branded",
@@ -1193,7 +1151,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57961,
       "icon": "hedera-hashgraph",
       "prefix": "token-branded",
@@ -1214,7 +1172,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58026,
       "icon": "insur",
       "prefix": "token-branded",
@@ -1235,7 +1193,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58164,
       "icon": "lym",
       "prefix": "token-branded",
@@ -1256,7 +1214,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58532,
       "icon": "ramp",
       "prefix": "token-branded",
@@ -1277,7 +1235,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57544,
       "icon": "bsgg",
       "prefix": "token-branded",
@@ -1298,7 +1256,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57581,
       "icon": "cbeth",
       "prefix": "token-branded",
@@ -1319,7 +1277,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58750,
       "icon": "tetu",
       "prefix": "token-branded",
@@ -1340,7 +1298,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58007,
       "icon": "idea",
       "prefix": "token-branded",
@@ -1361,7 +1319,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58044,
       "icon": "ixt",
       "prefix": "token-branded",
@@ -1382,7 +1340,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58604,
       "icon": "sbd",
       "prefix": "token-branded",
@@ -1403,7 +1361,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 58933,
       "icon": "xaut",
       "prefix": "token-branded",
@@ -1424,7 +1382,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57477,
       "icon": "bct",
       "prefix": "token-branded",
@@ -1445,7 +1403,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57582,
       "icon": "cbx",
       "prefix": "token-branded",
@@ -1466,7 +1424,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57708,
       "icon": "dext",
       "prefix": "token-branded",
@@ -1487,7 +1445,7 @@
       "secondaryFont": "TokenBrandedSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57968,
       "icon": "hez",
       "prefix": "token-branded",
@@ -1508,50 +1466,19 @@
       "secondaryFont": "TokenBrandedSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "TokenBranded",
-      "headBbox": "0..1000 / 0..923",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "token-branded",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "TokenBrandedSecondary",
-      "headBbox": "0..1000 / 0..917",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "token-branded",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "token-branded",
   "ttfs": [
     {
       "error": null,
       "font": "TokenBranded",
-      "glyphCount": 1664,
+      "glyphCount": 1566,
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
         "xMin": 0,
-        "yMax": 923,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -1562,19 +1489,19 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
     {
       "error": null,
       "font": "TokenBrandedSecondary",
-      "glyphCount": 205,
+      "glyphCount": 203,
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
         "xMin": 0,
-        "yMax": 917,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -1585,7 +1512,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

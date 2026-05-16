@@ -1,38 +1,7 @@
 {
   "dedupCollisions": [],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "BitcoinIcons",
-      "headBbox": "0..909 / 0..910",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "bitcoin-icons",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "BitcoinIconsSecondary",
-      "headBbox": "0..792 / 0..834",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "bitcoin-icons",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "bitcoin-icons",
   "ttfs": [
@@ -42,9 +11,9 @@
       "glyphCount": 330,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 909,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 910,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -55,7 +24,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -65,9 +34,9 @@
       "glyphCount": 1,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 792,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 834,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -78,7 +47,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

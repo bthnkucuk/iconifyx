@@ -149,7 +149,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57519,
       "icon": "right",
       "prefix": "fxemoji",
@@ -170,7 +170,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57432,
       "icon": "heartgreen",
       "prefix": "fxemoji",
@@ -191,7 +191,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57434,
       "icon": "heartpurple",
       "prefix": "fxemoji",
@@ -212,7 +212,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57512,
       "icon": "redheart",
       "prefix": "fxemoji",
@@ -233,7 +233,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57435,
       "icon": "heartyellow",
       "prefix": "fxemoji",
@@ -254,7 +254,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57431,
       "icon": "heartblue",
       "prefix": "fxemoji",
@@ -275,7 +275,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57561,
       "icon": "triangularflagonpost",
       "prefix": "fxemoji",
@@ -296,7 +296,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57383,
       "icon": "chineseflag",
       "prefix": "fxemoji",
@@ -317,7 +317,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57547,
       "icon": "sunbehindcloud",
       "prefix": "fxemoji",
@@ -338,7 +338,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57507,
       "icon": "poultryleg",
       "prefix": "fxemoji",
@@ -359,7 +359,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57585,
       "icon": "whitesunbehindcloud",
       "prefix": "fxemoji",
@@ -380,7 +380,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57548,
       "icon": "sunraincloud",
       "prefix": "fxemoji",
@@ -401,7 +401,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57506,
       "icon": "phonewithpage",
       "prefix": "fxemoji",
@@ -422,7 +422,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57454,
       "icon": "label",
       "prefix": "fxemoji",
@@ -443,7 +443,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57450,
       "icon": "increasefontsize",
       "prefix": "fxemoji",
@@ -464,7 +464,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57366,
       "icon": "blackdroplet",
       "prefix": "fxemoji",
@@ -485,7 +485,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57555,
       "icon": "thumbsdown",
       "prefix": "fxemoji",
@@ -506,7 +506,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57568,
       "icon": "warningsign",
       "prefix": "fxemoji",
@@ -527,7 +527,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57470,
       "icon": "mapleleaf",
       "prefix": "fxemoji",
@@ -548,7 +548,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57398,
       "icon": "dizzy",
       "prefix": "fxemoji",
@@ -569,7 +569,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57397,
       "icon": "diamondshapewithdotinside",
       "prefix": "fxemoji",
@@ -590,7 +590,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57556,
       "icon": "thumbsup",
       "prefix": "fxemoji",
@@ -611,7 +611,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57453,
       "icon": "kissmark",
       "prefix": "fxemoji",
@@ -632,7 +632,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57408,
       "icon": "electricplug",
       "prefix": "fxemoji",
@@ -653,7 +653,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57357,
       "icon": "banknotedollar",
       "prefix": "fxemoji",
@@ -674,7 +674,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57358,
       "icon": "banknoteeuro",
       "prefix": "fxemoji",
@@ -695,7 +695,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57359,
       "icon": "banknotepound",
       "prefix": "fxemoji",
@@ -716,7 +716,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57360,
       "icon": "banknoteyen",
       "prefix": "fxemoji",
@@ -737,7 +737,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57532,
       "icon": "sidewaysrightpointingindex",
       "prefix": "fxemoji",
@@ -758,7 +758,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57396,
       "icon": "decreasefontsize",
       "prefix": "fxemoji",
@@ -779,7 +779,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57388,
       "icon": "contact2",
       "prefix": "fxemoji",
@@ -800,7 +800,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57451,
       "icon": "japanflag",
       "prefix": "fxemoji",
@@ -821,7 +821,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57541,
       "icon": "speaker",
       "prefix": "fxemoji",
@@ -842,7 +842,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57430,
       "icon": "hands",
       "prefix": "fxemoji",
@@ -863,7 +863,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57429,
       "icon": "hand",
       "prefix": "fxemoji",
@@ -884,7 +884,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57344,
       "icon": "2hearts",
       "prefix": "fxemoji",
@@ -905,7 +905,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57531,
       "icon": "sidewaysleftpointingindex",
       "prefix": "fxemoji",
@@ -926,7 +926,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57378,
       "icon": "bread",
       "prefix": "fxemoji",
@@ -947,7 +947,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57545,
       "icon": "stormcloud",
       "prefix": "fxemoji",
@@ -968,7 +968,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57346,
       "icon": "alienmonster",
       "prefix": "fxemoji",
@@ -989,7 +989,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57510,
       "icon": "raisedhandpartfingers",
       "prefix": "fxemoji",
@@ -1010,7 +1010,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57511,
       "icon": "raisedhandsfingerssplayed",
       "prefix": "fxemoji",
@@ -1031,7 +1031,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57564,
       "icon": "twospeechbubbles",
       "prefix": "fxemoji",
@@ -1052,7 +1052,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57402,
       "icon": "down",
       "prefix": "fxemoji",
@@ -1073,7 +1073,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57477,
       "icon": "moneybag",
       "prefix": "fxemoji",
@@ -1094,7 +1094,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57484,
       "icon": "musicalscore",
       "prefix": "fxemoji",
@@ -1115,7 +1115,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57493,
       "icon": "nopedestrians",
       "prefix": "fxemoji",
@@ -1136,7 +1136,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57463,
       "icon": "lightningmoodbubble",
       "prefix": "fxemoji",
@@ -1157,7 +1157,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57416,
       "icon": "evergreen",
       "prefix": "fxemoji",
@@ -1178,7 +1178,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57445,
       "icon": "heels",
       "prefix": "fxemoji",
@@ -1199,7 +1199,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57496,
       "icon": "oldkey",
       "prefix": "fxemoji",
@@ -1220,7 +1220,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57399,
       "icon": "donotlittersymbol",
       "prefix": "fxemoji",
@@ -1241,7 +1241,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57557,
       "icon": "toilet",
       "prefix": "fxemoji",
@@ -1262,7 +1262,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57420,
       "icon": "fishcakeswirl",
       "prefix": "fxemoji",
@@ -1283,7 +1283,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57515,
       "icon": "reverseraisedhandsfingerssplayed",
       "prefix": "fxemoji",
@@ -1304,7 +1304,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57425,
       "icon": "forkknife",
       "prefix": "fxemoji",
@@ -1325,7 +1325,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57513,
       "icon": "reminder",
       "prefix": "fxemoji",
@@ -1346,7 +1346,7 @@
       "secondaryFont": "FxemojiSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57422,
       "icon": "flexbicep",
       "prefix": "fxemoji",
@@ -1367,48 +1367,7 @@
       "secondaryFont": "FxemojiSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Fxemoji",
-      "headBbox": "-9..1474 / -12..1380",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1380,
-      "os2WinDesc": 12,
-      "prefix": "fxemoji",
-      "reasons": [
-        "head.xMin=-9",
-        "head.xMax=1474",
-        "head.yMin=-12",
-        "head.yMax=1380",
-        "OS/2.winAsc=1380",
-        "OS/2.winDesc=12"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "FxemojiSecondary",
-      "headBbox": "-4..1006 / -7..1298",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1298,
-      "os2WinDesc": 7,
-      "prefix": "fxemoji",
-      "reasons": [
-        "head.xMin=-4",
-        "head.xMax=1006",
-        "head.yMin=-7",
-        "head.yMax=1298",
-        "OS/2.winAsc=1298",
-        "OS/2.winDesc=7"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 1089,
@@ -1443,21 +1402,21 @@
       "glyphCount": 244,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1474,
-        "xMin": -9,
-        "yMax": 1380,
-        "yMin": -12
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1089,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1380,
-        "usWinDescent": 12
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     },
     {
@@ -1466,21 +1425,21 @@
       "glyphCount": 128,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1006,
-        "xMin": -4,
-        "yMax": 1298,
-        "yMin": -7
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 1089,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1298,
-        "usWinDescent": 7
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

@@ -308,7 +308,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57581,
       "icon": "satellite-antenna",
       "prefix": "noto",
@@ -329,7 +329,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57352,
       "icon": "biohazard",
       "prefix": "noto",
@@ -350,7 +350,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57466,
       "icon": "leo",
       "prefix": "noto",
@@ -371,7 +371,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57551,
       "icon": "ophiuchus",
       "prefix": "noto",
@@ -392,7 +392,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57575,
       "icon": "radioactive",
       "prefix": "noto",
@@ -413,7 +413,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57365,
       "icon": "busts-in-silhouette",
       "prefix": "noto",
@@ -434,7 +434,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57403,
       "icon": "droplet",
       "prefix": "noto",
@@ -455,7 +455,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57587,
       "icon": "shorts",
       "prefix": "noto",
@@ -476,7 +476,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57369,
       "icon": "cat-face-with-tears-of-joy",
       "prefix": "noto",
@@ -497,7 +497,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57371,
       "icon": "cat-with-tears-of-joy",
       "prefix": "noto",
@@ -518,7 +518,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57370,
       "icon": "cat-face-with-wry-smile",
       "prefix": "noto",
@@ -539,7 +539,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57372,
       "icon": "cat-with-wry-smile",
       "prefix": "noto",
@@ -560,7 +560,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57444,
       "icon": "grinning-cat-face-with-smiling-eyes",
       "prefix": "noto",
@@ -581,7 +581,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57445,
       "icon": "grinning-cat-with-smiling-eyes",
       "prefix": "noto",
@@ -602,7 +602,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57381,
       "icon": "compass",
       "prefix": "noto",
@@ -623,7 +623,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57430,
       "icon": "female-sign",
       "prefix": "noto",
@@ -644,7 +644,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57387,
       "icon": "crying-cat",
       "prefix": "noto",
@@ -665,7 +665,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57388,
       "icon": "crying-cat-face",
       "prefix": "noto",
@@ -686,7 +686,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57630,
       "icon": "weary-cat",
       "prefix": "noto",
@@ -707,7 +707,7 @@
       "secondaryFont": "NotoSecondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57631,
       "icon": "weary-cat-face",
       "prefix": "noto",
@@ -728,39 +728,7 @@
       "secondaryFont": "NotoSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Noto",
-      "headBbox": "-1..1000 / 0..993",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "noto",
-      "reasons": [
-        "head.xMin=-1",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "NotoSecondary",
-      "headBbox": "0..994 / 0..980",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "noto",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "noto",
   "ttfs": [
@@ -771,8 +739,8 @@
       "head": {
         "unitsPerEm": 1000,
         "xMax": 1000,
-        "xMin": -1,
-        "yMax": 993,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -783,7 +751,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -793,9 +761,9 @@
       "glyphCount": 58,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 994,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 980,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -806,7 +774,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

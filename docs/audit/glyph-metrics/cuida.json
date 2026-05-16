@@ -2,7 +2,7 @@
   "dedupCollisions": [],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57484,
       "icon": "sort-ascending-duotone",
       "prefix": "cuida",
@@ -23,38 +23,7 @@
       "secondaryFont": "CuidaSecondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "Cuida",
-      "headBbox": "0..926 / 0..924",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "cuida",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "CuidaSecondary",
-      "headBbox": "0..840 / 0..669",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "cuida",
-      "reasons": [
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "advance": 960,
@@ -129,9 +98,9 @@
       "glyphCount": 182,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 926,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 924,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -142,7 +111,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     },
@@ -152,20 +121,20 @@
       "glyphCount": 1,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 840,
+        "xMax": 1000,
         "xMin": 0,
-        "yMax": 669,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
-        "advanceWidthMax": 960,
+        "advanceWidthMax": 1000,
         "ascent": 1000,
         "descent": 0
       },
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

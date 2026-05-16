@@ -958,7 +958,23 @@ function classifyTtfOnly(
     // CI.
     const sharedSecondaryGlyph =
       secondaryGlyph.glyphName !== resolved.iconName;
+
+    // Bbox overlap check — see audit/glyph_metrics.ts:classifyDuotoneGeometry.
+    // If primary and secondary bboxes overlap in 2-D, the asymmetry is
+    // intentional (small accent inside a silhouette, e.g. ic:twotone-motorcycle,
+    // ph:hand-arrow-down-duotone — both visually correct, SSIM ≥ 0.94 against
+    // upstream SVG). Only flag DUOTONE_BBOX_MISMATCH when the bboxes are
+    // genuinely disjoint along an axis (the solar regression class).
+    const pb = primaryGlyph.bbox;
+    const sb = secondaryGlyph.bbox;
+    const xDisjoint = pb.xMax < sb.xMin || sb.xMax < pb.xMin;
+    const yDisjoint = pb.yMax < sb.yMin || sb.yMax < pb.yMin;
+    const bboxesOverlap = !xDisjoint && !yDisjoint;
     if (dx > 0.04 || dy > 0.04) {
+      if (bboxesOverlap) {
+        // Asymmetric-by-design duotone — informational, not a bug.
+        return null;
+      }
       if (sharedSecondaryGlyph && dx < 0.10 && dy < 0.10) {
         return {
           status: 'needs-review',
@@ -981,7 +997,8 @@ function classifyTtfOnly(
         problem:
           `Primary glyph centroid (${primaryGlyph.bbox.cx.toFixed(0)},${primaryGlyph.bbox.cy.toFixed(0)}) ` +
           `differs from secondary (${secondaryGlyph.bbox.cx.toFixed(0)},${secondaryGlyph.bbox.cy.toFixed(0)}) ` +
-          `by ${(dx * 100).toFixed(1)}% / ${(dy * 100).toFixed(1)}% of em — layers will overlay misaligned`,
+          `by ${(dx * 100).toFixed(1)}% / ${(dy * 100).toFixed(1)}% of em — layers will overlay misaligned ` +
+          `(bboxes disjoint along ${xDisjoint ? 'x' : 'y'} axis)`,
         remediation:
           'GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup ' +
           '(identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see ' +

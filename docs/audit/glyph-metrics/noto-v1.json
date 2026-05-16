@@ -1291,7 +1291,7 @@
   ],
   "duotoneMismatches": [
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57815,
       "icon": "right-anger-bubble",
       "prefix": "noto-v1",
@@ -1312,7 +1312,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57399,
       "icon": "check-mark-button",
       "prefix": "noto-v1",
@@ -1333,7 +1333,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57918,
       "icon": "white-heavy-check-mark",
       "prefix": "noto-v1",
@@ -1354,7 +1354,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57930,
       "icon": "woman-biking-dark-skin-tone",
       "prefix": "noto-v1",
@@ -1375,7 +1375,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57963,
       "icon": "woman-mountain-biking-dark-skin-tone",
       "prefix": "noto-v1",
@@ -1396,7 +1396,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57486,
       "icon": "flag-for-triangular-flag",
       "prefix": "noto-v1",
@@ -1417,7 +1417,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57889,
       "icon": "triangular-flag",
       "prefix": "noto-v1",
@@ -1438,7 +1438,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57604,
       "icon": "lizard",
       "prefix": "noto-v1",
@@ -1459,7 +1459,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57669,
       "icon": "microphone",
       "prefix": "noto-v1",
@@ -1480,7 +1480,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57482,
       "icon": "flag-for-china",
       "prefix": "noto-v1",
@@ -1501,7 +1501,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57483,
       "icon": "flag-for-flag-china",
       "prefix": "noto-v1",
@@ -1522,7 +1522,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57514,
       "icon": "heart-exclamation",
       "prefix": "noto-v1",
@@ -1543,7 +1543,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57518,
       "icon": "heavy-heart-exclamation",
       "prefix": "noto-v1",
@@ -1564,7 +1564,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57565,
       "icon": "left-facing-fist",
       "prefix": "noto-v1",
@@ -1585,7 +1585,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57566,
       "icon": "left-facing-fist-dark-skin-tone",
       "prefix": "noto-v1",
@@ -1606,7 +1606,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57567,
       "icon": "left-facing-fist-light-skin-tone",
       "prefix": "noto-v1",
@@ -1627,7 +1627,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57568,
       "icon": "left-facing-fist-medium-dark-skin-tone",
       "prefix": "noto-v1",
@@ -1648,7 +1648,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57569,
       "icon": "left-facing-fist-medium-light-skin-tone",
       "prefix": "noto-v1",
@@ -1669,7 +1669,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57570,
       "icon": "left-facing-fist-medium-skin-tone",
       "prefix": "noto-v1",
@@ -1690,7 +1690,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57559,
       "icon": "last-quarter-moon-face",
       "prefix": "noto-v1",
@@ -1711,7 +1711,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57560,
       "icon": "last-quarter-moon-with-face",
       "prefix": "noto-v1",
@@ -1732,7 +1732,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57884,
       "icon": "ticket",
       "prefix": "noto-v1",
@@ -1753,7 +1753,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57827,
       "icon": "rugby-football",
       "prefix": "noto-v1",
@@ -1774,7 +1774,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57428,
       "icon": "diamond-with-a-dot",
       "prefix": "noto-v1",
@@ -1795,7 +1795,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57833,
       "icon": "sheaf-of-rice",
       "prefix": "noto-v1",
@@ -1816,7 +1816,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57890,
       "icon": "trident-emblem",
       "prefix": "noto-v1",
@@ -1837,7 +1837,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57400,
       "icon": "cherry-blossom",
       "prefix": "noto-v1",
@@ -1858,7 +1858,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57376,
       "icon": "blossom",
       "prefix": "noto-v1",
@@ -1879,7 +1879,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57521,
       "icon": "herb",
       "prefix": "noto-v1",
@@ -1900,7 +1900,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57719,
       "icon": "open-hands",
       "prefix": "noto-v1",
@@ -1921,7 +1921,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57720,
       "icon": "open-hands-dark-skin-tone",
       "prefix": "noto-v1",
@@ -1942,7 +1942,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57721,
       "icon": "open-hands-light-skin-tone",
       "prefix": "noto-v1",
@@ -1963,7 +1963,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57722,
       "icon": "open-hands-medium-dark-skin-tone",
       "prefix": "noto-v1",
@@ -1984,7 +1984,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57723,
       "icon": "open-hands-medium-light-skin-tone",
       "prefix": "noto-v1",
@@ -2005,7 +2005,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57724,
       "icon": "open-hands-medium-skin-tone",
       "prefix": "noto-v1",
@@ -2026,7 +2026,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57832,
       "icon": "seedling",
       "prefix": "noto-v1",
@@ -2047,7 +2047,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57987,
       "icon": "womens-room",
       "prefix": "noto-v1",
@@ -2068,7 +2068,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57470,
       "icon": "face-without-mouth",
       "prefix": "noto-v1",
@@ -2089,7 +2089,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57555,
       "icon": "kissing-face",
       "prefix": "noto-v1",
@@ -2110,7 +2110,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57684,
       "icon": "neutral-face",
       "prefix": "noto-v1",
@@ -2131,7 +2131,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57416,
       "icon": "collision",
       "prefix": "noto-v1",
@@ -2152,7 +2152,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57440,
       "icon": "disappointed-face",
       "prefix": "noto-v1",
@@ -2173,7 +2173,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57679,
       "icon": "mount-fuji",
       "prefix": "noto-v1",
@@ -2194,7 +2194,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57465,
       "icon": "expressionless-face",
       "prefix": "noto-v1",
@@ -2215,7 +2215,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57497,
       "icon": "fork-and-knife-with-plate",
       "prefix": "noto-v1",
@@ -2236,7 +2236,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57885,
       "icon": "tokyo-tower",
       "prefix": "noto-v1",
@@ -2257,7 +2257,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57797,
       "icon": "raised-hand",
       "prefix": "noto-v1",
@@ -2278,7 +2278,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57798,
       "icon": "raised-hand-dark-skin-tone",
       "prefix": "noto-v1",
@@ -2299,7 +2299,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57799,
       "icon": "raised-hand-light-skin-tone",
       "prefix": "noto-v1",
@@ -2320,7 +2320,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57800,
       "icon": "raised-hand-medium-dark-skin-tone",
       "prefix": "noto-v1",
@@ -2341,7 +2341,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57801,
       "icon": "raised-hand-medium-light-skin-tone",
       "prefix": "noto-v1",
@@ -2362,7 +2362,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57802,
       "icon": "raised-hand-medium-skin-tone",
       "prefix": "noto-v1",
@@ -2383,7 +2383,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57709,
       "icon": "old-key",
       "prefix": "noto-v1",
@@ -2404,7 +2404,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57986,
       "icon": "womans-hat",
       "prefix": "noto-v1",
@@ -2425,7 +2425,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57710,
       "icon": "on-arrow",
       "prefix": "noto-v1",
@@ -2446,7 +2446,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57711,
       "icon": "on-exclamation-arrow",
       "prefix": "noto-v1",
@@ -2467,7 +2467,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57562,
       "icon": "leaf-fluttering-in-wind",
       "prefix": "noto-v1",
@@ -2488,7 +2488,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57912,
       "icon": "weary-cat",
       "prefix": "noto-v1",
@@ -2509,7 +2509,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57913,
       "icon": "weary-cat-face",
       "prefix": "noto-v1",
@@ -2530,7 +2530,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57928,
       "icon": "winking-face",
       "prefix": "noto-v1",
@@ -2551,7 +2551,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57417,
       "icon": "confounded-face",
       "prefix": "noto-v1",
@@ -2572,7 +2572,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57738,
       "icon": "pensive-face",
       "prefix": "noto-v1",
@@ -2593,7 +2593,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57480,
       "icon": "first-quarter-moon-face",
       "prefix": "noto-v1",
@@ -2614,7 +2614,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57481,
       "icon": "first-quarter-moon-with-face",
       "prefix": "noto-v1",
@@ -2635,7 +2635,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57361,
       "icon": "b-button",
       "prefix": "noto-v1",
@@ -2656,7 +2656,7 @@
       "secondaryFont": "NotoV1Secondary"
     },
     {
-      "cause": "shifted",
+      "cause": "asymmetric",
       "codepoint": 57362,
       "icon": "b-button-blood-type",
       "prefix": "noto-v1",
@@ -2677,48 +2677,7 @@
       "secondaryFont": "NotoV1Secondary"
     }
   ],
-  "nonCanonical": [
-    {
-      "font": "NotoV1",
-      "headBbox": "-3172..3599 / -2305..2624",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 2624,
-      "os2WinDesc": 2305,
-      "prefix": "noto-v1",
-      "reasons": [
-        "head.xMin=-3172",
-        "head.xMax=3599",
-        "head.yMin=-2305",
-        "head.yMax=2624",
-        "OS/2.winAsc=2624",
-        "OS/2.winDesc=2305"
-      ],
-      "unitsPerEm": 1000
-    },
-    {
-      "font": "NotoV1Secondary",
-      "headBbox": "-934..3661 / -1558..1153",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1153,
-      "os2WinDesc": 1558,
-      "prefix": "noto-v1",
-      "reasons": [
-        "head.xMin=-934",
-        "head.xMax=3661",
-        "head.yMin=-1558",
-        "head.yMax=1153",
-        "OS/2.winAsc=1153",
-        "OS/2.winDesc=1558"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [
     {
       "codepoint": 57503,
@@ -2774,13 +2733,13 @@
     {
       "error": null,
       "font": "NotoV1",
-      "glyphCount": 647,
+      "glyphCount": 633,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 3599,
-        "xMin": -3172,
-        "yMax": 2624,
-        "yMin": -2305
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -2790,8 +2749,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 2624,
-        "usWinDescent": 2305
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     },
     {
@@ -2800,10 +2759,10 @@
       "glyphCount": 246,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 3661,
-        "xMin": -934,
-        "yMax": 1153,
-        "yMin": -1558
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -2813,8 +2772,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1153,
-        "usWinDescent": 1558
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

@@ -184,28 +184,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "AkarIcons",
-      "headBbox": "-4..1016 / -16..1006",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 16,
-      "prefix": "akar-icons",
-      "reasons": [
-        "head.xMin=-4",
-        "head.xMax=1016",
-        "head.yMin=-16",
-        "head.yMax=1006",
-        "OS/2.winAsc=1090",
-        "OS/2.winDesc=16"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "akar-icons",
   "ttfs": [
@@ -215,10 +194,10 @@
       "glyphCount": 464,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 1016,
-        "xMin": -4,
-        "yMax": 1006,
-        "yMin": -16
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
+        "yMin": 0
       },
       "hhea": {
         "advanceWidthMax": 1000,
@@ -228,8 +207,8 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
-        "usWinDescent": 16
+        "usWinAscent": 1000,
+        "usWinDescent": 0
       }
     }
   ]

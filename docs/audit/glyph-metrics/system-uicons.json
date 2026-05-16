@@ -22,24 +22,7 @@
     }
   ],
   "duotoneMismatches": [],
-  "nonCanonical": [
-    {
-      "font": "SystemUicons",
-      "headBbox": "-1..954 / 0..960",
-      "hheaAsc": 1000,
-      "hheaDesc": 0,
-      "os2TypoAsc": 1000,
-      "os2TypoDesc": 0,
-      "os2WinAsc": 1090,
-      "os2WinDesc": 0,
-      "prefix": "system-uicons",
-      "reasons": [
-        "head.xMin=-1",
-        "OS/2.winAsc=1090"
-      ],
-      "unitsPerEm": 1000
-    }
-  ],
+  "nonCanonical": [],
   "outliers": [],
   "prefix": "system-uicons",
   "ttfs": [
@@ -49,9 +32,9 @@
       "glyphCount": 432,
       "head": {
         "unitsPerEm": 1000,
-        "xMax": 954,
-        "xMin": -1,
-        "yMax": 960,
+        "xMax": 1000,
+        "xMin": 0,
+        "yMax": 1000,
         "yMin": 0
       },
       "hhea": {
@@ -62,7 +45,7 @@
       "os2": {
         "sTypoAscender": 1000,
         "sTypoDescender": 0,
-        "usWinAscent": 1090,
+        "usWinAscent": 1000,
         "usWinDescent": 0
       }
     }

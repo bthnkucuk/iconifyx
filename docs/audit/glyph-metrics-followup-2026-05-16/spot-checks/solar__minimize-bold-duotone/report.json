@@ -1,0 +1,105 @@
+{
+  "iconRef": "solar:minimize-bold-duotone",
+  "prefix": "solar",
+  "iconName": "minimize-bold-duotone",
+  "packageName": "iconifyx_solar",
+  "duotone": true,
+  "primary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_solar/assets/fonts/Solar.ttf",
+    "codepoint": "0xef6d",
+    "glyphName": "minimize-bold-duotone",
+    "advance": 1000,
+    "lsb": 593,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 593,
+      "yMin": 593,
+      "xMax": 948.6315789473684,
+      "yMax": 948.2727272727273,
+      "width": 355.63157894736844,
+      "height": 355.27272727272725,
+      "cx": 770.8157894736842,
+      "cy": 770.6363636363636
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "secondary": {
+    "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_solar/assets/fonts/SolarSecondary.ttf",
+    "codepoint": "0xef6d",
+    "glyphName": "minimize-bold-duotone",
+    "advance": 1000,
+    "lsb": 51,
+    "unitsPerEm": 1000,
+    "ascent": 1000,
+    "descent": 0,
+    "bbox": {
+      "xMin": 52.875,
+      "yMin": 52,
+      "xMax": 406.3333333333333,
+      "yMax": 406.5,
+      "width": 353.4583333333333,
+      "height": 354.5,
+      "cx": 229.60416666666666,
+      "cy": 229.25
+    },
+    "renderMode": "em",
+    "canvas": 256,
+    "empty": false
+  },
+  "files": {
+    "upstreamSvg": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/solar__minimize-bold-duotone/upstream.svg",
+    "upstreamPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/solar__minimize-bold-duotone/upstream.png",
+    "primaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/solar__minimize-bold-duotone/glyph-primary.png",
+    "secondaryPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/solar__minimize-bold-duotone/glyph-secondary.png",
+    "ttfComposedPng": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/solar__minimize-bold-duotone/ttf-composed.png",
+    "flutterPng": null,
+    "diffSvgVsFlutter": null,
+    "diffSvgVsTtf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/docs/audit/visual-3way/solar__minimize-bold-duotone/diff-svg-vs-ttf.png",
+    "diffTtfVsFlutter": null
+  },
+  "diffs": {
+    "svgVsTtf": {
+      "width": 256,
+      "height": 256,
+      "mismatchPixels": 3870,
+      "totalPixels": 65536,
+      "mismatchPct": 0.059051513671875,
+      "inkA": 0.1123046875,
+      "inkB": 0.06048583984375,
+      "cxA": 129.1101902173913,
+      "cyA": 125.91046195652174,
+      "cxB": 187.69878910191724,
+      "cyB": 66.88874873864783,
+      "cxDriftPx": 58.588598884525936,
+      "cyDriftPx": -59.02171321787391,
+      "dHashA": "0001020400804080",
+      "dHashB": "0001020400804080",
+      "hamming": 0,
+      "ssim": 0.9543537908762142
+    },
+    "ttfVsFlutter": null,
+    "svgVsFlutter": null
+  },
+  "legacyDiff": null,
+  "verdict": {
+    "status": "different",
+    "primaryReason": "DUOTONE_BBOX_MISMATCH",
+    "confidence": "high",
+    "problem": "Primary glyph centroid (771,771) differs from secondary (230,229) by 54.1% / 54.1% of em — layers will overlay misaligned (bboxes disjoint along x axis)",
+    "remediation": "GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup (identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see RESEARCH_PLAN §33 for fix."
+  },
+  "fontTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_solar/assets/fonts/Solar.ttf",
+  "secondaryTtfPath": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a7a50de65aea5bc45/packages/iconifyx_solar/assets/fonts/SolarSecondary.ttf",
+  "timings": {
+    "upstream": 183,
+    "primaryGlyph": 81,
+    "secondaryGlyph": 72,
+    "ttfCompose": 16,
+    "diffSvgVsTtf": 13,
+    "total": 380
+  }
+}
