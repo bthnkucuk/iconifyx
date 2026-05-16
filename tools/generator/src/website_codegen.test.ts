@@ -176,6 +176,30 @@ describe('buildCdnManifest', () => {
     const m = JSON.parse(body);
     expect(m.baseUrl).toBe('http://localhost:8765/cdn');
   });
+
+  test('ICONIFYX_CDN_BASE_URL env var overrides default but not explicit input', () => {
+    const prev = process.env.ICONIFYX_CDN_BASE_URL;
+    try {
+      process.env.ICONIFYX_CDN_BASE_URL =
+        'https://cdn.example.com/icons@deadbeef/cdn';
+      // No baseUrl arg → env wins.
+      const envBody = buildCdnManifest({ iconifyJsonVersion: '2.2.300' });
+      const env = JSON.parse(envBody);
+      expect(env.baseUrl).toBe('https://cdn.example.com/icons@deadbeef/cdn');
+
+      // Explicit baseUrl arg → wins over env.
+      const explicitBody = buildCdnManifest({
+        iconifyJsonVersion: '2.2.300',
+        baseUrl: 'http://localhost:8765/cdn',
+      });
+      expect(JSON.parse(explicitBody).baseUrl).toBe(
+        'http://localhost:8765/cdn'
+      );
+    } finally {
+      if (prev === undefined) delete process.env.ICONIFYX_CDN_BASE_URL;
+      else process.env.ICONIFYX_CDN_BASE_URL = prev;
+    }
+  });
 });
 
 describe('packs.json still includes preview', () => {

@@ -18,9 +18,12 @@ migrate_working_dir/
 # the generator + @iconify/json version, and committing 10 MB of JSON
 # duplicates what's already in lib/data/{packs,icons_index}.json.
 #
-# Will be committed under a release tag (e.g. `iconify-2.2.500`) when
-# we flip `kUseCdn = true` in lib/bootstrap/icon_catalog.dart and point
-# jsDelivr at that ref.
+# Production deploys flip the build into CDN mode via
+# `--dart-define=ICONIFYX_USE_CDN=true` (see lib/bootstrap/cdn_config.dart
+# + docs/DEPLOYMENT.md §11/§12). To publish the CDN tree, tag the
+# regenerated commit (e.g. `iconify-2.2.500`) on GitHub and push the tag
+# — jsDelivr serves it instantly. Override the URL per-build with the
+# `ICONIFYX_CDN_BASE_URL` env var when SHA-pinning a release.
 /lib/cdn/
 
 # IntelliJ related

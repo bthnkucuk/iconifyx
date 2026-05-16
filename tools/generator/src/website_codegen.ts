@@ -254,9 +254,12 @@ export function buildIconShards(input: WebsiteCodegenInput): IconShardEmit {
  * `lib/bootstrap/icon_catalog.dart`.
  *
  * The default baseUrl points at jsDelivr's
- * `gh:Bthn/icons@iconify-<version>/packages/iconifyx/website/lib/cdn`
- * path. Override at deploy time by hand-editing the committed manifest
- * (or by regenerating with a future `ICONIFYX_CDN_BASE_URL` env var).
+ * `gh:bthnkucuk/iconifyx@iconify-<version>/packages/iconifyx/website/lib/cdn`
+ * path. Override per-build via the `ICONIFYX_CDN_BASE_URL` env var (e.g.
+ * to SHA-pin a production deploy at `@<sha>` instead of a moving tag).
+ * For DEV / local checks, leaving the default at `iconify-<version>`
+ * means a `git tag iconify-<version> && git push --tags` step is enough
+ * to make jsDelivr pin a fresh release.
  */
 export interface CdnManifestInput {
   iconifyJsonVersion: string;
@@ -265,9 +268,12 @@ export interface CdnManifestInput {
 }
 
 export function buildCdnManifest(input: CdnManifestInput): string {
+  const envBase = process.env.ICONIFYX_CDN_BASE_URL?.trim();
   const baseUrl =
     input.baseUrl ??
-    `https://cdn.jsdelivr.net/gh/Bthn/icons@iconify-${input.iconifyJsonVersion}/packages/iconifyx/website/lib/cdn`;
+    (envBase && envBase.length > 0
+      ? envBase
+      : `https://cdn.jsdelivr.net/gh/bthnkucuk/iconifyx@iconify-${input.iconifyJsonVersion}/packages/iconifyx/website/lib/cdn`);
 
   return JSON.stringify({
     schemaVersion: 1,

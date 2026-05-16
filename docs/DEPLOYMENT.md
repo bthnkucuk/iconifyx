@@ -99,13 +99,86 @@ config; no zenrouter changes are needed when moving paths.
 The workflow ships **everything from Pages on day 1**. The day-2 roadmap
 that §21 / §11 / §12 lay out is independent of this workflow:
 
-- Move `packs.json` (204 KB) to jsDelivr — §12.
-- Shard `icons_index.json` (9.3 MB) + emit `names.bin` — §11.
+- Move `packs.json` (204 KB) to jsDelivr — §12. **Production-enabled
+  behind `--dart-define=ICONIFYX_USE_CDN=true`.** See below.
+- Shard `icons_index.json` (9.3 MB) into per-pack files — §11. **Same
+  flag.** Behind the flag the website fetches the per-pack shard
+  manifest + 225 shards in parallel from jsDelivr instead of bundling
+  the monolithic blob.
 - Lazy `FontLoader` per pack to bound CanvasKit heap growth — §9
   (shipped: `lib/bootstrap/font_loader_service.dart` + memory probe).
 
 None of these require a workflow change; they're code edits in the
 website that surface via the same `paths:` trigger.
+
+## §11 / §12 — CDN go-live via `--dart-define`
+
+`packages/iconifyx/website/lib/bootstrap/cdn_config.dart` defines:
+
+```dart
+const bool kUseCdn = bool.fromEnvironment(
+  'ICONIFYX_USE_CDN',
+  defaultValue: false,
+);
+```
+
+so the same source tree compiles to either mode without an edit:
+
+| Build command | Behaviour |
+|---|---|
+| `fvm flutter build web --release ... `  *(default)* | Bundled `lib/data/{packs.json,icons_index.json}` — no network reads. |
+| `... --dart-define=ICONIFYX_USE_CDN=true` | Reads bundled `lib/data/cdn_manifest.json` (~300 B), then fetches `<baseUrl>/packs/v1/packs.json` and the 225-shard tree from jsDelivr. On any HTTP / parse / timeout failure, falls back to the bundled monolithic copy and logs `[iconifyx/website] CDN ... fetch failed: ... — falling back to bundled copy`. |
+
+The bundled JSONs (`packs.json`, `icons_index.json`) stay committed in
+both modes — they are the fallback when the CDN is unreachable or the
+URL hasn't been tagged yet. **Don't delete them.**
+
+### Pinning jsDelivr to a release SHA
+
+`tools/generator/src/website_codegen.ts:buildCdnManifest()` emits the
+default `baseUrl` as:
+
+```
+https://cdn.jsdelivr.net/gh/bthnkucuk/iconifyx@iconify-<iconify-json-version>/packages/iconifyx/website/lib/cdn
+```
+
+That tag has to actually exist on GitHub before jsDelivr can serve it
+(jsDelivr cache-pins by ref → instant cache-bust on a new tag, no purge
+required).
+
+**Workflow for cutting a CDN release:**
+
+1. `bun run generate` — regenerates the bundled `lib/data/{packs,icons_index,cdn_manifest}.json` and the on-disk `packages/iconifyx/website/lib/cdn/` tree (the latter is `.gitignore`d by default; toggle it on for the release commit).
+2. Pick a ref. Two options:
+   - **Recommended for prod:** SHA-pinned. After the regen lands on `main`, take the merge SHA and `git tag iconify-<version>-<short-sha> <sha> && git push --tags`. Edit `cdn_manifest.json` once via `ICONIFYX_CDN_BASE_URL=https://cdn.jsdelivr.net/gh/bthnkucuk/iconifyx@<sha>/... bun run generate`, commit the resulting `cdn_manifest.json`, and deploy. Immutable URLs → `Cache-Control: max-age=31536000`.
+   - **DEV / first iteration:** moving tag. `git tag -f iconify-<version> <sha> && git push --tags --force` matches the generator's default URL. Cheap to iterate but mutable.
+3. Build the website with `--dart-define=ICONIFYX_USE_CDN=true` and verify the network panel shows GETs to `cdn.jsdelivr.net`.
+4. Smoke test the fallback: edit the deployed `cdn_manifest.json` baseUrl to an invalid value (or temporarily kill the tag) and confirm the website still loads from bundled copies + the debug log surfaces `CDN ... fetch failed: ... — falling back to bundled copy`.
+
+For one-off overrides without re-running the generator, hand-edit the
+committed `lib/data/cdn_manifest.json` (~300 B) before the build — the
+file is bundled as a Flutter asset and shipped verbatim.
+
+### Bundle-size impact
+
+With the fallback JSONs still bundled, `--dart-define=ICONIFYX_USE_CDN=true`
+saves zero bytes at the bundle level — it just moves the cold-start read
+from `rootBundle.loadString` to a `cdn.jsdelivr.net` GET. The win is
+two-fold:
+
+- **Cache shaping:** the bundled assets sit in the Flutter PWA cache
+  alongside the WASM blob; the CDN copies sit in jsDelivr's edge cache
+  shared across every iconifyx site. Repeat visits reuse the edge cache
+  even after a Pages redeploy that busts the PWA cache.
+- **Data updates without a Flutter rebuild:** the JSON contents update
+  with every `bun run generate` regardless of whether `main.dart.js`
+  changed. Pin a new tag, fetch the new tree from jsDelivr, users see
+  the new pack/icon list on next visit without a Pages deploy.
+
+The follow-up to actually shrink the bundle is to drop the
+`lib/data/{packs,icons_index}.json` declarations from `pubspec.yaml`
+once the CDN path has been proven in prod for ~1 week (~9.7 MB recovery
+on the initial bundle download).
 
 ## COOP/COEP for memory probe
 

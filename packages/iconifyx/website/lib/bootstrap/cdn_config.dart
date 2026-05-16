@@ -18,11 +18,25 @@ import 'package:http/http.dart' as http;
 /// manifest below; on any failure (timeout / non-200 / parse error) they
 /// fall back to the bundled `rootBundle` copy and log a warning.
 ///
-/// **Leave `false` until the CDN URLs in `cdn_manifest.json` are
-/// pointed at a stable release tag.** With `false` the website behaves
-/// identically to a no-CDN build — no network requests, no asset path
-/// change.
-const bool kUseCdn = false;
+/// **Driven at build time by `--dart-define=ICONIFYX_USE_CDN=true`**, so
+/// the same compiled bundle can be deployed in either mode without a
+/// source edit:
+///
+/// ```bash
+/// # CDN mode (jsDelivr → fallback to bundled copy on any failure):
+/// fvm flutter build web --release \
+///   --dart-define=ICONIFYX_USE_CDN=true
+///
+/// # Default (no define) → false → reads bundled lib/data/*.json:
+/// fvm flutter build web --release
+/// ```
+///
+/// See `docs/DEPLOYMENT.md` for the SHA-pinning recommendation when
+/// flipping this on for production.
+const bool kUseCdn = bool.fromEnvironment(
+  'ICONIFYX_USE_CDN',
+  defaultValue: false,
+);
 
 /// Per-request timeout for any CDN GET. Larger than typical jsDelivr
 /// edge TTFB (~30 ms) by enough margin to tolerate a cold cache pull

@@ -13,7 +13,7 @@ void main() {
         'version': 'v1',
         'iconifyJsonVersion': '2.2.472',
         'baseUrl':
-            'https://cdn.jsdelivr.net/gh/Bthn/icons@iconify-2.2.472/packages/iconifyx/website/lib/cdn',
+            'https://cdn.jsdelivr.net/gh/bthnkucuk/iconifyx@iconify-2.2.472/packages/iconifyx/website/lib/cdn',
         'packsPath': 'packs/v1/packs.json',
         'iconsIndexPath': 'icons-index/v1',
         'iconsIndexManifestPath': 'icons-index/v1/index.json',

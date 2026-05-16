@@ -1027,10 +1027,16 @@ Dismiss via `localStorage['iconifyx_visited'] = true`.
 
 ---
 
-## §11 — `icons_index.json` CDN sharding
+## §11 — `icons_index.json` CDN sharding ✅ SHIPPED + production-enabled
 
 **Verdict: Adopt per-pack shards + global names binary on jsDelivr.
 Phased rollout.**
+
+**Status (2026-05-16):** Phase 1 + 2 infrastructure shipped end-to-end.
+`--dart-define=ICONIFYX_USE_CDN=true` flips the build into CDN mode at
+release time; default (no define) keeps the legacy bundled-asset path
+for safe fallback. See [DEPLOYMENT.md §11/§12](DEPLOYMENT.md#1112--cdn-go-live-via---dart-define)
+for the pinning + smoke-test workflow.
 
 Current: 10 MB raw / 2.1 MB gzip bundled at build time, parsed via
 `compute(_parse)` in background isolate. Forces ALL bytes through main
@@ -1057,7 +1063,7 @@ Decoded into `Uint8List` + offset table. Scanned linearly via
 
 ### CDN: jsDelivr
 
-`https://cdn.jsdelivr.net/gh/Bthn/icons@<sha>/cdn/packs/<prefix>.json`.
+`https://cdn.jsdelivr.net/gh/bthnkucuk/iconifyx@<sha>/packages/iconifyx/website/lib/cdn/icons-index/v1/<prefix>.json`.
 SHA = manifest content hash. Immutable URLs → `max-age=31536000`.
 Brotli auto-negotiated. CORS by default. Backup: raw.githubusercontent
 fallback in client fetcher.
@@ -1128,9 +1134,12 @@ Each phase behind `kUseCdn` const; rollback by flipping false.
   `kUseCdn = true` flip + a `iconify-<ver>` git tag for jsDelivr to
   point at.
 
-**Known follow-up:** flipping `kUseCdn = true` is the kicker. Before
-flipping, push the CDN tree under an immutable tag and verify the
-fetches work end-to-end against jsDelivr.
+**Status (2026-05-16):** `kUseCdn` was promoted to a `bool.fromEnvironment`
+constant driven by `--dart-define=ICONIFYX_USE_CDN=true`, so the same
+build pipeline can ship in either mode without a source change. The
+production go-live checklist (tag the iconify-<version> commit on
+GitHub → jsDelivr cache-pins → smoke-test the build) lives in
+[DEPLOYMENT.md §11/§12](DEPLOYMENT.md#1112--cdn-go-live-via---dart-define).
 
 ### Offline resilience
 
@@ -1150,10 +1159,14 @@ in initial download.
 
 ---
 
-## §12 — `packs.json` CDN strategy
+## §12 — `packs.json` CDN strategy ✅ SHIPPED + production-enabled
 
 **Verdict: DON'T shard. Single brotli'd file on jsDelivr. Keep previews
 inline.**
+
+**Status (2026-05-16):** Shipped end-to-end. Same `kUseCdn` build-time
+flag as §11 (`--dart-define=ICONIFYX_USE_CDN=true`) — see [DEPLOYMENT.md §11/§12](DEPLOYMENT.md#1112--cdn-go-live-via---dart-define)
+for the pinning + smoke-test workflow.
 
 200 KB raw, 32 KB gzip, **26 KB brotli**. That's one HTTP/2 frame.
 Keyword sharding `/keyword/<term>.json` would yield 1-3 KB shards —
@@ -1215,8 +1228,11 @@ fallback).
   `lib/data/cdn_manifest.json` asset declaration so the CDN flow is
   ready to enable in a follow-up PR.
 
-**Known follow-up:** flip `kUseCdn = true` in `icon_catalog.dart`
-once the CDN tree is tagged on jsDelivr.
+**Status (2026-05-16):** `kUseCdn` is now a `bool.fromEnvironment`
+default-`false` constant driven by `--dart-define=ICONIFYX_USE_CDN=true`
+— flipping is a build flag, not a source edit. Production go-live
+checklist (jsDelivr tag + fallback smoke test) in
+[DEPLOYMENT.md §11/§12](DEPLOYMENT.md#1112--cdn-go-live-via---dart-define).
 
 ---
 
@@ -4399,8 +4415,8 @@ _Refreshed 2026-05-16 after the 17-commit integration sweep._
 | §8 | Multi-language tools (Python fontTools bridge) | ✅ Partial — uv venv + canonicalize/merge/rename | `8e1d295d` |
 | §9 | Website perf (trigram + lazy FontLoader) | ✅ **PARTIAL** — RepaintBoundary/Picture cache deferred | `ae45ecbc`, `99dfa81b` |
 | §10 | Website architecture + UX (selection tray) | ✅ Foundation shipped | `2333fd05` |
-| §11 | icons_index.json CDN shards | ✅ Infrastructure (opt-in via `kUseCdn`) | `ea3f1e36` |
-| §12 | packs.json on jsDelivr | ✅ Infrastructure (opt-in via `kUseCdn`) | `d3784e26` |
+| §11 | icons_index.json CDN shards | ✅ **SHIPPED + production-enabled** (`--dart-define=ICONIFYX_USE_CDN=true`) | `ea3f1e36` + go-live |
+| §12 | packs.json on jsDelivr | ✅ **SHIPPED + production-enabled** (`--dart-define=ICONIFYX_USE_CDN=true`) | `d3784e26` + go-live |
 | §13 | Generator + audit speed plan | ✅ Superseded by §15 | — |
 | §14 | Stroke-aware paint extraction | 🚧 **PARTIAL** — extractor done, deep `trySplitTwoColorBody` rewrite deferred | `cd63cfdf`; full §14 reverted in `dc22535d` |
 | §15 | Generator speed quick wins | ✅ **SHIPPED** | `5d8a2462`, `72e2e952`, `b860c119` |
@@ -4438,7 +4454,7 @@ _Refreshed 2026-05-16 after the 17-commit integration sweep._
 
 1. **§27 regression** — icon-detail sheet back-button needs 2-3 presses to escape; should be single-press. Reopened after the §22 R1 alias migration + visual audit landings (probably interacted with `RouteUnique.props`).
 2. **§14 deep rewrite** — port white-as-FG / area-leader / source-order tie-break into the AST-walking `trySplitTwoColorBody`. Recovers ~739 more icons (streamline-color family).
-3. **§11/§12 CDN go-live** — flip `kUseCdn = true`, point `cdn_manifest.json` at the jsDelivr base, verify fallback to bundled paths still works.
+3. ~~**§11/§12 CDN go-live**~~ ✅ shipped: `kUseCdn` promoted to `bool.fromEnvironment('ICONIFYX_USE_CDN', defaultValue: false)`. Build with `--dart-define=ICONIFYX_USE_CDN=true` to flip on; default keeps the bundled-asset path. CDN URL fixed to `bthnkucuk/iconifyx` (was `Bthn/icons`). Generator regenerates `lib/data/cdn_manifest.json` + `lib/cdn/...` tree on every `bun run generate`. Override URL at deploy time via `ICONIFYX_CDN_BASE_URL` env var for SHA pinning. See [DEPLOYMENT.md §11/§12](DEPLOYMENT.md#1112--cdn-go-live-via---dart-define).
 4. **Website UX** — opacity / size / colour controls on icon-detail page leak into the wrong layer for `emojione:antenna-bars` (secondary opacity slider mutates primary colour). Move the controls to the pack-detail sidebar, thread state via URL query params, regenerate the "Copy code" snippet from the live state.
 5. **§9 finishing** — `TextPainter.toImage` / `ui.Picture` cache for repeated-glyph paints; deferred-loading on fling scrolls (rule §7 in `packages/iconifyx/website/CLAUDE.md`).
 
