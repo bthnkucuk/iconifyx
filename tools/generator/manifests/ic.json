@@ -21,12 +21,12 @@
   "fonts": [
     {
       "family": "Ic",
-      "nextCodepoint": 63344,
+      "nextCodepoint": 988948,
       "iconCount": 11908
     },
     {
       "family": "IcSecondary",
-      "nextCodepoint": 63344,
+      "nextCodepoint": 988878,
       "iconCount": 1500
     }
   ],

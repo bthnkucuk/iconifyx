@@ -21,12 +21,12 @@
   "fonts": [
     {
       "family": "Ph",
-      "nextCodepoint": 63344,
+      "nextCodepoint": 986238,
       "iconCount": 9198
     },
     {
       "family": "PhSecondary",
-      "nextCodepoint": 63344,
+      "nextCodepoint": 986235,
       "iconCount": 1528
     }
   ],

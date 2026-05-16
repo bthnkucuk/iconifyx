@@ -1,13 +1,5 @@
 {
-  "a1": [
-    {
-      "code": "nextCodepoint-underflow",
-      "detail": "font 'Ic' nextCodepoint=0xf770 is <= max used codepoint 0xf1713 — next allocation would collide",
-      "key": "Ic",
-      "prefix": "ic",
-      "severity": "error"
-    }
-  ],
+  "a1": [],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

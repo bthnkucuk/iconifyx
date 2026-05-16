@@ -1,13 +1,5 @@
 {
-  "a1": [
-    {
-      "code": "nextCodepoint-underflow",
-      "detail": "font 'MaterialSymbols' nextCodepoint=0xf770 is <= max used codepoint 0xf311e — next allocation would collide",
-      "key": "MaterialSymbols",
-      "prefix": "material-symbols",
-      "severity": "error"
-    }
-  ],
+  "a1": [],
   "a2": [],
   "a3": [],
   "a3Skipped": null,

@@ -1,11 +1,11 @@
 # Manifest + codegen lint
 
-Generated 2026-05-15; `@iconify/json` ^2.2.300. Three checks: A1 (manifest internal consistency), A2 (Dart codegen ↔ TTF reverse reconciliation), A3 (identifier rename detection across regens). Output is deterministic — same manifests + Dart + TTFs → byte-identical report.
+Generated 2026-05-16; `@iconify/json` ^2.2.300. Three checks: A1 (manifest internal consistency), A2 (Dart codegen ↔ TTF reverse reconciliation), A3 (identifier rename detection across regens). Output is deterministic — same manifests + Dart + TTFs → byte-identical report.
 
 ## Summary
 
 - Packs scanned: **225**
-- A1 violations: **10 icon/font-level issues across 10 packs**
+- A1 violations: **0 icon/font-level issues across 0 packs**
 - A2 violations: **319 orphan consts across 11 packs**
 - A3 renames detected: **0 icons across 0 packs** (vs previous git HEAD)
 
@@ -13,18 +13,7 @@ Detail per pack: [`docs/audit/manifest-lint/<prefix>.json`](docs/audit/manifest-
 
 ## A1 violations — manifest internal consistency
 
-| Pack | Severity | Issue | Detail |
-|---|---|---|---|
-| `arcticons` | error | `nextCodepoint-underflow` | font 'Arcticons' nextCodepoint=0xf770 is <= max used codepoint 0xf238a — next allocation would collide |
-| `fluent` | error | `nextCodepoint-underflow` | font 'Fluent' nextCodepoint=0xf770 is <= max used codepoint 0xf3774 — next allocation would collide |
-| `ic` | error | `nextCodepoint-underflow` | font 'Ic' nextCodepoint=0xf770 is <= max used codepoint 0xf1713 — next allocation would collide |
-| `iconoir` | error | `nextCodepoint-underflow` | font 'Iconoir' nextCodepoint=0xf770 is <= max used codepoint 0xf081f — next allocation would collide |
-| `lucide` | error | `nextCodepoint-underflow` | font 'Lucide' nextCodepoint=0xf770 is <= max used codepoint 0xf077f — next allocation would collide |
-| `material-symbols` | error | `nextCodepoint-underflow` | font 'MaterialSymbols' nextCodepoint=0xf770 is <= max used codepoint 0xf311e — next allocation would collide |
-| `material-symbols-light` | error | `nextCodepoint-underflow` | font 'MaterialSymbolsLight' nextCodepoint=0xf770 is <= max used codepoint 0xf270c — next allocation would collide |
-| `ph` | error | `nextCodepoint-underflow` | font 'Ph' nextCodepoint=0xf770 is <= max used codepoint 0xf0c7d — next allocation would collide |
-| `solar` | error | `nextCodepoint-underflow` | font 'Solar' nextCodepoint=0xf770 is <= max used codepoint 0xf0581 — next allocation would collide |
-| `tabler` | error | `nextCodepoint-underflow` | font 'Tabler' nextCodepoint=0xf770 is <= max used codepoint 0xf4c36 — next allocation would collide |
+_No A1 violations — every manifest is internally consistent._
 
 ## A2 violations — Dart codegen ↔ TTF reverse reconciliation
 
@@ -143,24 +132,14 @@ Click through for the full per-pack breakdown (every flagged row).
 
 | Pack | A1 | A2 | A3 | Detail |
 |---|---:|---:|---:|---|
-| `arcticons` | 1 | 0 | 0 | [`arcticons.json`](docs/audit/manifest-lint/arcticons.json) |
 | `codicon` | 0 | 1 | 0 | [`codicon.json`](docs/audit/manifest-lint/codicon.json) |
 | `devicon` | 0 | 124 | 0 | [`devicon.json`](docs/audit/manifest-lint/devicon.json) |
 | `flag` | 0 | 6 | 0 | [`flag.json`](docs/audit/manifest-lint/flag.json) |
 | `flagpack` | 0 | 10 | 0 | [`flagpack.json`](docs/audit/manifest-lint/flagpack.json) |
 | `flowbite` | 0 | 1 | 0 | [`flowbite.json`](docs/audit/manifest-lint/flowbite.json) |
-| `fluent` | 1 | 0 | 0 | [`fluent.json`](docs/audit/manifest-lint/fluent.json) |
 | `gcp` | 0 | 3 | 0 | [`gcp.json`](docs/audit/manifest-lint/gcp.json) |
 | `glyphs` | 0 | 2 | 0 | [`glyphs.json`](docs/audit/manifest-lint/glyphs.json) |
-| `ic` | 1 | 0 | 0 | [`ic.json`](docs/audit/manifest-lint/ic.json) |
-| `iconoir` | 1 | 0 | 0 | [`iconoir.json`](docs/audit/manifest-lint/iconoir.json) |
 | `logos` | 0 | 7 | 0 | [`logos.json`](docs/audit/manifest-lint/logos.json) |
-| `lucide` | 1 | 0 | 0 | [`lucide.json`](docs/audit/manifest-lint/lucide.json) |
-| `material-symbols` | 1 | 0 | 0 | [`material-symbols.json`](docs/audit/manifest-lint/material-symbols.json) |
-| `material-symbols-light` | 1 | 0 | 0 | [`material-symbols-light.json`](docs/audit/manifest-lint/material-symbols-light.json) |
 | `meteocons` | 0 | 158 | 0 | [`meteocons.json`](docs/audit/manifest-lint/meteocons.json) |
 | `openmoji` | 0 | 1 | 0 | [`openmoji.json`](docs/audit/manifest-lint/openmoji.json) |
 | `oui` | 0 | 6 | 0 | [`oui.json`](docs/audit/manifest-lint/oui.json) |
-| `ph` | 1 | 0 | 0 | [`ph.json`](docs/audit/manifest-lint/ph.json) |
-| `solar` | 1 | 0 | 0 | [`solar.json`](docs/audit/manifest-lint/solar.json) |
-| `tabler` | 1 | 0 | 0 | [`tabler.json`](docs/audit/manifest-lint/tabler.json) |
