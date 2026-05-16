@@ -1,0 +1,259 @@
+[
+  {
+    "name": "aframe",
+    "codepoint": 57346,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aftereffects",
+      "burpsuite",
+      "ember",
+      "entityframeworkcore",
+      "facebook",
+      "javascript",
+      "keras",
+      "linkedin",
+      "premierepro",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "aftereffects",
+    "codepoint": 58089,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "burpsuite",
+      "ember",
+      "entityframeworkcore",
+      "facebook",
+      "javascript",
+      "keras",
+      "linkedin",
+      "premierepro",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "burpsuite",
+    "codepoint": 57427,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "aftereffects",
+      "ember",
+      "entityframeworkcore",
+      "facebook",
+      "javascript",
+      "keras",
+      "linkedin",
+      "premierepro",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "ember",
+    "codepoint": 58103,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "aftereffects",
+      "burpsuite",
+      "entityframeworkcore",
+      "facebook",
+      "javascript",
+      "keras",
+      "linkedin",
+      "premierepro",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "entityframeworkcore",
+    "codepoint": 57536,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "aftereffects",
+      "burpsuite",
+      "ember",
+      "facebook",
+      "javascript",
+      "keras",
+      "linkedin",
+      "premierepro",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "facebook",
+    "codepoint": 57543,
+    "fillRatio": 0.8577,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "aftereffects",
+      "burpsuite",
+      "ember",
+      "entityframeworkcore",
+      "javascript",
+      "keras",
+      "linkedin",
+      "premierepro",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "javascript",
+    "codepoint": 57652,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "aftereffects",
+      "burpsuite",
+      "ember",
+      "entityframeworkcore",
+      "facebook",
+      "keras",
+      "linkedin",
+      "premierepro",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "keras",
+    "codepoint": 57672,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "aftereffects",
+      "burpsuite",
+      "ember",
+      "entityframeworkcore",
+      "facebook",
+      "javascript",
+      "linkedin",
+      "premierepro",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "linkedin",
+    "codepoint": 57692,
+    "fillRatio": 0.8569,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "aftereffects",
+      "burpsuite",
+      "ember",
+      "entityframeworkcore",
+      "facebook",
+      "javascript",
+      "keras",
+      "premierepro",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "premierepro",
+    "codepoint": 57833,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "aftereffects",
+      "burpsuite",
+      "ember",
+      "entityframeworkcore",
+      "facebook",
+      "javascript",
+      "keras",
+      "linkedin",
+      "pyscript-wordmark"
+    ]
+  },
+  {
+    "name": "pyscript-wordmark",
+    "codepoint": 58136,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 11,
+    "cluster": [
+      "aframe",
+      "aftereffects",
+      "burpsuite",
+      "ember",
+      "entityframeworkcore",
+      "facebook",
+      "javascript",
+      "keras",
+      "linkedin",
+      "premierepro"
+    ]
+  },
+  {
+    "name": "dreamweaver",
+    "codepoint": 58101,
+    "fillRatio": 0.8176,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "illustrator",
+      "photoshop",
+      "xd"
+    ]
+  },
+  {
+    "name": "illustrator",
+    "codepoint": 57633,
+    "fillRatio": 0.8191,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "dreamweaver",
+      "photoshop",
+      "xd"
+    ]
+  },
+  {
+    "name": "photoshop",
+    "codepoint": 58133,
+    "fillRatio": 0.8176,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "dreamweaver",
+      "illustrator",
+      "xd"
+    ]
+  },
+  {
+    "name": "xd",
+    "codepoint": 58150,
+    "fillRatio": 0.8176,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "dreamweaver",
+      "illustrator",
+      "photoshop"
+    ]
+  }
+]

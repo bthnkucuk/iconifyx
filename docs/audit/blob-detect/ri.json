@@ -1,0 +1,67 @@
+[
+  {
+    "name": "checkbox-blank-fill",
+    "codepoint": 57932,
+    "fillRatio": 0.8582,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "square-fill",
+      "stop-fill",
+      "stop-large-fill",
+      "stop-mini-fill"
+    ]
+  },
+  {
+    "name": "square-fill",
+    "codepoint": 60129,
+    "fillRatio": 0.8582,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkbox-blank-fill",
+      "stop-fill",
+      "stop-large-fill",
+      "stop-mini-fill"
+    ]
+  },
+  {
+    "name": "stop-fill",
+    "codepoint": 60174,
+    "fillRatio": 0.8569,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkbox-blank-fill",
+      "square-fill",
+      "stop-large-fill",
+      "stop-mini-fill"
+    ]
+  },
+  {
+    "name": "stop-large-fill",
+    "codepoint": 60175,
+    "fillRatio": 0.8582,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkbox-blank-fill",
+      "square-fill",
+      "stop-fill",
+      "stop-mini-fill"
+    ]
+  },
+  {
+    "name": "stop-mini-fill",
+    "codepoint": 60178,
+    "fillRatio": 0.8551,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkbox-blank-fill",
+      "square-fill",
+      "stop-fill",
+      "stop-large-fill"
+    ]
+  }
+]

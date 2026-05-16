@@ -1,0 +1,2403 @@
+[
+  {
+    "name": "adobe-flat",
+    "codepoint": 57353,
+    "fillRatio": 0.8588,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "alt",
+    "codepoint": 57413,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "alt-flat",
+    "codepoint": 57414,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "box-sign",
+    "codepoint": 57582,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "box-sign-flat",
+    "codepoint": 57583,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "button-stop",
+    "codepoint": 57668,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "button-stop-flat",
+    "codepoint": 57669,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "camera-square-flat",
+    "codepoint": 57689,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "facebook-1-flat",
+    "codepoint": 58011,
+    "fillRatio": 0.856,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "flower-alt-flat",
+    "codepoint": 58060,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "hospital-sign-square",
+    "codepoint": 58185,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "hospital-sign-square-flat",
+    "codepoint": 58186,
+    "fillRatio": 0.856,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "hotel-bed-2-flat",
+    "codepoint": 58191,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "landscape-2-flat",
+    "codepoint": 58263,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "layout-window-1",
+    "codepoint": 58275,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1-flat",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "layout-window-1-flat",
+    "codepoint": 58276,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-11"
+    ]
+  },
+  {
+    "name": "layout-window-11",
+    "codepoint": 58277,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "layout-window-11-flat",
+    "codepoint": 58278,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "layout-window-2",
+    "codepoint": 58279,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "layout-window-2-flat",
+    "codepoint": 58280,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "layout-window-8",
+    "codepoint": 58281,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "layout-window-8-flat",
+    "codepoint": 58282,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "module-puzzle-3",
+    "codepoint": 58370,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "module-puzzle-3-flat",
+    "codepoint": 58371,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "play-list-4-flat",
+    "codepoint": 58553,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "rss-square",
+    "codepoint": 58635,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "rss-square-flat",
+    "codepoint": 58636,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "shipping-box-1-flat",
+    "codepoint": 58694,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "square-clock-flat",
+    "codepoint": 58812,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "text-square",
+    "codepoint": 58883,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "text-square-flat",
+    "codepoint": 58884,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "vertical-slider-square-flat",
+    "codepoint": 58958,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 32,
+    "cluster": [
+      "adobe-flat",
+      "alt",
+      "alt-flat",
+      "box-sign",
+      "box-sign-flat",
+      "button-stop",
+      "button-stop-flat",
+      "camera-square-flat",
+      "facebook-1-flat",
+      "flower-alt-flat",
+      "hospital-sign-square",
+      "hospital-sign-square-flat",
+      "hotel-bed-2-flat",
+      "landscape-2-flat",
+      "layout-window-1",
+      "layout-window-1-flat"
+    ]
+  },
+  {
+    "name": "dice-1",
+    "codepoint": 57921,
+    "fillRatio": 0.8381,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-1-flat",
+    "codepoint": 57922,
+    "fillRatio": 0.838,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-2",
+    "codepoint": 57923,
+    "fillRatio": 0.8381,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-2-flat",
+    "codepoint": 57924,
+    "fillRatio": 0.838,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-3",
+    "codepoint": 57925,
+    "fillRatio": 0.8381,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-3-flat",
+    "codepoint": 57926,
+    "fillRatio": 0.838,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-4",
+    "codepoint": 57927,
+    "fillRatio": 0.8381,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-4-flat",
+    "codepoint": 57928,
+    "fillRatio": 0.838,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-5",
+    "codepoint": 57929,
+    "fillRatio": 0.8381,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-5-flat",
+    "codepoint": 57930,
+    "fillRatio": 0.838,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-6",
+    "codepoint": 57931,
+    "fillRatio": 0.8381,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "dice-6-flat",
+    "codepoint": 57932,
+    "fillRatio": 0.838,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "instagram-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "instagram-flat",
+    "codepoint": 58237,
+    "fillRatio": 0.8265,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "jump-object-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "jump-object-flat",
+    "codepoint": 59220,
+    "fillRatio": 0.8286,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "parking-sign-flat"
+    ]
+  },
+  {
+    "name": "parking-sign-flat",
+    "codepoint": 58484,
+    "fillRatio": 0.8156,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 15,
+    "cluster": [
+      "dice-1",
+      "dice-1-flat",
+      "dice-2",
+      "dice-2-flat",
+      "dice-3",
+      "dice-3-flat",
+      "dice-4",
+      "dice-4-flat",
+      "dice-5",
+      "dice-5-flat",
+      "dice-6",
+      "dice-6-flat",
+      "instagram-flat",
+      "jump-object-flat"
+    ]
+  },
+  {
+    "name": "convert-pdf-2",
+    "codepoint": 57847,
+    "fillRatio": 0.7051,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 13,
+    "cluster": [
+      "business-user-curriculum-flat",
+      "convert-pdf-2-flat",
+      "download-file",
+      "download-file-flat",
+      "file-code-1",
+      "file-code-1-flat",
+      "markdown-document-programming",
+      "medical-files-report-history-flat",
+      "task-list",
+      "task-list-flat",
+      "upload-file",
+      "upload-file-flat"
+    ]
+  },
+  {
+    "name": "download-file",
+    "codepoint": 57965,
+    "fillRatio": 0.7051,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 13,
+    "cluster": [
+      "business-user-curriculum-flat",
+      "convert-pdf-2",
+      "convert-pdf-2-flat",
+      "download-file-flat",
+      "file-code-1",
+      "file-code-1-flat",
+      "markdown-document-programming",
+      "medical-files-report-history-flat",
+      "task-list",
+      "task-list-flat",
+      "upload-file",
+      "upload-file-flat"
+    ]
+  },
+  {
+    "name": "file-code-1",
+    "codepoint": 58021,
+    "fillRatio": 0.7051,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 13,
+    "cluster": [
+      "business-user-curriculum-flat",
+      "convert-pdf-2",
+      "convert-pdf-2-flat",
+      "download-file",
+      "download-file-flat",
+      "file-code-1-flat",
+      "markdown-document-programming",
+      "medical-files-report-history-flat",
+      "task-list",
+      "task-list-flat",
+      "upload-file",
+      "upload-file-flat"
+    ]
+  },
+  {
+    "name": "upload-file",
+    "codepoint": 58934,
+    "fillRatio": 0.7051,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 13,
+    "cluster": [
+      "business-user-curriculum-flat",
+      "convert-pdf-2",
+      "convert-pdf-2-flat",
+      "download-file",
+      "download-file-flat",
+      "file-code-1",
+      "file-code-1-flat",
+      "markdown-document-programming",
+      "medical-files-report-history-flat",
+      "task-list",
+      "task-list-flat",
+      "upload-file-flat"
+    ]
+  },
+  {
+    "name": "browser-add-flat",
+    "codepoint": 57602,
+    "fillRatio": 0.8493,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 9,
+    "cluster": [
+      "browser-block-flat",
+      "browser-check-flat",
+      "browser-delete-flat",
+      "browser-hash-flat",
+      "browser-lock-flat",
+      "browser-remove-flat",
+      "browser-website-1-flat",
+      "online-medical-web-service-flat"
+    ]
+  },
+  {
+    "name": "browser-block-flat",
+    "codepoint": 57604,
+    "fillRatio": 0.8493,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 9,
+    "cluster": [
+      "browser-add-flat",
+      "browser-check-flat",
+      "browser-delete-flat",
+      "browser-hash-flat",
+      "browser-lock-flat",
+      "browser-remove-flat",
+      "browser-website-1-flat",
+      "online-medical-web-service-flat"
+    ]
+  },
+  {
+    "name": "browser-check-flat",
+    "codepoint": 57607,
+    "fillRatio": 0.8493,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 9,
+    "cluster": [
+      "browser-add-flat",
+      "browser-block-flat",
+      "browser-delete-flat",
+      "browser-hash-flat",
+      "browser-lock-flat",
+      "browser-remove-flat",
+      "browser-website-1-flat",
+      "online-medical-web-service-flat"
+    ]
+  },
+  {
+    "name": "browser-delete-flat",
+    "codepoint": 57609,
+    "fillRatio": 0.8493,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 9,
+    "cluster": [
+      "browser-add-flat",
+      "browser-block-flat",
+      "browser-check-flat",
+      "browser-hash-flat",
+      "browser-lock-flat",
+      "browser-remove-flat",
+      "browser-website-1-flat",
+      "online-medical-web-service-flat"
+    ]
+  },
+  {
+    "name": "browser-hash-flat",
+    "codepoint": 57611,
+    "fillRatio": 0.8493,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 9,
+    "cluster": [
+      "browser-add-flat",
+      "browser-block-flat",
+      "browser-check-flat",
+      "browser-delete-flat",
+      "browser-lock-flat",
+      "browser-remove-flat",
+      "browser-website-1-flat",
+      "online-medical-web-service-flat"
+    ]
+  },
+  {
+    "name": "browser-lock-flat",
+    "codepoint": 57613,
+    "fillRatio": 0.8493,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 9,
+    "cluster": [
+      "browser-add-flat",
+      "browser-block-flat",
+      "browser-check-flat",
+      "browser-delete-flat",
+      "browser-hash-flat",
+      "browser-remove-flat",
+      "browser-website-1-flat",
+      "online-medical-web-service-flat"
+    ]
+  },
+  {
+    "name": "browser-remove-flat",
+    "codepoint": 57617,
+    "fillRatio": 0.8493,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 9,
+    "cluster": [
+      "browser-add-flat",
+      "browser-block-flat",
+      "browser-check-flat",
+      "browser-delete-flat",
+      "browser-hash-flat",
+      "browser-lock-flat",
+      "browser-website-1-flat",
+      "online-medical-web-service-flat"
+    ]
+  },
+  {
+    "name": "browser-website-1-flat",
+    "codepoint": 57619,
+    "fillRatio": 0.8493,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 9,
+    "cluster": [
+      "browser-add-flat",
+      "browser-block-flat",
+      "browser-check-flat",
+      "browser-delete-flat",
+      "browser-hash-flat",
+      "browser-lock-flat",
+      "browser-remove-flat",
+      "online-medical-web-service-flat"
+    ]
+  },
+  {
+    "name": "calculator-1-flat",
+    "codepoint": 57673,
+    "fillRatio": 0.7323,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 9,
+    "cluster": [
+      "closet",
+      "closet-flat",
+      "hand-held-flat",
+      "hard-disk-flat",
+      "hotel-laundry-flat",
+      "like-1-flat",
+      "passport-flat",
+      "shelf-flat"
+    ]
+  },
+  {
+    "name": "closet",
+    "codepoint": 57775,
+    "fillRatio": 0.7355,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 9,
+    "cluster": [
+      "calculator-1-flat",
+      "closet-flat",
+      "hand-held-flat",
+      "hard-disk-flat",
+      "hotel-laundry-flat",
+      "like-1-flat",
+      "passport-flat",
+      "shelf-flat"
+    ]
+  },
+  {
+    "name": "closet-flat",
+    "codepoint": 57776,
+    "fillRatio": 0.7354,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 9,
+    "cluster": [
+      "calculator-1-flat",
+      "closet",
+      "hand-held-flat",
+      "hard-disk-flat",
+      "hotel-laundry-flat",
+      "like-1-flat",
+      "passport-flat",
+      "shelf-flat"
+    ]
+  },
+  {
+    "name": "hand-held-flat",
+    "codepoint": 58128,
+    "fillRatio": 0.7336,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 9,
+    "cluster": [
+      "calculator-1-flat",
+      "closet",
+      "closet-flat",
+      "hard-disk-flat",
+      "hotel-laundry-flat",
+      "like-1-flat",
+      "passport-flat",
+      "shelf-flat"
+    ]
+  },
+  {
+    "name": "hard-disk-flat",
+    "codepoint": 58140,
+    "fillRatio": 0.7354,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 9,
+    "cluster": [
+      "calculator-1-flat",
+      "closet",
+      "closet-flat",
+      "hand-held-flat",
+      "hotel-laundry-flat",
+      "like-1-flat",
+      "passport-flat",
+      "shelf-flat"
+    ]
+  },
+  {
+    "name": "hotel-laundry-flat",
+    "codepoint": 58193,
+    "fillRatio": 0.7354,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 9,
+    "cluster": [
+      "calculator-1-flat",
+      "closet",
+      "closet-flat",
+      "hand-held-flat",
+      "hard-disk-flat",
+      "like-1-flat",
+      "passport-flat",
+      "shelf-flat"
+    ]
+  },
+  {
+    "name": "like-1-flat",
+    "codepoint": 59228,
+    "fillRatio": 0.7345,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 9,
+    "cluster": [
+      "calculator-1-flat",
+      "closet",
+      "closet-flat",
+      "hand-held-flat",
+      "hard-disk-flat",
+      "hotel-laundry-flat",
+      "passport-flat",
+      "shelf-flat"
+    ]
+  },
+  {
+    "name": "online-medical-web-service-flat",
+    "codepoint": 58458,
+    "fillRatio": 0.8493,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 9,
+    "cluster": [
+      "browser-add-flat",
+      "browser-block-flat",
+      "browser-check-flat",
+      "browser-delete-flat",
+      "browser-hash-flat",
+      "browser-lock-flat",
+      "browser-remove-flat",
+      "browser-website-1-flat"
+    ]
+  },
+  {
+    "name": "passport-flat",
+    "codepoint": 58490,
+    "fillRatio": 0.7354,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 9,
+    "cluster": [
+      "calculator-1-flat",
+      "closet",
+      "closet-flat",
+      "hand-held-flat",
+      "hard-disk-flat",
+      "hotel-laundry-flat",
+      "like-1-flat",
+      "shelf-flat"
+    ]
+  },
+  {
+    "name": "shelf-flat",
+    "codepoint": 58670,
+    "fillRatio": 0.7354,
+    "edgeEntropy": 0.2217,
+    "dHashCluster": 9,
+    "cluster": [
+      "calculator-1-flat",
+      "closet",
+      "closet-flat",
+      "hand-held-flat",
+      "hard-disk-flat",
+      "hotel-laundry-flat",
+      "like-1-flat",
+      "passport-flat"
+    ]
+  },
+  {
+    "name": "chat-bubble-square-block-flat",
+    "codepoint": 57722,
+    "fillRatio": 0.7563,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "chat-bubble-square-question",
+      "chat-bubble-square-question-flat",
+      "chat-bubble-square-warning",
+      "chat-bubble-square-warning-flat",
+      "chat-bubble-text-square",
+      "chat-bubble-text-square-flat",
+      "recording-tape-bubble-square-flat"
+    ]
+  },
+  {
+    "name": "chat-bubble-square-question",
+    "codepoint": 57723,
+    "fillRatio": 0.7563,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "chat-bubble-square-block-flat",
+      "chat-bubble-square-question-flat",
+      "chat-bubble-square-warning",
+      "chat-bubble-square-warning-flat",
+      "chat-bubble-text-square",
+      "chat-bubble-text-square-flat",
+      "recording-tape-bubble-square-flat"
+    ]
+  },
+  {
+    "name": "chat-bubble-square-question-flat",
+    "codepoint": 57724,
+    "fillRatio": 0.7563,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "chat-bubble-square-block-flat",
+      "chat-bubble-square-question",
+      "chat-bubble-square-warning",
+      "chat-bubble-square-warning-flat",
+      "chat-bubble-text-square",
+      "chat-bubble-text-square-flat",
+      "recording-tape-bubble-square-flat"
+    ]
+  },
+  {
+    "name": "chat-bubble-square-warning",
+    "codepoint": 57725,
+    "fillRatio": 0.7563,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "chat-bubble-square-block-flat",
+      "chat-bubble-square-question",
+      "chat-bubble-square-question-flat",
+      "chat-bubble-square-warning-flat",
+      "chat-bubble-text-square",
+      "chat-bubble-text-square-flat",
+      "recording-tape-bubble-square-flat"
+    ]
+  },
+  {
+    "name": "chat-bubble-square-warning-flat",
+    "codepoint": 57726,
+    "fillRatio": 0.7563,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "chat-bubble-square-block-flat",
+      "chat-bubble-square-question",
+      "chat-bubble-square-question-flat",
+      "chat-bubble-square-warning",
+      "chat-bubble-text-square",
+      "chat-bubble-text-square-flat",
+      "recording-tape-bubble-square-flat"
+    ]
+  },
+  {
+    "name": "chat-bubble-text-square",
+    "codepoint": 57728,
+    "fillRatio": 0.7563,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "chat-bubble-square-block-flat",
+      "chat-bubble-square-question",
+      "chat-bubble-square-question-flat",
+      "chat-bubble-square-warning",
+      "chat-bubble-square-warning-flat",
+      "chat-bubble-text-square-flat",
+      "recording-tape-bubble-square-flat"
+    ]
+  },
+  {
+    "name": "chat-bubble-text-square-flat",
+    "codepoint": 57729,
+    "fillRatio": 0.7563,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "chat-bubble-square-block-flat",
+      "chat-bubble-square-question",
+      "chat-bubble-square-question-flat",
+      "chat-bubble-square-warning",
+      "chat-bubble-square-warning-flat",
+      "chat-bubble-text-square",
+      "recording-tape-bubble-square-flat"
+    ]
+  },
+  {
+    "name": "recording-tape-bubble-square-flat",
+    "codepoint": 58615,
+    "fillRatio": 0.7563,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "chat-bubble-square-block-flat",
+      "chat-bubble-square-question",
+      "chat-bubble-square-question-flat",
+      "chat-bubble-square-warning",
+      "chat-bubble-square-warning-flat",
+      "chat-bubble-text-square",
+      "chat-bubble-text-square-flat"
+    ]
+  },
+  {
+    "name": "bug-antivirus-shield-flat",
+    "codepoint": 57624,
+    "fillRatio": 0.7016,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "shield-1",
+      "shield-1-flat",
+      "shield-check",
+      "shield-check-flat",
+      "shield-cross-flat",
+      "vpn-connection-flat"
+    ]
+  },
+  {
+    "name": "shield-1",
+    "codepoint": 58673,
+    "fillRatio": 0.7042,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "bug-antivirus-shield-flat",
+      "shield-1-flat",
+      "shield-check",
+      "shield-check-flat",
+      "shield-cross-flat",
+      "vpn-connection-flat"
+    ]
+  },
+  {
+    "name": "shield-1-flat",
+    "codepoint": 58674,
+    "fillRatio": 0.7155,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "bug-antivirus-shield-flat",
+      "shield-1",
+      "shield-check",
+      "shield-check-flat",
+      "shield-cross-flat",
+      "vpn-connection-flat"
+    ]
+  },
+  {
+    "name": "shield-check",
+    "codepoint": 58677,
+    "fillRatio": 0.7038,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "bug-antivirus-shield-flat",
+      "shield-1",
+      "shield-1-flat",
+      "shield-check-flat",
+      "shield-cross-flat",
+      "vpn-connection-flat"
+    ]
+  },
+  {
+    "name": "shield-check-flat",
+    "codepoint": 58678,
+    "fillRatio": 0.703,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "bug-antivirus-shield-flat",
+      "shield-1",
+      "shield-1-flat",
+      "shield-check",
+      "shield-cross-flat",
+      "vpn-connection-flat"
+    ]
+  },
+  {
+    "name": "shield-cross-flat",
+    "codepoint": 58680,
+    "fillRatio": 0.7155,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "bug-antivirus-shield-flat",
+      "shield-1",
+      "shield-1-flat",
+      "shield-check",
+      "shield-check-flat",
+      "vpn-connection-flat"
+    ]
+  },
+  {
+    "name": "vpn-connection-flat",
+    "codepoint": 58980,
+    "fillRatio": 0.7024,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "bug-antivirus-shield-flat",
+      "shield-1",
+      "shield-1-flat",
+      "shield-check",
+      "shield-check-flat",
+      "shield-cross-flat"
+    ]
+  },
+  {
+    "name": "add-square",
+    "codepoint": 57350,
+    "fillRatio": 0.8145,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "check-square",
+      "fit-to-height-square",
+      "parking-sign",
+      "subtract-square",
+      "wave-signal-square"
+    ]
+  },
+  {
+    "name": "add-square-flat",
+    "codepoint": 57351,
+    "fillRatio": 0.8179,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "check-square-flat",
+      "expand-flat",
+      "fit-to-height-square-flat",
+      "subtract-square-flat",
+      "wave-signal-square-flat"
+    ]
+  },
+  {
+    "name": "browser-add",
+    "codepoint": 57601,
+    "fillRatio": 0.7358,
+    "edgeEntropy": 0.321,
+    "dHashCluster": 6,
+    "cluster": [
+      "browser-check",
+      "browser-delete",
+      "browser-hash",
+      "browser-remove",
+      "browser-website-1"
+    ]
+  },
+  {
+    "name": "browser-check",
+    "codepoint": 57606,
+    "fillRatio": 0.7358,
+    "edgeEntropy": 0.321,
+    "dHashCluster": 6,
+    "cluster": [
+      "browser-add",
+      "browser-delete",
+      "browser-hash",
+      "browser-remove",
+      "browser-website-1"
+    ]
+  },
+  {
+    "name": "browser-delete",
+    "codepoint": 57608,
+    "fillRatio": 0.7358,
+    "edgeEntropy": 0.321,
+    "dHashCluster": 6,
+    "cluster": [
+      "browser-add",
+      "browser-check",
+      "browser-hash",
+      "browser-remove",
+      "browser-website-1"
+    ]
+  },
+  {
+    "name": "browser-hash",
+    "codepoint": 57610,
+    "fillRatio": 0.7358,
+    "edgeEntropy": 0.321,
+    "dHashCluster": 6,
+    "cluster": [
+      "browser-add",
+      "browser-check",
+      "browser-delete",
+      "browser-remove",
+      "browser-website-1"
+    ]
+  },
+  {
+    "name": "browser-remove",
+    "codepoint": 57616,
+    "fillRatio": 0.7358,
+    "edgeEntropy": 0.321,
+    "dHashCluster": 6,
+    "cluster": [
+      "browser-add",
+      "browser-check",
+      "browser-delete",
+      "browser-hash",
+      "browser-website-1"
+    ]
+  },
+  {
+    "name": "browser-website-1",
+    "codepoint": 57618,
+    "fillRatio": 0.7358,
+    "edgeEntropy": 0.321,
+    "dHashCluster": 6,
+    "cluster": [
+      "browser-add",
+      "browser-check",
+      "browser-delete",
+      "browser-hash",
+      "browser-remove"
+    ]
+  },
+  {
+    "name": "check-square",
+    "codepoint": 57735,
+    "fillRatio": 0.8145,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square",
+      "fit-to-height-square",
+      "parking-sign",
+      "subtract-square",
+      "wave-signal-square"
+    ]
+  },
+  {
+    "name": "check-square-flat",
+    "codepoint": 57736,
+    "fillRatio": 0.8179,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square-flat",
+      "expand-flat",
+      "fit-to-height-square-flat",
+      "subtract-square-flat",
+      "wave-signal-square-flat"
+    ]
+  },
+  {
+    "name": "expand-flat",
+    "codepoint": 59183,
+    "fillRatio": 0.8271,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square-flat",
+      "check-square-flat",
+      "fit-to-height-square-flat",
+      "subtract-square-flat",
+      "wave-signal-square-flat"
+    ]
+  },
+  {
+    "name": "fit-to-height-square",
+    "codepoint": 58041,
+    "fillRatio": 0.8145,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square",
+      "check-square",
+      "parking-sign",
+      "subtract-square",
+      "wave-signal-square"
+    ]
+  },
+  {
+    "name": "fit-to-height-square-flat",
+    "codepoint": 58042,
+    "fillRatio": 0.8156,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square-flat",
+      "check-square-flat",
+      "expand-flat",
+      "subtract-square-flat",
+      "wave-signal-square-flat"
+    ]
+  },
+  {
+    "name": "hand-held-tablet-drawing-flat",
+    "codepoint": 58130,
+    "fillRatio": 0.713,
+    "edgeEntropy": 0.2196,
+    "dHashCluster": 6,
+    "cluster": [
+      "gameboy-flat",
+      "hand-held-tablet-writing-flat",
+      "orientation-portrait-flat",
+      "speaker-2-flat",
+      "strategy-tasks-flat"
+    ]
+  },
+  {
+    "name": "hand-held-tablet-writing-flat",
+    "codepoint": 58132,
+    "fillRatio": 0.7135,
+    "edgeEntropy": 0.2196,
+    "dHashCluster": 6,
+    "cluster": [
+      "gameboy-flat",
+      "hand-held-tablet-drawing-flat",
+      "orientation-portrait-flat",
+      "speaker-2-flat",
+      "strategy-tasks-flat"
+    ]
+  },
+  {
+    "name": "parking-sign",
+    "codepoint": 58483,
+    "fillRatio": 0.8145,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square",
+      "check-square",
+      "fit-to-height-square",
+      "subtract-square",
+      "wave-signal-square"
+    ]
+  },
+  {
+    "name": "strategy-tasks-flat",
+    "codepoint": 58836,
+    "fillRatio": 0.716,
+    "edgeEntropy": 0.2196,
+    "dHashCluster": 6,
+    "cluster": [
+      "gameboy-flat",
+      "hand-held-tablet-drawing-flat",
+      "hand-held-tablet-writing-flat",
+      "orientation-portrait-flat",
+      "speaker-2-flat"
+    ]
+  },
+  {
+    "name": "subtract-square",
+    "codepoint": 58849,
+    "fillRatio": 0.8145,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square",
+      "check-square",
+      "fit-to-height-square",
+      "parking-sign",
+      "wave-signal-square"
+    ]
+  },
+  {
+    "name": "subtract-square-flat",
+    "codepoint": 58850,
+    "fillRatio": 0.8179,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square-flat",
+      "check-square-flat",
+      "expand-flat",
+      "fit-to-height-square-flat",
+      "wave-signal-square-flat"
+    ]
+  },
+  {
+    "name": "wave-signal-square",
+    "codepoint": 59008,
+    "fillRatio": 0.8145,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square",
+      "check-square",
+      "fit-to-height-square",
+      "parking-sign",
+      "subtract-square"
+    ]
+  },
+  {
+    "name": "wave-signal-square-flat",
+    "codepoint": 59009,
+    "fillRatio": 0.8179,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "add-square-flat",
+      "check-square-flat",
+      "expand-flat",
+      "fit-to-height-square-flat",
+      "subtract-square-flat"
+    ]
+  },
+  {
+    "name": "align-front-1-flat",
+    "codepoint": 57408,
+    "fillRatio": 0.8464,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "insert-top-left-flat",
+      "insert-top-right-flat",
+      "pathfinder-trim-flat",
+      "widget-flat"
+    ]
+  },
+  {
+    "name": "checkup-medical-report-clipboard-flat",
+    "codepoint": 57738,
+    "fillRatio": 0.7537,
+    "edgeEntropy": 0.2238,
+    "dHashCluster": 5,
+    "cluster": [
+      "clipboard-add-flat",
+      "clipboard-check-flat",
+      "clipboard-remove-flat",
+      "empty-clipboard-flat"
+    ]
+  },
+  {
+    "name": "clipboard-add-flat",
+    "codepoint": 57770,
+    "fillRatio": 0.7537,
+    "edgeEntropy": 0.2238,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkup-medical-report-clipboard-flat",
+      "clipboard-check-flat",
+      "clipboard-remove-flat",
+      "empty-clipboard-flat"
+    ]
+  },
+  {
+    "name": "clipboard-check-flat",
+    "codepoint": 57772,
+    "fillRatio": 0.7537,
+    "edgeEntropy": 0.2238,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkup-medical-report-clipboard-flat",
+      "clipboard-add-flat",
+      "clipboard-remove-flat",
+      "empty-clipboard-flat"
+    ]
+  },
+  {
+    "name": "clipboard-remove-flat",
+    "codepoint": 57774,
+    "fillRatio": 0.7537,
+    "edgeEntropy": 0.2238,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkup-medical-report-clipboard-flat",
+      "clipboard-add-flat",
+      "clipboard-check-flat",
+      "empty-clipboard-flat"
+    ]
+  },
+  {
+    "name": "empty-clipboard-flat",
+    "codepoint": 57988,
+    "fillRatio": 0.7537,
+    "edgeEntropy": 0.2238,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkup-medical-report-clipboard-flat",
+      "clipboard-add-flat",
+      "clipboard-check-flat",
+      "clipboard-remove-flat"
+    ]
+  },
+  {
+    "name": "insert-top-left-flat",
+    "codepoint": 59216,
+    "fillRatio": 0.8451,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "align-front-1-flat",
+      "insert-top-right-flat",
+      "pathfinder-trim-flat",
+      "widget-flat"
+    ]
+  },
+  {
+    "name": "insert-top-right-flat",
+    "codepoint": 59217,
+    "fillRatio": 0.8451,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "align-front-1-flat",
+      "insert-top-left-flat",
+      "pathfinder-trim-flat",
+      "widget-flat"
+    ]
+  },
+  {
+    "name": "pathfinder-trim-flat",
+    "codepoint": 58502,
+    "fillRatio": 0.8444,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "align-front-1-flat",
+      "insert-top-left-flat",
+      "insert-top-right-flat",
+      "widget-flat"
+    ]
+  },
+  {
+    "name": "shipment-add-flat",
+    "codepoint": 58684,
+    "fillRatio": 0.8136,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "shipment-check-flat",
+      "shipment-download-flat",
+      "shipment-remove-flat",
+      "shipment-upload-flat"
+    ]
+  },
+  {
+    "name": "shipment-check-flat",
+    "codepoint": 58686,
+    "fillRatio": 0.8136,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "shipment-add-flat",
+      "shipment-download-flat",
+      "shipment-remove-flat",
+      "shipment-upload-flat"
+    ]
+  },
+  {
+    "name": "shipment-download-flat",
+    "codepoint": 58688,
+    "fillRatio": 0.8136,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "shipment-add-flat",
+      "shipment-check-flat",
+      "shipment-remove-flat",
+      "shipment-upload-flat"
+    ]
+  },
+  {
+    "name": "shipment-remove-flat",
+    "codepoint": 58690,
+    "fillRatio": 0.8136,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "shipment-add-flat",
+      "shipment-check-flat",
+      "shipment-download-flat",
+      "shipment-upload-flat"
+    ]
+  },
+  {
+    "name": "shipment-upload-flat",
+    "codepoint": 58692,
+    "fillRatio": 0.8136,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "shipment-add-flat",
+      "shipment-check-flat",
+      "shipment-download-flat",
+      "shipment-remove-flat"
+    ]
+  },
+  {
+    "name": "widget-flat",
+    "codepoint": 59337,
+    "fillRatio": 0.8447,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "align-front-1-flat",
+      "insert-top-left-flat",
+      "insert-top-right-flat",
+      "pathfinder-trim-flat"
+    ]
+  },
+  {
+    "name": "bag-suitcase-1",
+    "codepoint": 57512,
+    "fillRatio": 0.7082,
+    "edgeEntropy": 0.2814,
+    "dHashCluster": 4,
+    "cluster": [
+      "bag-suitcase-2",
+      "briefcase-dollar",
+      "medical-bag"
+    ]
+  },
+  {
+    "name": "bag-suitcase-2",
+    "codepoint": 57513,
+    "fillRatio": 0.7082,
+    "edgeEntropy": 0.2814,
+    "dHashCluster": 4,
+    "cluster": [
+      "bag-suitcase-1",
+      "briefcase-dollar",
+      "medical-bag"
+    ]
+  },
+  {
+    "name": "briefcase-dollar",
+    "codepoint": 57594,
+    "fillRatio": 0.7082,
+    "edgeEntropy": 0.2814,
+    "dHashCluster": 4,
+    "cluster": [
+      "bag-suitcase-1",
+      "bag-suitcase-2",
+      "medical-bag"
+    ]
+  },
+  {
+    "name": "folder-add",
+    "codepoint": 58065,
+    "fillRatio": 0.7603,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "folder-check",
+      "folder-delete",
+      "new-folder"
+    ]
+  },
+  {
+    "name": "folder-add-flat",
+    "codepoint": 58066,
+    "fillRatio": 0.7275,
+    "edgeEntropy": 0.2279,
+    "dHashCluster": 4,
+    "cluster": [
+      "folder-check-flat",
+      "folder-delete-flat",
+      "new-folder-flat"
+    ]
+  },
+  {
+    "name": "folder-check",
+    "codepoint": 58067,
+    "fillRatio": 0.7603,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "folder-add",
+      "folder-delete",
+      "new-folder"
+    ]
+  },
+  {
+    "name": "folder-check-flat",
+    "codepoint": 58068,
+    "fillRatio": 0.7275,
+    "edgeEntropy": 0.2279,
+    "dHashCluster": 4,
+    "cluster": [
+      "folder-add-flat",
+      "folder-delete-flat",
+      "new-folder-flat"
+    ]
+  },
+  {
+    "name": "folder-delete",
+    "codepoint": 58069,
+    "fillRatio": 0.7603,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "folder-add",
+      "folder-check",
+      "new-folder"
+    ]
+  },
+  {
+    "name": "folder-delete-flat",
+    "codepoint": 58070,
+    "fillRatio": 0.7275,
+    "edgeEntropy": 0.2279,
+    "dHashCluster": 4,
+    "cluster": [
+      "folder-add-flat",
+      "folder-check-flat",
+      "new-folder-flat"
+    ]
+  },
+  {
+    "name": "medical-bag",
+    "codepoint": 58345,
+    "fillRatio": 0.7082,
+    "edgeEntropy": 0.2814,
+    "dHashCluster": 4,
+    "cluster": [
+      "bag-suitcase-1",
+      "bag-suitcase-2",
+      "briefcase-dollar"
+    ]
+  },
+  {
+    "name": "new-folder",
+    "codepoint": 58413,
+    "fillRatio": 0.7603,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "folder-add",
+      "folder-check",
+      "folder-delete"
+    ]
+  },
+  {
+    "name": "new-folder-flat",
+    "codepoint": 58414,
+    "fillRatio": 0.7275,
+    "edgeEntropy": 0.2279,
+    "dHashCluster": 4,
+    "cluster": [
+      "folder-add-flat",
+      "folder-check-flat",
+      "folder-delete-flat"
+    ]
+  }
+]

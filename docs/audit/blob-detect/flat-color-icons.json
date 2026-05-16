@@ -1,0 +1,130 @@
+[
+  {
+    "name": "automatic",
+    "codepoint": 57429,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "circuit",
+      "electro-devices",
+      "light-at-the-end-of-tunnel",
+      "package",
+      "start",
+      "vip",
+      "wikipedia"
+    ]
+  },
+  {
+    "name": "circuit",
+    "codepoint": 57352,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "automatic",
+      "electro-devices",
+      "light-at-the-end-of-tunnel",
+      "package",
+      "start",
+      "vip",
+      "wikipedia"
+    ]
+  },
+  {
+    "name": "electro-devices",
+    "codepoint": 57368,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "automatic",
+      "circuit",
+      "light-at-the-end-of-tunnel",
+      "package",
+      "start",
+      "vip",
+      "wikipedia"
+    ]
+  },
+  {
+    "name": "light-at-the-end-of-tunnel",
+    "codepoint": 57389,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "automatic",
+      "circuit",
+      "electro-devices",
+      "package",
+      "start",
+      "vip",
+      "wikipedia"
+    ]
+  },
+  {
+    "name": "package",
+    "codepoint": 57454,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "automatic",
+      "circuit",
+      "electro-devices",
+      "light-at-the-end-of-tunnel",
+      "start",
+      "vip",
+      "wikipedia"
+    ]
+  },
+  {
+    "name": "start",
+    "codepoint": 57461,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "automatic",
+      "circuit",
+      "electro-devices",
+      "light-at-the-end-of-tunnel",
+      "package",
+      "vip",
+      "wikipedia"
+    ]
+  },
+  {
+    "name": "vip",
+    "codepoint": 57465,
+    "fillRatio": 0.8519,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "automatic",
+      "circuit",
+      "electro-devices",
+      "light-at-the-end-of-tunnel",
+      "package",
+      "start",
+      "wikipedia"
+    ]
+  },
+  {
+    "name": "wikipedia",
+    "codepoint": 57466,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "automatic",
+      "circuit",
+      "electro-devices",
+      "light-at-the-end-of-tunnel",
+      "package",
+      "start",
+      "vip"
+    ]
+  }
+]

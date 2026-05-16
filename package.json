@@ -8,7 +8,8 @@
     "generate:set": "bun --cwd tools/generator run generate --set",
     "generate:new-only": "bun --cwd tools/generator run generate --new-only",
     "generate:dry-run": "bun --cwd tools/generator run generate --dry-run",
-    "generate:check": "bun --cwd tools/generator run generate --check"
+    "generate:check": "bun --cwd tools/generator run generate --check",
+    "audit": "bun --cwd tools/generator run audit"
   },
   "patchedDependencies": {
     "svg2ttf@6.1.0": "tools/generator/patches/svg2ttf@6.1.0.patch"

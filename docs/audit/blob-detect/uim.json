@@ -1,0 +1,50 @@
+[
+  {
+    "name": "apps",
+    "codepoint": 57375,
+    "fillRatio": 0.8517,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "document-layout-center",
+      "document-layout-left",
+      "document-layout-right"
+    ]
+  },
+  {
+    "name": "document-layout-center",
+    "codepoint": 57453,
+    "fillRatio": 0.8491,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "apps",
+      "document-layout-left",
+      "document-layout-right"
+    ]
+  },
+  {
+    "name": "document-layout-left",
+    "codepoint": 57454,
+    "fillRatio": 0.8491,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "apps",
+      "document-layout-center",
+      "document-layout-right"
+    ]
+  },
+  {
+    "name": "document-layout-right",
+    "codepoint": 57455,
+    "fillRatio": 0.8491,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "apps",
+      "document-layout-center",
+      "document-layout-left"
+    ]
+  }
+]

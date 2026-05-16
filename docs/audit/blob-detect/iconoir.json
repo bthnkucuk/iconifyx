@@ -1,0 +1,1170 @@
+[
+  {
+    "name": "number-0-square-solid",
+    "codepoint": 62451,
+    "fillRatio": 0.7789,
+    "edgeEntropy": 0.3465,
+    "dHashCluster": 8,
+    "cluster": [
+      "number-0-square-solid-bold",
+      "number-0-square-solid-light",
+      "number-0-square-solid-thin",
+      "number-8-square-solid",
+      "number-8-square-solid-bold",
+      "number-8-square-solid-light",
+      "number-8-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-0-square-solid-bold",
+    "codepoint": 62452,
+    "fillRatio": 0.7789,
+    "edgeEntropy": 0.3465,
+    "dHashCluster": 8,
+    "cluster": [
+      "number-0-square-solid",
+      "number-0-square-solid-light",
+      "number-0-square-solid-thin",
+      "number-8-square-solid",
+      "number-8-square-solid-bold",
+      "number-8-square-solid-light",
+      "number-8-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-0-square-solid-light",
+    "codepoint": 62453,
+    "fillRatio": 0.7789,
+    "edgeEntropy": 0.3465,
+    "dHashCluster": 8,
+    "cluster": [
+      "number-0-square-solid",
+      "number-0-square-solid-bold",
+      "number-0-square-solid-thin",
+      "number-8-square-solid",
+      "number-8-square-solid-bold",
+      "number-8-square-solid-light",
+      "number-8-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-0-square-solid-thin",
+    "codepoint": 62454,
+    "fillRatio": 0.7789,
+    "edgeEntropy": 0.3465,
+    "dHashCluster": 8,
+    "cluster": [
+      "number-0-square-solid",
+      "number-0-square-solid-bold",
+      "number-0-square-solid-light",
+      "number-8-square-solid",
+      "number-8-square-solid-bold",
+      "number-8-square-solid-light",
+      "number-8-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-down-left-square-solid",
+    "codepoint": 57900,
+    "fillRatio": 0.7886,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-down-left-square-solid-bold",
+      "arrow-down-left-square-solid-light",
+      "arrow-down-left-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-down-left-square-solid-bold",
+    "codepoint": 57901,
+    "fillRatio": 0.7886,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-down-left-square-solid",
+      "arrow-down-left-square-solid-light",
+      "arrow-down-left-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-down-left-square-solid-light",
+    "codepoint": 57902,
+    "fillRatio": 0.7886,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-down-left-square-solid",
+      "arrow-down-left-square-solid-bold",
+      "arrow-down-left-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-down-left-square-solid-thin",
+    "codepoint": 57903,
+    "fillRatio": 0.7886,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-down-left-square-solid",
+      "arrow-down-left-square-solid-bold",
+      "arrow-down-left-square-solid-light"
+    ]
+  },
+  {
+    "name": "arrow-down-right-square-solid",
+    "codepoint": 57921,
+    "fillRatio": 0.7885,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-down-right-square-solid-bold",
+      "arrow-down-right-square-solid-light",
+      "arrow-down-right-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-down-right-square-solid-bold",
+    "codepoint": 57922,
+    "fillRatio": 0.7885,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-down-right-square-solid",
+      "arrow-down-right-square-solid-light",
+      "arrow-down-right-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-down-right-square-solid-light",
+    "codepoint": 57923,
+    "fillRatio": 0.7885,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-down-right-square-solid",
+      "arrow-down-right-square-solid-bold",
+      "arrow-down-right-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-down-right-square-solid-thin",
+    "codepoint": 57924,
+    "fillRatio": 0.7885,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-down-right-square-solid",
+      "arrow-down-right-square-solid-bold",
+      "arrow-down-right-square-solid-light"
+    ]
+  },
+  {
+    "name": "arrow-up-left-square-solid",
+    "codepoint": 58068,
+    "fillRatio": 0.7882,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-up-left-square-solid-bold",
+      "arrow-up-left-square-solid-light",
+      "arrow-up-left-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-up-left-square-solid-bold",
+    "codepoint": 58069,
+    "fillRatio": 0.7882,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-up-left-square-solid",
+      "arrow-up-left-square-solid-light",
+      "arrow-up-left-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-up-left-square-solid-light",
+    "codepoint": 58070,
+    "fillRatio": 0.7882,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-up-left-square-solid",
+      "arrow-up-left-square-solid-bold",
+      "arrow-up-left-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-up-left-square-solid-thin",
+    "codepoint": 58071,
+    "fillRatio": 0.7882,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-up-left-square-solid",
+      "arrow-up-left-square-solid-bold",
+      "arrow-up-left-square-solid-light"
+    ]
+  },
+  {
+    "name": "arrow-up-right-square-solid",
+    "codepoint": 58089,
+    "fillRatio": 0.7893,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-up-right-square-solid-bold",
+      "arrow-up-right-square-solid-light",
+      "arrow-up-right-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-up-right-square-solid-bold",
+    "codepoint": 58090,
+    "fillRatio": 0.7893,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-up-right-square-solid",
+      "arrow-up-right-square-solid-light",
+      "arrow-up-right-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-up-right-square-solid-light",
+    "codepoint": 58091,
+    "fillRatio": 0.7893,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-up-right-square-solid",
+      "arrow-up-right-square-solid-bold",
+      "arrow-up-right-square-solid-thin"
+    ]
+  },
+  {
+    "name": "arrow-up-right-square-solid-thin",
+    "codepoint": 58092,
+    "fillRatio": 0.7893,
+    "edgeEntropy": 0.3279,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-up-right-square-solid",
+      "arrow-up-right-square-solid-bold",
+      "arrow-up-right-square-solid-light"
+    ]
+  },
+  {
+    "name": "check-square-solid",
+    "codepoint": 58906,
+    "fillRatio": 0.7976,
+    "edgeEntropy": 0.3318,
+    "dHashCluster": 4,
+    "cluster": [
+      "check-square-solid-bold",
+      "check-square-solid-light",
+      "check-square-solid-thin"
+    ]
+  },
+  {
+    "name": "check-square-solid-bold",
+    "codepoint": 58907,
+    "fillRatio": 0.7976,
+    "edgeEntropy": 0.3318,
+    "dHashCluster": 4,
+    "cluster": [
+      "check-square-solid",
+      "check-square-solid-light",
+      "check-square-solid-thin"
+    ]
+  },
+  {
+    "name": "check-square-solid-light",
+    "codepoint": 58908,
+    "fillRatio": 0.7976,
+    "edgeEntropy": 0.3318,
+    "dHashCluster": 4,
+    "cluster": [
+      "check-square-solid",
+      "check-square-solid-bold",
+      "check-square-solid-thin"
+    ]
+  },
+  {
+    "name": "check-square-solid-thin",
+    "codepoint": 58909,
+    "fillRatio": 0.7976,
+    "edgeEntropy": 0.3318,
+    "dHashCluster": 4,
+    "cluster": [
+      "check-square-solid",
+      "check-square-solid-bold",
+      "check-square-solid-light"
+    ]
+  },
+  {
+    "name": "help-square-solid",
+    "codepoint": 61003,
+    "fillRatio": 0.79,
+    "edgeEntropy": 0.3424,
+    "dHashCluster": 4,
+    "cluster": [
+      "help-square-solid-bold",
+      "help-square-solid-light",
+      "help-square-solid-thin"
+    ]
+  },
+  {
+    "name": "help-square-solid-bold",
+    "codepoint": 61004,
+    "fillRatio": 0.79,
+    "edgeEntropy": 0.3424,
+    "dHashCluster": 4,
+    "cluster": [
+      "help-square-solid",
+      "help-square-solid-light",
+      "help-square-solid-thin"
+    ]
+  },
+  {
+    "name": "help-square-solid-light",
+    "codepoint": 61005,
+    "fillRatio": 0.79,
+    "edgeEntropy": 0.3424,
+    "dHashCluster": 4,
+    "cluster": [
+      "help-square-solid",
+      "help-square-solid-bold",
+      "help-square-solid-thin"
+    ]
+  },
+  {
+    "name": "help-square-solid-thin",
+    "codepoint": 61006,
+    "fillRatio": 0.79,
+    "edgeEntropy": 0.3424,
+    "dHashCluster": 4,
+    "cluster": [
+      "help-square-solid",
+      "help-square-solid-bold",
+      "help-square-solid-light"
+    ]
+  },
+  {
+    "name": "italic-square-solid",
+    "codepoint": 61262,
+    "fillRatio": 0.7739,
+    "edgeEntropy": 0.344,
+    "dHashCluster": 4,
+    "cluster": [
+      "italic-square-solid-bold",
+      "italic-square-solid-light",
+      "italic-square-solid-thin"
+    ]
+  },
+  {
+    "name": "italic-square-solid-bold",
+    "codepoint": 61263,
+    "fillRatio": 0.7739,
+    "edgeEntropy": 0.344,
+    "dHashCluster": 4,
+    "cluster": [
+      "italic-square-solid",
+      "italic-square-solid-light",
+      "italic-square-solid-thin"
+    ]
+  },
+  {
+    "name": "italic-square-solid-light",
+    "codepoint": 61264,
+    "fillRatio": 0.7739,
+    "edgeEntropy": 0.344,
+    "dHashCluster": 4,
+    "cluster": [
+      "italic-square-solid",
+      "italic-square-solid-bold",
+      "italic-square-solid-thin"
+    ]
+  },
+  {
+    "name": "italic-square-solid-thin",
+    "codepoint": 61265,
+    "fillRatio": 0.7739,
+    "edgeEntropy": 0.344,
+    "dHashCluster": 4,
+    "cluster": [
+      "italic-square-solid",
+      "italic-square-solid-bold",
+      "italic-square-solid-light"
+    ]
+  },
+  {
+    "name": "message-solid",
+    "codepoint": 61947,
+    "fillRatio": 0.7069,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "message-solid-bold",
+      "message-solid-light",
+      "message-solid-thin"
+    ]
+  },
+  {
+    "name": "message-solid-bold",
+    "codepoint": 61948,
+    "fillRatio": 0.7069,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "message-solid",
+      "message-solid-light",
+      "message-solid-thin"
+    ]
+  },
+  {
+    "name": "message-solid-light",
+    "codepoint": 61949,
+    "fillRatio": 0.7069,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "message-solid",
+      "message-solid-bold",
+      "message-solid-thin"
+    ]
+  },
+  {
+    "name": "message-solid-thin",
+    "codepoint": 61950,
+    "fillRatio": 0.7069,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "message-solid",
+      "message-solid-bold",
+      "message-solid-light"
+    ]
+  },
+  {
+    "name": "minus-square-solid",
+    "codepoint": 62090,
+    "fillRatio": 0.8303,
+    "edgeEntropy": 0.2767,
+    "dHashCluster": 4,
+    "cluster": [
+      "minus-square-solid-bold",
+      "minus-square-solid-light",
+      "minus-square-solid-thin"
+    ]
+  },
+  {
+    "name": "minus-square-solid-bold",
+    "codepoint": 62091,
+    "fillRatio": 0.8303,
+    "edgeEntropy": 0.2767,
+    "dHashCluster": 4,
+    "cluster": [
+      "minus-square-solid",
+      "minus-square-solid-light",
+      "minus-square-solid-thin"
+    ]
+  },
+  {
+    "name": "minus-square-solid-light",
+    "codepoint": 62092,
+    "fillRatio": 0.8303,
+    "edgeEntropy": 0.2767,
+    "dHashCluster": 4,
+    "cluster": [
+      "minus-square-solid",
+      "minus-square-solid-bold",
+      "minus-square-solid-thin"
+    ]
+  },
+  {
+    "name": "minus-square-solid-thin",
+    "codepoint": 62093,
+    "fillRatio": 0.8303,
+    "edgeEntropy": 0.2767,
+    "dHashCluster": 4,
+    "cluster": [
+      "minus-square-solid",
+      "minus-square-solid-bold",
+      "minus-square-solid-light"
+    ]
+  },
+  {
+    "name": "number-1-square-solid",
+    "codepoint": 62459,
+    "fillRatio": 0.8061,
+    "edgeEntropy": 0.3046,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-1-square-solid-bold",
+      "number-1-square-solid-light",
+      "number-1-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-1-square-solid-bold",
+    "codepoint": 62460,
+    "fillRatio": 0.8061,
+    "edgeEntropy": 0.3046,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-1-square-solid",
+      "number-1-square-solid-light",
+      "number-1-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-1-square-solid-light",
+    "codepoint": 62461,
+    "fillRatio": 0.8061,
+    "edgeEntropy": 0.3046,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-1-square-solid",
+      "number-1-square-solid-bold",
+      "number-1-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-1-square-solid-thin",
+    "codepoint": 62462,
+    "fillRatio": 0.8061,
+    "edgeEntropy": 0.3046,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-1-square-solid",
+      "number-1-square-solid-bold",
+      "number-1-square-solid-light"
+    ]
+  },
+  {
+    "name": "number-2-square-solid",
+    "codepoint": 62467,
+    "fillRatio": 0.778,
+    "edgeEntropy": 0.347,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-2-square-solid-bold",
+      "number-2-square-solid-light",
+      "number-2-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-2-square-solid-bold",
+    "codepoint": 62468,
+    "fillRatio": 0.778,
+    "edgeEntropy": 0.347,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-2-square-solid",
+      "number-2-square-solid-light",
+      "number-2-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-2-square-solid-light",
+    "codepoint": 62469,
+    "fillRatio": 0.778,
+    "edgeEntropy": 0.347,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-2-square-solid",
+      "number-2-square-solid-bold",
+      "number-2-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-2-square-solid-thin",
+    "codepoint": 62470,
+    "fillRatio": 0.778,
+    "edgeEntropy": 0.347,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-2-square-solid",
+      "number-2-square-solid-bold",
+      "number-2-square-solid-light"
+    ]
+  },
+  {
+    "name": "number-4-square-solid",
+    "codepoint": 62483,
+    "fillRatio": 0.7862,
+    "edgeEntropy": 0.327,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-4-square-solid-bold",
+      "number-4-square-solid-light",
+      "number-4-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-4-square-solid-bold",
+    "codepoint": 62484,
+    "fillRatio": 0.7862,
+    "edgeEntropy": 0.327,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-4-square-solid",
+      "number-4-square-solid-light",
+      "number-4-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-4-square-solid-light",
+    "codepoint": 62485,
+    "fillRatio": 0.7862,
+    "edgeEntropy": 0.327,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-4-square-solid",
+      "number-4-square-solid-bold",
+      "number-4-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-4-square-solid-thin",
+    "codepoint": 62486,
+    "fillRatio": 0.7862,
+    "edgeEntropy": 0.327,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-4-square-solid",
+      "number-4-square-solid-bold",
+      "number-4-square-solid-light"
+    ]
+  },
+  {
+    "name": "number-6-square-solid",
+    "codepoint": 62499,
+    "fillRatio": 0.7752,
+    "edgeEntropy": 0.349,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-6-square-solid-bold",
+      "number-6-square-solid-light",
+      "number-6-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-6-square-solid-bold",
+    "codepoint": 62500,
+    "fillRatio": 0.7752,
+    "edgeEntropy": 0.349,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-6-square-solid",
+      "number-6-square-solid-light",
+      "number-6-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-6-square-solid-light",
+    "codepoint": 62501,
+    "fillRatio": 0.7752,
+    "edgeEntropy": 0.349,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-6-square-solid",
+      "number-6-square-solid-bold",
+      "number-6-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-6-square-solid-thin",
+    "codepoint": 62502,
+    "fillRatio": 0.7752,
+    "edgeEntropy": 0.349,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-6-square-solid",
+      "number-6-square-solid-bold",
+      "number-6-square-solid-light"
+    ]
+  },
+  {
+    "name": "number-7-square-solid",
+    "codepoint": 62507,
+    "fillRatio": 0.7984,
+    "edgeEntropy": 0.3179,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-7-square-solid-bold",
+      "number-7-square-solid-light",
+      "number-7-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-7-square-solid-bold",
+    "codepoint": 62508,
+    "fillRatio": 0.7984,
+    "edgeEntropy": 0.3179,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-7-square-solid",
+      "number-7-square-solid-light",
+      "number-7-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-7-square-solid-light",
+    "codepoint": 62509,
+    "fillRatio": 0.7984,
+    "edgeEntropy": 0.3179,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-7-square-solid",
+      "number-7-square-solid-bold",
+      "number-7-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-7-square-solid-thin",
+    "codepoint": 62510,
+    "fillRatio": 0.7984,
+    "edgeEntropy": 0.3179,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-7-square-solid",
+      "number-7-square-solid-bold",
+      "number-7-square-solid-light"
+    ]
+  },
+  {
+    "name": "number-9-square-solid",
+    "codepoint": 62523,
+    "fillRatio": 0.7754,
+    "edgeEntropy": 0.349,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-9-square-solid-bold",
+      "number-9-square-solid-light",
+      "number-9-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-9-square-solid-bold",
+    "codepoint": 62524,
+    "fillRatio": 0.7754,
+    "edgeEntropy": 0.349,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-9-square-solid",
+      "number-9-square-solid-light",
+      "number-9-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-9-square-solid-light",
+    "codepoint": 62525,
+    "fillRatio": 0.7754,
+    "edgeEntropy": 0.349,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-9-square-solid",
+      "number-9-square-solid-bold",
+      "number-9-square-solid-thin"
+    ]
+  },
+  {
+    "name": "number-9-square-solid-thin",
+    "codepoint": 62526,
+    "fillRatio": 0.7754,
+    "edgeEntropy": 0.349,
+    "dHashCluster": 4,
+    "cluster": [
+      "number-9-square-solid",
+      "number-9-square-solid-bold",
+      "number-9-square-solid-light"
+    ]
+  },
+  {
+    "name": "plus-square-solid",
+    "codepoint": 63118,
+    "fillRatio": 0.8087,
+    "edgeEntropy": 0.3024,
+    "dHashCluster": 4,
+    "cluster": [
+      "plus-square-solid-bold",
+      "plus-square-solid-light",
+      "plus-square-solid-thin"
+    ]
+  },
+  {
+    "name": "plus-square-solid-bold",
+    "codepoint": 63119,
+    "fillRatio": 0.8087,
+    "edgeEntropy": 0.3024,
+    "dHashCluster": 4,
+    "cluster": [
+      "plus-square-solid",
+      "plus-square-solid-light",
+      "plus-square-solid-thin"
+    ]
+  },
+  {
+    "name": "plus-square-solid-light",
+    "codepoint": 63120,
+    "fillRatio": 0.8087,
+    "edgeEntropy": 0.3024,
+    "dHashCluster": 4,
+    "cluster": [
+      "plus-square-solid",
+      "plus-square-solid-bold",
+      "plus-square-solid-thin"
+    ]
+  },
+  {
+    "name": "plus-square-solid-thin",
+    "codepoint": 63121,
+    "fillRatio": 0.8087,
+    "edgeEntropy": 0.3024,
+    "dHashCluster": 4,
+    "cluster": [
+      "plus-square-solid",
+      "plus-square-solid-bold",
+      "plus-square-solid-light"
+    ]
+  },
+  {
+    "name": "server-solid",
+    "codepoint": 57783,
+    "fillRatio": 0.7586,
+    "edgeEntropy": 0.3347,
+    "dHashCluster": 4,
+    "cluster": [
+      "server-solid-bold",
+      "server-solid-light",
+      "server-solid-thin"
+    ]
+  },
+  {
+    "name": "server-solid-bold",
+    "codepoint": 57784,
+    "fillRatio": 0.7586,
+    "edgeEntropy": 0.3347,
+    "dHashCluster": 4,
+    "cluster": [
+      "server-solid",
+      "server-solid-light",
+      "server-solid-thin"
+    ]
+  },
+  {
+    "name": "server-solid-light",
+    "codepoint": 57785,
+    "fillRatio": 0.7586,
+    "edgeEntropy": 0.3347,
+    "dHashCluster": 4,
+    "cluster": [
+      "server-solid",
+      "server-solid-bold",
+      "server-solid-thin"
+    ]
+  },
+  {
+    "name": "server-solid-thin",
+    "codepoint": 57786,
+    "fillRatio": 0.7586,
+    "edgeEntropy": 0.3347,
+    "dHashCluster": 4,
+    "cluster": [
+      "server-solid",
+      "server-solid-bold",
+      "server-solid-light"
+    ]
+  },
+  {
+    "name": "shortcut-square-solid",
+    "codepoint": 57986,
+    "fillRatio": 0.7789,
+    "edgeEntropy": 0.3398,
+    "dHashCluster": 4,
+    "cluster": [
+      "shortcut-square-solid-bold",
+      "shortcut-square-solid-light",
+      "shortcut-square-solid-thin"
+    ]
+  },
+  {
+    "name": "shortcut-square-solid-bold",
+    "codepoint": 57987,
+    "fillRatio": 0.7789,
+    "edgeEntropy": 0.3398,
+    "dHashCluster": 4,
+    "cluster": [
+      "shortcut-square-solid",
+      "shortcut-square-solid-light",
+      "shortcut-square-solid-thin"
+    ]
+  },
+  {
+    "name": "shortcut-square-solid-light",
+    "codepoint": 57988,
+    "fillRatio": 0.7789,
+    "edgeEntropy": 0.3398,
+    "dHashCluster": 4,
+    "cluster": [
+      "shortcut-square-solid",
+      "shortcut-square-solid-bold",
+      "shortcut-square-solid-thin"
+    ]
+  },
+  {
+    "name": "shortcut-square-solid-thin",
+    "codepoint": 57989,
+    "fillRatio": 0.7789,
+    "edgeEntropy": 0.3398,
+    "dHashCluster": 4,
+    "cluster": [
+      "shortcut-square-solid",
+      "shortcut-square-solid-bold",
+      "shortcut-square-solid-light"
+    ]
+  },
+  {
+    "name": "snapchat",
+    "codepoint": 58092,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "snapchat-bold",
+      "snapchat-light",
+      "snapchat-thin"
+    ]
+  },
+  {
+    "name": "snapchat-bold",
+    "codepoint": 58093,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "snapchat",
+      "snapchat-light",
+      "snapchat-thin"
+    ]
+  },
+  {
+    "name": "snapchat-light",
+    "codepoint": 58094,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "snapchat",
+      "snapchat-bold",
+      "snapchat-thin"
+    ]
+  },
+  {
+    "name": "snapchat-thin",
+    "codepoint": 58099,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "snapchat",
+      "snapchat-bold",
+      "snapchat-light"
+    ]
+  },
+  {
+    "name": "stats-down-square-solid",
+    "codepoint": 58283,
+    "fillRatio": 0.7865,
+    "edgeEntropy": 0.3457,
+    "dHashCluster": 4,
+    "cluster": [
+      "stats-down-square-solid-bold",
+      "stats-down-square-solid-light",
+      "stats-down-square-solid-thin"
+    ]
+  },
+  {
+    "name": "stats-down-square-solid-bold",
+    "codepoint": 58284,
+    "fillRatio": 0.7865,
+    "edgeEntropy": 0.3457,
+    "dHashCluster": 4,
+    "cluster": [
+      "stats-down-square-solid",
+      "stats-down-square-solid-light",
+      "stats-down-square-solid-thin"
+    ]
+  },
+  {
+    "name": "stats-down-square-solid-light",
+    "codepoint": 58285,
+    "fillRatio": 0.7865,
+    "edgeEntropy": 0.3457,
+    "dHashCluster": 4,
+    "cluster": [
+      "stats-down-square-solid",
+      "stats-down-square-solid-bold",
+      "stats-down-square-solid-thin"
+    ]
+  },
+  {
+    "name": "stats-down-square-solid-thin",
+    "codepoint": 58286,
+    "fillRatio": 0.7865,
+    "edgeEntropy": 0.3457,
+    "dHashCluster": 4,
+    "cluster": [
+      "stats-down-square-solid",
+      "stats-down-square-solid-bold",
+      "stats-down-square-solid-light"
+    ]
+  },
+  {
+    "name": "stats-up-square-solid",
+    "codepoint": 58303,
+    "fillRatio": 0.7863,
+    "edgeEntropy": 0.3457,
+    "dHashCluster": 4,
+    "cluster": [
+      "stats-up-square-solid-bold",
+      "stats-up-square-solid-light",
+      "stats-up-square-solid-thin"
+    ]
+  },
+  {
+    "name": "stats-up-square-solid-bold",
+    "codepoint": 58304,
+    "fillRatio": 0.7863,
+    "edgeEntropy": 0.3457,
+    "dHashCluster": 4,
+    "cluster": [
+      "stats-up-square-solid",
+      "stats-up-square-solid-light",
+      "stats-up-square-solid-thin"
+    ]
+  },
+  {
+    "name": "stats-up-square-solid-light",
+    "codepoint": 58305,
+    "fillRatio": 0.7863,
+    "edgeEntropy": 0.3457,
+    "dHashCluster": 4,
+    "cluster": [
+      "stats-up-square-solid",
+      "stats-up-square-solid-bold",
+      "stats-up-square-solid-thin"
+    ]
+  },
+  {
+    "name": "stats-up-square-solid-thin",
+    "codepoint": 58306,
+    "fillRatio": 0.7863,
+    "edgeEntropy": 0.3457,
+    "dHashCluster": 4,
+    "cluster": [
+      "stats-up-square-solid",
+      "stats-up-square-solid-bold",
+      "stats-up-square-solid-light"
+    ]
+  },
+  {
+    "name": "warning-square-solid",
+    "codepoint": 59123,
+    "fillRatio": 0.8252,
+    "edgeEntropy": 0.2925,
+    "dHashCluster": 4,
+    "cluster": [
+      "warning-square-solid-bold",
+      "warning-square-solid-light",
+      "warning-square-solid-thin"
+    ]
+  },
+  {
+    "name": "warning-square-solid-bold",
+    "codepoint": 59124,
+    "fillRatio": 0.8252,
+    "edgeEntropy": 0.2925,
+    "dHashCluster": 4,
+    "cluster": [
+      "warning-square-solid",
+      "warning-square-solid-light",
+      "warning-square-solid-thin"
+    ]
+  },
+  {
+    "name": "warning-square-solid-light",
+    "codepoint": 59125,
+    "fillRatio": 0.8252,
+    "edgeEntropy": 0.2925,
+    "dHashCluster": 4,
+    "cluster": [
+      "warning-square-solid",
+      "warning-square-solid-bold",
+      "warning-square-solid-thin"
+    ]
+  },
+  {
+    "name": "warning-square-solid-thin",
+    "codepoint": 59126,
+    "fillRatio": 0.8252,
+    "edgeEntropy": 0.2925,
+    "dHashCluster": 4,
+    "cluster": [
+      "warning-square-solid",
+      "warning-square-solid-bold",
+      "warning-square-solid-light"
+    ]
+  },
+  {
+    "name": "xmark-square-solid",
+    "codepoint": 59362,
+    "fillRatio": 0.8064,
+    "edgeEntropy": 0.3148,
+    "dHashCluster": 4,
+    "cluster": [
+      "xmark-square-solid-bold",
+      "xmark-square-solid-light",
+      "xmark-square-solid-thin"
+    ]
+  },
+  {
+    "name": "xmark-square-solid-bold",
+    "codepoint": 59363,
+    "fillRatio": 0.8064,
+    "edgeEntropy": 0.3148,
+    "dHashCluster": 4,
+    "cluster": [
+      "xmark-square-solid",
+      "xmark-square-solid-light",
+      "xmark-square-solid-thin"
+    ]
+  },
+  {
+    "name": "xmark-square-solid-light",
+    "codepoint": 59364,
+    "fillRatio": 0.8064,
+    "edgeEntropy": 0.3148,
+    "dHashCluster": 4,
+    "cluster": [
+      "xmark-square-solid",
+      "xmark-square-solid-bold",
+      "xmark-square-solid-thin"
+    ]
+  },
+  {
+    "name": "xmark-square-solid-thin",
+    "codepoint": 59365,
+    "fillRatio": 0.8064,
+    "edgeEntropy": 0.3148,
+    "dHashCluster": 4,
+    "cluster": [
+      "xmark-square-solid",
+      "xmark-square-solid-bold",
+      "xmark-square-solid-light"
+    ]
+  }
+]

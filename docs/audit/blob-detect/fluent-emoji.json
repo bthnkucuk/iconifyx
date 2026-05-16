@@ -1,0 +1,323 @@
+[
+  {
+    "name": "black-large-square",
+    "codepoint": 57476,
+    "fillRatio": 0.8569,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "black-medium-small-square",
+    "codepoint": 57477,
+    "fillRatio": 0.8561,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "black-medium-square",
+    "codepoint": 57478,
+    "fillRatio": 0.8562,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "black-small-square",
+    "codepoint": 57480,
+    "fillRatio": 0.8563,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "blue-square",
+    "codepoint": 57487,
+    "fillRatio": 0.8559,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "brown-square",
+    "codepoint": 57520,
+    "fillRatio": 0.8569,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "green-square",
+    "codepoint": 57899,
+    "fillRatio": 0.8376,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "orange-square",
+    "codepoint": 58754,
+    "fillRatio": 0.8544,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "purple-square",
+    "codepoint": 59234,
+    "fillRatio": 0.8567,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "red-square",
+    "codepoint": 59276,
+    "fillRatio": 0.8569,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "white-large-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "white-large-square",
+    "codepoint": 59639,
+    "fillRatio": 0.837,
+    "edgeEntropy": 0.2324,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-square-button",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "white-square-button",
+    "codepoint": 59644,
+    "fillRatio": 0.8592,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "yellow-square"
+    ]
+  },
+  {
+    "name": "yellow-square",
+    "codepoint": 60113,
+    "fillRatio": 0.8362,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 13,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square",
+      "blue-square",
+      "brown-square",
+      "green-square",
+      "orange-square",
+      "purple-square",
+      "red-square",
+      "white-large-square",
+      "white-square-button"
+    ]
+  },
+  {
+    "name": "japanese-discount-button",
+    "codepoint": 58009,
+    "fillRatio": 0.8486,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "japanese-no-vacancy-button",
+      "japanese-passing-grade-button",
+      "japanese-prohibited-button"
+    ]
+  },
+  {
+    "name": "japanese-no-vacancy-button",
+    "codepoint": 58015,
+    "fillRatio": 0.8486,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "japanese-discount-button",
+      "japanese-passing-grade-button",
+      "japanese-prohibited-button"
+    ]
+  },
+  {
+    "name": "japanese-passing-grade-button",
+    "codepoint": 58018,
+    "fillRatio": 0.8486,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "japanese-discount-button",
+      "japanese-no-vacancy-button",
+      "japanese-prohibited-button"
+    ]
+  },
+  {
+    "name": "japanese-prohibited-button",
+    "codepoint": 58020,
+    "fillRatio": 0.8486,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "japanese-discount-button",
+      "japanese-no-vacancy-button",
+      "japanese-passing-grade-button"
+    ]
+  }
+]

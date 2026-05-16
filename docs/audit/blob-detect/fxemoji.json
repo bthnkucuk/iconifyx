@@ -1,0 +1,275 @@
+[
+  {
+    "name": "ballotboxboldcheck",
+    "codepoint": 57369,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "ballotboxwithboldscriptx",
+    "codepoint": 57883,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "ballottboxwithscriptx",
+    "codepoint": 57370,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "blacksquarebutton",
+    "codepoint": 57886,
+    "fillRatio": 0.8577,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "emptynotepage",
+    "codepoint": 57496,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "maximize",
+    "codepoint": 57629,
+    "fillRatio": 0.8011,
+    "edgeEntropy": 0.2279,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "notepage",
+    "codepoint": 57680,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "silhouetteohjapan",
+    "codepoint": 57762,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "whitelargesquare",
+    "codepoint": 57858,
+    "fillRatio": 0.8577,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "whitemediumsmallsquare",
+    "codepoint": 57860,
+    "fillRatio": 0.8577,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "whitemediumsquare",
+    "codepoint": 57861,
+    "fillRatio": 0.8577,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitesmallsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "whitesmallsquare",
+    "codepoint": 57865,
+    "fillRatio": 0.8577,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesquarebutton"
+    ]
+  },
+  {
+    "name": "whitesquarebutton",
+    "codepoint": 57914,
+    "fillRatio": 0.8577,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 13,
+    "cluster": [
+      "ballotboxboldcheck",
+      "ballotboxwithboldscriptx",
+      "ballottboxwithscriptx",
+      "blacksquarebutton",
+      "emptynotepage",
+      "maximize",
+      "notepage",
+      "silhouetteohjapan",
+      "whitelargesquare",
+      "whitemediumsmallsquare",
+      "whitemediumsquare",
+      "whitesmallsquare"
+    ]
+  }
+]

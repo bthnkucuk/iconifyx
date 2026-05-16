@@ -1,0 +1,130 @@
+[
+  {
+    "name": "anchor-bottom-left-16",
+    "codepoint": 57366,
+    "fillRatio": 0.7943,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "anchor-bottom-middle-16",
+      "anchor-center-left-16",
+      "anchor-center-middle-16",
+      "anchor-center-right-16",
+      "anchor-top-left-16",
+      "anchor-top-middle-16",
+      "anchor-top-right-16"
+    ]
+  },
+  {
+    "name": "anchor-bottom-middle-16",
+    "codepoint": 57367,
+    "fillRatio": 0.7943,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "anchor-bottom-left-16",
+      "anchor-center-left-16",
+      "anchor-center-middle-16",
+      "anchor-center-right-16",
+      "anchor-top-left-16",
+      "anchor-top-middle-16",
+      "anchor-top-right-16"
+    ]
+  },
+  {
+    "name": "anchor-center-left-16",
+    "codepoint": 57369,
+    "fillRatio": 0.7951,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "anchor-bottom-left-16",
+      "anchor-bottom-middle-16",
+      "anchor-center-middle-16",
+      "anchor-center-right-16",
+      "anchor-top-left-16",
+      "anchor-top-middle-16",
+      "anchor-top-right-16"
+    ]
+  },
+  {
+    "name": "anchor-center-middle-16",
+    "codepoint": 57370,
+    "fillRatio": 0.7951,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "anchor-bottom-left-16",
+      "anchor-bottom-middle-16",
+      "anchor-center-left-16",
+      "anchor-center-right-16",
+      "anchor-top-left-16",
+      "anchor-top-middle-16",
+      "anchor-top-right-16"
+    ]
+  },
+  {
+    "name": "anchor-center-right-16",
+    "codepoint": 57371,
+    "fillRatio": 0.7951,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "anchor-bottom-left-16",
+      "anchor-bottom-middle-16",
+      "anchor-center-left-16",
+      "anchor-center-middle-16",
+      "anchor-top-left-16",
+      "anchor-top-middle-16",
+      "anchor-top-right-16"
+    ]
+  },
+  {
+    "name": "anchor-top-left-16",
+    "codepoint": 57372,
+    "fillRatio": 0.7951,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "anchor-bottom-left-16",
+      "anchor-bottom-middle-16",
+      "anchor-center-left-16",
+      "anchor-center-middle-16",
+      "anchor-center-right-16",
+      "anchor-top-middle-16",
+      "anchor-top-right-16"
+    ]
+  },
+  {
+    "name": "anchor-top-middle-16",
+    "codepoint": 57373,
+    "fillRatio": 0.7951,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "anchor-bottom-left-16",
+      "anchor-bottom-middle-16",
+      "anchor-center-left-16",
+      "anchor-center-middle-16",
+      "anchor-center-right-16",
+      "anchor-top-left-16",
+      "anchor-top-right-16"
+    ]
+  },
+  {
+    "name": "anchor-top-right-16",
+    "codepoint": 57374,
+    "fillRatio": 0.7951,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "anchor-bottom-left-16",
+      "anchor-bottom-middle-16",
+      "anchor-center-left-16",
+      "anchor-center-middle-16",
+      "anchor-center-right-16",
+      "anchor-top-left-16",
+      "anchor-top-middle-16"
+    ]
+  }
+]

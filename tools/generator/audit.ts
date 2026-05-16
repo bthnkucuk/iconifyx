@@ -8,6 +8,8 @@
  * Usage:
  *   bun run audit secondary-name-check
  *   bun run audit secondary-name-check -- --prefix solar,mdi   # subset
+ *   bun run audit blob-detect
+ *   bun run audit blob-detect -- --prefix twemoji,noto
  *
  * Add a new audit by exporting a `run<Name>Audit(opts)` from a module
  * under `tools/generator/audit/` (or wire an inline closure here) and
@@ -45,6 +47,17 @@ const COMMANDS: Record<string, AuditCommand> = {
       log.info(
         `secondary-name-check: ${totalDeclared.toLocaleString('en-US')} declared duotones; ${totalAliased.toLocaleString('en-US')} aliased; ${totalMissing.toLocaleString('en-US')} missing`
       );
+    },
+  },
+  'blob-detect': {
+    description:
+      '§16 A14 perceptual-hash blob detector — flags glyphs whose rendered output is suspiciously close to a featureless filled silhouette (i.e. a monochrome blob that escaped the paint-order drop). Read-only — emits docs/audit/blob-detect/*.json + BLOB_DETECT.md.',
+    run: async (args) => {
+      const flags = parseSharedFlags(args);
+      const { runBlobDetect } = await import('./src/audit/blob_detect.ts');
+      await runBlobDetect({
+        onlyPrefixes: flags.prefixes ? Array.from(flags.prefixes) : undefined,
+      });
     },
   },
 };

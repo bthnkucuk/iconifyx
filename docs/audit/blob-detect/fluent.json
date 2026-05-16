@@ -1,0 +1,197 @@
+[
+  {
+    "name": "layout-row-two-16-filled",
+    "codepoint": 61540,
+    "fillRatio": 0.7619,
+    "edgeEntropy": 0.3095,
+    "dHashCluster": 5,
+    "cluster": [
+      "layout-row-two-24-filled",
+      "layout-row-two-28-filled",
+      "layout-row-two-32-filled",
+      "layout-row-two-48-filled"
+    ]
+  },
+  {
+    "name": "layout-row-two-24-filled",
+    "codepoint": 61544,
+    "fillRatio": 0.7691,
+    "edgeEntropy": 0.3095,
+    "dHashCluster": 5,
+    "cluster": [
+      "layout-row-two-16-filled",
+      "layout-row-two-28-filled",
+      "layout-row-two-32-filled",
+      "layout-row-two-48-filled"
+    ]
+  },
+  {
+    "name": "layout-row-two-28-filled",
+    "codepoint": 61546,
+    "fillRatio": 0.7904,
+    "edgeEntropy": 0.3113,
+    "dHashCluster": 5,
+    "cluster": [
+      "layout-row-two-16-filled",
+      "layout-row-two-24-filled",
+      "layout-row-two-32-filled",
+      "layout-row-two-48-filled"
+    ]
+  },
+  {
+    "name": "layout-row-two-32-filled",
+    "codepoint": 61548,
+    "fillRatio": 0.7904,
+    "edgeEntropy": 0.3113,
+    "dHashCluster": 5,
+    "cluster": [
+      "layout-row-two-16-filled",
+      "layout-row-two-24-filled",
+      "layout-row-two-28-filled",
+      "layout-row-two-48-filled"
+    ]
+  },
+  {
+    "name": "layout-row-two-48-filled",
+    "codepoint": 61551,
+    "fillRatio": 0.791,
+    "edgeEntropy": 0.3113,
+    "dHashCluster": 5,
+    "cluster": [
+      "layout-row-two-16-filled",
+      "layout-row-two-24-filled",
+      "layout-row-two-28-filled",
+      "layout-row-two-32-filled"
+    ]
+  },
+  {
+    "name": "square-16-filled",
+    "codepoint": 61391,
+    "fillRatio": 0.8295,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "square-24-filled",
+      "square-28-filled",
+      "square-32-filled",
+      "square-48-filled"
+    ]
+  },
+  {
+    "name": "square-24-filled",
+    "codepoint": 61395,
+    "fillRatio": 0.8367,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "square-16-filled",
+      "square-28-filled",
+      "square-32-filled",
+      "square-48-filled"
+    ]
+  },
+  {
+    "name": "square-28-filled",
+    "codepoint": 61397,
+    "fillRatio": 0.8387,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "square-16-filled",
+      "square-24-filled",
+      "square-32-filled",
+      "square-48-filled"
+    ]
+  },
+  {
+    "name": "square-32-filled",
+    "codepoint": 61399,
+    "fillRatio": 0.8387,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "square-16-filled",
+      "square-24-filled",
+      "square-28-filled",
+      "square-48-filled"
+    ]
+  },
+  {
+    "name": "square-48-filled",
+    "codepoint": 61401,
+    "fillRatio": 0.8393,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "square-16-filled",
+      "square-24-filled",
+      "square-28-filled",
+      "square-32-filled"
+    ]
+  },
+  {
+    "name": "teardrop-bottom-right-16-filled",
+    "codepoint": 62807,
+    "fillRatio": 0.7178,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "teardrop-bottom-right-20-filled",
+      "teardrop-bottom-right-24-filled",
+      "teardrop-bottom-right-32-filled",
+      "teardrop-bottom-right-48-filled"
+    ]
+  },
+  {
+    "name": "teardrop-bottom-right-20-filled",
+    "codepoint": 62809,
+    "fillRatio": 0.7178,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "teardrop-bottom-right-16-filled",
+      "teardrop-bottom-right-24-filled",
+      "teardrop-bottom-right-32-filled",
+      "teardrop-bottom-right-48-filled"
+    ]
+  },
+  {
+    "name": "teardrop-bottom-right-24-filled",
+    "codepoint": 62811,
+    "fillRatio": 0.7184,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "teardrop-bottom-right-16-filled",
+      "teardrop-bottom-right-20-filled",
+      "teardrop-bottom-right-32-filled",
+      "teardrop-bottom-right-48-filled"
+    ]
+  },
+  {
+    "name": "teardrop-bottom-right-32-filled",
+    "codepoint": 62815,
+    "fillRatio": 0.7195,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "teardrop-bottom-right-16-filled",
+      "teardrop-bottom-right-20-filled",
+      "teardrop-bottom-right-24-filled",
+      "teardrop-bottom-right-48-filled"
+    ]
+  },
+  {
+    "name": "teardrop-bottom-right-48-filled",
+    "codepoint": 62817,
+    "fillRatio": 0.7186,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "teardrop-bottom-right-16-filled",
+      "teardrop-bottom-right-20-filled",
+      "teardrop-bottom-right-24-filled",
+      "teardrop-bottom-right-32-filled"
+    ]
+  }
+]

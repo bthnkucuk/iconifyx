@@ -1,0 +1,50 @@
+[
+  {
+    "name": "adobe-illustrator",
+    "codepoint": 57735,
+    "fillRatio": 0.8447,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "adobe-illustrator-light",
+      "adobe-photoshop",
+      "adobe-photoshop-light"
+    ]
+  },
+  {
+    "name": "adobe-illustrator-light",
+    "codepoint": 57736,
+    "fillRatio": 0.8447,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "adobe-illustrator",
+      "adobe-photoshop",
+      "adobe-photoshop-light"
+    ]
+  },
+  {
+    "name": "adobe-photoshop",
+    "codepoint": 57737,
+    "fillRatio": 0.8447,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "adobe-illustrator",
+      "adobe-illustrator-light",
+      "adobe-photoshop-light"
+    ]
+  },
+  {
+    "name": "adobe-photoshop-light",
+    "codepoint": 57738,
+    "fillRatio": 0.8447,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "adobe-illustrator",
+      "adobe-illustrator-light",
+      "adobe-photoshop"
+    ]
+  }
+]

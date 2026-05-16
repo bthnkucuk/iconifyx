@@ -1,0 +1,50 @@
+[
+  {
+    "name": "dice-3-solid",
+    "codepoint": 58265,
+    "fillRatio": 0.7957,
+    "edgeEntropy": 0.2906,
+    "dHashCluster": 4,
+    "cluster": [
+      "dice-5-solid",
+      "dice-five-solid",
+      "dice-three-solid"
+    ]
+  },
+  {
+    "name": "dice-5-solid",
+    "codepoint": 58269,
+    "fillRatio": 0.7821,
+    "edgeEntropy": 0.3253,
+    "dHashCluster": 4,
+    "cluster": [
+      "dice-3-solid",
+      "dice-five-solid",
+      "dice-three-solid"
+    ]
+  },
+  {
+    "name": "dice-five-solid",
+    "codepoint": 58273,
+    "fillRatio": 0.7821,
+    "edgeEntropy": 0.3253,
+    "dHashCluster": 4,
+    "cluster": [
+      "dice-3-solid",
+      "dice-5-solid",
+      "dice-three-solid"
+    ]
+  },
+  {
+    "name": "dice-three-solid",
+    "codepoint": 58281,
+    "fillRatio": 0.7957,
+    "edgeEntropy": 0.2906,
+    "dHashCluster": 4,
+    "cluster": [
+      "dice-3-solid",
+      "dice-5-solid",
+      "dice-five-solid"
+    ]
+  }
+]

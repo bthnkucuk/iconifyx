@@ -1,0 +1,89 @@
+[
+  {
+    "name": "mimo",
+    "codepoint": 60100,
+    "fillRatio": 0.7087,
+    "edgeEntropy": 0.2299,
+    "dHashCluster": 4,
+    "cluster": [
+      "mimo-rounded",
+      "mimo-sharp",
+      "monitor"
+    ]
+  },
+  {
+    "name": "mimo-rounded",
+    "codepoint": 60110,
+    "fillRatio": 0.7076,
+    "edgeEntropy": 0.2299,
+    "dHashCluster": 4,
+    "cluster": [
+      "mimo",
+      "mimo-sharp",
+      "monitor"
+    ]
+  },
+  {
+    "name": "mimo-sharp",
+    "codepoint": 60111,
+    "fillRatio": 0.7139,
+    "edgeEntropy": 0.2299,
+    "dHashCluster": 4,
+    "cluster": [
+      "mimo",
+      "mimo-rounded",
+      "monitor"
+    ]
+  },
+  {
+    "name": "monitor",
+    "codepoint": 60525,
+    "fillRatio": 0.7087,
+    "edgeEntropy": 0.2299,
+    "dHashCluster": 4,
+    "cluster": [
+      "mimo",
+      "mimo-rounded",
+      "mimo-sharp"
+    ]
+  },
+  {
+    "name": "square",
+    "codepoint": 58654,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "square-rounded",
+      "stop",
+      "table-rows",
+      "table-rows-rounded"
+    ]
+  },
+  {
+    "name": "square-rounded",
+    "codepoint": 58665,
+    "fillRatio": 0.8534,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "square",
+      "stop",
+      "table-rows",
+      "table-rows-rounded"
+    ]
+  },
+  {
+    "name": "stop",
+    "codepoint": 58847,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "square",
+      "square-rounded",
+      "table-rows",
+      "table-rows-rounded"
+    ]
+  }
+]

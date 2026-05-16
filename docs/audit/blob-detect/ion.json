@@ -1,0 +1,67 @@
+[
+  {
+    "name": "android-checkbox-blank",
+    "codepoint": 57408,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "ios-square",
+      "md-square",
+      "square-sharp",
+      "stop-sharp"
+    ]
+  },
+  {
+    "name": "ios-square",
+    "codepoint": 58640,
+    "fillRatio": 0.8543,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "android-checkbox-blank",
+      "md-square",
+      "square-sharp",
+      "stop-sharp"
+    ]
+  },
+  {
+    "name": "md-square",
+    "codepoint": 59244,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "android-checkbox-blank",
+      "ios-square",
+      "square-sharp",
+      "stop-sharp"
+    ]
+  },
+  {
+    "name": "square-sharp",
+    "codepoint": 59758,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "android-checkbox-blank",
+      "ios-square",
+      "md-square",
+      "stop-sharp"
+    ]
+  },
+  {
+    "name": "stop-sharp",
+    "codepoint": 59775,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "android-checkbox-blank",
+      "ios-square",
+      "md-square",
+      "square-sharp"
+    ]
+  }
+]

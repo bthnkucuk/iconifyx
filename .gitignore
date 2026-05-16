@@ -44,6 +44,10 @@ tools/generator/.cache/strokefill.sqlite
 tools/generator/.cache/strokefill.sqlite-*
 tools/generator/tmp/
 
+# Python byte-code cache from audit subprocesses
+__pycache__/
+*.pyc
+
 # Local pub-get-all log dir
 .iconifyx-pub-get-*
 

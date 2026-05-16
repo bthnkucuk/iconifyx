@@ -1,0 +1,54 @@
+[
+  {
+    "name": "checkbox-fill",
+    "codepoint": 57627,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkbox-indeterminate",
+      "collapse-menu",
+      "square-shape-solid",
+      "stop-solid"
+    ]
+  },
+  {
+    "name": "checkbox-indeterminate",
+    "codepoint": 57628,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkbox-fill",
+      "collapse-menu",
+      "square-shape-solid",
+      "stop-solid"
+    ]
+  },
+  {
+    "name": "square-shape-solid",
+    "codepoint": 58766,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkbox-fill",
+      "checkbox-indeterminate",
+      "collapse-menu",
+      "stop-solid"
+    ]
+  },
+  {
+    "name": "stop-solid",
+    "codepoint": 58800,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 5,
+    "cluster": [
+      "checkbox-fill",
+      "checkbox-indeterminate",
+      "collapse-menu",
+      "square-shape-solid"
+    ]
+  }
+]

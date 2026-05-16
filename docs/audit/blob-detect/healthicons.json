@@ -1,0 +1,50 @@
+[
+  {
+    "name": "burn-negative",
+    "codepoint": 57815,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "square-large",
+      "square-medium",
+      "square-small"
+    ]
+  },
+  {
+    "name": "square-large",
+    "codepoint": 60164,
+    "fillRatio": 0.859,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "burn-negative",
+      "square-medium",
+      "square-small"
+    ]
+  },
+  {
+    "name": "square-medium",
+    "codepoint": 60168,
+    "fillRatio": 0.8588,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "burn-negative",
+      "square-large",
+      "square-small"
+    ]
+  },
+  {
+    "name": "square-small",
+    "codepoint": 60172,
+    "fillRatio": 0.8582,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "burn-negative",
+      "square-large",
+      "square-medium"
+    ]
+  }
+]

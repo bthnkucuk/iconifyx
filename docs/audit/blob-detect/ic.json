@@ -1,0 +1,356 @@
+[
+  {
+    "name": "baseline-image",
+    "codepoint": 58402,
+    "fillRatio": 0.7367,
+    "edgeEntropy": 0.3403,
+    "dHashCluster": 6,
+    "cluster": [
+      "baseline-insert-photo",
+      "baseline-photo",
+      "image",
+      "insert-photo",
+      "photo"
+    ]
+  },
+  {
+    "name": "baseline-insert-photo",
+    "codepoint": 58423,
+    "fillRatio": 0.7367,
+    "edgeEntropy": 0.3403,
+    "dHashCluster": 6,
+    "cluster": [
+      "baseline-image",
+      "baseline-photo",
+      "image",
+      "insert-photo",
+      "photo"
+    ]
+  },
+  {
+    "name": "baseline-photo",
+    "codepoint": 58857,
+    "fillRatio": 0.7367,
+    "edgeEntropy": 0.3403,
+    "dHashCluster": 6,
+    "cluster": [
+      "baseline-image",
+      "baseline-insert-photo",
+      "image",
+      "insert-photo",
+      "photo"
+    ]
+  },
+  {
+    "name": "image",
+    "codepoint": 59958,
+    "fillRatio": 0.7367,
+    "edgeEntropy": 0.3403,
+    "dHashCluster": 6,
+    "cluster": [
+      "baseline-image",
+      "baseline-insert-photo",
+      "baseline-photo",
+      "insert-photo",
+      "photo"
+    ]
+  },
+  {
+    "name": "insert-photo",
+    "codepoint": 59974,
+    "fillRatio": 0.7367,
+    "edgeEntropy": 0.3403,
+    "dHashCluster": 6,
+    "cluster": [
+      "baseline-image",
+      "baseline-insert-photo",
+      "baseline-photo",
+      "image",
+      "photo"
+    ]
+  },
+  {
+    "name": "photo",
+    "codepoint": 62364,
+    "fillRatio": 0.7367,
+    "edgeEntropy": 0.3403,
+    "dHashCluster": 6,
+    "cluster": [
+      "baseline-image",
+      "baseline-insert-photo",
+      "baseline-photo",
+      "image",
+      "insert-photo"
+    ]
+  },
+  {
+    "name": "baseline-battery-50",
+    "codepoint": 57656,
+    "fillRatio": 0.7755,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 4,
+    "cluster": [
+      "battery-50",
+      "outline-battery-50",
+      "round-battery-50"
+    ]
+  },
+  {
+    "name": "baseline-battery-60",
+    "codepoint": 57658,
+    "fillRatio": 0.777,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 4,
+    "cluster": [
+      "battery-60",
+      "outline-battery-60",
+      "round-battery-60"
+    ]
+  },
+  {
+    "name": "battery-50",
+    "codepoint": 59610,
+    "fillRatio": 0.7755,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 4,
+    "cluster": [
+      "baseline-battery-50",
+      "outline-battery-50",
+      "round-battery-50"
+    ]
+  },
+  {
+    "name": "battery-60",
+    "codepoint": 59611,
+    "fillRatio": 0.777,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 4,
+    "cluster": [
+      "baseline-battery-60",
+      "outline-battery-60",
+      "round-battery-60"
+    ]
+  },
+  {
+    "name": "outline-battery-50",
+    "codepoint": 60366,
+    "fillRatio": 0.7755,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 4,
+    "cluster": [
+      "baseline-battery-50",
+      "battery-50",
+      "round-battery-50"
+    ]
+  },
+  {
+    "name": "outline-battery-60",
+    "codepoint": 60368,
+    "fillRatio": 0.777,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 4,
+    "cluster": [
+      "baseline-battery-60",
+      "battery-60",
+      "round-battery-60"
+    ]
+  },
+  {
+    "name": "round-battery-50",
+    "codepoint": 62682,
+    "fillRatio": 0.7755,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 4,
+    "cluster": [
+      "baseline-battery-50",
+      "battery-50",
+      "outline-battery-50"
+    ]
+  },
+  {
+    "name": "round-battery-60",
+    "codepoint": 62684,
+    "fillRatio": 0.777,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 4,
+    "cluster": [
+      "baseline-battery-60",
+      "battery-60",
+      "outline-battery-60"
+    ]
+  },
+  {
+    "name": "round-square",
+    "codepoint": 58285,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "sharp-battery-50",
+      "sharp-battery-60",
+      "sharp-square",
+      "sharp-stop",
+      "sharp-table-rows",
+      "stop"
+    ]
+  },
+  {
+    "name": "sharp-battery-50",
+    "codepoint": 58918,
+    "fillRatio": 0.7822,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 7,
+    "cluster": [
+      "round-square",
+      "sharp-battery-60",
+      "sharp-square",
+      "sharp-stop",
+      "sharp-table-rows",
+      "stop"
+    ]
+  },
+  {
+    "name": "sharp-battery-60",
+    "codepoint": 58920,
+    "fillRatio": 0.7822,
+    "edgeEntropy": 0.2258,
+    "dHashCluster": 7,
+    "cluster": [
+      "round-square",
+      "sharp-battery-50",
+      "sharp-square",
+      "sharp-stop",
+      "sharp-table-rows",
+      "stop"
+    ]
+  },
+  {
+    "name": "sharp-square",
+    "codepoint": 60521,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "round-square",
+      "sharp-battery-50",
+      "sharp-battery-60",
+      "sharp-stop",
+      "sharp-table-rows",
+      "stop"
+    ]
+  },
+  {
+    "name": "sharp-stop",
+    "codepoint": 60542,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "round-square",
+      "sharp-battery-50",
+      "sharp-battery-60",
+      "sharp-square",
+      "sharp-table-rows",
+      "stop"
+    ]
+  },
+  {
+    "name": "stop",
+    "codepoint": 60930,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 7,
+    "cluster": [
+      "round-square",
+      "sharp-battery-50",
+      "sharp-battery-60",
+      "sharp-square",
+      "sharp-stop",
+      "sharp-table-rows"
+    ]
+  },
+  {
+    "name": "round-image",
+    "codepoint": 57428,
+    "fillRatio": 0.7411,
+    "edgeEntropy": 0.3335,
+    "dHashCluster": 6,
+    "cluster": [
+      "round-insert-photo",
+      "round-photo",
+      "sharp-image",
+      "sharp-insert-photo",
+      "sharp-photo"
+    ]
+  },
+  {
+    "name": "round-insert-photo",
+    "codepoint": 57449,
+    "fillRatio": 0.7411,
+    "edgeEntropy": 0.3335,
+    "dHashCluster": 6,
+    "cluster": [
+      "round-image",
+      "round-photo",
+      "sharp-image",
+      "sharp-insert-photo",
+      "sharp-photo"
+    ]
+  },
+  {
+    "name": "round-photo",
+    "codepoint": 57883,
+    "fillRatio": 0.7411,
+    "edgeEntropy": 0.3335,
+    "dHashCluster": 6,
+    "cluster": [
+      "round-image",
+      "round-insert-photo",
+      "sharp-image",
+      "sharp-insert-photo",
+      "sharp-photo"
+    ]
+  },
+  {
+    "name": "sharp-image",
+    "codepoint": 59664,
+    "fillRatio": 0.744,
+    "edgeEntropy": 0.3403,
+    "dHashCluster": 6,
+    "cluster": [
+      "round-image",
+      "round-insert-photo",
+      "round-photo",
+      "sharp-insert-photo",
+      "sharp-photo"
+    ]
+  },
+  {
+    "name": "sharp-insert-photo",
+    "codepoint": 59685,
+    "fillRatio": 0.744,
+    "edgeEntropy": 0.3403,
+    "dHashCluster": 6,
+    "cluster": [
+      "round-image",
+      "round-insert-photo",
+      "round-photo",
+      "sharp-image",
+      "sharp-photo"
+    ]
+  },
+  {
+    "name": "sharp-photo",
+    "codepoint": 60119,
+    "fillRatio": 0.744,
+    "edgeEntropy": 0.3403,
+    "dHashCluster": 6,
+    "cluster": [
+      "round-image",
+      "round-insert-photo",
+      "round-photo",
+      "sharp-image",
+      "sharp-insert-photo"
+    ]
+  }
+]

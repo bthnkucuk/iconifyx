@@ -1,0 +1,50 @@
+[
+  {
+    "name": "black-large-square",
+    "codepoint": 57420,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "black-medium-small-square",
+      "black-medium-square",
+      "black-small-square"
+    ]
+  },
+  {
+    "name": "black-medium-small-square",
+    "codepoint": 57421,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "black-large-square",
+      "black-medium-square",
+      "black-small-square"
+    ]
+  },
+  {
+    "name": "black-medium-square",
+    "codepoint": 57422,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-small-square"
+    ]
+  },
+  {
+    "name": "black-small-square",
+    "codepoint": 57424,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "black-large-square",
+      "black-medium-small-square",
+      "black-medium-square"
+    ]
+  }
+]

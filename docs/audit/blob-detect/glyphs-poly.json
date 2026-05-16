@@ -1,0 +1,278 @@
+[
+  {
+    "name": "arrow-solid-square",
+    "codepoint": 58012,
+    "fillRatio": 0.8556,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "box-layout-2",
+      "box-layout-3",
+      "box-layout-4",
+      "caret-square",
+      "ellipsis-square",
+      "square",
+      "square-half-1",
+      "square-half-2",
+      "window"
+    ]
+  },
+  {
+    "name": "box-layout-2",
+    "codepoint": 57454,
+    "fillRatio": 0.8572,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "arrow-solid-square",
+      "box-layout-3",
+      "box-layout-4",
+      "caret-square",
+      "ellipsis-square",
+      "square",
+      "square-half-1",
+      "square-half-2",
+      "window"
+    ]
+  },
+  {
+    "name": "box-layout-3",
+    "codepoint": 57455,
+    "fillRatio": 0.8572,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "arrow-solid-square",
+      "box-layout-2",
+      "box-layout-4",
+      "caret-square",
+      "ellipsis-square",
+      "square",
+      "square-half-1",
+      "square-half-2",
+      "window"
+    ]
+  },
+  {
+    "name": "box-layout-4",
+    "codepoint": 57456,
+    "fillRatio": 0.8572,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "arrow-solid-square",
+      "box-layout-2",
+      "box-layout-3",
+      "caret-square",
+      "ellipsis-square",
+      "square",
+      "square-half-1",
+      "square-half-2",
+      "window"
+    ]
+  },
+  {
+    "name": "caret-square",
+    "codepoint": 58025,
+    "fillRatio": 0.8556,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "arrow-solid-square",
+      "box-layout-2",
+      "box-layout-3",
+      "box-layout-4",
+      "ellipsis-square",
+      "square",
+      "square-half-1",
+      "square-half-2",
+      "window"
+    ]
+  },
+  {
+    "name": "ellipsis-square",
+    "codepoint": 57573,
+    "fillRatio": 0.8587,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "arrow-solid-square",
+      "box-layout-2",
+      "box-layout-3",
+      "box-layout-4",
+      "caret-square",
+      "square",
+      "square-half-1",
+      "square-half-2",
+      "window"
+    ]
+  },
+  {
+    "name": "square",
+    "codepoint": 57911,
+    "fillRatio": 0.8583,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "arrow-solid-square",
+      "box-layout-2",
+      "box-layout-3",
+      "box-layout-4",
+      "caret-square",
+      "ellipsis-square",
+      "square-half-1",
+      "square-half-2",
+      "window"
+    ]
+  },
+  {
+    "name": "square-half-1",
+    "codepoint": 57913,
+    "fillRatio": 0.8583,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "arrow-solid-square",
+      "box-layout-2",
+      "box-layout-3",
+      "box-layout-4",
+      "caret-square",
+      "ellipsis-square",
+      "square",
+      "square-half-2",
+      "window"
+    ]
+  },
+  {
+    "name": "square-half-2",
+    "codepoint": 57914,
+    "fillRatio": 0.8583,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "arrow-solid-square",
+      "box-layout-2",
+      "box-layout-3",
+      "box-layout-4",
+      "caret-square",
+      "ellipsis-square",
+      "square",
+      "square-half-1",
+      "window"
+    ]
+  },
+  {
+    "name": "window",
+    "codepoint": 58004,
+    "fillRatio": 0.8557,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 10,
+    "cluster": [
+      "arrow-solid-square",
+      "box-layout-2",
+      "box-layout-3",
+      "box-layout-4",
+      "caret-square",
+      "ellipsis-square",
+      "square",
+      "square-half-1",
+      "square-half-2"
+    ]
+  },
+  {
+    "name": "die",
+    "codepoint": 57548,
+    "fillRatio": 0.8474,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "die-1",
+      "die-2",
+      "die-3",
+      "die-4",
+      "die-5"
+    ]
+  },
+  {
+    "name": "die-1",
+    "codepoint": 57549,
+    "fillRatio": 0.8474,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "die",
+      "die-2",
+      "die-3",
+      "die-4",
+      "die-5"
+    ]
+  },
+  {
+    "name": "die-2",
+    "codepoint": 57550,
+    "fillRatio": 0.8474,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "die",
+      "die-1",
+      "die-3",
+      "die-4",
+      "die-5"
+    ]
+  },
+  {
+    "name": "die-3",
+    "codepoint": 57551,
+    "fillRatio": 0.8474,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "die",
+      "die-1",
+      "die-2",
+      "die-4",
+      "die-5"
+    ]
+  },
+  {
+    "name": "die-4",
+    "codepoint": 57552,
+    "fillRatio": 0.8474,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "die",
+      "die-1",
+      "die-2",
+      "die-3",
+      "die-5"
+    ]
+  },
+  {
+    "name": "die-5",
+    "codepoint": 57553,
+    "fillRatio": 0.8474,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 6,
+    "cluster": [
+      "die",
+      "die-1",
+      "die-2",
+      "die-3",
+      "die-4"
+    ]
+  },
+  {
+    "name": "book-atlas",
+    "codepoint": 57441,
+    "fillRatio": 0.713,
+    "edgeEntropy": 0.2329,
+    "dHashCluster": 4,
+    "cluster": [
+      "arrow-solid",
+      "mobile-1",
+      "speaker"
+    ]
+  }
+]

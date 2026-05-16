@@ -1,0 +1,50 @@
+[
+  {
+    "name": "status-disabled-small",
+    "codepoint": 57846,
+    "fillRatio": 0.8478,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "status-info-small",
+      "status-placeholder-small",
+      "status-unknown-small"
+    ]
+  },
+  {
+    "name": "status-info-small",
+    "codepoint": 57850,
+    "fillRatio": 0.8478,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "status-disabled-small",
+      "status-placeholder-small",
+      "status-unknown-small"
+    ]
+  },
+  {
+    "name": "status-placeholder-small",
+    "codepoint": 57852,
+    "fillRatio": 0.8478,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "status-disabled-small",
+      "status-info-small",
+      "status-unknown-small"
+    ]
+  },
+  {
+    "name": "status-unknown-small",
+    "codepoint": 57854,
+    "fillRatio": 0.8478,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "status-disabled-small",
+      "status-info-small",
+      "status-placeholder-small"
+    ]
+  }
+]

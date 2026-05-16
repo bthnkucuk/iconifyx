@@ -1,0 +1,178 @@
+[
+  {
+    "name": "chrome-maximize-sharp",
+    "codepoint": 60877,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "crop-5-4-sharp",
+      "crop-square",
+      "crop-square-sharp"
+    ]
+  },
+  {
+    "name": "crop-5-4-sharp",
+    "codepoint": 61600,
+    "fillRatio": 0.7629,
+    "edgeEntropy": 0.2238,
+    "dHashCluster": 4,
+    "cluster": [
+      "chrome-maximize-sharp",
+      "crop-square",
+      "crop-square-sharp"
+    ]
+  },
+  {
+    "name": "crop-square",
+    "codepoint": 61625,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "chrome-maximize-sharp",
+      "crop-5-4-sharp",
+      "crop-square-sharp"
+    ]
+  },
+  {
+    "name": "crop-square-sharp",
+    "codepoint": 61628,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 4,
+    "cluster": [
+      "chrome-maximize-sharp",
+      "crop-5-4-sharp",
+      "crop-square"
+    ]
+  },
+  {
+    "name": "mimo",
+    "codepoint": 61434,
+    "fillRatio": 0.7193,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "mimo-rounded",
+      "monitor",
+      "monitor-rounded"
+    ]
+  },
+  {
+    "name": "mimo-rounded",
+    "codepoint": 61444,
+    "fillRatio": 0.7184,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "mimo",
+      "monitor",
+      "monitor-rounded"
+    ]
+  },
+  {
+    "name": "monitor",
+    "codepoint": 61877,
+    "fillRatio": 0.7193,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "mimo",
+      "mimo-rounded",
+      "monitor-rounded"
+    ]
+  },
+  {
+    "name": "monitor-rounded",
+    "codepoint": 61887,
+    "fillRatio": 0.7184,
+    "edgeEntropy": 0.2319,
+    "dHashCluster": 4,
+    "cluster": [
+      "mimo",
+      "mimo-rounded",
+      "monitor"
+    ]
+  },
+  {
+    "name": "square",
+    "codepoint": 60807,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "square-rounded",
+      "square-sharp",
+      "stop",
+      "stop-sharp",
+      "table-rows",
+      "table-rows-rounded",
+      "table-rows-sharp"
+    ]
+  },
+  {
+    "name": "square-rounded",
+    "codepoint": 60819,
+    "fillRatio": 0.8521,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "square",
+      "square-sharp",
+      "stop",
+      "stop-sharp",
+      "table-rows",
+      "table-rows-rounded",
+      "table-rows-sharp"
+    ]
+  },
+  {
+    "name": "square-sharp",
+    "codepoint": 60820,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "square",
+      "square-rounded",
+      "stop",
+      "stop-sharp",
+      "table-rows",
+      "table-rows-rounded",
+      "table-rows-sharp"
+    ]
+  },
+  {
+    "name": "stop",
+    "codepoint": 61031,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "square",
+      "square-rounded",
+      "square-sharp",
+      "stop-sharp",
+      "table-rows",
+      "table-rows-rounded",
+      "table-rows-sharp"
+    ]
+  },
+  {
+    "name": "stop-sharp",
+    "codepoint": 61048,
+    "fillRatio": 0.8595,
+    "edgeEntropy": 0.234,
+    "dHashCluster": 8,
+    "cluster": [
+      "square",
+      "square-rounded",
+      "square-sharp",
+      "stop",
+      "table-rows",
+      "table-rows-rounded",
+      "table-rows-sharp"
+    ]
+  }
+]
