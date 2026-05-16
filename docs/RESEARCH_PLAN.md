@@ -531,14 +531,56 @@ transitive.
 
 **Verdict: Adopt phased migration, zero new direct deps.**
 
-All five required packages already in `bun.lock` via transitive deps:
-- `htmlparser2@10.1.0` (via cheerio → @iconify/tools)
-- `domhandler@5.0.3`, `domutils@3.2.2`, `dom-serializer@2.0.0`
-- `css-tree@2.3.1` (via svgo, not actually needed — 20-line custom parser
-  suffices)
+**Status — Phase 1 shipped (2026-05-16).** `splitDuotoneBody` and
+`trySplitTwoColorBody` migrated to AST iteration via `dom.ts` helpers;
+22 unit tests pass (15 pre-existing + 7 new covering nested `<g
+opacity>`, `<defs>+<use>`, mixed self-closing+non-self-closing
+siblings). Empirical recovery on `@iconify/json@2.2.472`: **+2,869 split
+decisions** the legacy regex couldn't make (AST split where legacy fell
+through to `{primary: body, secondary: ''}`); **~963 of those actually
+ship as new duotones** after downstream validator + stroke-fill flow:
 
-Add them as explicit `dependencies` in `tools/generator/package.json` so
-SVGO/cheerio bumps can't accidentally remove them.
+```
+prefix              new-duotones-ship
+pepicons-print              569
+pepicons                     77
+noto-v1                      58
+emojione                     55
+emojione-v1                  55
+line-md                      54
+twemoji                      22
+noto                         18
+solar                         9   (home-bold-duotone family — defs+use)
+stash                         8
+openmoji                      7
+logos                         5
+flag, qlementine, …          26   (≤4 per set)
+TOTAL                       ~963
+```
+
+The recovery delta is dominated by the per-icon outer wrapper `<g
+fill="currentColor"><g opacity=".2">…</g><path/></g>` pattern (pepicons
+family) where the inner faded group was treated as a non-self-closing
+sibling by the regex walk and aborted the split.
+
+Same-output regression check: 10,358 bodies produce **byte-identical**
+output via AST vs legacy. 577 bodies "diverge" — all are the "all-faded
+body, no primary layer" case where legacy returns `{primary: '',
+secondary: '<faded>'}` and AST returns `{primary: body, secondary: ''}`;
+both shapes trigger the pipeline's `primary.length === 0 ||
+secondary.length === 0` skip, so the divergence is shape-only (no
+behavioural change).
+
+**Phase 2 deferred:** `trySplitMaskInternalBody` and `flattenAnimations`
+still on regex — their failure modes are less common in practice and
+the AST helpers already exist if/when needed.
+
+All four required packages now explicit `dependencies` in
+`tools/generator/package.json`:
+- `htmlparser2@12.0.0` (was transitive via cheerio → @iconify/tools)
+- `domhandler@6.0.1`, `domutils@4.0.2`, `dom-serializer@3.1.1`
+- `css-tree` — skipped; 20-line `style="..."` parser suffices if/when
+  Phase 2 wants it
 
 ### Foundational helper
 

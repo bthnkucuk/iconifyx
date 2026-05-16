@@ -3,13 +3,11 @@ import {
   cloneShallow,
   deleteAttr,
   directElementChildren,
-  getAttr,
   getAttrLower,
   isPaintableLeaf,
   makeGroup,
   onlyElementsOrWhitespace,
   parseBody,
-  serializeChildren,
   serializeNode,
   setAttr,
 } from './dom.ts';
@@ -726,20 +724,6 @@ export function setStrokeWidth(body: string, newWidth: number): string {
 // `opacity` in `fill-opacity` is a non-word char, so `\b` still triggers).
 const OPACITY_LT_ONE_RE =
   /\b(?:fill-opacity|stroke-opacity|opacity)\s*=\s*["'](?:0?\.\d+|0)["']/;
-
-/**
- * Replace (or append) an attribute on an element's attribute string.
- * Used during duotone split when we need to force `fill="none"` /
- * `stroke="none"` regardless of whether the element already declares
- * that attribute (otherwise we'd emit `fill="currentColor" fill="none"`
- * — XML duplicate-attribute behaviour is implementation-defined and we
- * don't want to bet on parser order).
- */
-function forceAttr(attrs: string, name: string, value: string): string {
-  const re = new RegExp(`\\s${name}\\s*=\\s*["'][^"']*["']`, 'g');
-  const stripped = attrs.replace(re, '');
-  return `${stripped} ${name}="${value}"`;
-}
 
 /**
  * Returns true if `body` contains at least one element with `opacity`,
