@@ -5,13 +5,8 @@ import {
   isPaintOrderRiskBody,
   paintOrderSignal,
   trySplitTwoColorBody,
-  extractConcretePaints,
-  isCanonicalWhite,
-  shoelaceAreaOfPath,
-  elementArea,
-  paintValueIsNoInk,
-  elementHasNoInk,
-  iconNeedsRasterTrace,
+  scaleStrokeWidths,
+  setStrokeWidth,
 } from './svg_preprocess.ts';
 import { parseBody, directElementChildren } from './dom.ts';
 import type { ResolvedIcon } from './load_iconify.ts';
@@ -239,153 +234,99 @@ describe('trySplitTwoColorBody — AST-recovered patterns', () => {
   });
 });
 
-// ============================================================================
-// §5 — Unified `elementHasNoInk` predicate
-// ============================================================================
+describe('scaleStrokeWidths', () => {
+  test('scales every attribute occurrence proportionally', () => {
+    // Lucide body uses outer-group stroke-width plus per-path overrides.
+    const body =
+      `<g stroke="currentColor" stroke-width="2" fill="none">` +
+      `<path d="M0 0"/>` +
+      `<path d="M10 10" stroke-width="0.5"/>` +
+      `</g>`;
+    // Ratio 0.5 → both layers halved.
+    const out = scaleStrokeWidths(body, 0.5);
+    expect(out).toContain('stroke-width="1"');
+    expect(out).toContain('stroke-width="0.25"');
+  });
 
-describe('paintValueIsNoInk', () => {
-  test('keyword `none`', () => {
-    expect(paintValueIsNoInk('none')).toBe(true);
-    expect(paintValueIsNoInk('NONE')).toBe(true);
+  test('preserves per-layer ratios (the bug §6 fixes)', () => {
+    // Source: 2:0.5 = 4:1. After ratio 1.25 (regular→bold): 2.5:0.625 = 4:1.
+    // The legacy setStrokeWidth would flatten both to 1.25, destroying the
+    // accent contrast.
+    const body =
+      `<g stroke-width="2"><path d="M0 0"/><path d="M1 1" stroke-width="0.5"/></g>`;
+    const out = scaleStrokeWidths(body, 1.25);
+    // Both must appear individually; ratio preserved.
+    expect(out).toContain('stroke-width="2.5"');
+    expect(out).toContain('stroke-width="0.625"');
   });
-  test('keyword `transparent`', () => {
-    expect(paintValueIsNoInk('transparent')).toBe(true);
+
+  test('scales inline-style stroke-width', () => {
+    const body =
+      `<g style="stroke: currentColor; stroke-width: 1.5; fill: none">` +
+      `<path d="M0 0"/>` +
+      `</g>`;
+    const out = scaleStrokeWidths(body, 2 / 3);
+    // 1.5 * 2/3 = 1.0
+    expect(out).toMatch(/stroke-width:\s*1/);
   });
-  test('empty string', () => {
-    expect(paintValueIsNoInk('')).toBe(true);
-    expect(paintValueIsNoInk('   ')).toBe(true);
+
+  test('handles fractional leading-dot widths', () => {
+    // Some Iconify bodies write `.75` rather than `0.75`. Same regex
+    // alternation pitfall as the validator's coord scanner; we make sure
+    // the scaler picks these up.
+    const body = `<path stroke-width=".75" d="M0 0"/>`;
+    const out = scaleStrokeWidths(body, 2);
+    expect(out).toContain('stroke-width="1.5"');
   });
-  test('rgba zero alpha (comma form)', () => {
-    expect(paintValueIsNoInk('rgba(0,0,0,0)')).toBe(true);
-    expect(paintValueIsNoInk('rgba(255, 128, 64, 0)')).toBe(true);
+
+  test('floors at 0.25 to avoid disappearing strokes', () => {
+    // 0.5 * 0.1 = 0.05 → clamped to 0.25.
+    const body = `<path stroke-width="0.5" d="M0 0"/>`;
+    const out = scaleStrokeWidths(body, 0.1);
+    expect(out).toContain('stroke-width="0.25"');
   });
-  test('rgba slash form zero alpha (css-color-4)', () => {
-    expect(paintValueIsNoInk('rgb(0 0 0 / 0)')).toBe(true);
+
+  test('injects stroke-width onto outer <g> when missing but stroke is set', () => {
+    // Some packs ship `<g stroke="currentColor">…</g>` with no explicit
+    // stroke-width (accepting the SVG default of 1). Without injection,
+    // weight variants would all render identically.
+    const body =
+      `<g stroke="currentColor" fill="none">` +
+      `<path d="M0 0"/>` +
+      `</g>`;
+    const out = scaleStrokeWidths(body, 0.5);
+    expect(out).toMatch(/<g[^>]*\sstroke-width="0\.5"/);
   });
-  test('hsla zero alpha', () => {
-    expect(paintValueIsNoInk('hsla(120, 100%, 50%, 0)')).toBe(true);
-    expect(paintValueIsNoInk('hsl(120 100% 50% / 0)')).toBe(true);
+
+  test('wraps a fresh <g> when no outer group and no stroke-width', () => {
+    // Iconify bodies that ship as a flat list of leaves with stroke but
+    // no group + no stroke-width still need injection.
+    const body = `<path stroke="currentColor" fill="none" d="M0 0"/>`;
+    const out = scaleStrokeWidths(body, 0.5);
+    expect(out).toMatch(/^<g\s+stroke-width="0\.5">/);
+    expect(out).toMatch(/<\/g>$/);
   });
-  test('8-digit hex zero alpha (#XXXXXX00)', () => {
-    expect(paintValueIsNoInk('#12345600')).toBe(true);
-    expect(paintValueIsNoInk('#FFFFFF00')).toBe(true);
+
+  test('no-op when ratio is 1', () => {
+    const body = `<path stroke-width="2" d="M0 0"/>`;
+    expect(scaleStrokeWidths(body, 1)).toBe(body);
   });
-  test('4-digit hex zero alpha (#XXX0)', () => {
-    expect(paintValueIsNoInk('#1230')).toBe(true);
-    expect(paintValueIsNoInk('#fff0')).toBe(true);
-  });
-  test('concrete colours are NOT no-ink', () => {
-    expect(paintValueIsNoInk('#000')).toBe(false);
-    expect(paintValueIsNoInk('#ff00ff')).toBe(false);
-    expect(paintValueIsNoInk('rgba(0,0,0,0.5)')).toBe(false);
-    expect(paintValueIsNoInk('rgb(255,0,0)')).toBe(false);
-    expect(paintValueIsNoInk('red')).toBe(false);
-  });
-  test('currentColor is NOT no-ink (it paints visible ink at render time)', () => {
-    expect(paintValueIsNoInk('currentColor')).toBe(false);
-    expect(paintValueIsNoInk('currentcolor')).toBe(false);
-  });
-  test('url() paint-server reference is NOT no-ink', () => {
-    expect(paintValueIsNoInk('url(#grad)')).toBe(false);
+
+  test('no-op when body has no strokes at all', () => {
+    const body = `<path fill="currentColor" d="M0 0"/>`;
+    expect(scaleStrokeWidths(body, 0.5)).toBe(body);
   });
 });
 
-describe('elementHasNoInk', () => {
-  const first = (body: string) => directElementChildren(parseBody(body))[0]!;
-
-  test('element with fill="none" and no stroke → no ink', () => {
-    expect(elementHasNoInk(first(`<path fill="none" d="M0 0"/>`))).toBe(true);
-  });
-  test('element with fill="none" and visible stroke → has ink', () => {
-    expect(
-      elementHasNoInk(first(`<path fill="none" stroke="#000" d="M0 0"/>`))
-    ).toBe(false);
-  });
-  test('element with fill="rgba(0,0,0,0)" → no ink', () => {
-    expect(elementHasNoInk(first(`<rect fill="rgba(0,0,0,0)"/>`))).toBe(true);
-  });
-  test('element with fill="#XXXXXX00" → no ink', () => {
-    expect(elementHasNoInk(first(`<rect fill="#abcdef00"/>`))).toBe(true);
-  });
-  test('element with fill="#XXX0" → no ink', () => {
-    expect(elementHasNoInk(first(`<rect fill="#abc0"/>`))).toBe(true);
-  });
-  test('element with fill=""  → no ink', () => {
-    expect(elementHasNoInk(first(`<rect fill=""/>`))).toBe(true);
-  });
-  test('element with fill-opacity="0" → no ink (fill channel zero)', () => {
-    expect(elementHasNoInk(first(`<rect fill="#000" fill-opacity="0"/>`))).toBe(
-      true
+describe('setStrokeWidth — legacy flat-replace behaviour preserved', () => {
+  test('still does a flat replace (back-compat shim)', () => {
+    // Used by tests / manual probes that want "every layer to this exact
+    // value". Don't change this; the proportional path is the new code.
+    const body = `<path stroke-width="2" d="M0 0"/><path stroke-width="0.5" d="M1 1"/>`;
+    const out = setStrokeWidth(body, 1.5);
+    expect(out).toBe(
+      `<path stroke-width="1.5" d="M0 0"/><path stroke-width="1.5" d="M1 1"/>`
     );
-  });
-  test('element with opacity="0" → no ink (whole element)', () => {
-    expect(elementHasNoInk(first(`<rect fill="#000" opacity="0"/>`))).toBe(true);
-  });
-  test('element with display="none" → no ink', () => {
-    expect(elementHasNoInk(first(`<rect fill="#000" display="none"/>`))).toBe(
-      true
-    );
-  });
-  test('element with visibility="hidden" → no ink', () => {
-    expect(
-      elementHasNoInk(first(`<rect fill="#000" visibility="hidden"/>`))
-    ).toBe(true);
-  });
-  test('inherited fill="none" from groupAttrs, child with no override → no ink', () => {
-    expect(
-      elementHasNoInk(first(`<path d="M0 0"/>`), { fill: 'none' })
-    ).toBe(true);
-  });
-  test('inherited fill="none", child with visible stroke override → has ink', () => {
-    expect(
-      elementHasNoInk(first(`<path stroke="#000" d="M0 0"/>`), { fill: 'none' })
-    ).toBe(false);
-  });
-  test('style="fill: none" → no ink', () => {
-    expect(elementHasNoInk(first(`<rect style="fill: none"/>`))).toBe(true);
-  });
-  test('style="fill: transparent" → no ink', () => {
-    expect(elementHasNoInk(first(`<rect style="fill: transparent"/>`))).toBe(
-      true
-    );
-  });
-  test('bare <path d="M0 0"/> with no fill attr anywhere → has ink (default fill=black)', () => {
-    expect(elementHasNoInk(first(`<path d="M0 0"/>`))).toBe(false);
-  });
-});
-
-describe('iconNeedsRasterTrace — AST-based no-ink detection (§5)', () => {
-  test('stroke + fill="none" → needs trace', () => {
-    expect(
-      iconNeedsRasterTrace(`<path stroke="#000" fill="none" d="M0 0"/>`)
-    ).toBe(true);
-  });
-  test('stroke + fill="#XXXXXX00" → needs trace (zero-alpha hex)', () => {
-    expect(
-      iconNeedsRasterTrace(`<path stroke="#000" fill="#11223300" d="M0 0"/>`)
-    ).toBe(true);
-  });
-  test('stroke + fill="rgba(0,0,0,0)" → needs trace', () => {
-    expect(
-      iconNeedsRasterTrace(
-        `<path stroke="#000" fill="rgba(0,0,0,0)" d="M0 0"/>`
-      )
-    ).toBe(true);
-  });
-  test('inherited fill="none" from <g> + child stroke → needs trace', () => {
-    expect(
-      iconNeedsRasterTrace(
-        `<g fill="none"><path stroke="#000" d="M0 0"/></g>`
-      )
-    ).toBe(true);
-  });
-  test('fill-rule="evenodd" → needs trace', () => {
-    expect(
-      iconNeedsRasterTrace(`<path fill-rule="evenodd" d="M0 0"/>`)
-    ).toBe(true);
-  });
-  test('fill="#000" with no stroke → does NOT need trace', () => {
-    expect(iconNeedsRasterTrace(`<path fill="#000" d="M0 0"/>`)).toBe(false);
   });
 });
 

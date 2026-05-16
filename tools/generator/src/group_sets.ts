@@ -27,6 +27,25 @@ export interface GeneratorConfig {
    */
   multiWeightStrokeSets?: Record<string, Record<string, number>>;
   /**
+   * Optional source-pack base stroke widths, keyed by Iconify prefix.
+   *
+   * When the generator synthesizes weight variants for a pack listed in
+   * `multiWeightStrokeSets`, it now PROPORTIONALLY scales every existing
+   * `stroke-width` in the source body by `ratio = newWidth / base`
+   * (§6 fix). This preserves per-layer width ratios: an icon shipping
+   * with a thick body (`stroke-width="2"`) plus a thin accent
+   * (`stroke-width="0.5"`) keeps the 4:1 contrast in every weight variant
+   * instead of collapsing both to a single flat value.
+   *
+   * If a prefix is absent from this map, the generator defaults to
+   * `base = 2` — the dominant value across Lucide / Tabler / Phosphor-
+   * regular / Feather / Heroicons. Iconoir is the outlier at `base = 1.5`
+   * and so SHOULD be listed here; otherwise its thin variant computes
+   * ratio = 1.0/2.0 = 0.5 instead of the intended 1.0/1.5 ≈ 0.67 and
+   * the variant is slightly thinner than expected.
+   */
+  multiWeightStrokeSourceBase?: Record<string, number>;
+  /**
    * Iconify prefixes that encode meaning through concrete colours
    * (Catppuccin uses one stroke colour per icon from its palette;
    * some entries are two-tone). Before stroke-fill, the pipeline

@@ -1271,6 +1271,15 @@ export function paintOrderSignal(
  * value, leaving the rest of the body intact. Used by the multi-weight
  * synthesizer to derive thin/light/bold variants from a regular set.
  *
+ * **Legacy behaviour (flat replace).** Kept as a back-compat shim and an
+ * escape hatch — callers that want every layer of a multi-weight icon to
+ * snap to exactly `newWidth` (e.g. tests, manual probes) still use this.
+ * The production multi-weight pipeline now uses [scaleStrokeWidths] with
+ * a ratio derived from the source pack's base width: that preserves per-
+ * layer ratios (`<path stroke-width="2"/><path stroke-width="0.5"/>` stays
+ * "thick body + thin accent" across weight variants instead of collapsing
+ * both to the same `newWidth`).
+ *
  * If the body has no `stroke-width` attribute at all (stroke-width defaults
  * to 1, set elsewhere, or already on a CSS class), this is a no-op. That's
  * acceptable: the variant is then identical to the original and the
@@ -1285,6 +1294,135 @@ export function setStrokeWidth(body: string, newWidth: number): string {
   );
 }
 
+/**
+ * Scale every `stroke-width` occurrence in `body` by `ratio`, leaving the
+ * rest of the body intact. Used by the multi-weight synthesizer to derive
+ * proportional thin/light/bold variants from a regular set — feeding e.g.
+ * `ratio = 1.0 / 2.0 = 0.5` to a Lucide icon to produce its `-thin`
+ * variant. Three forms are recognised, in order of frequency:
+ *
+ *   1. **Attribute form on any element:** `<path stroke-width="2"/>` —
+ *      the common case for Iconify stroke-only packs that carry the
+ *      attribute on every leaf.
+ *   2. **Attribute form on a group:** `<g stroke-width="2">…</g>` — Lucide
+ *      and Tabler ship the width on the outer `<g>` and rely on SVG
+ *      inheritance for every descendant. We match the attribute REGARDLESS
+ *      of which element it lives on, so inherited widths scale too.
+ *   3. **Inline style:** `style="…; stroke-width: 1.5; …"` — fewer packs
+ *      use this form but enough that the flat regex fix was leaving them
+ *      flat-replaced or unchanged.
+ *
+ * Per-element widths are scaled INDEPENDENTLY, so an icon with two layers
+ * at `stroke-width="2"` + `stroke-width="0.5"` becomes `2*ratio` +
+ * `0.5*ratio` — the thick/thin contrast survives the variant synthesis.
+ * The legacy [setStrokeWidth] flattened both to the same `newWidth`,
+ * destroying the layering.
+ *
+ * **Floor at 0.25 user-units.** TTF rasterisation collapses anything
+ * thinner to an invisible hairline, so a 0.25-floor avoids the disappearing-
+ * stroke failure mode where `scaleStrokeWidths(0.1)` would erase entire
+ * accent layers from `-thin` variants.
+ *
+ * **Group inheritance injection.** If the body has any `stroke=` attribute
+ * but zero `stroke-width` attributes anywhere (so neither the scaled
+ * attribute walk nor the style walk fired), we inject
+ * `stroke-width="<ratio>"` onto the outermost `<g>` wrapper — or wrap a
+ * brand-new `<g>` around the body if no outer group exists. This ensures
+ * the new ratio actually reaches the rasterizer even when the source pack
+ * relied on the SVG default of 1. (A handful of packs ship strokes with
+ * no explicit width because they accept the default; without injection,
+ * `-thin` and `-bold` of those packs would render identically to the
+ * regular weight.)
+ *
+ * If the body has no strokes at all (fill-only icons), the function is a
+ * no-op — the multi-weight synthesizer still calls it on those bodies
+ * (the variant flows through the rest of the pipeline like a normal
+ * icon) but no scaling work happens.
+ */
+export function scaleStrokeWidths(body: string, ratio: number): string {
+  if (ratio === 1) return body;
+  const scale = (w: number): number => {
+    if (!Number.isFinite(w)) return w;
+    const scaled = w * ratio;
+    // Floor at 0.25; round to 4 decimals so output is stable and small.
+    const clamped = scaled < 0.25 ? 0.25 : scaled;
+    return Math.round(clamped * 10000) / 10000;
+  };
+
+  let out = body;
+
+  // 1+2. Attribute form. The regex is element-agnostic: it matches the
+  // attribute on `<path>`, `<g>`, `<rect>`, or anywhere else. Group
+  // inheritance handles itself naturally — descendants inherit from the
+  // group, so scaling the group's attribute propagates.
+  out = out.replace(
+    /stroke-width\s*=\s*["']([^"']+)["']/g,
+    (_full, raw: string) => {
+      const w = parseFloat(raw);
+      if (!Number.isFinite(w)) return _full;
+      return `stroke-width="${scale(w)}"`;
+    }
+  );
+
+  // 3. Inline style. Walk every `style="…"` attribute and replace
+  // `stroke-width:<n>` inside it (semicolon-delimited or end-of-string).
+  out = out.replace(
+    /style\s*=\s*"([^"]*)"/g,
+    (full, css: string) => {
+      if (!/stroke-width\s*:/i.test(css)) return full;
+      const next = css.replace(
+        /(\bstroke-width\s*:\s*)(-?\d+(?:\.\d+)?|\.\d+)/gi,
+        (_m, head: string, num: string) => {
+          const w = parseFloat(num);
+          if (!Number.isFinite(w)) return _m;
+          return `${head}${scale(w)}`;
+        }
+      );
+      return `style="${next}"`;
+    }
+  );
+
+  out = out.replace(
+    /style\s*=\s*'([^']*)'/g,
+    (full, css: string) => {
+      if (!/stroke-width\s*:/i.test(css)) return full;
+      const next = css.replace(
+        /(\bstroke-width\s*:\s*)(-?\d+(?:\.\d+)?|\.\d+)/gi,
+        (_m, head: string, num: string) => {
+          const w = parseFloat(num);
+          if (!Number.isFinite(w)) return _m;
+          return `${head}${scale(w)}`;
+        }
+      );
+      return `style='${next}'`;
+    }
+  );
+
+  // Group inheritance injection. If the body uses strokes (any `stroke=`
+  // attribute present, or a stroke colour mentioned via style) but carries
+  // no `stroke-width` anywhere, the source pack relied on the SVG default
+  // of 1. Without injection, `-thin` / `-bold` variants of those packs
+  // would render identically to the regular weight.
+  const hasStrokeAttr = /\bstroke\s*=\s*["'][^"']+["']/.test(out);
+  const hasStrokeStyle = /\bstroke\s*:\s*[^;"'\s]+/.test(out);
+  const hasStrokeWidth = /\bstroke-width\s*[=:]/.test(out);
+  if ((hasStrokeAttr || hasStrokeStyle) && !hasStrokeWidth) {
+    const injectedWidth = scale(1);
+    // If there's already an outer `<g …>`, inject the attribute into its
+    // opening tag. Otherwise, wrap the whole body in a `<g
+    // stroke-width="…">`.
+    const outerGroupMatch = out.match(/^\s*<g\b([^>]*)>([\s\S]*)<\/g>\s*$/);
+    if (outerGroupMatch) {
+      const attrs = outerGroupMatch[1]!;
+      const inner = outerGroupMatch[2]!;
+      out = `<g${attrs} stroke-width="${injectedWidth}">${inner}</g>`;
+    } else {
+      out = `<g stroke-width="${injectedWidth}">${out}</g>`;
+    }
+  }
+
+  return out;
+}
 // ============================================================================
 // Duo-tone support
 // ============================================================================

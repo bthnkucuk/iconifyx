@@ -23,7 +23,7 @@ import {
   trySplitTwoStrokeColorBody,
   normalizeColorsToCurrentColor,
   extractConcreteColors,
-  setStrokeWidth,
+  scaleStrokeWidths,
   rasterFillSignal,
   paintOrderSignal,
   isPaintOrderRiskBody,
@@ -493,13 +493,24 @@ async function processOneSet(
   // through the rest of the pipeline like normal icons.
   const weights = config.multiWeightStrokeSets?.[prefix];
   if (weights && Object.keys(weights).length > 0) {
+    // §6 fix: scale every existing `stroke-width` proportionally rather
+    // than flat-replacing with the configured value. The configured
+    // weight is the TARGET stroke-width for an icon whose source pack
+    // ships at `sourceBase`; the ratio applied to each existing width
+    // is `target / sourceBase`. Iconoir uses `sourceBase=1.5`; every
+    // other listed pack defaults to 2. Proportional scaling preserves
+    // per-layer ratios — an icon with a thick body + thin accent stays
+    // thick + thin in every weight variant instead of flattening to
+    // the same width.
+    const sourceBase = config.multiWeightStrokeSourceBase?.[prefix] ?? 2;
     const synth: ResolvedIcon[] = [];
     for (const orig of allResolved) {
       for (const [weightName, sw] of Object.entries(weights)) {
+        const ratio = sw / sourceBase;
         synth.push({
           ...orig,
           name: `${orig.name}-${weightName}`,
-          body: setStrokeWidth(orig.body, sw),
+          body: scaleStrokeWidths(orig.body, ratio),
           // If the source was an alias of canonical X, the synthetic
           // weight variant is an alias of (X + '-' + weightName) so the
           // alias-map split (§22 Rec 1) re-maps weight variants
@@ -510,7 +521,7 @@ async function processOneSet(
     }
     allResolved.push(...synth);
     log.info(
-      `  "${prefix}": synthesized ${synth.length} weight variant${synth.length === 1 ? '' : 's'} (${Object.keys(weights).join(', ')})`
+      `  "${prefix}": synthesized ${synth.length} weight variant${synth.length === 1 ? '' : 's'} (${Object.keys(weights).join(', ')}, base=${sourceBase})`
     );
   }
 

@@ -88,6 +88,15 @@ multiWeightStrokeSets:
     light: 1.5
     bold: 2.5
 
+# Source-pack base stroke widths, consumed by the multi-weight synthesizer
+# in pipeline.ts. The synthesizer now scales every existing `stroke-width`
+# in the source body by `ratio = newWidth / base` (§6 fix) so per-layer
+# ratios survive variant generation. Prefixes absent from this map default
+# to base=2 (Lucide / Tabler / Phosphor-regular / Feather / Heroicons).
+# Iconoir is the only listed pack with a non-2 base.
+multiWeightStrokeSourceBase:
+  iconoir: 1.5
+
 # Iconify packs that encode meaning through concrete colours rather than
 # relying on the consumer's `currentColor`. Before stroke-fill, the
 # pipeline normalises every concrete `fill=…` / `stroke=…` to
