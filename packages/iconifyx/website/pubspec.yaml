@@ -495,6 +495,13 @@ dependencies:
   # blocks, and lets us inject a custom code-block builder for syntax
   # highlighting.
   markdown_widget: ^2.3.2+8
+  # zentoast powers the sonner-style toast stack (replaces Flutter's
+  # ScaffoldMessenger snackbars). It's headless — the visual is built in
+  # lib/shared/toast/app_toast.dart so it tracks AppTheme's surface /
+  # onSurface / outlineVariant tokens in both light and dark mode. The
+  # package's built-in motion physics (snappy-spring enter, drag-to-
+  # dismiss, hover-expand) cover the sonner feel without extra config.
+  zentoast: ^0.2.2
 
 dev_dependencies:
   flutter_test:

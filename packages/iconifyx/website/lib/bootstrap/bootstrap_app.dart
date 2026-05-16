@@ -1,13 +1,22 @@
+import 'dart:js_interop';
+import 'dart:js_interop_unsafe';
+
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:zentoast/zentoast.dart';
 
 import '../router/coordinator.dart';
+import '../shared/toast/app_toast.dart';
 import '../theme/app_theme.dart';
 import '../theme/theme_cubit.dart';
 import 'bootstrap_bloc.dart';
 import 'font_loader_service.dart';
 import 'memory_probe.dart';
 import 'selection_state.dart';
+
+@JS('globalThis')
+external JSObject get _globalThis;
 
 class BootstrapApp extends StatefulWidget {
   const BootstrapApp({super.key});
@@ -19,11 +28,6 @@ class BootstrapApp extends StatefulWidget {
 class _BootstrapAppState extends State<BootstrapApp> {
   late final Future<_PrefsBundle> _prefsBundleFuture;
   late final BootstrapBloc _bootstrapBloc;
-  // Surfaced via [scaffoldMessengerKey] so any route can show snackbars
-  // (the memory probe in particular fires from a periodic Timer, not from
-  // a widget tree that has a Scaffold in scope).
-  static final GlobalKey<ScaffoldMessengerState> scaffoldMessengerKey =
-      GlobalKey<ScaffoldMessengerState>();
   late final MemoryProbe _memoryProbe;
 
   @override
@@ -53,17 +57,38 @@ class _BootstrapAppState extends State<BootstrapApp> {
   }
 
   void _onMemoryThresholdCrossed() {
-    final messenger = scaffoldMessengerKey.currentState;
-    if (messenger == null) return;
-    messenger.showSnackBar(
-      const SnackBar(
-        duration: Duration(seconds: 10),
-        content: Text(
-          'Memory usage is high after browsing many packs. '
-          'Refresh the page to reclaim memory.',
-        ),
-      ),
+    // The probe ticks on a periodic Timer, so we don't have a widget
+    // context. zenrouter exposes the live NavigatorState; its context is
+    // mounted below the ToastProvider (root of `main.dart`), so it's a
+    // valid surface for `Toast(...).show(context)`.
+    final navigatorContext =
+        appCoordinator.routerDelegate.navigatorKey.currentContext;
+    if (navigatorContext == null) return;
+    AppToast.warning(
+      navigatorContext,
+      title: 'High memory usage',
+      message:
+          'Memory usage is high after browsing many packs. Refresh the page to reclaim memory.',
+      duration: const Duration(seconds: 10),
+      actionLabel: 'Refresh',
+      onAction: _reloadPage,
     );
+  }
+
+  void _reloadPage() {
+    // Web-only — reload the document. On native targets this is a no-op
+    // (the memory probe itself only fires on web, see
+    // `memory_probe_web.dart`, so the action button should only ever be
+    // tapped on a web build anyway).
+    if (!kIsWeb) return;
+    try {
+      final location =
+          _globalThis.getProperty<JSObject?>('location'.toJS);
+      location?.callMethod<JSAny?>('reload'.toJS);
+    } catch (_) {
+      // Either `location` is missing (weird embedding) or `reload`
+      // failed — degrading silently is safer than crashing the toast.
+    }
   }
 
   @override
@@ -93,7 +118,40 @@ class _BootstrapAppState extends State<BootstrapApp> {
               darkTheme: AppTheme.dark(),
               themeMode: mode,
               routerConfig: appCoordinator,
-              scaffoldMessengerKey: scaffoldMessengerKey,
+              // Mount the zentoast viewer in the MaterialApp `builder` so
+              // it sits above every route (including sheet routes) but
+              // still inherits Directionality / MediaQuery / theme from
+              // MaterialApp. visibleCount: 3 → older toasts collapse and
+              // fade behind the newest; delay: 4s default auto-dismiss
+              // (callers can override via AppToast.*(duration:)).
+              builder: (context, child) {
+                return ToastThemeProvider(
+                  data: const ToastTheme(
+                    viewerPadding: EdgeInsets.fromLTRB(16, 16, 16, 24),
+                    gap: 10,
+                  ),
+                  child: Stack(
+                    children: [
+                      if (child != null) Positioned.fill(child: child),
+                      // ToastViewer's internal Align shrinks the viewer
+                      // to its toast stack, so it only intercepts pointer
+                      // events inside its own card area (drag-to-dismiss,
+                      // hover-expand). The rest of the screen passes
+                      // through to the routes below.
+                      const Positioned.fill(
+                        child: SafeArea(
+                          child: ToastViewer(
+                            alignment: Alignment.bottomRight,
+                            delay: Duration(seconds: 4),
+                            visibleCount: 3,
+                            width: 380,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                );
+              },
             ),
           ),
         );

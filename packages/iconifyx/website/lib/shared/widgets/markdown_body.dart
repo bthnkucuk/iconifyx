@@ -6,6 +6,7 @@ import 'package:url_launcher/url_launcher.dart';
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/docs_tab_route.dart';
 import '../../theme/app_theme.dart';
+import '../toast/app_toast.dart';
 
 /// Renders a markdown string as a themed [Column] — drop into a sliver
 /// adapter, no inner scroll view. Two reasons we wrap markdown_widget
@@ -277,13 +278,10 @@ class _CodeBlockWrapper extends StatelessWidget {
             onTap: () async {
               await Clipboard.setData(ClipboardData(text: code));
               if (!context.mounted) return;
-              ScaffoldMessenger.maybeOf(context)?.showSnackBar(
-                SnackBar(
-                  content: Text('Copied $language code',
-                      style: TextStyle(fontSize: 13)),
-                  duration: const Duration(milliseconds: 1400),
-                  behavior: SnackBarBehavior.floating,
-                ),
+              AppToast.success(
+                context,
+                message: 'Copied $language code',
+                duration: const Duration(milliseconds: 1400),
               );
             },
             mutedColor: muted,

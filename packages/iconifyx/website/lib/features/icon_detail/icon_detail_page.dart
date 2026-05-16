@@ -14,6 +14,7 @@ import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/iconify_svg_url.dart';
+import '../../shared/toast/app_toast.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/iconify_thumb.dart';
 import '../../theme/app_theme.dart';
@@ -1003,9 +1004,7 @@ Future<void> _copyDartSnippet(
   final snippet = _flutterSnippet(r, render);
   await Clipboard.setData(ClipboardData(text: snippet));
   if (context.mounted) {
-    ScaffoldMessenger.of(context).showSnackBar(
-      const SnackBar(content: Text('Dart snippet copied')),
-    );
+    AppToast.success(context, message: 'Dart snippet copied');
   }
 }
 
@@ -1014,9 +1013,7 @@ Future<void> _copyConst(BuildContext context, IconRecord r) async {
   final ident = _camelize(r.name);
   await Clipboard.setData(ClipboardData(text: '$cls.$ident'));
   if (context.mounted) {
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text('Copied $cls.$ident')),
-    );
+    AppToast.success(context, message: 'Copied $cls.$ident');
   }
 }
 
@@ -1024,9 +1021,7 @@ Future<void> _shareUrl(BuildContext context, IconRecord r) async {
   final url = '/pack/${r.prefix}/icon/${Uri.encodeComponent(r.name)}';
   await Clipboard.setData(ClipboardData(text: url));
   if (context.mounted) {
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text('URL copied: $url')),
-    );
+    AppToast.info(context, message: 'URL copied: $url');
   }
 }
 
@@ -1051,9 +1046,7 @@ Expected:
   );
   final ok = await launchUrl(uri, mode: LaunchMode.externalApplication);
   if (!ok && context.mounted) {
-    ScaffoldMessenger.of(context).showSnackBar(
-      const SnackBar(content: Text('Could not open issue tracker')),
-    );
+    AppToast.error(context, message: 'Could not open issue tracker');
   }
 }
 
