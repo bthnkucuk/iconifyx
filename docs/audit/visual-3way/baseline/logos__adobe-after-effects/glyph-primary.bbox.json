@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_logos/assets/fonts/Logos.ttf",
+  "codepoint": "0xe004",
+  "glyphName": "adobe-after-effects",
+  "advance": 1024,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 0,
+    "yMin": 2,
+    "xMax": 1024,
+    "yMax": 1000,
+    "width": 1024,
+    "height": 998,
+    "cx": 512.0,
+    "cy": 501.0
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

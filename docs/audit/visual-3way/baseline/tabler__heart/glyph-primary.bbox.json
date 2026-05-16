@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_tabler/assets/fonts/Tabler_3.ttf",
+  "codepoint": "0xe474",
+  "glyphName": "heart",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 83,
+    "yMin": 126.0,
+    "xMax": 916.3214285714286,
+    "yMax": 874.6666666666666,
+    "width": 833.3214285714286,
+    "height": 748.6666666666666,
+    "cx": 499.6607142857143,
+    "cy": 500.3333333333333
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

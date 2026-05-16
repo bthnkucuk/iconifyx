@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_ph/assets/fonts/Ph.ttf",
+  "codepoint": "0xf2c2",
+  "glyphName": "house",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 125,
+    "yMin": 125,
+    "xMax": 875,
+    "yMax": 906.0,
+    "width": 750,
+    "height": 781.0,
+    "cx": 500.0,
+    "cy": 515.5
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

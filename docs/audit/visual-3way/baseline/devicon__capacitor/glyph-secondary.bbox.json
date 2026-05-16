@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_devicon/assets/fonts/DeviconSecondary.ttf",
+  "codepoint": "0xe059",
+  "glyphName": "capacitor",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 394,
+    "yMin": 181.4915254237288,
+    "xMax": 606,
+    "yMax": 818.0,
+    "width": 212,
+    "height": 636.5084745762712,
+    "cx": 500.0,
+    "cy": 499.7457627118644
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

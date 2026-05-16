@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_lets_icons/assets/fonts/LetsIconsSecondary.ttf",
+  "codepoint": "0xe01f",
+  "glyphName": "alarmclock-duotone-line",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 208.22222222222223,
+    "yMin": 166.390243902439,
+    "xMax": 791.6666666666666,
+    "yMax": 749.6410256410256,
+    "width": 583.4444444444443,
+    "height": 583.2507817385866,
+    "cx": 499.94444444444446,
+    "cy": 458.0156347717323
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

@@ -1,0 +1,57 @@
+# Curated 50-icon corpus for visual-3way audit (Phase 1.5)
+# Generated 2026-05-16 — covers all bug classes the user requested:
+# solo, hint-duotone, paint-order-duotone, mask-internal-duotone,
+# stroke-fill rasterized, vtracer-recovered, known empty-glyph (devicon).
+# Format: <prefix:name> per line; # = comment.
+
+# --- Solo (mdi + material-symbols) ---
+mdi:home
+mdi:account-circle
+mdi:cog
+mdi:check
+mdi:close
+mdi:arrow-up
+mdi:magnify
+mdi:pencil
+mdi:trash-can
+mdi:star
+material-symbols:home
+material-symbols:search
+material-symbols:menu
+solar:add-circle-bold-duotone
+solar:home-bold-duotone
+solar:user-circle-bold-duotone
+solar:settings-bold-duotone
+solar:star-bold-duotone
+solar:heart-bold-duotone
+solar:bell-bold-duotone
+solar:calendar-bold-duotone
+ph:acorn-duotone
+ph:heart-duotone
+ph:star-duotone
+ph:house-duotone
+logos:adobe-after-effects
+logos:react
+logos:vue
+logos:adobe-photoshop
+emojione:a-button
+emojione:aquarius
+emojione:atom-symbol
+lets-icons:alarmclock-duotone-line
+lets-icons:add-duotone-line
+lets-icons:add-ring-duotone-line
+lucide:heart
+lucide:star
+lucide:house
+lucide:circle-check
+lucide:pencil
+tabler:home
+tabler:heart
+tabler:star
+twemoji:a-button
+twemoji:a-button-blood-type
+devicon:capacitor
+devicon:angular
+devicon:androidstudio
+circle-flags:it-21
+circle-flags:it-42

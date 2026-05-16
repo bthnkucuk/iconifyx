@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_mdi/assets/fonts/Mdi_2.ttf",
+  "codepoint": "0xe868",
+  "glyphName": "magnify",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 125.0,
+    "yMin": 146,
+    "xMax": 854,
+    "yMax": 875,
+    "width": 729.0,
+    "height": 729,
+    "cx": 489.5,
+    "cy": 510.5
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

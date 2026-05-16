@@ -278,11 +278,30 @@ def main() -> int:
         v = (em_ymax - y) * scale + offset_y
         return (u, v)
 
+    # TrueType glyphs use a non-zero / even-odd winding rule depending on
+    # subpath orientation. The simplest faithful emulation is to draw each
+    # subpath onto a 1-bit mask, then XOR them together: every additional
+    # contour flips inside↔outside in the overlap. This is equivalent to
+    # even-odd fill and matches the visual result Flutter's text renderer
+    # produces (which uses the canonical TrueType winding evaluator).
+    #
+    # Falling back to plain `draw.polygon` per subpath fills each as a
+    # solid region in non-zero winding — that turns outlined glyphs
+    # (Lucide / Tabler hearts, circles, etc.) into solid silhouettes,
+    # which silently disagrees with what consumers see.
+    mask = Image.new("L", (canvas, canvas), 0)
     for poly in subpaths:
         if len(poly) < 3:
             continue
         pts = [transform(p) for p in poly]
-        draw.polygon(pts, fill=fg_rgba)
+        sub = Image.new("L", (canvas, canvas), 0)
+        ImageDraw.Draw(sub).polygon(pts, fill=255)
+        # XOR: pixel ON iff (mask XOR sub) — emulates even-odd compound fill.
+        from PIL import ImageChops
+        mask = ImageChops.logical_xor(mask.convert("1"), sub.convert("1")).convert("L")
+    # Composite fg onto the mask.
+    fg_solid = Image.new("RGBA", (canvas, canvas), fg_rgba)
+    img.paste(fg_solid, (0, 0), mask)
 
     img.save(args.out)
 

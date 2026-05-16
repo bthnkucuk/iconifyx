@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_logos/assets/fonts/LogosSecondary.ttf",
+  "codepoint": "0xe600",
+  "glyphName": "vue",
+  "advance": 1158,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 229,
+    "yMin": 398,
+    "xMax": 927,
+    "yMax": 1000,
+    "width": 698,
+    "height": 602,
+    "cx": 578.0,
+    "cy": 699.0
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

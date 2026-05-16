@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_ph/assets/fonts/Ph_2Secondary.ttf",
+  "codepoint": "0xe72e",
+  "glyphName": "star-duotone",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 94.36363636363636,
+    "yMin": 125.45454545454545,
+    "xMax": 905.6363636363636,
+    "yMax": 906.0,
+    "width": 811.2727272727273,
+    "height": 780.5454545454545,
+    "cx": 500.0,
+    "cy": 515.7272727272727
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_tabler/assets/fonts/Tabler_3.ttf",
+  "codepoint": "0xe798",
+  "glyphName": "home",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 83.33333333333333,
+    "yMin": 84,
+    "xMax": 916.0,
+    "yMax": 916.5,
+    "width": 832.6666666666666,
+    "height": 832.5,
+    "cx": 499.6666666666667,
+    "cy": 500.25
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

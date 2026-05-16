@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_ph/assets/fonts/Ph.ttf",
+  "codepoint": "0xe002",
+  "glyphName": "acorn",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 94,
+    "yMin": 31.0,
+    "xMax": 906,
+    "yMax": 969,
+    "width": 812,
+    "height": 938.0,
+    "cx": 500.0,
+    "cy": 500.0
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

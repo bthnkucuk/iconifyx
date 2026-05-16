@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_tabler/assets/fonts/Tabler_4.ttf",
+  "codepoint": "0xf3c4",
+  "glyphName": "star",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 42.05882352941177,
+    "yMin": 83.72413793103448,
+    "xMax": 957.0,
+    "yMax": 957.6,
+    "width": 914.9411764705883,
+    "height": 873.8758620689655,
+    "cx": 499.52941176470586,
+    "cy": 520.6620689655173
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

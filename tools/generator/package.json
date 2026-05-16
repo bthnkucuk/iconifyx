@@ -36,8 +36,11 @@
     "yaml": "^2.5.0"
   },
   "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
     "@types/bun": "latest",
     "@types/svg2ttf": "^5.0.0",
+    "pixelmatch": "^7.2.0",
+    "pngjs": "^7.0.0",
     "typescript": "^5.6.0"
   }
 }

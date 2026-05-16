@@ -32,6 +32,8 @@ against `git log` to see what's landed.
    structural fix for the build pipeline's most fragile component. See §3.
 9. **Visual-regression golden files + audit dashboard** — 5-6 h, catches
    future regressions automatically. See §4.
+10. **Visual three-way audit (§26) — Phase 1.5 SHIPPED 2026-05-16;
+    Phase 2 (~1 day) CI gate + persistent worker queued.** See §26 + §33b.
 
 ### B. Web — website
 
@@ -4785,6 +4787,219 @@ Single mise.toml or Dockerfile pinning Bun 1.3 + Python 3.12 + Rust
 1.85 + uv. GitHub Actions setup via `jdx/mise-action@v2` (~15 s cold).
 `bun test` for golden regressions. `audit_gate.ts` fails CI on
 new visual regressions.
+
+---
+
+## §26 — Visual-diff tool design (`iconifyx-visual-diff`)
+
+**Verdict: Phase 1 SHIPPED. Phase 1.5 (three-way + corpus + dashboard)
+SHIPPED 2026-05-16. Phase 2 (CI gate, persistent worker, allowlist) is
+the next priority, ~1 day of work. Phase 3 (Rust kernel) deferred until
+Phase 2 walls in CI — see §33b deferral rationale.**
+
+Phase 1 was a single-icon (pack, name) visual comparator at
+`tools/generator/audit/visual-diff/` that produced a four-pane raster
+(upstream / TTF primary / TTF secondary / Flutter-rendered) + a verdict
+in ~15-30 s cold or ~2 s with `--skip-flutter`. It was designed for
+debugging ONE icon at a time and shipped with 8 classifier rules (rules
+4/5/6/7a/8/13/14/17).
+
+Phase 1.5 generalises Phase 1 to a three-way comparison + corpus mode:
+
+```bash
+bun run tools/generator/audit/visual-diff/cli.ts solar:add-circle-bold-duotone --3way
+bun run tools/generator/audit/visual-diff/cli.ts --corpus corpora/baseline50.txt --3way --dashboard
+```
+
+### Three-way comparisons
+
+Phase 1 had ONE diff (SVG vs Flutter). Phase 1.5 has THREE:
+
+| Pair | Stage measured | Bug classes caught |
+|---|---|---|
+| **SVG ↔ TTF** | generator + font build | paint-order drop, stroke-fill rasterize-trace miss, evenodd cutouts lost, svg2ttf glyph drop, em-quad regression |
+| **TTF ↔ Flutter** | widget paint + composition | wrong `kind` dispatch, paint-origin off, secondary opacity convention drift, `FontLoader` registration regression |
+| **SVG ↔ Flutter** | end-to-end ("what consumers see") | Phase 1 surface unchanged |
+
+The `classify3way()` orchestrator emits rules whose name encodes the
+locality:
+
+- `GENERATOR_FILLED_BLOB` / `GENERATOR_BLANK_GLYPH` /
+  `GENERATOR_MISSING_CUTOUTS` / `GENERATOR_DIFF` — SVG↔TTF different,
+  TTF↔Flutter same
+- `WIDGET_HORIZONTAL_DRIFT` / `WIDGET_VERTICAL_DRIFT` /
+  `WIDGET_RENDER_DIFF` — TTF↔Flutter different, SVG↔TTF same
+- `CASCADE_MISMATCH` — both intermediates differ
+- `OPACITY_NOISE` — only end-to-end differs (40 %-vs-50 % secondary
+  opacity false-positive)
+- `DUOTONE_BBOX_SHARED_SECONDARY` (NEW) — bbox drift but secondary is
+  svg2ttf-deduped (e.g. Solar's generic ring shared across many icons)
+  → demoted to needs-review, not failing CI
+
+### 3-signal vote (pixelmatch + dHash + SSIM-lite)
+
+Each pairwise diff is scored on three independent signals:
+
+| Signal | Band: same | Band: needs-review | Band: different |
+|---|---|---|---|
+| pixelmatch mismatch % | ≤ 2 % | 2 %–15 % | ≥ 15 % |
+| dHash Hamming /64 | ≤ 4 | 4–14 | ≥ 14 |
+| SSIM-lite | ≥ 0.98 | 0.85–0.98 | ≤ 0.85 |
+
+Voted `same` iff ≥ 2 of 3 land in `same`, `different` iff ≥ 2 land in
+`different`, else `needs-review`. Bands calibrated against the 50-icon
+baseline corpus.
+
+Citations:
+
+- **dHash**: Krawetz, *"Looks Like It"*, Hacker Factor 2013 — 9×8
+  resize + adjacent-pixel comparison → 64-bit perceptual hash.
+- **SSIM-lite**: Wang, Bovik, Sheikh, Simoncelli (2004), *"Image
+  Quality Assessment: From Error Visibility to Structural Similarity"*,
+  IEEE Trans. Image Processing 13(4):600-612. Block-based variant with
+  8×8 non-overlapping blocks (~10× faster than Gaussian-windowed).
+
+### TTF rasterizer fix (Phase 1.5 critical bug)
+
+Phase 1 had a silent bug: `rasterize_glyph.py` filled each TTF subpath
+with PIL's non-zero `ImageDraw.polygon`. Outlined glyphs (Lucide,
+Tabler) rendered as solid silhouettes that didn't match the SVG OR
+the Flutter render. Fixed by emulating even-odd compound fill via
+1-bit subpath masks XOR-composited together. The fix is ~10 LOC in
+`rasterize_glyph.py`.
+
+### CLI surface
+
+```bash
+# Single icon — Phase 1.5 default debug loop
+bun run cli.ts solar:add-circle-bold-duotone --3way            # ~3-8 s
+bun run cli.ts solar:add-circle-bold-duotone --3way --skip-flutter  # ~600 ms
+
+# Corpus — N icons, aggregate + dashboard
+bun run cli.ts --corpus corpora/baseline50.txt --3way --dashboard
+```
+
+Outputs in `docs/audit/visual-3way/`:
+
+- `<slug>/report.json` + `REPORT.md` per icon
+- `<slug>/upstream.png`, `glyph-primary.png`, `glyph-secondary.png`
+  (duotone only), `ttf-composed.png`, `flutter-rendered.png`,
+  `diff-svg-vs-ttf.png`, `diff-ttf-vs-flutter.png`,
+  `diff-svg-vs-flutter.png`
+- `corpus.json` (machine-readable aggregate) + `corpus.md` (GH-renderable
+  summary)
+- `index.html` (static dashboard, filterable by status/reason/pack)
+
+### Pipeline integration
+
+**Opt-in CLI, NOT default `bun run generate` post-step.** Full corpus
+walk is 3.5 h skip-flutter / 12 h with flutter renders single-process.
+Adding to generate would 10× the dev feedback loop.
+
+Phase 2 ships a CI gate that runs **only on PRs touching
+`tools/generator/manifests/*.json`** — that's ~1-3 packs / PR / < 90 s.
+
+### Files
+
+- `tools/generator/audit/visual-diff/cli.ts` — orchestrator (single +
+  corpus modes, Phase 1 + 1.5 classifiers)
+- `tools/generator/audit/visual-diff/dashboard.ts` — static HTML
+  generator
+- `tools/generator/audit/visual-diff/rasterize_glyph.py` — fontTools +
+  Pillow + even-odd XOR fill
+- `tools/generator/audit/visual-diff/corpora/baseline50.txt` — 50-icon
+  curated regression corpus
+- `docs/audit/visual-3way/DESIGN.md` — architecture + Phase 3 deferral
+- `docs/audit/visual-3way/baseline/` — committed Phase 1.5 baseline run
+
+---
+
+## §33b — Visual-diff Phase 1.5 corpus run + Phase 2 plan
+
+> ✅ **STATUS: Phase 1.5 SHIPPED 2026-05-16.** Corpus walk of 50 curated
+> icons spanning 12 packs and every known bug class. End-to-end wall-
+> clock 3:35 with Flutter renders; 28 s with `--skip-flutter`. Dashboard
+> at `docs/audit/visual-3way/baseline/index.html`. Phase 2 deliverables
+> documented below; Phase 3 (Rust kernel) deferred to a quarterly review.
+
+### Baseline corpus
+
+`tools/generator/audit/visual-diff/corpora/baseline50.txt` covers:
+
+| Bug class | Icons | Source |
+|---|---|---|
+| Solo (mdi / material-symbols) | 13 | mdi:home, …, material-symbols:menu |
+| Hint duotone (solar / ph) | 12 | solar:add-circle-bold-duotone (§33 litmus), ph:acorn-duotone, … |
+| Paint-order duotone (logos / emojione) | 7 | logos:adobe-after-effects, emojione:a-button, … |
+| Mask-internal duotone (lets-icons) | 3 | lets-icons:alarmclock-duotone-line |
+| Stroke-fill rasterized (lucide / tabler) | 8 | lucide:heart (triggered the even-odd bug), tabler:home |
+| vtracer-recovered (twemoji / circle-flags) | 4 | twemoji:a-button (alias-resolved), circle-flags:it-21 |
+| Known empty-glyph (devicon) | 3 | devicon:capacitor (confirmed `EMPTY_GLYPH` verdict) |
+| **Total** | **50** | |
+
+### Phase 1.5 baseline run results
+
+50 icons in 3:35 wall-clock with Flutter renders enabled; 28 s in
+`--skip-flutter` TTF-only mode. Breakdown:
+
+- **21 OK** — clean SVG/TTF/Flutter agreement
+- **10 needs-review** — minor pixel mismatches (AA noise, opacity drift,
+  acceptable bbox dedup)
+- **19 different** — actionable findings:
+  - 1× `EMPTY_GLYPH` (`devicon:capacitor`) — verifies known §3 regression
+  - 1× `GENERATOR_FILLED_BLOB` (`emojione:a-button`) — actionable bug
+  - 6× `DUOTONE_BBOX_MISMATCH` (`solar:bell/heart/star/calendar/…`,
+    `ph:acorn-duotone`, `logos:vue`) — geometric asymmetry between
+    primary silhouette and shared secondary ring; not a render bug per
+    se but worth allowlisting
+  - 10× `GENERATOR_DIFF` (logos/emojione/twemoji/devicon/circle-flags) —
+    known lossy monochrome conversion from multi-colour upstream;
+    Phase 2 allowlist swallows these
+
+The high-confidence `EMPTY_GLYPH` + `GENERATOR_FILLED_BLOB` cases are
+the audit's most valuable output — they would be detected by FONT_AUDIT
++ STROKE_AUDIT but those require a human to read them; the visual-3way
+dashboard surfaces them as red-bordered rows with embedded PNGs.
+
+### Phase 2 plan (next ~1 day of work)
+
+| Item | Cost | Unlocks |
+|---|---|---|
+| Persistent python worker (`rasterize_glyph_server.py` stdin protocol) | 4-6 h | 5-10× speedup on TTF rasterize; full-pack walks in < 90 s |
+| `--pack PREFIX` shortcut (auto-corpus from manifest) | 1 h | "render every icon in solar" |
+| Opacity normalisation (50 % upstream vs 40 % IconifyIcon) | 2 h | Removes `OPACITY_NOISE` false-positives |
+| Allowlist `corpora/baseline.allowlist.json` (per-icon expected verdict) | 3 h | CI gate can pass if mismatch is acknowledged |
+| `--fail-on different` CLI flag | 1 h | exit non-zero for CI gating |
+| GitHub Action on PRs touching manifests | 2 h | Auto-comments dashboard URL + delta vs main |
+| Persistent flutter test process (Approach E) | 1 d | Per-icon flutter render < 2 s warm; full corpus end-to-end < 30 min |
+
+### Phase 3 deferral rationale
+
+Rust kernel (skrifa + tiny-skia + napi) priced at ~1 week. **Not built
+yet** because:
+
+1. Phase 1.5 already detects every bug class in <1 s per icon
+   (skip-flutter). Wall-clock dominated by Flutter render (3-8 s) not
+   by TTF rasterize (~300 ms).
+2. The 340 k full corpus extrapolates to ~7 h with single-process Phase
+   1.5; Phase 2's persistent worker pool drops that to ~30 min. That's
+   acceptable for nightly batch + opt-in CI gate.
+3. Until we see real CI wall-clock pressure (or someone wants real-time
+   audit on every commit) the Rust port is net-negative ROI — same
+   classifier outcomes, much higher rebuild risk.
+
+**Trigger to revisit:** Phase 2 ships, persistent python worker measured
+in CI, and the per-icon p95 latency exceeds 200 ms warm. If it's under
+that, Rust is irrelevant.
+
+### Cross-references
+
+| Plan | Overlap | Phase 1.5 net add |
+|---|---|---|
+| §4 visual regression | Same rasterize stack | §4 = regression on hash change; visual-diff = discovery + explanation + locality |
+| §26 18-rule classifier | Phase 1.5 covers 13 of 18 rules | Locality-aware classifier surface (GENERATOR_* vs WIDGET_* prefixes) |
+| §33 Solar bug | Same input case | Phase 1.5 confirms RESOLVED state (centroid drift 0.0 % of em) |
+| §17 Rust port | Kernel intent | Phase 3 deferral rationale documented here |
 
 ---
 

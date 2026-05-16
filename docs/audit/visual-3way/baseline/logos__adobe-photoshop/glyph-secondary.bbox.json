@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_logos/assets/fonts/LogosSecondary.ttf",
+  "codepoint": "0xe342",
+  "glyphName": "adobe-photoshop",
+  "advance": 1024,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 231,
+    "yMin": 285,
+    "xMax": 846,
+    "yMax": 746,
+    "width": 615,
+    "height": 461,
+    "cx": 538.5,
+    "cy": 515.5
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

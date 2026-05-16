@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_twemoji/assets/fonts/Twemoji.ttf",
+  "codepoint": "0xe1db",
+  "glyphName": "anticlockwise-arrows-button",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 0,
+    "yMin": 0,
+    "xMax": 1000,
+    "yMax": 1000,
+    "width": 1000,
+    "height": 1000,
+    "cx": 500.0,
+    "cy": 500.0
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

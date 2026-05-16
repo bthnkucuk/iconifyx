@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_emojione/assets/fonts/EmojioneSecondary.ttf",
+  "codepoint": "0xe1f7",
+  "glyphName": "aquarius",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 203.91666666666666,
+    "yMin": 282.73333333333335,
+    "xMax": 797,
+    "yMax": 720.1290322580645,
+    "width": 593.0833333333334,
+    "height": 437.39569892473116,
+    "cx": 500.4583333333333,
+    "cy": 501.43118279569893
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

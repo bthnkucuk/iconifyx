@@ -1,0 +1,1977 @@
+{
+  "generatedAt": "2026-05-16T07:03:09.545Z",
+  "threeWay": true,
+  "size": 256,
+  "total": 50,
+  "ok": 21,
+  "needsReview": 10,
+  "different": 19,
+  "byPack": {
+    "mdi": {
+      "total": 10,
+      "ok": 10,
+      "needsReview": 0,
+      "different": 0
+    },
+    "material-symbols": {
+      "total": 3,
+      "ok": 3,
+      "needsReview": 0,
+      "different": 0
+    },
+    "solar": {
+      "total": 8,
+      "ok": 2,
+      "needsReview": 2,
+      "different": 4
+    },
+    "ph": {
+      "total": 4,
+      "ok": 0,
+      "needsReview": 3,
+      "different": 1
+    },
+    "logos": {
+      "total": 4,
+      "ok": 0,
+      "needsReview": 0,
+      "different": 4
+    },
+    "emojione": {
+      "total": 3,
+      "ok": 0,
+      "needsReview": 0,
+      "different": 3
+    },
+    "lets-icons": {
+      "total": 3,
+      "ok": 0,
+      "needsReview": 3,
+      "different": 0
+    },
+    "lucide": {
+      "total": 5,
+      "ok": 4,
+      "needsReview": 1,
+      "different": 0
+    },
+    "tabler": {
+      "total": 3,
+      "ok": 2,
+      "needsReview": 1,
+      "different": 0
+    },
+    "twemoji": {
+      "total": 2,
+      "ok": 0,
+      "needsReview": 0,
+      "different": 2
+    },
+    "devicon": {
+      "total": 3,
+      "ok": 0,
+      "needsReview": 0,
+      "different": 3
+    },
+    "circle-flags": {
+      "total": 2,
+      "ok": 0,
+      "needsReview": 0,
+      "different": 2
+    }
+  },
+  "byReason": {
+    "OK_3WAY": 21,
+    "MINOR_DIFF_3WAY": 9,
+    "DUOTONE_BBOX_SHARED_SECONDARY": 1,
+    "DUOTONE_BBOX_MISMATCH": 6,
+    "GENERATOR_DIFF": 11,
+    "GENERATOR_FILLED_BLOB": 1,
+    "EMPTY_GLYPH": 1
+  },
+  "rows": [
+    {
+      "iconRef": "mdi:home",
+      "prefix": "mdi",
+      "iconName": "home",
+      "slug": "mdi__home",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.0000152587890625,
+          "hamming": 1,
+          "ssim": 0.9843622053945822
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0009765625,
+          "hamming": 3,
+          "ssim": 0.9814353702653562
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0021820068359375,
+          "hamming": 4,
+          "ssim": 0.9687939410398017
+        }
+      },
+      "timings": {
+        "upstream": 303,
+        "primaryGlyph": 211,
+        "ttfCompose": 7,
+        "flutterRender": 6367,
+        "diffSvgVsTtf": 34,
+        "diffTtfVsFlutter": 14,
+        "diffSvgVsFlutter": 15,
+        "total": 6971
+      }
+    },
+    {
+      "iconRef": "mdi:account-circle",
+      "prefix": "mdi",
+      "iconName": "account-circle",
+      "slug": "mdi__account-circle",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 1,
+          "ssim": 0.9678696168719491
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.001129150390625,
+          "hamming": 1,
+          "ssim": 0.9570750343359308
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.00299072265625,
+          "hamming": 2,
+          "ssim": 0.9515851868672185
+        }
+      },
+      "timings": {
+        "upstream": 329,
+        "primaryGlyph": 129,
+        "ttfCompose": 3,
+        "flutterRender": 2815,
+        "diffSvgVsTtf": 12,
+        "diffTtfVsFlutter": 13,
+        "diffSvgVsFlutter": 11,
+        "total": 3322
+      }
+    },
+    {
+      "iconRef": "mdi:cog",
+      "prefix": "mdi",
+      "iconName": "cog",
+      "slug": "mdi__cog",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9730814677585409
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.000823974609375,
+          "hamming": 0,
+          "ssim": 0.9664831212382056
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.00177001953125,
+          "hamming": 0,
+          "ssim": 0.9684930114836803
+        }
+      },
+      "timings": {
+        "upstream": 284,
+        "primaryGlyph": 143,
+        "ttfCompose": 3,
+        "flutterRender": 2803,
+        "diffSvgVsTtf": 7,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 10,
+        "total": 3270
+      }
+    },
+    {
+      "iconRef": "mdi:check",
+      "prefix": "mdi",
+      "iconName": "check",
+      "slug": "mdi__check",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 1,
+          "ssim": 0.9899491200102695
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0000152587890625,
+          "hamming": 1,
+          "ssim": 0.9852266841658173
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 2,
+          "ssim": 0.9911011609266503
+        }
+      },
+      "timings": {
+        "upstream": 281,
+        "primaryGlyph": 101,
+        "ttfCompose": 2,
+        "flutterRender": 3109,
+        "diffSvgVsTtf": 16,
+        "diffTtfVsFlutter": 14,
+        "diffSvgVsFlutter": 12,
+        "total": 3542
+      }
+    },
+    {
+      "iconRef": "mdi:close",
+      "prefix": "mdi",
+      "iconName": "close",
+      "slug": "mdi__close",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9645680599238752
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.00177001953125,
+          "hamming": 2,
+          "ssim": 0.9499421552955293
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 2,
+          "ssim": 0.9811243786712662
+        }
+      },
+      "timings": {
+        "upstream": 312,
+        "primaryGlyph": 169,
+        "ttfCompose": 3,
+        "flutterRender": 3106,
+        "diffSvgVsTtf": 11,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 9,
+        "total": 3634
+      }
+    },
+    {
+      "iconRef": "mdi:arrow-up",
+      "prefix": "mdi",
+      "iconName": "arrow-up",
+      "slug": "mdi__arrow-up",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9899301682912379
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9876188627324638
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9924497276320278
+        }
+      },
+      "timings": {
+        "upstream": 341,
+        "primaryGlyph": 152,
+        "ttfCompose": 2,
+        "flutterRender": 3282,
+        "diffSvgVsTtf": 9,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 12,
+        "total": 3816
+      }
+    },
+    {
+      "iconRef": "mdi:magnify",
+      "prefix": "mdi",
+      "iconName": "magnify",
+      "slug": "mdi__magnify",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 1,
+          "ssim": 0.9707051338042978
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.00067138671875,
+          "hamming": 0,
+          "ssim": 0.9716591050097844
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0019683837890625,
+          "hamming": 1,
+          "ssim": 0.9649851362767251
+        }
+      },
+      "timings": {
+        "upstream": 312,
+        "primaryGlyph": 142,
+        "ttfCompose": 2,
+        "flutterRender": 3270,
+        "diffSvgVsTtf": 13,
+        "diffTtfVsFlutter": 17,
+        "diffSvgVsFlutter": 13,
+        "total": 3774
+      }
+    },
+    {
+      "iconRef": "mdi:pencil",
+      "prefix": "mdi",
+      "iconName": "pencil",
+      "slug": "mdi__pencil",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9755524751985255
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0009918212890625,
+          "hamming": 2,
+          "ssim": 0.9851709920573455
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0015106201171875,
+          "hamming": 2,
+          "ssim": 0.9676809240927392
+        }
+      },
+      "timings": {
+        "upstream": 306,
+        "primaryGlyph": 141,
+        "ttfCompose": 1,
+        "flutterRender": 2832,
+        "diffSvgVsTtf": 8,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 8,
+        "total": 3313
+      }
+    },
+    {
+      "iconRef": "mdi:trash-can",
+      "prefix": "mdi",
+      "iconName": "trash-can",
+      "slug": "mdi__trash-can",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9672987229667049
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0036773681640625,
+          "hamming": 1,
+          "ssim": 0.9584178439153447
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0070343017578125,
+          "hamming": 1,
+          "ssim": 0.9314093651502884
+        }
+      },
+      "timings": {
+        "upstream": 302,
+        "primaryGlyph": 112,
+        "ttfCompose": 4,
+        "flutterRender": 2704,
+        "diffSvgVsTtf": 10,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 13,
+        "total": 3161
+      }
+    },
+    {
+      "iconRef": "mdi:star",
+      "prefix": "mdi",
+      "iconName": "star",
+      "slug": "mdi__star",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.00006103515625,
+          "hamming": 2,
+          "ssim": 0.980864080676838
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0009307861328125,
+          "hamming": 2,
+          "ssim": 0.9776549516512201
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0001220703125,
+          "hamming": 0,
+          "ssim": 0.9782250692217294
+        }
+      },
+      "timings": {
+        "upstream": 362,
+        "primaryGlyph": 178,
+        "ttfCompose": 3,
+        "flutterRender": 2487,
+        "diffSvgVsTtf": 7,
+        "diffTtfVsFlutter": 8,
+        "diffSvgVsFlutter": 8,
+        "total": 3060
+      }
+    },
+    {
+      "iconRef": "material-symbols:home",
+      "prefix": "material-symbols",
+      "iconName": "home",
+      "slug": "material-symbols__home",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 1,
+          "ssim": 0.9886360971891208
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.001983642578125,
+          "hamming": 3,
+          "ssim": 0.9728711907623617
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0028228759765625,
+          "hamming": 2,
+          "ssim": 0.9655961343604647
+        }
+      },
+      "timings": {
+        "upstream": 284,
+        "primaryGlyph": 96,
+        "ttfCompose": 2,
+        "flutterRender": 7056,
+        "diffSvgVsTtf": 9,
+        "diffTtfVsFlutter": 8,
+        "diffSvgVsFlutter": 11,
+        "total": 7496
+      }
+    },
+    {
+      "iconRef": "material-symbols:search",
+      "prefix": "material-symbols",
+      "iconName": "search",
+      "slug": "material-symbols__search",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 2,
+          "ssim": 0.9677663007312809
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.000823974609375,
+          "hamming": 0,
+          "ssim": 0.9542171712938617
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.001373291015625,
+          "hamming": 2,
+          "ssim": 0.963300051711912
+        }
+      },
+      "timings": {
+        "upstream": 313,
+        "primaryGlyph": 123,
+        "ttfCompose": 2,
+        "flutterRender": 3243,
+        "diffSvgVsTtf": 8,
+        "diffTtfVsFlutter": 8,
+        "diffSvgVsFlutter": 8,
+        "total": 3719
+      }
+    },
+    {
+      "iconRef": "material-symbols:menu",
+      "prefix": "material-symbols",
+      "iconName": "menu",
+      "slug": "material-symbols__menu",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.955980720855571
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0039520263671875,
+          "hamming": 1,
+          "ssim": 0.9560582768692083
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0029449462890625,
+          "hamming": 1,
+          "ssim": 0.9327719810712657
+        }
+      },
+      "timings": {
+        "upstream": 272,
+        "primaryGlyph": 108,
+        "ttfCompose": 2,
+        "flutterRender": 2458,
+        "diffSvgVsTtf": 10,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 9,
+        "total": 2880
+      }
+    },
+    {
+      "iconRef": "solar:add-circle-bold-duotone",
+      "prefix": "solar",
+      "iconName": "add-circle-bold-duotone",
+      "slug": "solar__add-circle-bold-duotone",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9633518003904055
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0021514892578125,
+          "hamming": 0,
+          "ssim": 0.959955949643115
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0001373291015625,
+          "hamming": 0,
+          "ssim": 0.9692367341056859
+        }
+      },
+      "timings": {
+        "upstream": 275,
+        "primaryGlyph": 121,
+        "secondaryGlyph": 118,
+        "ttfCompose": 11,
+        "flutterRender": 6018,
+        "diffSvgVsTtf": 15,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 13,
+        "total": 6602
+      }
+    },
+    {
+      "iconRef": "solar:home-bold-duotone",
+      "prefix": "solar",
+      "iconName": "home-bold-duotone",
+      "slug": "solar__home-bold-duotone",
+      "status": "needs-review",
+      "primaryReason": "MINOR_DIFF_3WAY",
+      "confidence": "low",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.1243743896484375,
+          "hamming": 3,
+          "ssim": 0.8310021107145733
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.124664306640625,
+          "hamming": 3,
+          "ssim": 0.8267808594031955
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0015411376953125,
+          "hamming": 0,
+          "ssim": 0.9683308402624691
+        }
+      },
+      "timings": {
+        "upstream": 273,
+        "primaryGlyph": 153,
+        "ttfCompose": 3,
+        "flutterRender": 2691,
+        "diffSvgVsTtf": 7,
+        "diffTtfVsFlutter": 8,
+        "diffSvgVsFlutter": 11,
+        "total": 3152
+      }
+    },
+    {
+      "iconRef": "solar:user-circle-bold-duotone",
+      "prefix": "solar",
+      "iconName": "user-circle-bold-duotone",
+      "slug": "solar__user-circle-bold-duotone",
+      "status": "needs-review",
+      "primaryReason": "DUOTONE_BBOX_SHARED_SECONDARY",
+      "confidence": "medium",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 1,
+          "ssim": 0.970022397326938
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.000701904296875,
+          "hamming": 0,
+          "ssim": 0.9549767113317069
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.000152587890625,
+          "hamming": 1,
+          "ssim": 0.9689191134180885
+        }
+      },
+      "timings": {
+        "upstream": 298,
+        "primaryGlyph": 114,
+        "secondaryGlyph": 119,
+        "ttfCompose": 9,
+        "flutterRender": 2682,
+        "diffSvgVsTtf": 11,
+        "diffTtfVsFlutter": 8,
+        "diffSvgVsFlutter": 11,
+        "total": 3256
+      }
+    },
+    {
+      "iconRef": "solar:settings-bold-duotone",
+      "prefix": "solar",
+      "iconName": "settings-bold-duotone",
+      "slug": "solar__settings-bold-duotone",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 1,
+          "ssim": 0.9776901901445769
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0012969970703125,
+          "hamming": 0,
+          "ssim": 0.9655955744561732
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0000457763671875,
+          "hamming": 1,
+          "ssim": 0.9818504941222272
+        }
+      },
+      "timings": {
+        "upstream": 293,
+        "primaryGlyph": 96,
+        "secondaryGlyph": 104,
+        "ttfCompose": 8,
+        "flutterRender": 2703,
+        "diffSvgVsTtf": 9,
+        "diffTtfVsFlutter": 7,
+        "diffSvgVsFlutter": 9,
+        "total": 3233
+      }
+    },
+    {
+      "iconRef": "solar:star-bold-duotone",
+      "prefix": "solar",
+      "iconName": "star-bold-duotone",
+      "slug": "solar__star-bold-duotone",
+      "status": "different",
+      "primaryReason": "DUOTONE_BBOX_MISMATCH",
+      "confidence": "high",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.000030517578125,
+          "hamming": 0,
+          "ssim": 0.976340183982791
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.000518798828125,
+          "hamming": 0,
+          "ssim": 0.9646566144329893
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.00006103515625,
+          "hamming": 0,
+          "ssim": 0.9785531730267055
+        }
+      },
+      "timings": {
+        "upstream": 291,
+        "primaryGlyph": 119,
+        "secondaryGlyph": 121,
+        "ttfCompose": 15,
+        "flutterRender": 3306,
+        "diffSvgVsTtf": 11,
+        "diffTtfVsFlutter": 15,
+        "diffSvgVsFlutter": 10,
+        "total": 3896
+      }
+    },
+    {
+      "iconRef": "solar:heart-bold-duotone",
+      "prefix": "solar",
+      "iconName": "heart-bold-duotone",
+      "slug": "solar__heart-bold-duotone",
+      "status": "different",
+      "primaryReason": "DUOTONE_BBOX_MISMATCH",
+      "confidence": "high",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.0000152587890625,
+          "hamming": 0,
+          "ssim": 0.9755208024614601
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.00018310546875,
+          "hamming": 0,
+          "ssim": 0.9851619314090126
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.00006103515625,
+          "hamming": 0,
+          "ssim": 0.9766225859537094
+        }
+      },
+      "timings": {
+        "upstream": 298,
+        "primaryGlyph": 124,
+        "secondaryGlyph": 110,
+        "ttfCompose": 11,
+        "flutterRender": 3239,
+        "diffSvgVsTtf": 10,
+        "diffTtfVsFlutter": 8,
+        "diffSvgVsFlutter": 14,
+        "total": 3819
+      }
+    },
+    {
+      "iconRef": "solar:bell-bold-duotone",
+      "prefix": "solar",
+      "iconName": "bell-bold-duotone",
+      "slug": "solar__bell-bold-duotone",
+      "status": "different",
+      "primaryReason": "DUOTONE_BBOX_MISMATCH",
+      "confidence": "high",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.0000152587890625,
+          "hamming": 0,
+          "ssim": 0.9749290363763534
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0007781982421875,
+          "hamming": 0,
+          "ssim": 0.9685303233952314
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.00006103515625,
+          "hamming": 0,
+          "ssim": 0.9870083843671645
+        }
+      },
+      "timings": {
+        "upstream": 316,
+        "primaryGlyph": 171,
+        "secondaryGlyph": 187,
+        "ttfCompose": 12,
+        "flutterRender": 3474,
+        "diffSvgVsTtf": 11,
+        "diffTtfVsFlutter": 19,
+        "diffSvgVsFlutter": 16,
+        "total": 4216
+      }
+    },
+    {
+      "iconRef": "solar:calendar-bold-duotone",
+      "prefix": "solar",
+      "iconName": "calendar-bold-duotone",
+      "slug": "solar__calendar-bold-duotone",
+      "status": "different",
+      "primaryReason": "DUOTONE_BBOX_MISMATCH",
+      "confidence": "high",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.0000152587890625,
+          "hamming": 0,
+          "ssim": 0.9748314950652586
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.002471923828125,
+          "hamming": 0,
+          "ssim": 0.952019172242917
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0017852783203125,
+          "hamming": 0,
+          "ssim": 0.9637879153122905
+        }
+      },
+      "timings": {
+        "upstream": 302,
+        "primaryGlyph": 140,
+        "secondaryGlyph": 117,
+        "ttfCompose": 10,
+        "flutterRender": 3462,
+        "diffSvgVsTtf": 8,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 8,
+        "total": 4066
+      }
+    },
+    {
+      "iconRef": "ph:acorn-duotone",
+      "prefix": "ph",
+      "iconName": "acorn-duotone",
+      "slug": "ph__acorn-duotone",
+      "status": "different",
+      "primaryReason": "DUOTONE_BBOX_MISMATCH",
+      "confidence": "high",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.15283203125,
+          "hamming": 1,
+          "ssim": 0.9249596120332039
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.1600189208984375,
+          "hamming": 0,
+          "ssim": 0.9396606719207169
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.002655029296875,
+          "hamming": 1,
+          "ssim": 0.9201640060918561
+        }
+      },
+      "timings": {
+        "upstream": 313,
+        "primaryGlyph": 138,
+        "secondaryGlyph": 132,
+        "ttfCompose": 7,
+        "flutterRender": 6700,
+        "diffSvgVsTtf": 11,
+        "diffTtfVsFlutter": 14,
+        "diffSvgVsFlutter": 9,
+        "total": 7341
+      }
+    },
+    {
+      "iconRef": "ph:heart-duotone",
+      "prefix": "ph",
+      "iconName": "heart-duotone",
+      "slug": "ph__heart-duotone",
+      "status": "needs-review",
+      "primaryReason": "MINOR_DIFF_3WAY",
+      "confidence": "low",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.312530517578125,
+          "hamming": 0,
+          "ssim": 0.9423302331294191
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.3184814453125,
+          "hamming": 0,
+          "ssim": 0.9392995782411544
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.002899169921875,
+          "hamming": 0,
+          "ssim": 0.9451598790804839
+        }
+      },
+      "timings": {
+        "upstream": 296,
+        "primaryGlyph": 138,
+        "secondaryGlyph": 106,
+        "ttfCompose": 14,
+        "flutterRender": 2882,
+        "diffSvgVsTtf": 14,
+        "diffTtfVsFlutter": 14,
+        "diffSvgVsFlutter": 9,
+        "total": 3479
+      }
+    },
+    {
+      "iconRef": "ph:star-duotone",
+      "prefix": "ph",
+      "iconName": "star-duotone",
+      "slug": "ph__star-duotone",
+      "status": "needs-review",
+      "primaryReason": "MINOR_DIFF_3WAY",
+      "confidence": "low",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.199798583984375,
+          "hamming": 0,
+          "ssim": 0.9506825539998485
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.2069854736328125,
+          "hamming": 1,
+          "ssim": 0.9402809436457075
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0052947998046875,
+          "hamming": 1,
+          "ssim": 0.928298756079319
+        }
+      },
+      "timings": {
+        "upstream": 288,
+        "primaryGlyph": 103,
+        "secondaryGlyph": 99,
+        "ttfCompose": 10,
+        "flutterRender": 2822,
+        "diffSvgVsTtf": 13,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 11,
+        "total": 3362
+      }
+    },
+    {
+      "iconRef": "ph:house-duotone",
+      "prefix": "ph",
+      "iconName": "house-duotone",
+      "slug": "ph__house-duotone",
+      "status": "needs-review",
+      "primaryReason": "MINOR_DIFF_3WAY",
+      "confidence": "low",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.23980712890625,
+          "hamming": 0,
+          "ssim": 0.8901438730956228
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.2569427490234375,
+          "hamming": 4,
+          "ssim": 0.8976943051390496
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0054779052734375,
+          "hamming": 4,
+          "ssim": 0.8763879206066684
+        }
+      },
+      "timings": {
+        "upstream": 312,
+        "primaryGlyph": 141,
+        "secondaryGlyph": 109,
+        "ttfCompose": 10,
+        "flutterRender": 3427,
+        "diffSvgVsTtf": 9,
+        "diffTtfVsFlutter": 11,
+        "diffSvgVsFlutter": 9,
+        "total": 4035
+      }
+    },
+    {
+      "iconRef": "logos:adobe-after-effects",
+      "prefix": "logos",
+      "iconName": "adobe-after-effects",
+      "slug": "logos__adobe-after-effects",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": true,
+      "duotoneKind": "paintOrder",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.928314208984375,
+          "hamming": 1,
+          "ssim": 0.29212611128898897
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.9352264404296875,
+          "hamming": 3,
+          "ssim": 0.2824829096738038
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0023040771484375,
+          "hamming": 2,
+          "ssim": 0.9554479584400873
+        }
+      },
+      "timings": {
+        "upstream": 304,
+        "primaryGlyph": 104,
+        "secondaryGlyph": 134,
+        "ttfCompose": 19,
+        "flutterRender": 6224,
+        "diffSvgVsTtf": 19,
+        "diffTtfVsFlutter": 11,
+        "diffSvgVsFlutter": 16,
+        "total": 6858
+      }
+    },
+    {
+      "iconRef": "logos:react",
+      "prefix": "logos",
+      "iconName": "react",
+      "slug": "logos__react",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.25640869140625,
+          "hamming": 0,
+          "ssim": 0.6929737593258164
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.259002685546875,
+          "hamming": 4,
+          "ssim": 0.6969654806915958
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0115966796875,
+          "hamming": 4,
+          "ssim": 0.8633016521739277
+        }
+      },
+      "timings": {
+        "upstream": 289,
+        "primaryGlyph": 111,
+        "ttfCompose": 2,
+        "flutterRender": 2937,
+        "diffSvgVsTtf": 10,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 10,
+        "total": 3371
+      }
+    },
+    {
+      "iconRef": "logos:vue",
+      "prefix": "logos",
+      "iconName": "vue",
+      "slug": "logos__vue",
+      "status": "different",
+      "primaryReason": "DUOTONE_BBOX_MISMATCH",
+      "confidence": "high",
+      "duotone": true,
+      "duotoneKind": "paintOrder",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.39288330078125,
+          "hamming": 10,
+          "ssim": 0.7681762579501115
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.3968658447265625,
+          "hamming": 10,
+          "ssim": 0.7766512275731097
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0068206787109375,
+          "hamming": 0,
+          "ssim": 0.8850358307144448
+        }
+      },
+      "timings": {
+        "upstream": 287,
+        "primaryGlyph": 99,
+        "secondaryGlyph": 90,
+        "ttfCompose": 10,
+        "flutterRender": 2728,
+        "diffSvgVsTtf": 8,
+        "diffTtfVsFlutter": 7,
+        "diffSvgVsFlutter": 9,
+        "total": 3241
+      }
+    },
+    {
+      "iconRef": "logos:adobe-photoshop",
+      "prefix": "logos",
+      "iconName": "adobe-photoshop",
+      "slug": "logos__adobe-photoshop",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": true,
+      "duotoneKind": "paintOrder",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.9295501708984375,
+          "hamming": 0,
+          "ssim": 0.2265657407543724
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.935302734375,
+          "hamming": 1,
+          "ssim": 0.2125953457323975
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0013427734375,
+          "hamming": 1,
+          "ssim": 0.9689585374250724
+        }
+      },
+      "timings": {
+        "upstream": 280,
+        "primaryGlyph": 96,
+        "secondaryGlyph": 93,
+        "ttfCompose": 6,
+        "flutterRender": 3034,
+        "diffSvgVsTtf": 13,
+        "diffTtfVsFlutter": 8,
+        "diffSvgVsFlutter": 12,
+        "total": 3545
+      }
+    },
+    {
+      "iconRef": "emojione:a-button",
+      "prefix": "emojione",
+      "iconName": "a-button",
+      "slug": "emojione__a-button",
+      "status": "different",
+      "primaryReason": "GENERATOR_FILLED_BLOB",
+      "confidence": "high",
+      "duotone": true,
+      "duotoneKind": "paintOrder",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.757232666015625,
+          "hamming": 0,
+          "ssim": 0.16872854842030183
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.77288818359375,
+          "hamming": 0,
+          "ssim": 0.14112246350252247
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0006866455078125,
+          "hamming": 0,
+          "ssim": 0.9170694015995584
+        }
+      },
+      "timings": {
+        "upstream": 300,
+        "primaryGlyph": 203,
+        "secondaryGlyph": 109,
+        "ttfCompose": 9,
+        "flutterRender": 6609,
+        "diffSvgVsTtf": 13,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 12,
+        "total": 7275
+      }
+    },
+    {
+      "iconRef": "emojione:aquarius",
+      "prefix": "emojione",
+      "iconName": "aquarius",
+      "slug": "emojione__aquarius",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": true,
+      "duotoneKind": "paintOrder",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.553680419921875,
+          "hamming": 2,
+          "ssim": 0.37178847831025774
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.56207275390625,
+          "hamming": 3,
+          "ssim": 0.3647880573580192
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.000518798828125,
+          "hamming": 1,
+          "ssim": 0.9510767401377447
+        }
+      },
+      "timings": {
+        "upstream": 284,
+        "primaryGlyph": 94,
+        "secondaryGlyph": 94,
+        "ttfCompose": 8,
+        "flutterRender": 2830,
+        "diffSvgVsTtf": 13,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 16,
+        "total": 3350
+      }
+    },
+    {
+      "iconRef": "emojione:atom-symbol",
+      "prefix": "emojione",
+      "iconName": "atom-symbol",
+      "slug": "emojione__atom-symbol",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": true,
+      "duotoneKind": "paintOrder",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.1834259033203125,
+          "hamming": 4,
+          "ssim": 0.8219155925429245
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.18408203125,
+          "hamming": 2,
+          "ssim": 0.8304102682735841
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0118408203125,
+          "hamming": 4,
+          "ssim": 0.8483428886659704
+        }
+      },
+      "timings": {
+        "upstream": 294,
+        "primaryGlyph": 116,
+        "secondaryGlyph": 93,
+        "ttfCompose": 9,
+        "flutterRender": 2769,
+        "diffSvgVsTtf": 11,
+        "diffTtfVsFlutter": 12,
+        "diffSvgVsFlutter": 9,
+        "total": 3315
+      }
+    },
+    {
+      "iconRef": "lets-icons:alarmclock-duotone-line",
+      "prefix": "lets-icons",
+      "iconName": "alarmclock-duotone-line",
+      "slug": "lets-icons__alarmclock-duotone-line",
+      "status": "needs-review",
+      "primaryReason": "MINOR_DIFF_3WAY",
+      "confidence": "low",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.197235107421875,
+          "hamming": 0,
+          "ssim": 0.9562985391404067
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.203857421875,
+          "hamming": 0,
+          "ssim": 0.9647032461410938
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0025787353515625,
+          "hamming": 0,
+          "ssim": 0.9540349569930231
+        }
+      },
+      "timings": {
+        "upstream": 299,
+        "primaryGlyph": 103,
+        "secondaryGlyph": 107,
+        "ttfCompose": 10,
+        "flutterRender": 5686,
+        "diffSvgVsTtf": 12,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 12,
+        "total": 6245
+      }
+    },
+    {
+      "iconRef": "lets-icons:add-duotone-line",
+      "prefix": "lets-icons",
+      "iconName": "add-duotone-line",
+      "slug": "lets-icons__add-duotone-line",
+      "status": "needs-review",
+      "primaryReason": "MINOR_DIFF_3WAY",
+      "confidence": "low",
+      "duotone": true,
+      "duotoneKind": "maskInternal",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.1006317138671875,
+          "hamming": 2,
+          "ssim": 0.948699384087469
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.1021270751953125,
+          "hamming": 2,
+          "ssim": 0.9345117558566995
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.002899169921875,
+          "hamming": 4,
+          "ssim": 0.9543009702905166
+        }
+      },
+      "timings": {
+        "upstream": 299,
+        "primaryGlyph": 100,
+        "secondaryGlyph": 99,
+        "ttfCompose": 11,
+        "flutterRender": 2881,
+        "diffSvgVsTtf": 13,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 10,
+        "total": 3425
+      }
+    },
+    {
+      "iconRef": "lets-icons:add-ring-duotone-line",
+      "prefix": "lets-icons",
+      "iconName": "add-ring-duotone-line",
+      "slug": "lets-icons__add-ring-duotone-line",
+      "status": "needs-review",
+      "primaryReason": "MINOR_DIFF_3WAY",
+      "confidence": "low",
+      "duotone": true,
+      "duotoneKind": "maskInternal",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.1006317138671875,
+          "hamming": 2,
+          "ssim": 0.9500567393839304
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.1012725830078125,
+          "hamming": 2,
+          "ssim": 0.9390327057615298
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.002899169921875,
+          "hamming": 4,
+          "ssim": 0.9564283987033417
+        }
+      },
+      "timings": {
+        "upstream": 282,
+        "primaryGlyph": 99,
+        "secondaryGlyph": 98,
+        "ttfCompose": 10,
+        "flutterRender": 2790,
+        "diffSvgVsTtf": 9,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 8,
+        "total": 3309
+      }
+    },
+    {
+      "iconRef": "lucide:heart",
+      "prefix": "lucide",
+      "iconName": "heart",
+      "slug": "lucide__heart",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9624050031688827
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0007781982421875,
+          "hamming": 0,
+          "ssim": 0.9642245688134998
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0028228759765625,
+          "hamming": 0,
+          "ssim": 0.94708776798475
+        }
+      },
+      "timings": {
+        "upstream": 303,
+        "primaryGlyph": 175,
+        "ttfCompose": 2,
+        "flutterRender": 6798,
+        "diffSvgVsTtf": 19,
+        "diffTtfVsFlutter": 21,
+        "diffSvgVsFlutter": 16,
+        "total": 7343
+      }
+    },
+    {
+      "iconRef": "lucide:star",
+      "prefix": "lucide",
+      "iconName": "star",
+      "slug": "lucide__star",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.0000762939453125,
+          "hamming": 0,
+          "ssim": 0.9676056164424339
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.001556396484375,
+          "hamming": 1,
+          "ssim": 0.9466286373156362
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0031585693359375,
+          "hamming": 1,
+          "ssim": 0.9446341482662742
+        }
+      },
+      "timings": {
+        "upstream": 308,
+        "primaryGlyph": 154,
+        "ttfCompose": 2,
+        "flutterRender": 2778,
+        "diffSvgVsTtf": 12,
+        "diffTtfVsFlutter": 11,
+        "diffSvgVsFlutter": 9,
+        "total": 3283
+      }
+    },
+    {
+      "iconRef": "lucide:house",
+      "prefix": "lucide",
+      "iconName": "house",
+      "slug": "lucide__house",
+      "status": "needs-review",
+      "primaryReason": "MINOR_DIFF_3WAY",
+      "confidence": "low",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 1,
+          "ssim": 0.983753803771453
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0005035400390625,
+          "hamming": 5,
+          "ssim": 0.9706600657956659
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0081024169921875,
+          "hamming": 4,
+          "ssim": 0.9576784504117245
+        }
+      },
+      "timings": {
+        "upstream": 297,
+        "primaryGlyph": 139,
+        "ttfCompose": 4,
+        "flutterRender": 3177,
+        "diffSvgVsTtf": 9,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 9,
+        "total": 3649
+      }
+    },
+    {
+      "iconRef": "lucide:circle-check",
+      "prefix": "lucide",
+      "iconName": "circle-check",
+      "slug": "lucide__circle-check",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 1,
+          "ssim": 0.96421282519569
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0012969970703125,
+          "hamming": 3,
+          "ssim": 0.9415638918586368
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0034027099609375,
+          "hamming": 4,
+          "ssim": 0.9339677047973846
+        }
+      },
+      "timings": {
+        "upstream": 303,
+        "primaryGlyph": 120,
+        "ttfCompose": 2,
+        "flutterRender": 3634,
+        "diffSvgVsTtf": 12,
+        "diffTtfVsFlutter": 12,
+        "diffSvgVsFlutter": 12,
+        "total": 4100
+      }
+    },
+    {
+      "iconRef": "lucide:pencil",
+      "prefix": "lucide",
+      "iconName": "pencil",
+      "slug": "lucide__pencil",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.0000152587890625,
+          "hamming": 0,
+          "ssim": 0.9713883098970001
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0003814697265625,
+          "hamming": 0,
+          "ssim": 0.9664277168485392
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.003448486328125,
+          "hamming": 0,
+          "ssim": 0.947173811740962
+        }
+      },
+      "timings": {
+        "upstream": 315,
+        "primaryGlyph": 148,
+        "ttfCompose": 3,
+        "flutterRender": 3188,
+        "diffSvgVsTtf": 13,
+        "diffTtfVsFlutter": 12,
+        "diffSvgVsFlutter": 9,
+        "total": 3695
+      }
+    },
+    {
+      "iconRef": "tabler:home",
+      "prefix": "tabler",
+      "iconName": "home",
+      "slug": "tabler__home",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 1,
+          "ssim": 0.9467272507408654
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.00146484375,
+          "hamming": 3,
+          "ssim": 0.9370623630269399
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.006195068359375,
+          "hamming": 4,
+          "ssim": 0.9250771331886826
+        }
+      },
+      "timings": {
+        "upstream": 309,
+        "primaryGlyph": 130,
+        "ttfCompose": 2,
+        "flutterRender": 5960,
+        "diffSvgVsTtf": 11,
+        "diffTtfVsFlutter": 7,
+        "diffSvgVsFlutter": 14,
+        "total": 6472
+      }
+    },
+    {
+      "iconRef": "tabler:heart",
+      "prefix": "tabler",
+      "iconName": "heart",
+      "slug": "tabler__heart",
+      "status": "needs-review",
+      "primaryReason": "MINOR_DIFF_3WAY",
+      "confidence": "low",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 2,
+          "ssim": 0.969531401211678
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0006103515625,
+          "hamming": 3,
+          "ssim": 0.9602708279060307
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0028076171875,
+          "hamming": 5,
+          "ssim": 0.9533297629824624
+        }
+      },
+      "timings": {
+        "upstream": 316,
+        "primaryGlyph": 134,
+        "ttfCompose": 3,
+        "flutterRender": 3491,
+        "diffSvgVsTtf": 12,
+        "diffTtfVsFlutter": 17,
+        "diffSvgVsFlutter": 15,
+        "total": 4013
+      }
+    },
+    {
+      "iconRef": "tabler:star",
+      "prefix": "tabler",
+      "iconName": "star",
+      "slug": "tabler__star",
+      "status": "same",
+      "primaryReason": "OK_3WAY",
+      "confidence": "high",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.0001068115234375,
+          "hamming": 1,
+          "ssim": 0.9744588456947546
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.0013275146484375,
+          "hamming": 0,
+          "ssim": 0.95778666017122
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.002899169921875,
+          "hamming": 1,
+          "ssim": 0.9504311580080587
+        }
+      },
+      "timings": {
+        "upstream": 308,
+        "primaryGlyph": 124,
+        "ttfCompose": 2,
+        "flutterRender": 3234,
+        "diffSvgVsTtf": 8,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 13,
+        "total": 3722
+      }
+    },
+    {
+      "iconRef": "twemoji:a-button",
+      "prefix": "twemoji",
+      "iconName": "a-button",
+      "slug": "twemoji__a-button",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": true,
+      "duotoneKind": "paintOrder",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.812469482421875,
+          "hamming": 1,
+          "ssim": 0.19118682285668284
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.8180084228515625,
+          "hamming": 0,
+          "ssim": 0.17360510598778905
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0006561279296875,
+          "hamming": 1,
+          "ssim": 0.9661198108313552
+        }
+      },
+      "timings": {
+        "upstream": 288,
+        "primaryGlyph": 102,
+        "secondaryGlyph": 98,
+        "ttfCompose": 11,
+        "flutterRender": 5911,
+        "diffSvgVsTtf": 11,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 12,
+        "total": 6467
+      }
+    },
+    {
+      "iconRef": "twemoji:a-button-blood-type",
+      "prefix": "twemoji",
+      "iconName": "a-button-blood-type",
+      "slug": "twemoji__a-button-blood-type",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": true,
+      "duotoneKind": "paintOrder",
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.812469482421875,
+          "hamming": 1,
+          "ssim": 0.19118682285668284
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.8180084228515625,
+          "hamming": 0,
+          "ssim": 0.17360510598778905
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0006561279296875,
+          "hamming": 1,
+          "ssim": 0.9661198108313552
+        }
+      },
+      "timings": {
+        "upstream": 307,
+        "primaryGlyph": 103,
+        "secondaryGlyph": 104,
+        "ttfCompose": 9,
+        "flutterRender": 2902,
+        "diffSvgVsTtf": 14,
+        "diffTtfVsFlutter": 9,
+        "diffSvgVsFlutter": 14,
+        "total": 3464
+      }
+    },
+    {
+      "iconRef": "devicon:capacitor",
+      "prefix": "devicon",
+      "iconName": "capacitor",
+      "slug": "devicon__capacitor",
+      "status": "different",
+      "primaryReason": "EMPTY_GLYPH",
+      "confidence": "high",
+      "duotone": true,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.517578125,
+          "hamming": 13,
+          "ssim": 0.7502756847509523
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.5191650390625,
+          "hamming": 13,
+          "ssim": 0.7485367406950468
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0,
+          "hamming": 0,
+          "ssim": 0.9946762581923184
+        }
+      },
+      "timings": {
+        "upstream": 300,
+        "primaryGlyph": 103,
+        "secondaryGlyph": 96,
+        "ttfCompose": 9,
+        "flutterRender": 5834,
+        "diffSvgVsTtf": 13,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 11,
+        "total": 6390
+      }
+    },
+    {
+      "iconRef": "devicon:angular",
+      "prefix": "devicon",
+      "iconName": "angular",
+      "slug": "devicon__angular",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.2718963623046875,
+          "hamming": 9,
+          "ssim": 0.691320950272095
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.2653656005859375,
+          "hamming": 9,
+          "ssim": 0.6835981987550181
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0003814697265625,
+          "hamming": 2,
+          "ssim": 0.9687688975049557
+        }
+      },
+      "timings": {
+        "upstream": 305,
+        "primaryGlyph": 118,
+        "ttfCompose": 2,
+        "flutterRender": 2942,
+        "diffSvgVsTtf": 12,
+        "diffTtfVsFlutter": 13,
+        "diffSvgVsFlutter": 13,
+        "total": 3406
+      }
+    },
+    {
+      "iconRef": "devicon:androidstudio",
+      "prefix": "devicon",
+      "iconName": "androidstudio",
+      "slug": "devicon__androidstudio",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.5682220458984375,
+          "hamming": 7,
+          "ssim": 0.4898936224162092
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.5704193115234375,
+          "hamming": 7,
+          "ssim": 0.4796383691313898
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0005035400390625,
+          "hamming": 0,
+          "ssim": 0.9845705581461481
+        }
+      },
+      "timings": {
+        "upstream": 279,
+        "primaryGlyph": 96,
+        "ttfCompose": 1,
+        "flutterRender": 2832,
+        "diffSvgVsTtf": 9,
+        "diffTtfVsFlutter": 11,
+        "diffSvgVsFlutter": 11,
+        "total": 3241
+      }
+    },
+    {
+      "iconRef": "circle-flags:it-21",
+      "prefix": "circle-flags",
+      "iconName": "it-21",
+      "slug": "circle-flags__it-21",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.4672698974609375,
+          "hamming": 0,
+          "ssim": 0.5635362554858294
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.46905517578125,
+          "hamming": 0,
+          "ssim": 0.560645902107754
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0041046142578125,
+          "hamming": 0,
+          "ssim": 0.927789983217285
+        }
+      },
+      "timings": {
+        "upstream": 293,
+        "primaryGlyph": 101,
+        "ttfCompose": 2,
+        "flutterRender": 5587,
+        "diffSvgVsTtf": 13,
+        "diffTtfVsFlutter": 10,
+        "diffSvgVsFlutter": 12,
+        "total": 6022
+      }
+    },
+    {
+      "iconRef": "circle-flags:it-42",
+      "prefix": "circle-flags",
+      "iconName": "it-42",
+      "slug": "circle-flags__it-42",
+      "status": "different",
+      "primaryReason": "GENERATOR_DIFF",
+      "confidence": "medium",
+      "duotone": false,
+      "metrics": {
+        "svgVsFlutter": {
+          "mismatchPct": 0.704132080078125,
+          "hamming": 6,
+          "ssim": 0.4408484143569299
+        },
+        "svgVsTtf": {
+          "mismatchPct": 0.70928955078125,
+          "hamming": 6,
+          "ssim": 0.44507670126802323
+        },
+        "ttfVsFlutter": {
+          "mismatchPct": 0.0058441162109375,
+          "hamming": 0,
+          "ssim": 0.9355827487839953
+        }
+      },
+      "timings": {
+        "upstream": 301,
+        "primaryGlyph": 104,
+        "ttfCompose": 2,
+        "flutterRender": 3138,
+        "diffSvgVsTtf": 12,
+        "diffTtfVsFlutter": 8,
+        "diffSvgVsFlutter": 10,
+        "total": 3576
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_lucide/assets/fonts/Lucide_2.ttf",
+  "codepoint": "0xe314",
+  "glyphName": "star",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 41.97872340425532,
+    "yMin": 81,
+    "xMax": 958.1333333333333,
+    "yMax": 957.6666666666666,
+    "width": 916.154609929078,
+    "height": 876.6666666666666,
+    "cx": 500.05602836879433,
+    "cy": 519.3333333333333
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

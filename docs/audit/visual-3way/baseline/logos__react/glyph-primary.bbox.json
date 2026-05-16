@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_logos/assets/fonts/Logos.ttf",
+  "codepoint": "0xe25f",
+  "glyphName": "react",
+  "advance": 1122,
+  "lsb": -1,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 0.0,
+    "yMin": 0.810526315789474,
+    "xMax": 1123,
+    "yMax": 1000.0208333333334,
+    "width": 1123.0,
+    "height": 999.2103070175439,
+    "cx": 561.5,
+    "cy": 500.41567982456144
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

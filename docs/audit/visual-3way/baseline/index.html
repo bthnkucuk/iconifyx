@@ -1,0 +1,1578 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>iconifyx visual three-way audit</title>
+<style>
+* { box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  margin: 0;
+  padding: 24px;
+  background: #fafafa;
+  color: #111;
+}
+h1 { margin: 0 0 12px; font-size: 22px; }
+.meta { font-size: 13px; color: #555; margin-bottom: 24px; }
+.tally {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 14px;
+  margin-right: 6px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.tally.ok { background: #d4edda; color: #155724; }
+.tally.review { background: #fff3cd; color: #856404; }
+.tally.diff { background: #f8d7da; color: #721c24; }
+.controls {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+  padding: 16px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+.controls label { font-size: 13px; display: flex; align-items: center; gap: 6px; }
+.controls input[type=text] {
+  font-size: 14px;
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  min-width: 200px;
+}
+.row {
+  display: grid;
+  grid-template-columns: 200px repeat(5, 1fr) 180px;
+  gap: 12px;
+  background: white;
+  padding: 12px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  border-left: 4px solid #ccc;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+.row.same { border-left-color: #28a745; }
+.row.needs-review { border-left-color: #ffc107; }
+.row.different { border-left-color: #dc3545; }
+.row.error { border-left-color: #6c757d; background: #f8f9fa; }
+.row .icon-info { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.row .icon-ref { font-family: ui-monospace, SFMono-Regular, monospace; font-size: 12px; word-break: break-all; }
+.row .icon-status { font-size: 11px; }
+.row .icon-pack { font-size: 11px; color: #888; }
+.row .panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 10px;
+  color: #555;
+}
+.row .panel img {
+  width: 100%;
+  max-width: 128px;
+  height: auto;
+  border: 1px solid #ddd;
+  background: white;
+  image-rendering: pixelated;
+}
+.row .panel .label { margin-bottom: 4px; font-weight: 600; }
+.row .metrics { font-size: 11px; color: #444; line-height: 1.5; min-width: 0; }
+.row .metrics .reason {
+  display: inline-block;
+  padding: 2px 6px;
+  background: #f0f0f0;
+  border-radius: 3px;
+  font-family: ui-monospace, monospace;
+  margin-bottom: 6px;
+  word-break: break-word;
+}
+.row .metrics .pair {
+  margin: 4px 0;
+  border-top: 1px dashed #eee;
+  padding-top: 4px;
+}
+.row .metrics .pair .label {
+  font-size: 10px;
+  color: #888;
+  text-transform: uppercase;
+}
+.section-title {
+  margin: 28px 0 12px;
+  padding: 8px 0;
+  border-bottom: 2px solid #ddd;
+  font-size: 16px;
+}
+.by-pack {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.by-pack .cell {
+  background: white;
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 12px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+.by-pack .cell .name { font-weight: 600; font-family: ui-monospace, monospace; }
+.by-pack .cell .nums { color: #555; }
+.by-pack .cell .bar {
+  display: flex;
+  height: 6px;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-top: 4px;
+}
+.by-pack .cell .bar > div { height: 100%; }
+.by-pack .cell .bar .ok { background: #28a745; }
+.by-pack .cell .bar .review { background: #ffc107; }
+.by-pack .cell .bar .diff { background: #dc3545; }
+</style>
+</head>
+<body>
+<h1>Visual three-way audit (Phase 1.5)</h1>
+<div class="meta">
+  Generated 2026-05-16T07:03:09.545Z ·
+  50 icons ·
+  3-way comparison ·
+  canvas 256px
+  <br>
+  <span class="tally ok">21 OK</span>
+  <span class="tally review">10 needs-review</span>
+  <span class="tally diff">19 different</span>
+</div>
+
+<div class="controls">
+  <label>Status
+    <select id="f-status">
+      <option value="">all</option>
+      <option value="same">same</option>
+      <option value="needs-review">needs-review</option>
+      <option value="different">different</option>
+    </select>
+  </label>
+  <label>Reason filter
+    <input id="f-reason" type="text" placeholder="e.g. GENERATOR or WIDGET">
+  </label>
+  <label>Pack filter
+    <input id="f-pack" type="text" placeholder="e.g. solar, logos">
+  </label>
+</div>
+
+<div class="section-title">By pack</div>
+<div class="by-pack">
+<div class="cell">
+  <div class="name">solar</div>
+  <div class="nums">2 ok · 2 review · 4 diff <span style="color:#888">(8)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0.25"></div>
+    <div class="review" style="flex:0.25"></div>
+    <div class="diff" style="flex:0.5"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">logos</div>
+  <div class="nums">0 ok · 0 review · 4 diff <span style="color:#888">(4)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0"></div>
+    <div class="review" style="flex:0"></div>
+    <div class="diff" style="flex:1"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">emojione</div>
+  <div class="nums">0 ok · 0 review · 3 diff <span style="color:#888">(3)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0"></div>
+    <div class="review" style="flex:0"></div>
+    <div class="diff" style="flex:1"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">devicon</div>
+  <div class="nums">0 ok · 0 review · 3 diff <span style="color:#888">(3)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0"></div>
+    <div class="review" style="flex:0"></div>
+    <div class="diff" style="flex:1"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">twemoji</div>
+  <div class="nums">0 ok · 0 review · 2 diff <span style="color:#888">(2)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0"></div>
+    <div class="review" style="flex:0"></div>
+    <div class="diff" style="flex:1"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">circle-flags</div>
+  <div class="nums">0 ok · 0 review · 2 diff <span style="color:#888">(2)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0"></div>
+    <div class="review" style="flex:0"></div>
+    <div class="diff" style="flex:1"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">ph</div>
+  <div class="nums">0 ok · 3 review · 1 diff <span style="color:#888">(4)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0"></div>
+    <div class="review" style="flex:0.75"></div>
+    <div class="diff" style="flex:0.25"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">mdi</div>
+  <div class="nums">10 ok · 0 review · 0 diff <span style="color:#888">(10)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:1"></div>
+    <div class="review" style="flex:0"></div>
+    <div class="diff" style="flex:0"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">material-symbols</div>
+  <div class="nums">3 ok · 0 review · 0 diff <span style="color:#888">(3)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:1"></div>
+    <div class="review" style="flex:0"></div>
+    <div class="diff" style="flex:0"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">lets-icons</div>
+  <div class="nums">0 ok · 3 review · 0 diff <span style="color:#888">(3)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0"></div>
+    <div class="review" style="flex:1"></div>
+    <div class="diff" style="flex:0"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">lucide</div>
+  <div class="nums">4 ok · 1 review · 0 diff <span style="color:#888">(5)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0.8"></div>
+    <div class="review" style="flex:0.2"></div>
+    <div class="diff" style="flex:0"></div>
+  </div>
+</div>
+
+<div class="cell">
+  <div class="name">tabler</div>
+  <div class="nums">2 ok · 1 review · 0 diff <span style="color:#888">(3)</span></div>
+  <div class="bar">
+    <div class="ok" style="flex:0.6666666666666666"></div>
+    <div class="review" style="flex:0.3333333333333333"></div>
+    <div class="diff" style="flex:0"></div>
+  </div>
+</div></div>
+
+<div class="section-title">By classifier reason</div>
+<ul><li><code>OK_3WAY</code> &mdash; 21</li>
+<li><code>GENERATOR_DIFF</code> &mdash; 11</li>
+<li><code>MINOR_DIFF_3WAY</code> &mdash; 9</li>
+<li><code>DUOTONE_BBOX_MISMATCH</code> &mdash; 6</li>
+<li><code>DUOTONE_BBOX_SHARED_SECONDARY</code> &mdash; 1</li>
+<li><code>GENERATOR_FILLED_BLOB</code> &mdash; 1</li>
+<li><code>EMPTY_GLYPH</code> &mdash; 1</li></ul>
+
+<div class="section-title">Rows (different → needs-review → same)</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="circle-flags">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="circle-flags__it-21/REPORT.md">circle-flags:it-21</a></div>
+    <div class="icon-pack">circle-flags</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="circle-flags__it-21/upstream.png" target="_blank"><img src="circle-flags__it-21/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="circle-flags__it-21/glyph-primary.png" target="_blank"><img src="circle-flags__it-21/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="circle-flags__it-21/ttf-composed.png" target="_blank"><img src="circle-flags__it-21/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="circle-flags__it-21/flutter-rendered.png" target="_blank"><img src="circle-flags__it-21/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="circle-flags__it-21/diff-svg-vs-flutter.png" target="_blank"><img src="circle-flags__it-21/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 46.9% · ham 0 · ssim 0.561</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.4% · ham 0 · ssim 0.928</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 46.7% · ham 0 · ssim 0.564</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="circle-flags">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="circle-flags__it-42/REPORT.md">circle-flags:it-42</a></div>
+    <div class="icon-pack">circle-flags</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="circle-flags__it-42/upstream.png" target="_blank"><img src="circle-flags__it-42/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="circle-flags__it-42/glyph-primary.png" target="_blank"><img src="circle-flags__it-42/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="circle-flags__it-42/ttf-composed.png" target="_blank"><img src="circle-flags__it-42/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="circle-flags__it-42/flutter-rendered.png" target="_blank"><img src="circle-flags__it-42/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="circle-flags__it-42/diff-svg-vs-flutter.png" target="_blank"><img src="circle-flags__it-42/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 70.9% · ham 6 · ssim 0.445</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.6% · ham 0 · ssim 0.936</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 70.4% · ham 6 · ssim 0.441</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="devicon">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="devicon__androidstudio/REPORT.md">devicon:androidstudio</a></div>
+    <div class="icon-pack">devicon</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="devicon__androidstudio/upstream.png" target="_blank"><img src="devicon__androidstudio/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="devicon__androidstudio/glyph-primary.png" target="_blank"><img src="devicon__androidstudio/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="devicon__androidstudio/ttf-composed.png" target="_blank"><img src="devicon__androidstudio/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="devicon__androidstudio/flutter-rendered.png" target="_blank"><img src="devicon__androidstudio/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="devicon__androidstudio/diff-svg-vs-flutter.png" target="_blank"><img src="devicon__androidstudio/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 57.0% · ham 7 · ssim 0.480</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.1% · ham 0 · ssim 0.985</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 56.8% · ham 7 · ssim 0.490</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="devicon">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="devicon__angular/REPORT.md">devicon:angular</a></div>
+    <div class="icon-pack">devicon</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="devicon__angular/upstream.png" target="_blank"><img src="devicon__angular/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="devicon__angular/glyph-primary.png" target="_blank"><img src="devicon__angular/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="devicon__angular/ttf-composed.png" target="_blank"><img src="devicon__angular/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="devicon__angular/flutter-rendered.png" target="_blank"><img src="devicon__angular/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="devicon__angular/diff-svg-vs-flutter.png" target="_blank"><img src="devicon__angular/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 26.5% · ham 9 · ssim 0.684</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 2 · ssim 0.969</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 27.2% · ham 9 · ssim 0.691</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="EMPTY_GLYPH"
+     data-pack="devicon">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="devicon__capacitor/REPORT.md">devicon:capacitor</a></div>
+    <div class="icon-pack">devicon · duo(hint)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="devicon__capacitor/upstream.png" target="_blank"><img src="devicon__capacitor/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="devicon__capacitor/glyph-primary.png" target="_blank"><img src="devicon__capacitor/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="devicon__capacitor/ttf-composed.png" target="_blank"><img src="devicon__capacitor/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="devicon__capacitor/flutter-rendered.png" target="_blank"><img src="devicon__capacitor/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="devicon__capacitor/diff-svg-vs-flutter.png" target="_blank"><img src="devicon__capacitor/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">EMPTY_GLYPH</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 51.9% · ham 13 · ssim 0.749</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.995</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 51.8% · ham 13 · ssim 0.750</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_FILLED_BLOB"
+     data-pack="emojione">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="emojione__a-button/REPORT.md">emojione:a-button</a></div>
+    <div class="icon-pack">emojione · duo(paintOrder)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="emojione__a-button/upstream.png" target="_blank"><img src="emojione__a-button/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="emojione__a-button/glyph-primary.png" target="_blank"><img src="emojione__a-button/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="emojione__a-button/ttf-composed.png" target="_blank"><img src="emojione__a-button/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="emojione__a-button/flutter-rendered.png" target="_blank"><img src="emojione__a-button/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="emojione__a-button/diff-svg-vs-flutter.png" target="_blank"><img src="emojione__a-button/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_FILLED_BLOB</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 77.3% · ham 0 · ssim 0.141</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.1% · ham 0 · ssim 0.917</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 75.7% · ham 0 · ssim 0.169</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="emojione">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="emojione__aquarius/REPORT.md">emojione:aquarius</a></div>
+    <div class="icon-pack">emojione · duo(paintOrder)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="emojione__aquarius/upstream.png" target="_blank"><img src="emojione__aquarius/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="emojione__aquarius/glyph-primary.png" target="_blank"><img src="emojione__aquarius/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="emojione__aquarius/ttf-composed.png" target="_blank"><img src="emojione__aquarius/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="emojione__aquarius/flutter-rendered.png" target="_blank"><img src="emojione__aquarius/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="emojione__aquarius/diff-svg-vs-flutter.png" target="_blank"><img src="emojione__aquarius/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 56.2% · ham 3 · ssim 0.365</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.1% · ham 1 · ssim 0.951</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 55.4% · ham 2 · ssim 0.372</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="emojione">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="emojione__atom-symbol/REPORT.md">emojione:atom-symbol</a></div>
+    <div class="icon-pack">emojione · duo(paintOrder)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="emojione__atom-symbol/upstream.png" target="_blank"><img src="emojione__atom-symbol/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="emojione__atom-symbol/glyph-primary.png" target="_blank"><img src="emojione__atom-symbol/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="emojione__atom-symbol/ttf-composed.png" target="_blank"><img src="emojione__atom-symbol/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="emojione__atom-symbol/flutter-rendered.png" target="_blank"><img src="emojione__atom-symbol/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="emojione__atom-symbol/diff-svg-vs-flutter.png" target="_blank"><img src="emojione__atom-symbol/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 18.4% · ham 2 · ssim 0.830</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 1.2% · ham 4 · ssim 0.848</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 18.3% · ham 4 · ssim 0.822</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="logos">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="logos__adobe-after-effects/REPORT.md">logos:adobe-after-effects</a></div>
+    <div class="icon-pack">logos · duo(paintOrder)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="logos__adobe-after-effects/upstream.png" target="_blank"><img src="logos__adobe-after-effects/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="logos__adobe-after-effects/glyph-primary.png" target="_blank"><img src="logos__adobe-after-effects/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="logos__adobe-after-effects/ttf-composed.png" target="_blank"><img src="logos__adobe-after-effects/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="logos__adobe-after-effects/flutter-rendered.png" target="_blank"><img src="logos__adobe-after-effects/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="logos__adobe-after-effects/diff-svg-vs-flutter.png" target="_blank"><img src="logos__adobe-after-effects/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 93.5% · ham 3 · ssim 0.282</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.2% · ham 2 · ssim 0.955</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 92.8% · ham 1 · ssim 0.292</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="logos">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="logos__adobe-photoshop/REPORT.md">logos:adobe-photoshop</a></div>
+    <div class="icon-pack">logos · duo(paintOrder)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="logos__adobe-photoshop/upstream.png" target="_blank"><img src="logos__adobe-photoshop/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="logos__adobe-photoshop/glyph-primary.png" target="_blank"><img src="logos__adobe-photoshop/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="logos__adobe-photoshop/ttf-composed.png" target="_blank"><img src="logos__adobe-photoshop/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="logos__adobe-photoshop/flutter-rendered.png" target="_blank"><img src="logos__adobe-photoshop/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="logos__adobe-photoshop/diff-svg-vs-flutter.png" target="_blank"><img src="logos__adobe-photoshop/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 93.5% · ham 1 · ssim 0.213</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.1% · ham 1 · ssim 0.969</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 93.0% · ham 0 · ssim 0.227</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="logos">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="logos__react/REPORT.md">logos:react</a></div>
+    <div class="icon-pack">logos</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="logos__react/upstream.png" target="_blank"><img src="logos__react/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="logos__react/glyph-primary.png" target="_blank"><img src="logos__react/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="logos__react/ttf-composed.png" target="_blank"><img src="logos__react/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="logos__react/flutter-rendered.png" target="_blank"><img src="logos__react/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="logos__react/diff-svg-vs-flutter.png" target="_blank"><img src="logos__react/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 25.9% · ham 4 · ssim 0.697</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 1.2% · ham 4 · ssim 0.863</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 25.6% · ham 0 · ssim 0.693</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="DUOTONE_BBOX_MISMATCH"
+     data-pack="logos">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="logos__vue/REPORT.md">logos:vue</a></div>
+    <div class="icon-pack">logos · duo(paintOrder)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="logos__vue/upstream.png" target="_blank"><img src="logos__vue/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="logos__vue/glyph-primary.png" target="_blank"><img src="logos__vue/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="logos__vue/ttf-composed.png" target="_blank"><img src="logos__vue/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="logos__vue/flutter-rendered.png" target="_blank"><img src="logos__vue/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="logos__vue/diff-svg-vs-flutter.png" target="_blank"><img src="logos__vue/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">DUOTONE_BBOX_MISMATCH</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 39.7% · ham 10 · ssim 0.777</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.7% · ham 0 · ssim 0.885</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 39.3% · ham 10 · ssim 0.768</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="DUOTONE_BBOX_MISMATCH"
+     data-pack="ph">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="ph__acorn-duotone/REPORT.md">ph:acorn-duotone</a></div>
+    <div class="icon-pack">ph · duo(hint)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="ph__acorn-duotone/upstream.png" target="_blank"><img src="ph__acorn-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="ph__acorn-duotone/glyph-primary.png" target="_blank"><img src="ph__acorn-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="ph__acorn-duotone/ttf-composed.png" target="_blank"><img src="ph__acorn-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="ph__acorn-duotone/flutter-rendered.png" target="_blank"><img src="ph__acorn-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="ph__acorn-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="ph__acorn-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">DUOTONE_BBOX_MISMATCH</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 16.0% · ham 0 · ssim 0.940</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 1 · ssim 0.920</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 15.3% · ham 1 · ssim 0.925</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="DUOTONE_BBOX_MISMATCH"
+     data-pack="solar">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="solar__bell-bold-duotone/REPORT.md">solar:bell-bold-duotone</a></div>
+    <div class="icon-pack">solar · duo(hint)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="solar__bell-bold-duotone/upstream.png" target="_blank"><img src="solar__bell-bold-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="solar__bell-bold-duotone/glyph-primary.png" target="_blank"><img src="solar__bell-bold-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="solar__bell-bold-duotone/ttf-composed.png" target="_blank"><img src="solar__bell-bold-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="solar__bell-bold-duotone/flutter-rendered.png" target="_blank"><img src="solar__bell-bold-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="solar__bell-bold-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="solar__bell-bold-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">DUOTONE_BBOX_MISMATCH</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 0 · ssim 0.969</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.987</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.975</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="DUOTONE_BBOX_MISMATCH"
+     data-pack="solar">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="solar__calendar-bold-duotone/REPORT.md">solar:calendar-bold-duotone</a></div>
+    <div class="icon-pack">solar · duo(hint)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="solar__calendar-bold-duotone/upstream.png" target="_blank"><img src="solar__calendar-bold-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="solar__calendar-bold-duotone/glyph-primary.png" target="_blank"><img src="solar__calendar-bold-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="solar__calendar-bold-duotone/ttf-composed.png" target="_blank"><img src="solar__calendar-bold-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="solar__calendar-bold-duotone/flutter-rendered.png" target="_blank"><img src="solar__calendar-bold-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="solar__calendar-bold-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="solar__calendar-bold-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">DUOTONE_BBOX_MISMATCH</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.2% · ham 0 · ssim 0.952</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.2% · ham 0 · ssim 0.964</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.975</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="DUOTONE_BBOX_MISMATCH"
+     data-pack="solar">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="solar__heart-bold-duotone/REPORT.md">solar:heart-bold-duotone</a></div>
+    <div class="icon-pack">solar · duo(hint)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="solar__heart-bold-duotone/upstream.png" target="_blank"><img src="solar__heart-bold-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="solar__heart-bold-duotone/glyph-primary.png" target="_blank"><img src="solar__heart-bold-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="solar__heart-bold-duotone/ttf-composed.png" target="_blank"><img src="solar__heart-bold-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="solar__heart-bold-duotone/flutter-rendered.png" target="_blank"><img src="solar__heart-bold-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="solar__heart-bold-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="solar__heart-bold-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">DUOTONE_BBOX_MISMATCH</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.0% · ham 0 · ssim 0.985</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.977</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.976</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="DUOTONE_BBOX_MISMATCH"
+     data-pack="solar">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="solar__star-bold-duotone/REPORT.md">solar:star-bold-duotone</a></div>
+    <div class="icon-pack">solar · duo(hint)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="solar__star-bold-duotone/upstream.png" target="_blank"><img src="solar__star-bold-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="solar__star-bold-duotone/glyph-primary.png" target="_blank"><img src="solar__star-bold-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="solar__star-bold-duotone/ttf-composed.png" target="_blank"><img src="solar__star-bold-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="solar__star-bold-duotone/flutter-rendered.png" target="_blank"><img src="solar__star-bold-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="solar__star-bold-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="solar__star-bold-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">DUOTONE_BBOX_MISMATCH</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 0 · ssim 0.965</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.979</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.976</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="twemoji">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="twemoji__a-button/REPORT.md">twemoji:a-button</a></div>
+    <div class="icon-pack">twemoji · duo(paintOrder)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="twemoji__a-button/upstream.png" target="_blank"><img src="twemoji__a-button/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="twemoji__a-button/glyph-primary.png" target="_blank"><img src="twemoji__a-button/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="twemoji__a-button/ttf-composed.png" target="_blank"><img src="twemoji__a-button/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="twemoji__a-button/flutter-rendered.png" target="_blank"><img src="twemoji__a-button/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="twemoji__a-button/diff-svg-vs-flutter.png" target="_blank"><img src="twemoji__a-button/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 81.8% · ham 0 · ssim 0.174</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.1% · ham 1 · ssim 0.966</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 81.2% · ham 1 · ssim 0.191</div>
+  
+</div>
+</div>
+
+<div class="row different"
+     data-status="different"
+     data-reason="GENERATOR_DIFF"
+     data-pack="twemoji">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="twemoji__a-button-blood-type/REPORT.md">twemoji:a-button-blood-type</a></div>
+    <div class="icon-pack">twemoji · duo(paintOrder)</div>
+    <div class="icon-status"><b>different</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="twemoji__a-button-blood-type/upstream.png" target="_blank"><img src="twemoji__a-button-blood-type/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="twemoji__a-button-blood-type/glyph-primary.png" target="_blank"><img src="twemoji__a-button-blood-type/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="twemoji__a-button-blood-type/ttf-composed.png" target="_blank"><img src="twemoji__a-button-blood-type/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="twemoji__a-button-blood-type/flutter-rendered.png" target="_blank"><img src="twemoji__a-button-blood-type/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="twemoji__a-button-blood-type/diff-svg-vs-flutter.png" target="_blank"><img src="twemoji__a-button-blood-type/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">GENERATOR_DIFF</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 81.8% · ham 0 · ssim 0.174</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.1% · ham 1 · ssim 0.966</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 81.2% · ham 1 · ssim 0.191</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="MINOR_DIFF_3WAY"
+     data-pack="lets-icons">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="lets-icons__add-duotone-line/REPORT.md">lets-icons:add-duotone-line</a></div>
+    <div class="icon-pack">lets-icons · duo(maskInternal)</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="lets-icons__add-duotone-line/upstream.png" target="_blank"><img src="lets-icons__add-duotone-line/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="lets-icons__add-duotone-line/glyph-primary.png" target="_blank"><img src="lets-icons__add-duotone-line/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="lets-icons__add-duotone-line/ttf-composed.png" target="_blank"><img src="lets-icons__add-duotone-line/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="lets-icons__add-duotone-line/flutter-rendered.png" target="_blank"><img src="lets-icons__add-duotone-line/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="lets-icons__add-duotone-line/diff-svg-vs-flutter.png" target="_blank"><img src="lets-icons__add-duotone-line/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">MINOR_DIFF_3WAY</span><br>
+  conf=low
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 10.2% · ham 2 · ssim 0.935</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 4 · ssim 0.954</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 10.1% · ham 2 · ssim 0.949</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="MINOR_DIFF_3WAY"
+     data-pack="lets-icons">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="lets-icons__add-ring-duotone-line/REPORT.md">lets-icons:add-ring-duotone-line</a></div>
+    <div class="icon-pack">lets-icons · duo(maskInternal)</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="lets-icons__add-ring-duotone-line/upstream.png" target="_blank"><img src="lets-icons__add-ring-duotone-line/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="lets-icons__add-ring-duotone-line/glyph-primary.png" target="_blank"><img src="lets-icons__add-ring-duotone-line/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="lets-icons__add-ring-duotone-line/ttf-composed.png" target="_blank"><img src="lets-icons__add-ring-duotone-line/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="lets-icons__add-ring-duotone-line/flutter-rendered.png" target="_blank"><img src="lets-icons__add-ring-duotone-line/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="lets-icons__add-ring-duotone-line/diff-svg-vs-flutter.png" target="_blank"><img src="lets-icons__add-ring-duotone-line/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">MINOR_DIFF_3WAY</span><br>
+  conf=low
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 10.1% · ham 2 · ssim 0.939</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 4 · ssim 0.956</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 10.1% · ham 2 · ssim 0.950</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="MINOR_DIFF_3WAY"
+     data-pack="lets-icons">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="lets-icons__alarmclock-duotone-line/REPORT.md">lets-icons:alarmclock-duotone-line</a></div>
+    <div class="icon-pack">lets-icons · duo(hint)</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="lets-icons__alarmclock-duotone-line/upstream.png" target="_blank"><img src="lets-icons__alarmclock-duotone-line/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="lets-icons__alarmclock-duotone-line/glyph-primary.png" target="_blank"><img src="lets-icons__alarmclock-duotone-line/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="lets-icons__alarmclock-duotone-line/ttf-composed.png" target="_blank"><img src="lets-icons__alarmclock-duotone-line/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="lets-icons__alarmclock-duotone-line/flutter-rendered.png" target="_blank"><img src="lets-icons__alarmclock-duotone-line/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="lets-icons__alarmclock-duotone-line/diff-svg-vs-flutter.png" target="_blank"><img src="lets-icons__alarmclock-duotone-line/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">MINOR_DIFF_3WAY</span><br>
+  conf=low
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 20.4% · ham 0 · ssim 0.965</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 0 · ssim 0.954</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 19.7% · ham 0 · ssim 0.956</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="MINOR_DIFF_3WAY"
+     data-pack="lucide">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="lucide__house/REPORT.md">lucide:house</a></div>
+    <div class="icon-pack">lucide</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="lucide__house/upstream.png" target="_blank"><img src="lucide__house/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="lucide__house/glyph-primary.png" target="_blank"><img src="lucide__house/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="lucide__house/ttf-composed.png" target="_blank"><img src="lucide__house/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="lucide__house/flutter-rendered.png" target="_blank"><img src="lucide__house/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="lucide__house/diff-svg-vs-flutter.png" target="_blank"><img src="lucide__house/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">MINOR_DIFF_3WAY</span><br>
+  conf=low
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 5 · ssim 0.971</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.8% · ham 4 · ssim 0.958</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.984</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="MINOR_DIFF_3WAY"
+     data-pack="ph">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="ph__heart-duotone/REPORT.md">ph:heart-duotone</a></div>
+    <div class="icon-pack">ph · duo(hint)</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="ph__heart-duotone/upstream.png" target="_blank"><img src="ph__heart-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="ph__heart-duotone/glyph-primary.png" target="_blank"><img src="ph__heart-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="ph__heart-duotone/ttf-composed.png" target="_blank"><img src="ph__heart-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="ph__heart-duotone/flutter-rendered.png" target="_blank"><img src="ph__heart-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="ph__heart-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="ph__heart-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">MINOR_DIFF_3WAY</span><br>
+  conf=low
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 31.8% · ham 0 · ssim 0.939</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 0 · ssim 0.945</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 31.3% · ham 0 · ssim 0.942</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="MINOR_DIFF_3WAY"
+     data-pack="ph">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="ph__house-duotone/REPORT.md">ph:house-duotone</a></div>
+    <div class="icon-pack">ph · duo(hint)</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="ph__house-duotone/upstream.png" target="_blank"><img src="ph__house-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="ph__house-duotone/glyph-primary.png" target="_blank"><img src="ph__house-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="ph__house-duotone/ttf-composed.png" target="_blank"><img src="ph__house-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="ph__house-duotone/flutter-rendered.png" target="_blank"><img src="ph__house-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="ph__house-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="ph__house-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">MINOR_DIFF_3WAY</span><br>
+  conf=low
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 25.7% · ham 4 · ssim 0.898</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.5% · ham 4 · ssim 0.876</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 24.0% · ham 0 · ssim 0.890</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="MINOR_DIFF_3WAY"
+     data-pack="ph">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="ph__star-duotone/REPORT.md">ph:star-duotone</a></div>
+    <div class="icon-pack">ph · duo(hint)</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="ph__star-duotone/upstream.png" target="_blank"><img src="ph__star-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="ph__star-duotone/glyph-primary.png" target="_blank"><img src="ph__star-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="ph__star-duotone/ttf-composed.png" target="_blank"><img src="ph__star-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="ph__star-duotone/flutter-rendered.png" target="_blank"><img src="ph__star-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="ph__star-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="ph__star-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">MINOR_DIFF_3WAY</span><br>
+  conf=low
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 20.7% · ham 1 · ssim 0.940</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.5% · ham 1 · ssim 0.928</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 20.0% · ham 0 · ssim 0.951</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="MINOR_DIFF_3WAY"
+     data-pack="solar">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="solar__home-bold-duotone/REPORT.md">solar:home-bold-duotone</a></div>
+    <div class="icon-pack">solar</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="solar__home-bold-duotone/upstream.png" target="_blank"><img src="solar__home-bold-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="solar__home-bold-duotone/glyph-primary.png" target="_blank"><img src="solar__home-bold-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="solar__home-bold-duotone/ttf-composed.png" target="_blank"><img src="solar__home-bold-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="solar__home-bold-duotone/flutter-rendered.png" target="_blank"><img src="solar__home-bold-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="solar__home-bold-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="solar__home-bold-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">MINOR_DIFF_3WAY</span><br>
+  conf=low
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 12.5% · ham 3 · ssim 0.827</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.2% · ham 0 · ssim 0.968</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 12.4% · ham 3 · ssim 0.831</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="DUOTONE_BBOX_SHARED_SECONDARY"
+     data-pack="solar">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="solar__user-circle-bold-duotone/REPORT.md">solar:user-circle-bold-duotone</a></div>
+    <div class="icon-pack">solar · duo(hint)</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="solar__user-circle-bold-duotone/upstream.png" target="_blank"><img src="solar__user-circle-bold-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="solar__user-circle-bold-duotone/glyph-primary.png" target="_blank"><img src="solar__user-circle-bold-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="solar__user-circle-bold-duotone/ttf-composed.png" target="_blank"><img src="solar__user-circle-bold-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="solar__user-circle-bold-duotone/flutter-rendered.png" target="_blank"><img src="solar__user-circle-bold-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="solar__user-circle-bold-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="solar__user-circle-bold-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">DUOTONE_BBOX_SHARED_SECONDARY</span><br>
+  conf=medium
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 0 · ssim 0.955</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.969</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.970</div>
+  
+</div>
+</div>
+
+<div class="row needs-review"
+     data-status="needs-review"
+     data-reason="MINOR_DIFF_3WAY"
+     data-pack="tabler">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="tabler__heart/REPORT.md">tabler:heart</a></div>
+    <div class="icon-pack">tabler</div>
+    <div class="icon-status"><b>needs-review</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="tabler__heart/upstream.png" target="_blank"><img src="tabler__heart/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="tabler__heart/glyph-primary.png" target="_blank"><img src="tabler__heart/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="tabler__heart/ttf-composed.png" target="_blank"><img src="tabler__heart/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="tabler__heart/flutter-rendered.png" target="_blank"><img src="tabler__heart/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="tabler__heart/diff-svg-vs-flutter.png" target="_blank"><img src="tabler__heart/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">MINOR_DIFF_3WAY</span><br>
+  conf=low
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 3 · ssim 0.960</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 5 · ssim 0.953</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 2 · ssim 0.970</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="lucide">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="lucide__circle-check/REPORT.md">lucide:circle-check</a></div>
+    <div class="icon-pack">lucide</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="lucide__circle-check/upstream.png" target="_blank"><img src="lucide__circle-check/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="lucide__circle-check/glyph-primary.png" target="_blank"><img src="lucide__circle-check/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="lucide__circle-check/ttf-composed.png" target="_blank"><img src="lucide__circle-check/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="lucide__circle-check/flutter-rendered.png" target="_blank"><img src="lucide__circle-check/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="lucide__circle-check/diff-svg-vs-flutter.png" target="_blank"><img src="lucide__circle-check/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 3 · ssim 0.942</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 4 · ssim 0.934</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.964</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="lucide">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="lucide__heart/REPORT.md">lucide:heart</a></div>
+    <div class="icon-pack">lucide</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="lucide__heart/upstream.png" target="_blank"><img src="lucide__heart/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="lucide__heart/glyph-primary.png" target="_blank"><img src="lucide__heart/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="lucide__heart/ttf-composed.png" target="_blank"><img src="lucide__heart/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="lucide__heart/flutter-rendered.png" target="_blank"><img src="lucide__heart/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="lucide__heart/diff-svg-vs-flutter.png" target="_blank"><img src="lucide__heart/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 0 · ssim 0.964</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 0 · ssim 0.947</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.962</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="lucide">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="lucide__pencil/REPORT.md">lucide:pencil</a></div>
+    <div class="icon-pack">lucide</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="lucide__pencil/upstream.png" target="_blank"><img src="lucide__pencil/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="lucide__pencil/glyph-primary.png" target="_blank"><img src="lucide__pencil/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="lucide__pencil/ttf-composed.png" target="_blank"><img src="lucide__pencil/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="lucide__pencil/flutter-rendered.png" target="_blank"><img src="lucide__pencil/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="lucide__pencil/diff-svg-vs-flutter.png" target="_blank"><img src="lucide__pencil/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.0% · ham 0 · ssim 0.966</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 0 · ssim 0.947</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.971</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="lucide">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="lucide__star/REPORT.md">lucide:star</a></div>
+    <div class="icon-pack">lucide</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="lucide__star/upstream.png" target="_blank"><img src="lucide__star/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="lucide__star/glyph-primary.png" target="_blank"><img src="lucide__star/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="lucide__star/ttf-composed.png" target="_blank"><img src="lucide__star/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="lucide__star/flutter-rendered.png" target="_blank"><img src="lucide__star/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="lucide__star/diff-svg-vs-flutter.png" target="_blank"><img src="lucide__star/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.2% · ham 1 · ssim 0.947</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 1 · ssim 0.945</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.968</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="material-symbols">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="material-symbols__home/REPORT.md">material-symbols:home</a></div>
+    <div class="icon-pack">material-symbols</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="material-symbols__home/upstream.png" target="_blank"><img src="material-symbols__home/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="material-symbols__home/glyph-primary.png" target="_blank"><img src="material-symbols__home/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="material-symbols__home/ttf-composed.png" target="_blank"><img src="material-symbols__home/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="material-symbols__home/flutter-rendered.png" target="_blank"><img src="material-symbols__home/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="material-symbols__home/diff-svg-vs-flutter.png" target="_blank"><img src="material-symbols__home/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.2% · ham 3 · ssim 0.973</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 2 · ssim 0.966</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.989</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="material-symbols">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="material-symbols__menu/REPORT.md">material-symbols:menu</a></div>
+    <div class="icon-pack">material-symbols</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="material-symbols__menu/upstream.png" target="_blank"><img src="material-symbols__menu/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="material-symbols__menu/glyph-primary.png" target="_blank"><img src="material-symbols__menu/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="material-symbols__menu/ttf-composed.png" target="_blank"><img src="material-symbols__menu/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="material-symbols__menu/flutter-rendered.png" target="_blank"><img src="material-symbols__menu/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="material-symbols__menu/diff-svg-vs-flutter.png" target="_blank"><img src="material-symbols__menu/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.4% · ham 1 · ssim 0.956</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 1 · ssim 0.933</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.956</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="material-symbols">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="material-symbols__search/REPORT.md">material-symbols:search</a></div>
+    <div class="icon-pack">material-symbols</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="material-symbols__search/upstream.png" target="_blank"><img src="material-symbols__search/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="material-symbols__search/glyph-primary.png" target="_blank"><img src="material-symbols__search/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="material-symbols__search/ttf-composed.png" target="_blank"><img src="material-symbols__search/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="material-symbols__search/flutter-rendered.png" target="_blank"><img src="material-symbols__search/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="material-symbols__search/diff-svg-vs-flutter.png" target="_blank"><img src="material-symbols__search/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 0 · ssim 0.954</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.1% · ham 2 · ssim 0.963</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 2 · ssim 0.968</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__account-circle/REPORT.md">mdi:account-circle</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__account-circle/upstream.png" target="_blank"><img src="mdi__account-circle/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__account-circle/glyph-primary.png" target="_blank"><img src="mdi__account-circle/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__account-circle/ttf-composed.png" target="_blank"><img src="mdi__account-circle/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__account-circle/flutter-rendered.png" target="_blank"><img src="mdi__account-circle/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__account-circle/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__account-circle/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 1 · ssim 0.957</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 2 · ssim 0.952</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.968</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__arrow-up/REPORT.md">mdi:arrow-up</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__arrow-up/upstream.png" target="_blank"><img src="mdi__arrow-up/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__arrow-up/glyph-primary.png" target="_blank"><img src="mdi__arrow-up/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__arrow-up/ttf-composed.png" target="_blank"><img src="mdi__arrow-up/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__arrow-up/flutter-rendered.png" target="_blank"><img src="mdi__arrow-up/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__arrow-up/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__arrow-up/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.0% · ham 0 · ssim 0.988</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.992</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.990</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__check/REPORT.md">mdi:check</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__check/upstream.png" target="_blank"><img src="mdi__check/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__check/glyph-primary.png" target="_blank"><img src="mdi__check/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__check/ttf-composed.png" target="_blank"><img src="mdi__check/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__check/flutter-rendered.png" target="_blank"><img src="mdi__check/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__check/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__check/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.0% · ham 1 · ssim 0.985</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 2 · ssim 0.991</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.990</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__close/REPORT.md">mdi:close</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__close/upstream.png" target="_blank"><img src="mdi__close/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__close/glyph-primary.png" target="_blank"><img src="mdi__close/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__close/ttf-composed.png" target="_blank"><img src="mdi__close/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__close/flutter-rendered.png" target="_blank"><img src="mdi__close/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__close/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__close/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.2% · ham 2 · ssim 0.950</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 2 · ssim 0.981</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.965</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__cog/REPORT.md">mdi:cog</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__cog/upstream.png" target="_blank"><img src="mdi__cog/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__cog/glyph-primary.png" target="_blank"><img src="mdi__cog/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__cog/ttf-composed.png" target="_blank"><img src="mdi__cog/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__cog/flutter-rendered.png" target="_blank"><img src="mdi__cog/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__cog/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__cog/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 0 · ssim 0.966</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.2% · ham 0 · ssim 0.968</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.973</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__home/REPORT.md">mdi:home</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__home/upstream.png" target="_blank"><img src="mdi__home/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__home/glyph-primary.png" target="_blank"><img src="mdi__home/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__home/ttf-composed.png" target="_blank"><img src="mdi__home/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__home/flutter-rendered.png" target="_blank"><img src="mdi__home/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__home/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__home/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 3 · ssim 0.981</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.2% · ham 4 · ssim 0.969</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.984</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__magnify/REPORT.md">mdi:magnify</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__magnify/upstream.png" target="_blank"><img src="mdi__magnify/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__magnify/glyph-primary.png" target="_blank"><img src="mdi__magnify/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__magnify/ttf-composed.png" target="_blank"><img src="mdi__magnify/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__magnify/flutter-rendered.png" target="_blank"><img src="mdi__magnify/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__magnify/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__magnify/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 0 · ssim 0.972</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.2% · ham 1 · ssim 0.965</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.971</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__pencil/REPORT.md">mdi:pencil</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__pencil/upstream.png" target="_blank"><img src="mdi__pencil/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__pencil/glyph-primary.png" target="_blank"><img src="mdi__pencil/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__pencil/ttf-composed.png" target="_blank"><img src="mdi__pencil/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__pencil/flutter-rendered.png" target="_blank"><img src="mdi__pencil/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__pencil/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__pencil/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 2 · ssim 0.985</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.2% · ham 2 · ssim 0.968</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.976</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__star/REPORT.md">mdi:star</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__star/upstream.png" target="_blank"><img src="mdi__star/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__star/glyph-primary.png" target="_blank"><img src="mdi__star/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__star/ttf-composed.png" target="_blank"><img src="mdi__star/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__star/flutter-rendered.png" target="_blank"><img src="mdi__star/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__star/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__star/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 2 · ssim 0.978</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.978</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 2 · ssim 0.981</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="mdi">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="mdi__trash-can/REPORT.md">mdi:trash-can</a></div>
+    <div class="icon-pack">mdi</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="mdi__trash-can/upstream.png" target="_blank"><img src="mdi__trash-can/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="mdi__trash-can/glyph-primary.png" target="_blank"><img src="mdi__trash-can/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="mdi__trash-can/ttf-composed.png" target="_blank"><img src="mdi__trash-can/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="mdi__trash-can/flutter-rendered.png" target="_blank"><img src="mdi__trash-can/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="mdi__trash-can/diff-svg-vs-flutter.png" target="_blank"><img src="mdi__trash-can/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.4% · ham 1 · ssim 0.958</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.7% · ham 1 · ssim 0.931</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.967</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="solar">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="solar__add-circle-bold-duotone/REPORT.md">solar:add-circle-bold-duotone</a></div>
+    <div class="icon-pack">solar · duo(hint)</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="solar__add-circle-bold-duotone/upstream.png" target="_blank"><img src="solar__add-circle-bold-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="solar__add-circle-bold-duotone/glyph-primary.png" target="_blank"><img src="solar__add-circle-bold-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="solar__add-circle-bold-duotone/ttf-composed.png" target="_blank"><img src="solar__add-circle-bold-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="solar__add-circle-bold-duotone/flutter-rendered.png" target="_blank"><img src="solar__add-circle-bold-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="solar__add-circle-bold-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="solar__add-circle-bold-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.2% · ham 0 · ssim 0.960</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.969</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 0 · ssim 0.963</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="solar">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="solar__settings-bold-duotone/REPORT.md">solar:settings-bold-duotone</a></div>
+    <div class="icon-pack">solar · duo(hint)</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="solar__settings-bold-duotone/upstream.png" target="_blank"><img src="solar__settings-bold-duotone/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="solar__settings-bold-duotone/glyph-primary.png" target="_blank"><img src="solar__settings-bold-duotone/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="solar__settings-bold-duotone/ttf-composed.png" target="_blank"><img src="solar__settings-bold-duotone/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="solar__settings-bold-duotone/flutter-rendered.png" target="_blank"><img src="solar__settings-bold-duotone/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="solar__settings-bold-duotone/diff-svg-vs-flutter.png" target="_blank"><img src="solar__settings-bold-duotone/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 0 · ssim 0.966</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.982</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.978</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="tabler">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="tabler__home/REPORT.md">tabler:home</a></div>
+    <div class="icon-pack">tabler</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="tabler__home/upstream.png" target="_blank"><img src="tabler__home/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="tabler__home/glyph-primary.png" target="_blank"><img src="tabler__home/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="tabler__home/ttf-composed.png" target="_blank"><img src="tabler__home/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="tabler__home/flutter-rendered.png" target="_blank"><img src="tabler__home/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="tabler__home/diff-svg-vs-flutter.png" target="_blank"><img src="tabler__home/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 3 · ssim 0.937</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.6% · ham 4 · ssim 0.925</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.947</div>
+  
+</div>
+</div>
+
+<div class="row same"
+     data-status="same"
+     data-reason="OK_3WAY"
+     data-pack="tabler">
+  <div class="icon-info">
+    <div class="icon-ref"><a href="tabler__star/REPORT.md">tabler:star</a></div>
+    <div class="icon-pack">tabler</div>
+    <div class="icon-status"><b>same</b></div>
+  </div>
+  <div class="panel"><div class="label">upstream (SVG)</div><a href="tabler__star/upstream.png" target="_blank"><img src="tabler__star/upstream.png" alt="upstream (SVG)"></a></div>
+  <div class="panel"><div class="label">TTF primary</div><a href="tabler__star/glyph-primary.png" target="_blank"><img src="tabler__star/glyph-primary.png" alt="TTF primary"></a></div>
+  <div class="panel"><div class="label">TTF composed</div><a href="tabler__star/ttf-composed.png" target="_blank"><img src="tabler__star/ttf-composed.png" alt="TTF composed"></a></div>
+  <div class="panel"><div class="label">Flutter</div><a href="tabler__star/flutter-rendered.png" target="_blank"><img src="tabler__star/flutter-rendered.png" alt="Flutter"></a></div>
+  <div class="panel"><div class="label">diff SVG↔Flutter</div><a href="tabler__star/diff-svg-vs-flutter.png" target="_blank"><img src="tabler__star/diff-svg-vs-flutter.png" alt="diff SVG↔Flutter"></a></div>
+  
+<div class="metrics">
+  <span class="reason">OK_3WAY</span><br>
+  conf=high
+  <div class="pair"><span class="label">SVG↔TTF</span><br>mismatch 0.1% · ham 0 · ssim 0.958</div>
+  <div class="pair"><span class="label">TTF↔Flutter</span><br>mismatch 0.3% · ham 1 · ssim 0.950</div>
+  <div class="pair"><span class="label">SVG↔Flutter</span><br>mismatch 0.0% · ham 1 · ssim 0.974</div>
+  
+</div>
+</div>
+
+<script>
+function applyFilters() {
+  var status = document.getElementById('f-status').value;
+  var reason = document.getElementById('f-reason').value.toLowerCase();
+  var pack = document.getElementById('f-pack').value.toLowerCase();
+  var rows = document.querySelectorAll('.row');
+  for (var i = 0; i < rows.length; i++) {
+    var r = rows[i];
+    var rs = r.getAttribute('data-status');
+    var rr = (r.getAttribute('data-reason') || '').toLowerCase();
+    var rp = (r.getAttribute('data-pack') || '').toLowerCase();
+    var ok = true;
+    if (status && rs !== status) ok = false;
+    if (reason && rr.indexOf(reason) === -1) ok = false;
+    if (pack && rp.indexOf(pack) === -1) ok = false;
+    r.style.display = ok ? '' : 'none';
+  }
+}
+function bind() {
+  ['f-status', 'f-reason', 'f-pack'].forEach(function (id) {
+    var el = document.getElementById(id);
+    if (el) {
+      el.addEventListener('input', applyFilters);
+      el.addEventListener('change', applyFilters);
+    }
+  });
+}
+document.addEventListener('DOMContentLoaded', bind);
+</script>
+</body>
+</html>

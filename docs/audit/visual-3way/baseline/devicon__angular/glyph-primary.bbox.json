@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_devicon/assets/fonts/Devicon.ttf",
+  "codepoint": "0xe012",
+  "glyphName": "angular",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 29.235294117647058,
+    "yMin": 0,
+    "xMax": 972,
+    "yMax": 998.1,
+    "width": 942.7647058823529,
+    "height": 998.1,
+    "cx": 500.61764705882354,
+    "cy": 499.05
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

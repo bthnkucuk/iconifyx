@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_ph/assets/fonts/PhSecondary.ttf",
+  "codepoint": "0xe002",
+  "glyphName": "acorn-duotone",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 156,
+    "yMin": 63,
+    "xMax": 844,
+    "yMax": 563,
+    "width": 688,
+    "height": 500,
+    "cx": 500.0,
+    "cy": 313.0
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

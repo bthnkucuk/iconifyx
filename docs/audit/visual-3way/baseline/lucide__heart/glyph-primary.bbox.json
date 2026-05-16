@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_lucide/assets/fonts/Lucide.ttf",
+  "codepoint": "0xeeb8",
+  "glyphName": "heart",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 41.515151515151516,
+    "yMin": 83.48780487804878,
+    "xMax": 957.5714285714286,
+    "yMax": 875.225,
+    "width": 916.056277056277,
+    "height": 791.7371951219512,
+    "cx": 499.54329004329,
+    "cy": 479.3564024390244
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

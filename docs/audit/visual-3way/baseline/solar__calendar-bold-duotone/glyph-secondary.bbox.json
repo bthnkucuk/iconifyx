@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_solar/assets/fonts/SolarSecondary.ttf",
+  "codepoint": "0xe397",
+  "glyphName": "calendar-bold-duotone",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 83,
+    "yMin": 83.66666666666667,
+    "xMax": 917,
+    "yMax": 625,
+    "width": 834,
+    "height": 541.3333333333334,
+    "cx": 500.0,
+    "cy": 354.3333333333333
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

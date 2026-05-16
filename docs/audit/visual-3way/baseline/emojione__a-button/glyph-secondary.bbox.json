@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_emojione/assets/fonts/EmojioneSecondary.ttf",
+  "codepoint": "0xe000",
+  "glyphName": "a-button",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 266,
+    "yMin": 281,
+    "xMax": 734,
+    "yMax": 781,
+    "width": 468,
+    "height": 500,
+    "cx": 500.0,
+    "cy": 531.0
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

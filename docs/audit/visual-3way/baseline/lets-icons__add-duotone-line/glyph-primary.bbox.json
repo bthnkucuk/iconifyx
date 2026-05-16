@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_lets_icons/assets/fonts/LetsIcons.ttf",
+  "codepoint": "0xe008",
+  "glyphName": "add-duotone",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 308,
+    "yMin": 308,
+    "xMax": 692,
+    "yMax": 692,
+    "width": 384,
+    "height": 384,
+    "cx": 500.0,
+    "cy": 500.0
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

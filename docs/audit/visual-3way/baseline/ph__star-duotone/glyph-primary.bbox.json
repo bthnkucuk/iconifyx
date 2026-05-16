@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_ph/assets/fonts/Ph_2.ttf",
+  "codepoint": "0xe72e",
+  "glyphName": "star",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 62.72727272727273,
+    "yMin": 93.9090909090909,
+    "xMax": 937.2727272727273,
+    "yMax": 937.0,
+    "width": 874.5454545454545,
+    "height": 843.0909090909091,
+    "cx": 500.0,
+    "cy": 515.4545454545455
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

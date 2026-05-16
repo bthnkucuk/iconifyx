@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_circle_flags/assets/fonts/CircleFlags.ttf",
+  "codepoint": "0xe09b",
+  "glyphName": "it-42",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 325,
+    "yMin": -0.010416666666664298,
+    "xMax": 998.6,
+    "yMax": 999.5,
+    "width": 673.6,
+    "height": 999.5104166666666,
+    "cx": 661.8,
+    "cy": 499.7447916666667
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

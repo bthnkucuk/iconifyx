@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_lucide/assets/fonts/Lucide.ttf",
+  "codepoint": "0xf4c4",
+  "glyphName": "pencil",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 43,
+    "yMin": 43,
+    "xMax": 958.2647058823529,
+    "yMax": 957.3333333333334,
+    "width": 915.2647058823529,
+    "height": 914.3333333333334,
+    "cx": 500.63235294117646,
+    "cy": 500.1666666666667
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

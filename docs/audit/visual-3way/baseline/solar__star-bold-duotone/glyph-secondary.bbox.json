@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_solar/assets/fonts/Solar_2Secondary.ttf",
+  "codepoint": "0xe05b",
+  "glyphName": "star-bold-duotone",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 333.7,
+    "yMin": 291.8313253012048,
+    "xMax": 916.5604395604396,
+    "yMax": 916.25,
+    "width": 582.8604395604395,
+    "height": 624.4186746987953,
+    "cx": 625.1302197802198,
+    "cy": 604.0406626506024
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

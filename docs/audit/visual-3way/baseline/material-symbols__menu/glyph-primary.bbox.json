@@ -1,0 +1,23 @@
+{
+  "ttf": "/Users/obenkucuk/dev/icons/.claude/worktrees/agent-a3b9a7130933b2444/packages/iconifyx_material_symbols/assets/fonts/MaterialSymbols_2.ttf",
+  "codepoint": "0xef96",
+  "glyphName": "menu",
+  "advance": 1000,
+  "lsb": 0,
+  "unitsPerEm": 1000,
+  "ascent": 1000,
+  "descent": 0,
+  "bbox": {
+    "xMin": 125,
+    "yMin": 250,
+    "xMax": 875,
+    "yMax": 750,
+    "width": 750,
+    "height": 500,
+    "cx": 500.0,
+    "cy": 500.0
+  },
+  "renderMode": "em",
+  "canvas": 256,
+  "empty": false
+}

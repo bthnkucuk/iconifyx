@@ -19,6 +19,8 @@ dependencies:
     sdk: flutter
   iconifyx_core:
     path: ../../../../../packages/iconifyx_core
+  iconifyx_circle_flags:
+    path: ../../../../../packages/iconifyx_circle_flags
 # RENDER_HOST_DEPS_END
 
 dev_dependencies:
