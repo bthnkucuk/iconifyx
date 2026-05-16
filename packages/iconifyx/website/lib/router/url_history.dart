@@ -8,16 +8,18 @@ import 'package:zenrouter/zenrouter.dart';
 ///
 /// > A path-stack mutation that does not change the URL's path segments
 /// > (only changes queries, or shrinks back to a parent path previously on
-/// > the stack) MUST report with [RouteInformationReportingType.neglect]
+/// > the stack, or swaps sibling routes that differ only in a trailing
+/// > segment) MUST report with [RouteInformationReportingType.neglect]
 /// > (= browser `history.replaceState`). Only strictly forward navigation
-/// > (new path segments first encountered) should push.
+/// > (genuinely new path segments first encountered) should push.
 ///
-/// Without this, every keystroke in a filter `TextField` and every sheet
-/// dismiss creates a new browser history entry. Browser-back then has to
-/// step through all of them, and — worse — pressing back after closing a
-/// sheet re-opens it (because the post-close "push" recorded the parent
-/// URL as a brand new history entry that, when traversed back to, makes
-/// the URL parser re-construct the sheet).
+/// Without this, every keystroke in a filter `TextField`, every sheet
+/// dismiss, and every icon click on the pack-detail page creates a NEW
+/// browser history entry. Browser-back then has to step through all of
+/// them — typing "home" in the filter consumes 4 back presses; opening
+/// 3 icons in a row before dismissing the sheet requires 4 back presses
+/// to leave the pack page (one to close the sheet, three to undo the
+/// pushed `/pack/foo/icon/X` URLs).
 ///
 /// **How it works**
 ///
@@ -27,6 +29,10 @@ import 'package:zenrouter/zenrouter.dart';
 /// - Same path segments → query-only update → force `neglect` (replace).
 /// - New path is a prefix of the previous → popping back to a parent →
 ///   force `neglect` (replace).
+/// - New path differs only in its LAST segment AND the previous URI
+///   matched the `/pack/<prefix>/icon/<name>` shape → switching between
+///   sibling icon-detail routes on the same pack → force `neglect`
+///   (replace). This is the icon-detail sheet sibling-swap case.
 /// - Otherwise → strictly-forward navigation → keep the caller's intent
 ///   (defaults to push).
 ///
@@ -69,6 +75,8 @@ class HistoryAwareRouteInformationProvider
   /// Rule of thumb:
   /// - Same path segments → query-only mutation → replace.
   /// - [next] is a "prefix" of [prev] (popping back) → replace.
+  /// - Sibling swap within the icon-detail sheet (`/pack/<p>/icon/A` →
+  ///   `/pack/<p>/icon/B`) → replace.
   ///
   /// Everything else → push (default behaviour preserved).
   static bool _shouldReplace(Uri prev, Uri next) {
@@ -85,6 +93,24 @@ class HistoryAwareRouteInformationProvider
         if (nextSegs[i] != prevSegs[i]) return false;
       }
       return true;
+    }
+
+    // Sibling swap within the icon-detail sheet:
+    //   `/pack/<prefix>/icon/<a>` → `/pack/<prefix>/icon/<b>`
+    // Both URIs have the same length and identical prefix, differing only
+    // in the LAST segment. Opening another icon-detail sheet while one is
+    // already on top should REPLACE the top entry rather than push a new
+    // one — otherwise N icon clicks during one sheet session each leak a
+    // history entry that the user has to back-step through after dismiss.
+    if (nextSegs.length == prevSegs.length && nextSegs.length >= 2) {
+      var allButLastEqual = true;
+      for (var i = 0; i < nextSegs.length - 1; i++) {
+        if (nextSegs[i] != prevSegs[i]) {
+          allButLastEqual = false;
+          break;
+        }
+      }
+      if (allButLastEqual) return true;
     }
 
     return false;

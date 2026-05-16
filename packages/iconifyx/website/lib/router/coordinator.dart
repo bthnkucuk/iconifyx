@@ -41,9 +41,9 @@ class AppCoordinator extends Coordinator<AppRoute>
   AppRoute notFoundRoute(Uri uri) => NotFoundRoute(uri: uri);
 
   /// Custom [RouteInformationProvider] that enforces the §27 universal
-  /// invariant: query-only updates and pop-back transitions REPLACE the
-  /// browser history entry instead of pushing a new one. See
-  /// [HistoryAwareRouteInformationProvider] for the full rule.
+  /// invariant: query-only updates, pop-back transitions, and sibling
+  /// icon-detail swaps REPLACE the browser history entry instead of
+  /// pushing a new one. See [HistoryAwareRouteInformationProvider].
   late final HistoryAwareRouteInformationProvider _historyAwareProvider =
       HistoryAwareRouteInformationProvider(coordinator: this);
 

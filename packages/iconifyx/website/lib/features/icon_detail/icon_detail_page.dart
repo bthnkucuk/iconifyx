@@ -7,23 +7,29 @@ import 'package:stupid_simple_sheet/stupid_simple_sheet.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
-import '../../bootstrap/font_loader_service.dart';
 import '../../bootstrap/icon_catalog.dart';
-import '../../bootstrap/selection_state.dart';
 import '../../router/coordinator.dart';
+import '../../router/icon_render_query.dart';
 import '../../router/routes/shell/home_route.dart';
+import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/iconify_svg_url.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/iconify_thumb.dart';
-import '../../shared/widgets/selection_tray.dart';
 import '../../theme/app_theme.dart';
 
+/// Icon-detail sheet body.
+///
+/// Slider state (size / colour / secondary / opacity) is READ from the
+/// [IconDetailRoute]'s URL queries. Mutation lives on the pack-detail
+/// page's sidebar; the values are propagated via [IconDetailRoute]'s
+/// `initialQueries` when the user taps an icon on the pack page (or
+/// when they hit a deep link like
+/// `/pack/mdi/icon/home?size=48&color=2563eb` directly).
 class IconDetailPage extends StatelessWidget {
-  const IconDetailPage({super.key, required this.prefix, required this.name});
+  const IconDetailPage({super.key, required this.route});
 
-  final String prefix;
-  final String name;
+  final IconDetailRoute route;
 
   @override
   Widget build(BuildContext context) {
@@ -33,83 +39,44 @@ class IconDetailPage extends StatelessWidget {
           return const Center(
               child: CircularProgressIndicator(color: AppTheme.coral));
         }
-        final icons = state.catalog.byPrefix[prefix];
-        final pack = state.packs.byPrefix[prefix];
+        final icons = state.catalog.byPrefix[route.prefix];
+        final pack = state.packs.byPrefix[route.prefix];
         if (icons == null || pack == null) {
-          return _Missing(prefix: prefix, name: name);
+          return _Missing(prefix: route.prefix, name: route.name);
         }
         final record = icons.firstWhere(
-          (r) => r.name == name,
+          (r) => r.name == route.name,
           orElse: () => icons.first,
         );
         final related =
             icons.where((r) => r.name != record.name).take(12).toList();
-        // RESEARCH_PLAN §9 lazy font registration. Direct-URL hits to
-        // `/pack/<prefix>/icon/<name>` can land here without the pack-
-        // detail page having loaded the TTFs first, so we gate the sheet
-        // body on the same `ensurePack` future. The pack-detail-then-
-        // sheet flow makes this a synchronous fast path (the service's
-        // [_loaded] set already contains the prefix).
-        return _IconFontGate(
-          pack: pack,
-          child: _IconView(record: record, pack: pack, related: related),
+        // Rebuild only when the relevant URL query slice changes — keeps
+        // size/colour live without churning every other widget.
+        return route.selectorBuilder<IconRenderQuery>(
+          selector: IconRenderQuery.fromQueries,
+          builder: (ctx, render) => _IconView(
+            record: record,
+            pack: pack,
+            related: related,
+            render: render,
+          ),
         );
-      },
-    );
-  }
-}
-
-/// Gates the icon-detail sheet body on a successful lazy font load —
-/// mirrors `_FontGate` in `pack_detail_page.dart`. Kept locally because
-/// the sheet has its own scaffolding (transparent background, smaller
-/// chrome) so reusing the pack page's loader UI would look out of
-/// place; this one renders a centred spinner instead.
-class _IconFontGate extends StatefulWidget {
-  const _IconFontGate({required this.pack, required this.child});
-  final PackSummary pack;
-  final Widget child;
-
-  @override
-  State<_IconFontGate> createState() => _IconFontGateState();
-}
-
-class _IconFontGateState extends State<_IconFontGate> {
-  late Future<void> _future;
-
-  @override
-  void initState() {
-    super.initState();
-    _future = FontLoaderService.instance.ensurePack(widget.pack);
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    if (FontLoaderService.instance.isLoaded(widget.pack.prefix)) {
-      return widget.child;
-    }
-    return FutureBuilder<void>(
-      future: _future,
-      builder: (context, snap) {
-        if (snap.connectionState != ConnectionState.done) {
-          return const Center(
-            child: Padding(
-              padding: EdgeInsets.all(48),
-              child: CircularProgressIndicator(color: AppTheme.coral),
-            ),
-          );
-        }
-        return widget.child;
       },
     );
   }
 }
 
 class _IconView extends StatelessWidget {
-  const _IconView(
-      {required this.record, required this.pack, required this.related});
+  const _IconView({
+    required this.record,
+    required this.pack,
+    required this.related,
+    required this.render,
+  });
   final IconRecord record;
   final PackSummary pack;
   final List<IconRecord> related;
+  final IconRenderQuery render;
 
   @override
   Widget build(BuildContext context) {
@@ -142,10 +109,16 @@ class _IconView extends StatelessWidget {
                         child: LayoutBuilder(
                           builder: (context, c) {
                             final wide = c.maxWidth >= 980;
-                            final preview =
-                                _PreviewCard(record: record, pack: pack);
+                            final preview = _PreviewCard(
+                              record: record,
+                              pack: pack,
+                              render: render,
+                            );
                             final right = _RightColumn(
-                                record: record, pack: pack, related: related);
+                                record: record,
+                                pack: pack,
+                                related: related,
+                                render: render);
                             if (wide) {
                               return Row(
                                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -263,41 +236,32 @@ class _CrumbLink extends StatelessWidget {
   }
 }
 
-class _PreviewCard extends StatefulWidget {
-  const _PreviewCard({required this.record, required this.pack});
+class _PreviewCard extends StatelessWidget {
+  const _PreviewCard({
+    required this.record,
+    required this.pack,
+    required this.render,
+  });
   final IconRecord record;
   final PackSummary pack;
+  final IconRenderQuery render;
 
-  @override
-  State<_PreviewCard> createState() => _PreviewCardState();
-}
-
-class _PreviewCardState extends State<_PreviewCard> {
   static const _sizes = [16, 20, 24, 32, 48];
-
-  // Per-icon debug controls (independent of the pack-level sidebar in
-  // pack_detail_page). Default primary = theme ink, secondary = black,
-  // swap layers = off — matches the rest of the website's defaults.
-  Color? _primaryColor;
-  Color? _secondaryColor;
-  double _primaryOpacity = 1.0;
-  double _secondaryOpacity = 1.0;
-  bool _swapLayers = false;
 
   @override
   Widget build(BuildContext context) {
-    final record = widget.record;
-    final pack = widget.pack;
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final paper = isDark ? AppTheme.paperDark : AppTheme.paper;
     final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    final effectivePrimary =
-        (_primaryColor ?? ink).withValues(alpha: _primaryOpacity);
-    final effectiveSecondary =
-        (_secondaryColor ?? const Color(0xFF000000))
-            .withValues(alpha: _secondaryOpacity);
+    // Theme-resolved primary tint when the URL didn't pick one.
+    final effectivePrimary = render.color ?? ink;
+    // Secondary BASE colour at full opacity. The slider's alpha is
+    // routed through `IconifyThumb.secondaryOpacity` (a separate
+    // field that only affects the secondary layer) so it can't bleed
+    // into the primary tile via the colour knob — that was Bug 2.
+    final secondaryBase = render.secondaryColor ?? const Color(0xFF000000);
     return Container(
       padding: const EdgeInsets.all(48),
       decoration: BoxDecoration(
@@ -313,8 +277,8 @@ class _PreviewCardState extends State<_PreviewCard> {
             paperBg: paper,
             ink: effectivePrimary,
             muted: muted,
-            secondaryColor: effectiveSecondary,
-            swapLayers: _swapLayers,
+            secondaryColor: secondaryBase,
+            secondaryOpacity: render.secondaryOpacity,
           ),
           // Per-layer debug strip — only meaningful for duotone icons.
           if (record.duotone) ...[
@@ -324,28 +288,8 @@ class _PreviewCardState extends State<_PreviewCard> {
               ink: effectivePrimary,
               paper: paper,
               muted: muted,
-              secondaryColor: effectiveSecondary,
-              swapLayers: _swapLayers,
-            ),
-          ],
-          // Per-icon debug controls — independent of the pack-level
-          // sidebar. Let the user spin primary / secondary colour and
-          // swap layers per icon without affecting the grid.
-          if (record.duotone) ...[
-            const SizedBox(height: 16),
-            _PerIconControls(
-              primaryColor: _primaryColor,
-              onPrimaryColor: (c) => setState(() => _primaryColor = c),
-              secondaryColor: _secondaryColor,
-              onSecondaryColor: (c) => setState(() => _secondaryColor = c),
-              primaryOpacity: _primaryOpacity,
-              onPrimaryOpacity: (v) => setState(() => _primaryOpacity = v),
-              secondaryOpacity: _secondaryOpacity,
-              onSecondaryOpacity: (v) => setState(() => _secondaryOpacity = v),
-              swapLayers: _swapLayers,
-              onSwapLayers: (v) => setState(() => _swapLayers = v),
-              ink: ink,
-              muted: muted,
+              secondaryColor: secondaryBase,
+              secondaryOpacity: render.secondaryOpacity,
             ),
           ],
           const SizedBox(height: 32),
@@ -381,8 +325,8 @@ class _PreviewCardState extends State<_PreviewCard> {
                         record.toIconifyData(),
                         size: s.toDouble(),
                         color: effectivePrimary,
-                        secondaryColor: effectiveSecondary,
-                        swapLayers: _swapLayers,
+                        secondaryColor: secondaryBase,
+                        secondaryOpacity: render.secondaryOpacity,
                       ),
                     ),
                     const SizedBox(height: 6),
@@ -402,19 +346,13 @@ class _PreviewCardState extends State<_PreviewCard> {
               _PrimaryButton(
                 icon: Icons.copy_rounded,
                 label: 'Copy Dart',
-                onTap: () => _copyDartSnippet(context, record),
+                onTap: () =>
+                    _copyDartSnippet(context, record, render),
               ),
               _SecondaryButton(
                 icon: Icons.numbers_rounded,
                 label: 'Copy const',
                 onTap: () => _copyConst(context, record),
-              ),
-              SelectionToggleButton(
-                iconRef: IconRef(
-                  prefix: record.prefix,
-                  name: record.name,
-                ),
-                showLabel: true,
               ),
               _SecondaryButton(
                 icon: Icons.share_outlined,
@@ -435,18 +373,23 @@ class _PreviewCardState extends State<_PreviewCard> {
 }
 
 class _RightColumn extends StatelessWidget {
-  const _RightColumn(
-      {required this.record, required this.pack, required this.related});
+  const _RightColumn({
+    required this.record,
+    required this.pack,
+    required this.related,
+    required this.render,
+  });
   final IconRecord record;
   final PackSummary pack;
   final List<IconRecord> related;
+  final IconRenderQuery render;
 
   @override
   Widget build(BuildContext context) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
-        _CodeTabs(record: record),
+        _CodeTabs(record: record, render: render),
         const SizedBox(height: 18),
         _MetaCard(record: record, pack: pack),
         const SizedBox(height: 18),
@@ -471,7 +414,7 @@ class _DuotoneLayerDebugStrip extends StatelessWidget {
     required this.paper,
     required this.muted,
     required this.secondaryColor,
-    required this.swapLayers,
+    required this.secondaryOpacity,
   });
 
   final IconRecord record;
@@ -479,20 +422,14 @@ class _DuotoneLayerDebugStrip extends StatelessWidget {
   final Color paper;
   final Color muted;
   final Color secondaryColor;
-  final bool swapLayers;
+  final double secondaryOpacity;
 
   static const _tileSize = 88.0;
   static const _iconSize = 64.0;
 
   @override
   Widget build(BuildContext context) {
-    final rawData = record.toIconifyData();
-    // Apply swap toggle so the debug strip mirrors what the main preview
-    // shows. Composed tile sees the swapped form via IconifyIcon directly.
-    final data = (swapLayers && rawData.secondary != null)
-        ? IconifyIconData.duo(rawData.secondary!, rawData.primary,
-            kind: rawData.kind)
-        : rawData;
+    final data = record.toIconifyData();
     final primaryIcon = data.primary;
     final secondaryIcon = data.secondary;
     final kindLabel = switch (data.kind) {
@@ -562,6 +499,7 @@ class _DuotoneLayerDebugStrip extends StatelessWidget {
                 size: _iconSize,
                 color: ink,
                 secondaryColor: secondaryColor,
+                secondaryOpacity: secondaryOpacity,
               ),
             ),
           ],
@@ -571,177 +509,11 @@ class _DuotoneLayerDebugStrip extends StatelessWidget {
   }
 }
 
-/// Per-icon debug controls — primary / secondary colour swatches + swap
-/// layers toggle. Lives inside [_PreviewCard] for paint-order / duotone
-/// inspection without affecting the rest of the pack grid. Independent
-/// of the pack-detail sidebar.
-class _PerIconControls extends StatelessWidget {
-  const _PerIconControls({
-    required this.primaryColor,
-    required this.onPrimaryColor,
-    required this.secondaryColor,
-    required this.onSecondaryColor,
-    required this.primaryOpacity,
-    required this.onPrimaryOpacity,
-    required this.secondaryOpacity,
-    required this.onSecondaryOpacity,
-    required this.swapLayers,
-    required this.onSwapLayers,
-    required this.ink,
-    required this.muted,
-  });
-
-  final Color? primaryColor;
-  final ValueChanged<Color?> onPrimaryColor;
-  final Color? secondaryColor;
-  final ValueChanged<Color?> onSecondaryColor;
-  final double primaryOpacity;
-  final ValueChanged<double> onPrimaryOpacity;
-  final double secondaryOpacity;
-  final ValueChanged<double> onSecondaryOpacity;
-  final bool swapLayers;
-  final ValueChanged<bool> onSwapLayers;
-  final Color ink;
-  final Color muted;
-
-  static const _primarySwatches = <Color?>[
-    null,
-    Color(0xFF2563EB),
-    Color(0xFF18C29C),
-    Color(0xFFFF6A3D),
-    Color(0xFFFFC23D),
-    Color(0xFF7C5CFF),
-    Color(0xFFE53935),
-    Color(0xFF111114),
-  ];
-  static const _secondarySwatches = <Color?>[
-    null,
-    Color(0xFFFFFFFF),
-    Color(0xFFF1ECE3),
-    Color(0xFF111114),
-    Color(0xFFFFC23D),
-    Color(0xFF18C29C),
-    Color(0xFF2563EB),
-    Color(0xFFE53935),
-  ];
-
-  @override
-  Widget build(BuildContext context) {
-    Widget label(String text) => Padding(
-          padding: const EdgeInsets.only(bottom: 4),
-          child: Text(text, style: AppTheme.mono(size: 10, color: muted)),
-        );
-    Widget row(List<Color?> options, Color? selected, ValueChanged<Color?> onTap) =>
-        Wrap(
-          spacing: 6,
-          runSpacing: 6,
-          children: [
-            for (final c in options)
-              _Swatch(
-                color: c ?? ink,
-                selected: selected == c,
-                onTap: () => onTap(c),
-              ),
-          ],
-        );
-    Widget opacityRow(double value, ValueChanged<double> onChanged) => Row(
-          children: [
-            SizedBox(
-              width: 200,
-              child: Slider(
-                value: value,
-                min: 0.0,
-                max: 1.0,
-                divisions: 20,
-                onChanged: onChanged,
-                activeColor: AppTheme.coral,
-              ),
-            ),
-            const SizedBox(width: 8),
-            SizedBox(
-              width: 40,
-              child: Text(
-                '${(value * 100).toStringAsFixed(0)}%',
-                style: AppTheme.mono(size: 11, color: muted),
-              ),
-            ),
-          ],
-        );
-    return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
-      decoration: BoxDecoration(
-        color: Theme.of(context).colorScheme.surfaceContainerHigh,
-        borderRadius: BorderRadius.circular(10),
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          label('PRIMARY COLOR'),
-          row(_primarySwatches, primaryColor, onPrimaryColor),
-          const SizedBox(height: 6),
-          label('PRIMARY OPACITY'),
-          opacityRow(primaryOpacity, onPrimaryOpacity),
-          const SizedBox(height: 10),
-          label('SECONDARY COLOR'),
-          row(_secondarySwatches, secondaryColor, onSecondaryColor),
-          const SizedBox(height: 6),
-          label('SECONDARY OPACITY'),
-          opacityRow(secondaryOpacity, onSecondaryOpacity),
-          const SizedBox(height: 10),
-          label('SWAP LAYERS'),
-          Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Switch.adaptive(value: swapLayers, onChanged: onSwapLayers),
-              const SizedBox(width: 8),
-              Text(swapLayers ? 'on' : 'off',
-                  style: AppTheme.mono(size: 11, color: muted)),
-            ],
-          ),
-        ],
-      ),
-    );
-  }
-}
-
-/// A small square colour swatch used by the per-icon controls. Mirrors
-/// the pack-detail sidebar `_Swatch` but lives here so icon_detail
-/// doesn't have to import private types across files.
-class _Swatch extends StatelessWidget {
-  const _Swatch({
-    required this.color,
-    required this.selected,
-    required this.onTap,
-  });
-
-  final Color color;
-  final bool selected;
-  final VoidCallback onTap;
-
-  @override
-  Widget build(BuildContext context) {
-    return GestureDetector(
-      onTap: onTap,
-      child: Container(
-        width: 24,
-        height: 24,
-        decoration: BoxDecoration(
-          color: color,
-          borderRadius: BorderRadius.circular(6),
-          border: Border.all(
-            color: selected ? AppTheme.coral : Theme.of(context).dividerColor,
-            width: selected ? 2 : 1,
-          ),
-        ),
-      ),
-    );
-  }
-}
-
 // ─── Code tabs + dark code block ────────────────────────────────────────────
 class _CodeTabs extends StatefulWidget {
-  const _CodeTabs({required this.record});
+  const _CodeTabs({required this.record, required this.render});
   final IconRecord record;
+  final IconRenderQuery render;
   @override
   State<_CodeTabs> createState() => _CodeTabsState();
 }
@@ -753,11 +525,9 @@ class _CodeTabsState extends State<_CodeTabs> {
   String _snippetFor(int idx) {
     final r = widget.record;
     final cp = '0x${r.codepoint.toRadixString(16)}';
-    final cls = _packClassName(r.prefix);
-    final ident = _camelize(r.name);
     switch (idx) {
       case 0:
-        return "import 'package:${r.fontPackage}/${r.fontPackage}.dart';\nimport 'package:iconifyx_core/iconifyx_core.dart';\n\nIconifyIcon(\n  $cls.$ident,\n  size: 24,\n);";
+        return _flutterSnippet(r, widget.render);
       case 1:
         if (r.duotone) {
           return "// duotone: same codepoint, <Family>Secondary\nIconifyIconData.duo(\n  IconData($cp, fontFamily: '${r.fontFamily}', fontPackage: '${r.fontPackage}'),\n  IconData($cp, fontFamily: '${r.fontFamily}Secondary', fontPackage: '${r.fontPackage}'),\n)";
@@ -1184,11 +954,53 @@ String _camelize(String name) {
   return ident;
 }
 
-Future<void> _copyDartSnippet(BuildContext context, IconRecord r) async {
+/// Build the live Flutter snippet for [r] reflecting the user-customised
+/// [render] state. Codegen rules (mirrored in `_CodeTabs._snippetFor`):
+///
+/// - Always emit `size:` (always present in state).
+/// - Emit `color:` only when the user picked a non-default tint (i.e.
+///   `render.color != null`).
+/// - Emit `secondaryColor:` only when the icon is duotone AND the user
+///   picked one (`render.secondaryColor != null`).
+/// - Emit `secondaryOpacity:` only when the icon is HINT-kind duotone
+///   AND the opacity diverges from 0.4 (the kind default). Paint-order
+///   icons ignore the opacity downstream, so don't emit it for them.
+/// - Use the canonical Dart identifier emitted by `dart_codegen.ts`
+///   (`_packClassName` / `_camelize`).
+String _flutterSnippet(IconRecord r, IconRenderQuery render) {
   final cls = _packClassName(r.prefix);
   final ident = _camelize(r.name);
-  final snippet =
-      "import 'package:${r.fontPackage}/${r.fontPackage}.dart';\nimport 'package:iconifyx_core/iconifyx_core.dart';\n\nIconifyIcon($cls.$ident, size: 24)";
+  final size = render.size.toStringAsFixed(0);
+  final args = <String>['  $cls.$ident', '  size: $size'];
+  if (render.color != null) {
+    args.add('  color: ${_dartColor(render.color!)}');
+  }
+  if (r.duotone && render.secondaryColor != null) {
+    args.add('  secondaryColor: ${_dartColor(render.secondaryColor!)}');
+  }
+  // Hint-layer kind has `IconifyIconData.kindHint == 1`. Paint-order
+  // ignores the opacity, so only emit for hint-kind icons whose value
+  // diverges from the 0.4 default.
+  if (r.duotone &&
+      r.duotoneKindCode == 1 &&
+      (render.secondaryOpacity - 0.4).abs() > 0.005) {
+    args.add(
+        '  secondaryOpacity: ${render.secondaryOpacity.toStringAsFixed(2)}');
+  }
+  return "import 'package:${r.fontPackage}/${r.fontPackage}.dart';\n"
+      "import 'package:iconifyx_core/iconifyx_core.dart';\n\n"
+      "IconifyIcon(\n${args.join(',\n')},\n);";
+}
+
+String _dartColor(Color c) {
+  final argb = c.toARGB32();
+  final hex = argb.toRadixString(16).toUpperCase().padLeft(8, '0');
+  return 'Color(0x$hex)';
+}
+
+Future<void> _copyDartSnippet(
+    BuildContext context, IconRecord r, IconRenderQuery render) async {
+  final snippet = _flutterSnippet(r, render);
   await Clipboard.setData(ClipboardData(text: snippet));
   if (context.mounted) {
     ScaffoldMessenger.of(context).showSnackBar(
@@ -1256,7 +1068,7 @@ class _SideBySidePreview extends StatelessWidget {
     required this.ink,
     required this.muted,
     required this.secondaryColor,
-    required this.swapLayers,
+    required this.secondaryOpacity,
   });
 
   final IconRecord record;
@@ -1264,7 +1076,7 @@ class _SideBySidePreview extends StatelessWidget {
   final Color ink;
   final Color muted;
   final Color secondaryColor;
-  final bool swapLayers;
+  final double secondaryOpacity;
 
   static const double _tileSize = 200;
   static const double _iconSize = 120;
@@ -1286,7 +1098,7 @@ class _SideBySidePreview extends StatelessWidget {
             size: _iconSize,
             color: ink,
             secondaryColor: secondaryColor,
-            swapLayers: swapLayers,
+            secondaryOpacity: secondaryOpacity,
           ),
         );
         final source = _PreviewTile(

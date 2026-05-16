@@ -15,8 +15,11 @@ class PackModule extends RouteModule<AppRoute> {
             prefix: prefix,
             initialQueries: Map<String, String>.from(uri.queryParameters),
           ),
-        ['pack', final prefix, 'icon', final name] =>
-          IconDetailRoute(prefix: prefix, name: Uri.decodeComponent(name)),
+        ['pack', final prefix, 'icon', final name] => IconDetailRoute(
+            prefix: prefix,
+            name: Uri.decodeComponent(name),
+            initialQueries: Map<String, String>.from(uri.queryParameters),
+          ),
         _ => null,
       };
 }

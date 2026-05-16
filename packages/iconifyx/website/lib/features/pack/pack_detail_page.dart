@@ -1,19 +1,17 @@
-import 'dart:async';
-
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
-import '../../bootstrap/font_loader_service.dart';
 import '../../bootstrap/icon_catalog.dart';
-import '../../bootstrap/selection_state.dart';
 import '../../router/coordinator.dart';
+import '../../router/icon_render_query.dart';
 import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
+import '../../shared/iconify_svg_url.dart';
 import '../../shared/widgets/collapsible_section.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/iconify_thumb.dart';
@@ -48,13 +46,6 @@ class PackDetailPage extends StatefulWidget {
 
 class _PackDetailPageState extends State<PackDetailPage> {
   late final TextEditingController _filterController;
-  double _iconSize = 28;
-  Color? _iconColor;
-  // Override for `IconifyIcon.secondaryColor`. `null` lets the per-page
-  // default ride (cell card colour as knockout). Useful for debugging
-  // paint-order duotones (logos, crypto-color) where the foreground
-  // letterform reads against a different surface than the card.
-  Color? _iconSecondaryColor;
   // Debug toggle: swap primary <-> secondary in every duotone icon.
   // Some packs (streamline-color, streamline-flex-color, …) have
   // mixed-order paths where `trySplitTwoColorBody`'s "first color in
@@ -63,19 +54,6 @@ class _PackDetailPageState extends State<PackDetailPage> {
   // identify which icons would render correctly with the inverse
   // split, then we know how to fix the generator.
   bool _swapLayers = false;
-  // Scroll-end tick — bumped on every `ScrollEndNotification`. `_IconCell`
-  // listens to this via `ValueListenableBuilder` so visible placeholder
-  // cells (rendered as `SizedBox.shrink()` during a fling) re-evaluate
-  // `Scrollable.recommendDeferredLoadingForContext` and paint their icon.
-  // Replaces the old `setState({})` which rebuilt the entire `_LoadedBody`
-  // → `_GridContent` tree and re-ran `_applyFilters(15k)` per fling stop.
-  final ValueNotifier<int> _scrollEndTick = ValueNotifier(0);
-
-  /// Coalesces rapid keystrokes into a single filter run. With 15k icons
-  /// per pack the linear scan in `_applyFilters` runs several ms per
-  /// keystroke; debouncing makes typing feel instant. See §23 #3.
-  Timer? _filterDebounce;
-  static const _filterDebounceDuration = Duration(milliseconds: 60);
 
   @override
   void initState() {
@@ -88,9 +66,7 @@ class _PackDetailPageState extends State<PackDetailPage> {
   @override
   void dispose() {
     widget.route.queryNotifier.removeListener(_onQueriesChanged);
-    _filterDebounce?.cancel();
     _filterController.dispose();
-    _scrollEndTick.dispose();
     super.dispose();
   }
 
@@ -102,12 +78,28 @@ class _PackDetailPageState extends State<PackDetailPage> {
         selection: TextSelection.collapsed(offset: q.length),
       );
     }
+    // Render slice (size/color/secondary/opacity) lives in the URL too;
+    // mark the page dirty so the grid + sidebar re-read from `_render`
+    // when the user drags a slider or picks a swatch.
+    if (mounted) setState(() {});
   }
 
-  void setIconSize(double s) => setState(() => _iconSize = s);
-  void setIconColor(Color? c) => setState(() => _iconColor = c);
+  /// Read the live render state (size / color / secondary / opacity)
+  /// from the route's URL queries.
+  IconRenderQuery get _render =>
+      IconRenderQuery.fromQueries(widget.route.queries);
+
+  void _updateRender(IconRenderQuery next) {
+    final qs = next.toQueries(widget.route.queries);
+    widget.route.updateQueries(appCoordinator, queries: qs);
+  }
+
+  void setIconSize(double s) => _updateRender(_render.copyWith(size: s));
+  void setIconColor(Color? c) => _updateRender(_render.copyWith(color: c));
   void setIconSecondaryColor(Color? c) =>
-      setState(() => _iconSecondaryColor = c);
+      _updateRender(_render.copyWith(secondaryColor: c));
+  void setSecondaryOpacity(double v) =>
+      _updateRender(_render.copyWith(secondaryOpacity: v));
   void setSwapLayers(bool v) => setState(() => _swapLayers = v);
 
   void _setStyle(String? style) {
@@ -121,22 +113,14 @@ class _PackDetailPageState extends State<PackDetailPage> {
   }
 
   void _setFilter(String text) {
-    // Debounce keystrokes so a burst of typing produces a single filter
-    // scan instead of one per character (see RESEARCH_PLAN.md §23 #3).
-    _filterDebounce?.cancel();
-    _filterDebounce = Timer(_filterDebounceDuration, () {
-      // Store the user's LITERAL text in the URL. Trimming here used to wipe
-      // any trailing space the user just typed — the round-trip listener then
-      // overwrote the controller with the trimmed value, eating every space.
-      // See RESEARCH_PLAN.md §19. `_applyFilters` already trims on read.
-      final qs = Map<String, String>.from(widget.route.queries);
-      if (text.isEmpty) {
-        qs.remove('q');
-      } else {
-        qs['q'] = text;
-      }
-      widget.route.updateQueries(appCoordinator, queries: qs);
-    });
+    final qs = Map<String, String>.from(widget.route.queries);
+    final t = text.trim();
+    if (t.isEmpty) {
+      qs.remove('q');
+    } else {
+      qs['q'] = t;
+    }
+    widget.route.updateQueries(appCoordinator, queries: qs);
   }
 
   List<({String label, String? slug})> _availableStyles(
@@ -192,13 +176,17 @@ class _PackDetailPageState extends State<PackDetailPage> {
 
   /// When a fling/scroll ends we want cells that rendered as placeholders
   /// (because `Scrollable.recommendDeferredLoadingForContext` was true) to
-  /// finally paint their icon. Bump the `_scrollEndTick` notifier — only
-  /// `_IconCell` listens to it, so the rebuild is scoped to the per-cell
-  /// `ValueListenableBuilder` body. No top-level setState, no
-  /// `_LoadedBody.build`, no `_applyFilters(15k)` per fling stop.
+  /// finally paint their icon. The simplest trigger is a top-level rebuild
+  /// gated by a ScrollEndNotification listener — the rebuild is cheap (the
+  /// outer LayoutBuilder + `_GridContent` + `_applyFilters` all early-out on
+  /// equal inputs) and gives the currently-mounted cells a fresh build pass
+  /// where `recommendDeferredLoading` is now false → icons paint.
   bool _onScrollNotification(ScrollNotification n) {
     if (n is ScrollEndNotification) {
-      _scrollEndTick.value = _scrollEndTick.value + 1;
+      // ignore: avoid_print
+      // Causes _LoadedBody → _GridContent → SliverChildBuilderDelegate to
+      // rebuild and re-evaluate the deferred check.
+      setState(() {});
     }
     return false;
   }
@@ -220,22 +208,10 @@ class _PackDetailPageState extends State<PackDetailPage> {
             return _LoadingCatalog(summary: summary);
           }
           final allIcons = state.catalog.byPrefix[prefix] ?? const [];
-          // RESEARCH_PLAN §9 lazy font registration. The pack's TTFs are
-          // bundled as assets via the transitive `iconifyx_<prefix>` dep,
-          // but we hold off on calling `FontLoader.load()` until the user
-          // actually opens this page — so packs they never visit never
-          // touch the CanvasKit WASM font registry. Once registered, the
-          // glyph data lives in CanvasKit memory until page reload (no
-          // public unregister API — see `font_loader_service.dart`), so
-          // bounding *which* packs get there is the only growth-control
-          // lever we have.
-          return _FontGate(
+          return _LoadedBody(
+            page: this,
             summary: summary,
-            child: _LoadedBody(
-              page: this,
-              summary: summary,
-              allIcons: allIcons,
-            ),
+            allIcons: allIcons,
           );
         },
       ),
@@ -260,7 +236,11 @@ class _LoadedBody extends StatelessWidget {
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final route = page.widget.route;
     final styles = page._availableStyles(allIcons);
-    final iconColor = page._iconColor ?? ink;
+    // Live render slice — re-read on every rebuild. The route's
+    // queryNotifier triggers our rebuild via `_onQueriesChanged` →
+    // setState path AND via the selectorBuilder wrappers below.
+    final render = page._render;
+    final iconColor = render.color ?? ink;
 
     return LayoutBuilder(
       builder: (context, c) {
@@ -281,18 +261,41 @@ class _LoadedBody extends StatelessWidget {
                 .clamp(0.0, double.infinity);
         final gridCrossExtent = (pageColumnWidth - 2 * pageContainerPad - 56)
             .clamp(0.0, double.infinity);
-        final iconSizeValue = page._iconSize;
-        // Square cells — only the TTF render lives in each cell now (the
-        // previous side-by-side SVG comparison was removed, see §23 #1).
-        final cellTarget = (iconSizeValue + 56).clamp(80, 200).toDouble();
-        final cols = (gridCrossExtent / cellTarget).floor().clamp(3, 24);
+        final iconSizeValue = render.size;
+        // Cell now hosts a side-by-side comparison (iconifyx TTF + iconify
+        // CDN SVG), so each cell needs roughly 2× the horizontal room a
+        // square-icon cell would. Bumped from `iconSize + 56` to
+        // `iconSize * 2 + 64`; cols clamp lowered from 3..24 to 2..12.
+        final cellTarget =
+            (iconSizeValue * 2 + 64).clamp(140, 360).toDouble();
+        final cols = (gridCrossExtent / cellTarget).floor().clamp(2, 12);
         const crossAxisSpacing = 10.0;
         final cellWidth =
             (gridCrossExtent - crossAxisSpacing * (cols - 1)) / cols;
-        // Whole-cell icon, clamped to the IconifyThumb sweet spot.
-        final iconRenderSize = (cellWidth - 16).clamp(16.0, 96.0);
+        // Each sub-tile gets half the cell minus internal padding + divider.
+        // Clamped to 16..96 like before — that's the IconifyThumb sweet spot.
+        final iconRenderSize =
+            ((cellWidth - 28) / 2).clamp(16.0, 96.0);
 
         final cardColor = isDark ? AppTheme.cardDark : AppTheme.card;
+        // Pass the *base* secondary colour at full opacity. The
+        // secondary-opacity slider rides on its own dedicated field so
+        // `IconifyIcon` can apply it ONLY to the secondary layer — the
+        // primary tile keeps the user-picked colour at full strength.
+        // Bug 2 (sliders' alpha leaking into primary on paint-order
+        // duotones) is fixed by this split: previously the website
+        // baked the slider's alpha into `secondaryColor`, which forced
+        // the IconifyIcon paint-order knockout fallback to override
+        // the alpha to 1.0 — leaving the slider visually dead. Now the
+        // alpha rides on `secondaryOpacity` and the kind-default fallback
+        // never overwrites it.
+        final secondaryBase =
+            render.secondaryColor ?? const Color(0xFF000000);
+        // Only the render-state keys (size / color / secondary /
+        // opacity) get forwarded — the pack's filter `q` / `style` are
+        // local to the pack page and shouldn't pollute the icon-detail
+        // URL.
+        final forwardQueries = render.toQueries(const {});
         final palette = _CellPalette(
           card: cardColor,
           rule: isDark ? AppTheme.ruleDark : AppTheme.rule,
@@ -300,18 +303,10 @@ class _LoadedBody extends StatelessWidget {
           muted: muted,
           iconColor: iconColor,
           iconRenderSize: iconRenderSize,
-          // Default secondary = plain black. Using the card surface (white
-          // in light theme) made paint-order foreground letterforms blend
-          // into the page background where the glyph touches the tile
-          // edge — looked like the icon was broken rather than a
-          // knockout. Black is universally legible against any
-          // currentColor-filled primary tile (until the user picks
-          // explicit ink as the primary). Override via the sidebar
-          // "SECONDARY COLOR" swatches.
-          surfaceForKnockout:
-              page._iconSecondaryColor ?? const Color(0xFF000000),
+          surfaceForKnockout: secondaryBase,
+          secondaryOpacity: render.secondaryOpacity,
           swapLayers: page._swapLayers,
-          scrollEndTick: page._scrollEndTick,
+          forwardQueries: forwardQueries,
         );
 
         final sidebar = route.selectorBuilder<String?>(
@@ -321,12 +316,14 @@ class _LoadedBody extends StatelessWidget {
             styles: styles,
             activeStyle: activeStyle,
             onStyle: page._setStyle,
-            size: page._iconSize,
+            size: render.size,
             onSize: page.setIconSize,
-            color: page._iconColor,
+            color: render.color,
             onColor: page.setIconColor,
-            secondaryColor: page._iconSecondaryColor,
+            secondaryColor: render.secondaryColor,
             onSecondaryColor: page.setIconSecondaryColor,
+            secondaryOpacity: render.secondaryOpacity,
+            onSecondaryOpacity: page.setSecondaryOpacity,
             swapLayers: page._swapLayers,
             onSwapLayers: page.setSwapLayers,
           ),
@@ -396,8 +393,10 @@ class _LoadedBody extends StatelessWidget {
             page: page,
             allIcons: allIcons,
             cols: cols,
-            // Square cells — TTF-only render after §23 #1.
-            childAspect: 1.0,
+            // Landscape rectangle: 1.6× wider than tall to fit the
+            // side-by-side TTF + SVG comparison without cramping either
+            // tile.
+            childAspect: 1.6,
             palette: palette,
           ),
         );
@@ -467,8 +466,9 @@ class _CellPalette {
     required this.iconColor,
     required this.iconRenderSize,
     required this.surfaceForKnockout,
+    required this.secondaryOpacity,
     required this.swapLayers,
-    required this.scrollEndTick,
+    required this.forwardQueries,
   });
   final Color card;
   final Color rule;
@@ -483,6 +483,10 @@ class _CellPalette {
   /// colour — the foreground letter visually "punches out" of the
   /// currentColor-filled tile and the gap reads as the card surface.
   final Color surfaceForKnockout;
+  /// Alpha applied to the secondary layer ONLY. Passed straight through
+  /// to `IconifyIcon.secondaryOpacity` so the slider doesn't leak into
+  /// the primary layer's render.
+  final double secondaryOpacity;
   /// Debug toggle: swap primary <-> secondary in every duotone icon.
   /// Useful for packs (streamline-color family) where the two-color split
   /// heuristic picked the wrong "first" colour as background and the
@@ -490,11 +494,11 @@ class _CellPalette {
   /// which reconstructs an `IconifyIconData` with the IconDatas swapped
   /// (kind preserved). Off by default.
   final bool swapLayers;
-  /// Notifier bumped on every `ScrollEndNotification`. `_IconCell` listens
-  /// via `ValueListenableBuilder` so visible placeholder cells re-evaluate
-  /// `Scrollable.recommendDeferredLoadingForContext` and paint their icon
-  /// — without rebuilding the whole grid (`_applyFilters(15k)` skipped).
-  final ValueListenable<int> scrollEndTick;
+  /// Query map propagated to `IconDetailRoute.initialQueries` on cell
+  /// tap so the sheet inherits the user's render state (size, color,
+  /// secondary, opacity). Built ONCE per grid rebuild — same instance
+  /// shared across all 15k cells.
+  final Map<String, String> forwardQueries;
 }
 
 class _GridContent extends StatelessWidget {
@@ -563,131 +567,85 @@ class _IconCell extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // During fast scroll the engine reports `recommendDeferredLoading`. Skip
-    // the IconifyIcon paint and only render the cell chrome (box + label);
-    // when scroll velocity drops below the threshold the parent bumps
-    // `palette.scrollEndTick` and the inner `ValueListenableBuilder` re-
-    // evaluates the deferred check, so the icon paints.
-    //
-    // The previous side-by-side comparison with `SvgPicture.network` against
-    // api.iconify.design was removed — paint-order duotones now render
-    // correctly via `IconifyIcon`'s native composition (palette.surface
-    // ForKnockout knocks out the foreground letterform). See §23 #1.
-    // Isolate each cell into its own render layer so hover repaints don't
-    // invalidate the entire SliverGrid's layer (15k icons -> noticeable
-    // jank without the boundary). See §23 #4.
-    //
-    // Long-press / right-click toggles selection-tray membership (see §10).
-    // The callback uses `context.read<SelectionCubit>()` so the cell is NOT
-    // subscribed to selection changes — only the inner `_SelectionBadge`
-    // subscribes scopedly via a `BlocSelector` keyed on this cell's ref.
-    // Flipping one icon thus rebuilds exactly one badge, not 15k cells.
-    final iconRef = IconRef(prefix: record.prefix, name: record.name);
-    void toggleSelection() => context.read<SelectionCubit>().toggle(iconRef);
-    return RepaintBoundary(
-      child: GestureDetector(
-        behavior: HitTestBehavior.opaque,
-        onLongPress: toggleSelection,
-        onSecondaryTap: toggleSelection,
-        child: HoverBuilder(
-          onTap: () => appCoordinator.push(
-            IconDetailRoute(prefix: record.prefix, name: record.name),
+    // both the IconifyIcon paint AND the Iconify CDN SVG fetch (`SvgPicture
+    // .network` is the bigger cost — a fling across arcticons would
+    // otherwise fire ~15k network requests). Show the cell chrome only;
+    // when scroll velocity drops below the threshold and any new cell
+    // enters the viewport, that cell renders both halves normally.
+    final deferred = Scrollable.recommendDeferredLoadingForContext(context);
+    final iconData = deferred ? null : record.toIconifyData();
+    return HoverBuilder(
+      onTap: () => appCoordinator.push(
+        IconDetailRoute(
+          prefix: record.prefix,
+          name: record.name,
+          initialQueries: palette.forwardQueries,
+        ),
+      ),
+      builder: (ctx, hovered) {
+        final accent = hovered ? AppTheme.coral : palette.iconColor;
+        return Container(
+          decoration: BoxDecoration(
+            color: hovered ? palette.coralSoft : palette.card,
+            borderRadius: BorderRadius.circular(10),
+            border: Border.all(color: hovered ? AppTheme.coral : palette.rule),
           ),
-          builder: (ctx, hovered) {
-            final accent = hovered ? AppTheme.coral : palette.iconColor;
-            return Stack(
-              children: [
-                Container(
-                  decoration: BoxDecoration(
-                    color: hovered ? palette.coralSoft : palette.card,
-                    borderRadius: BorderRadius.circular(10),
-                    border: Border.all(
-                        color: hovered ? AppTheme.coral : palette.rule),
-                  ),
-                  padding: const EdgeInsets.fromLTRB(6, 6, 6, 6),
-                  child: Column(
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      Expanded(
-                        child: Center(
-                          // Scoped rebuild: only the icon Center body re-runs
-                          // when scrolling stops; the surrounding HoverBuilder,
-                          // Container, and label below stay put.
-                          child: ValueListenableBuilder<int>(
-                            valueListenable: palette.scrollEndTick,
-                            builder: (cellCtx, _, __) {
-                              final deferred = Scrollable
-                                  .recommendDeferredLoadingForContext(cellCtx);
-                              if (deferred) return const SizedBox.shrink();
-                              return IconifyThumb(
-                                record.toIconifyData(),
+          padding: const EdgeInsets.fromLTRB(6, 6, 6, 6),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Expanded(
+                child: Row(
+                  children: [
+                    Expanded(
+                      child: Center(
+                        child: iconData == null
+                            ? const SizedBox.shrink()
+                            : IconifyThumb(
+                                iconData,
                                 size: palette.iconRenderSize,
                                 color: accent,
                                 secondaryColor: palette.surfaceForKnockout,
+                                secondaryOpacity: palette.secondaryOpacity,
                                 swapLayers: palette.swapLayers,
-                              );
-                            },
-                          ),
-                        ),
+                              ),
                       ),
-                      const SizedBox(height: 4),
-                      Text(
-                        record.name,
-                        maxLines: 1,
-                        overflow: TextOverflow.ellipsis,
-                        textAlign: TextAlign.center,
-                        style: TextStyle(
-                          fontSize: 10,
-                          height: 1.1,
-                          color: hovered ? AppTheme.coral : palette.muted,
-                          fontWeight: FontWeight.w500,
-                        ),
+                    ),
+                    Container(
+                      width: 1,
+                      margin: const EdgeInsets.symmetric(vertical: 6),
+                      color: palette.rule,
+                    ),
+                    Expanded(
+                      child: Center(
+                        child: deferred
+                            ? const SizedBox.shrink()
+                            : SvgPicture.network(
+                                iconifySvgUrlTinted(record, accent),
+                                width: palette.iconRenderSize,
+                                height: palette.iconRenderSize,
+                                placeholderBuilder: (_) =>
+                                    const SizedBox.shrink(),
+                              ),
                       ),
-                    ],
-                  ),
+                    ),
+                  ],
                 ),
-                Positioned(
-                  top: 4,
-                  right: 4,
-                  child: _SelectionBadge(iconRef: iconRef),
+              ),
+              const SizedBox(height: 4),
+              Text(
+                record.name,
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 10,
+                  height: 1.1,
+                  color: hovered ? AppTheme.coral : palette.muted,
+                  fontWeight: FontWeight.w500,
                 ),
-              ],
-            );
-          },
-        ),
-      ),
-    );
-  }
-}
-
-/// Per-cell selection-state subscriber. Only this small badge overlay
-/// rebuilds when this specific icon's membership in the selection set
-/// flips. Listening at the cell level (instead of in `_IconCell.build`)
-/// keeps the icon-grid render path out of `SelectionCubit`'s listener
-/// chain — flipping one icon doesn't churn the 15k other cells.
-class _SelectionBadge extends StatelessWidget {
-  const _SelectionBadge({required this.iconRef});
-
-  final IconRef iconRef;
-
-  @override
-  Widget build(BuildContext context) {
-    return BlocSelector<SelectionCubit, SelectionState, bool>(
-      selector: (state) => state.contains(iconRef),
-      builder: (context, selected) {
-        if (!selected) return const SizedBox.shrink();
-        return Container(
-          width: 14,
-          height: 14,
-          decoration: BoxDecoration(
-            color: AppTheme.coral,
-            borderRadius: BorderRadius.circular(7),
-            border: Border.all(color: Colors.white, width: 1.5),
-          ),
-          alignment: Alignment.center,
-          child: const Icon(
-            Icons.check_rounded,
-            size: 9,
-            color: Colors.white,
+              ),
+            ],
           ),
         );
       },
@@ -708,6 +666,8 @@ class _Sidebar extends StatelessWidget {
     required this.onColor,
     required this.secondaryColor,
     required this.onSecondaryColor,
+    required this.secondaryOpacity,
+    required this.onSecondaryOpacity,
     required this.swapLayers,
     required this.onSwapLayers,
   });
@@ -722,6 +682,8 @@ class _Sidebar extends StatelessWidget {
   final ValueChanged<Color?> onColor;
   final Color? secondaryColor;
   final ValueChanged<Color?> onSecondaryColor;
+  final double secondaryOpacity;
+  final ValueChanged<double> onSecondaryOpacity;
   final bool swapLayers;
   final ValueChanged<bool> onSwapLayers;
 
@@ -808,6 +770,19 @@ class _Sidebar extends StatelessWidget {
           ),
         ),
         const SizedBox(height: 14),
+        // Secondary opacity slider. Only meaningful for HINT-kind
+        // duotones (Phosphor / Solar / ic / lets-icons mask-internal);
+        // paint-order icons ignore the alpha downstream so the slider
+        // is a no-op for them. Default 0.4 matches the kind default in
+        // `IconifyIcon`. Discrete steps so the grid only repaints when
+        // the snapped value moves to a new division.
+        _SidebarLabel('SECONDARY OPACITY'),
+        const SizedBox(height: 4),
+        _OpacitySliderRow(
+          initialValue: secondaryOpacity,
+          onCommit: onSecondaryOpacity,
+        ),
+        const SizedBox(height: 14),
         // Debug: swap primary <-> secondary in every duotone icon.
         // For streamline-color and similar packs where the two-color
         // split's "first colour = primary" heuristic ended up with the
@@ -866,12 +841,12 @@ class _SidebarLabel extends StatelessWidget {
 
 /// Discrete-snap size slider.
 ///
-/// `divisions: 12` with min=16/max=64 snaps to the steps
-/// `16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64`. The Slider only
-/// fires `onChanged` when the snapped value crosses to the next step — not
-/// on every drag pixel — so committing on every `onChanged` updates the
-/// grid at most ~12 times across the full drag, not 60 Hz. That's cheap
-/// enough for live preview without the per-pixel rebuild storm.
+/// `divisions: 28` with min=16/max=128 snaps to 4-px steps
+/// `16, 20, 24, … 128`. The Slider only fires `onChanged` when the
+/// snapped value crosses to the next step — not on every drag pixel —
+/// so committing on every `onChanged` updates the grid at most ~28
+/// times across the full drag, not 60 Hz. Cheap enough for live preview
+/// without the per-pixel rebuild storm.
 class _SizeSliderRow extends StatelessWidget {
   const _SizeSliderRow({required this.initialValue, required this.onCommit});
   final double initialValue;
@@ -889,10 +864,43 @@ class _SizeSliderRow extends StatelessWidget {
               style: AppTheme.mono(size: 12, color: ink)),
           Expanded(
             child: Slider(
-              value: initialValue,
+              value: initialValue.clamp(16.0, 128.0),
               min: 16,
-              max: 64,
-              divisions: 12,
+              max: 128,
+              divisions: 28,
+              onChanged: onCommit,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+/// Discrete-snap secondary-opacity slider (10 divisions across 0..1).
+class _OpacitySliderRow extends StatelessWidget {
+  const _OpacitySliderRow(
+      {required this.initialValue, required this.onCommit});
+  final double initialValue;
+  final ValueChanged<double> onCommit;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 8),
+      child: Row(
+        children: [
+          SizedBox(
+            width: 36,
+            child: Text('${(initialValue * 100).toStringAsFixed(0)}%',
+                style: AppTheme.mono(size: 12, color: ink)),
+          ),
+          Expanded(
+            child: Slider(
+              value: initialValue.clamp(0.0, 1.0),
+              divisions: 10,
               onChanged: onCommit,
             ),
           ),
@@ -1156,64 +1164,6 @@ class _LoadingCatalog extends StatelessWidget {
           const Center(child: CircularProgressIndicator(color: AppTheme.coral)),
         ],
       ),
-    );
-  }
-}
-
-/// Gates [child] on a successful [FontLoaderService.ensurePack] for
-/// [summary]. Shows the page chrome (breadcrumb-style spinner) while the
-/// first per-pack TTF registration is in flight. Returns the child
-/// synchronously on subsequent visits — the service tracks completed
-/// packs internally so the gate is a near-zero-cost pass-through after
-/// the first paint.
-///
-/// Stateful because the load future must outlive a single build — when
-/// Flutter rebuilds the `BlocBuilder` ancestor (e.g. theme toggle), we
-/// must not re-issue the `ensurePack` call.
-class _FontGate extends StatefulWidget {
-  const _FontGate({required this.summary, required this.child});
-  final PackSummary summary;
-  final Widget child;
-
-  @override
-  State<_FontGate> createState() => _FontGateState();
-}
-
-class _FontGateState extends State<_FontGate> {
-  late Future<void> _future;
-
-  @override
-  void initState() {
-    super.initState();
-    _future = FontLoaderService.instance.ensurePack(widget.summary);
-  }
-
-  @override
-  void didUpdateWidget(covariant _FontGate old) {
-    super.didUpdateWidget(old);
-    // When the route swaps to a different pack while this widget is
-    // still mounted (the BlocBuilder rebuilds with a new prefix), kick
-    // off the new pack's font load. Idempotent if already loaded.
-    if (old.summary.prefix != widget.summary.prefix) {
-      _future = FontLoaderService.instance.ensurePack(widget.summary);
-    }
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    // Fast path: pack already registered. Skip the FutureBuilder
-    // rebuild dance entirely so revisits feel instant.
-    if (FontLoaderService.instance.isLoaded(widget.summary.prefix)) {
-      return widget.child;
-    }
-    return FutureBuilder<void>(
-      future: _future,
-      builder: (context, snap) {
-        if (snap.connectionState != ConnectionState.done) {
-          return _LoadingCatalog(summary: widget.summary);
-        }
-        return widget.child;
-      },
     );
   }
 }

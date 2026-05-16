@@ -17,6 +17,7 @@ class IconifyThumb extends StatelessWidget {
     required this.size,
     this.color,
     this.secondaryColor,
+    this.secondaryOpacity,
     this.swapLayers = false,
   });
 
@@ -28,6 +29,11 @@ class IconifyThumb extends StatelessWidget {
   /// this should be the surface / page background colour the foreground
   /// letterform should knock out to.
   final Color? secondaryColor;
+
+  /// Forwarded to [IconifyIcon.secondaryOpacity]. Only affects the
+  /// secondary layer's alpha. Null = use the kind-appropriate default
+  /// (0.4 for hint / mask-internal, 1.0 for paint-order).
+  final double? secondaryOpacity;
 
   /// Debug-only flag. When true and [icon] is a duotone, reconstruct
   /// the [IconifyIconData] with `primary` <-> `secondary` swapped (kind
@@ -50,6 +56,7 @@ class IconifyThumb extends StatelessWidget {
       size: size,
       color: color,
       secondaryColor: secondaryColor,
+      secondaryOpacity: secondaryOpacity,
     );
   }
 }
