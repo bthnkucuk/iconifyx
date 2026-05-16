@@ -3,67 +3,99 @@ import 'package:flutter/material.dart';
 import '../../bootstrap/docs_loader.dart';
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/docs_route.dart';
+import '../../router/routes/shell/docs_tab_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/markdown_body.dart';
+import '../../shared/widgets/site_footer.dart';
 import '../../theme/app_theme.dart';
 
-/// `/docs` and `/docs/<slug>`. When [slug] is null we render the index
-/// (overview + TOC); otherwise we load the matching markdown file from
-/// `assets/docs/<slug>.md` and render it inline.
-class DocsPage extends StatefulWidget {
-  const DocsPage({super.key, this.slug});
+/// Docs shell — pinned title + sub-tab strip on top, the active sub-tab's
+/// markdown body underneath (rendered by [DocsRoute]'s inner
+/// [IndexedStackPath] via `layout.buildPath`). Switching sub-tabs swaps the
+/// body only, leaving each tab's scroll position untouched.
+///
+/// Built once per `DocsRoute` activation; rebuilds when the indexed stack's
+/// active index changes (via [ListenableBuilder] on the path).
+class DocsShellPage extends StatelessWidget {
+  const DocsShellPage({super.key, required this.layout});
 
-  final String? slug;
-
-  @override
-  State<DocsPage> createState() => _DocsPageState();
-}
-
-class _DocsPageState extends State<DocsPage> {
-  late Future<String> _markdownFuture;
-
-  @override
-  void initState() {
-    super.initState();
-    _markdownFuture = _load();
-  }
-
-  @override
-  void didUpdateWidget(covariant DocsPage oldWidget) {
-    super.didUpdateWidget(oldWidget);
-    if (oldWidget.slug != widget.slug) {
-      _markdownFuture = _load();
-    }
-  }
-
-  Future<String> _load() => DocsLoader.loadDoc(widget.slug ?? 'overview');
+  final DocsRoute layout;
 
   @override
   Widget build(BuildContext context) {
-    final slug = widget.slug;
-    final entry = DocsLoader.entryFor(slug ?? 'overview');
-    final fallbackTitle = slug == null ? 'Documentation' : (slug);
-    final title = entry?.title ?? fallbackTitle;
+    final scaffoldBg = Theme.of(context).scaffoldBackgroundColor;
+    return Material(
+      color: scaffoldBg,
+      child: LayoutBuilder(
+        builder: (context, c) {
+          final pad = ((c.maxWidth - AppShellLayout.pageMaxWidth) / 2)
+              .clamp(0.0, double.infinity);
+          return Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              ListenableBuilder(
+                listenable: appCoordinator.docsTabsStack,
+                builder: (ctx, _) {
+                  final active = appCoordinator.docsTabsStack.activeRoute;
+                  final activeSlug =
+                      active is DocsTabRoute ? active.slug : 'overview';
+                  return Padding(
+                    padding: EdgeInsets.symmetric(horizontal: pad),
+                    child: _DocsHeader(activeSlug: activeSlug),
+                  );
+                },
+              ),
+              Expanded(child: layout.buildPath(appCoordinator)),
+            ],
+          );
+        },
+      ),
+    );
+  }
+}
 
-    return PageContainer.slivers(
-      slivers: [
-        SliverToBoxAdapter(
-          child: _DocsHeader(title: title, activeSlug: slug ?? 'overview'),
-        ),
-        SliverToBoxAdapter(
-          child: LayoutBuilder(
-            builder: (context, c) {
-              // Constrain prose width — long lines of body text are
-              // unreadable on a 1240-wide canvas. 760 keeps comfortable
-              // measure (~75-90 chars at 15-16 px body).
-              final contentMax = c.maxWidth < 760 ? c.maxWidth : 760.0;
-              return Padding(
-                padding: const EdgeInsets.fromLTRB(0, 8, 0, 64),
+/// The body rendered inside the indexed stack for one doc slug. Each
+/// instance owns its own `Future<String>` + scroll view, so per-tab scroll
+/// position survives tab switches (the IndexedStack keeps every tab body
+/// mounted).
+class DocsTabBody extends StatefulWidget {
+  const DocsTabBody({super.key, required this.slug});
+
+  final String slug;
+
+  @override
+  State<DocsTabBody> createState() => _DocsTabBodyState();
+}
+
+class _DocsTabBodyState extends State<DocsTabBody> {
+  // IndexedStack keeps all six tab widgets mounted, so this future fires
+  // exactly once per tab — the markdown text is cached for the lifetime
+  // of the surrounding [DocsRoute] activation.
+  late final Future<String> _markdownFuture =
+      DocsLoader.loadDoc(widget.slug);
+
+  @override
+  Widget build(BuildContext context) {
+    return LayoutBuilder(
+      builder: (context, c) {
+        final pad = ((c.maxWidth - AppShellLayout.pageMaxWidth) / 2)
+            .clamp(0.0, double.infinity);
+        // Match `PackDetailPage`'s content column inset (28 px) so the
+        // markdown body lines up with the rest of the site. Vertical pad
+        // adds breathing room above the first heading and below the last
+        // paragraph before the footer rule.
+        final contentMaxWidth =
+            (c.maxWidth - 2 * pad - 56) < 760 ? double.infinity : 760.0;
+        return CustomScrollView(
+          slivers: [
+            SliverPadding(
+              padding: EdgeInsets.fromLTRB(pad + 28, 32, pad + 28, 32),
+              sliver: SliverToBoxAdapter(
                 child: Align(
                   alignment: Alignment.topLeft,
                   child: ConstrainedBox(
-                    constraints: BoxConstraints(maxWidth: contentMax),
+                    constraints: BoxConstraints(maxWidth: contentMaxWidth),
                     child: FutureBuilder<String>(
                       future: _markdownFuture,
                       builder: (context, snap) {
@@ -74,15 +106,18 @@ class _DocsPageState extends State<DocsPage> {
                               child: SizedBox(
                                 width: 24,
                                 height: 24,
-                                child: CircularProgressIndicator(strokeWidth: 2),
+                                child: CircularProgressIndicator(
+                                  strokeWidth: 2,
+                                ),
                               ),
                             ),
                           );
                         }
                         if (snap.hasError || !snap.hasData) {
                           return _DocsLoadError(
-                            slug: slug,
-                            error: snap.error?.toString() ?? 'Doc not found',
+                            slug: widget.slug,
+                            error:
+                                snap.error?.toString() ?? 'Doc not found',
                           );
                         }
                         return MarkdownBody(snap.data!);
@@ -90,29 +125,37 @@ class _DocsPageState extends State<DocsPage> {
                     ),
                   ),
                 ),
-              );
-            },
-          ),
-        ),
-      ],
+              ),
+            ),
+            SliverPadding(
+              padding: EdgeInsets.symmetric(horizontal: pad),
+              sliver: const SliverToBoxAdapter(child: SiteFooter()),
+            ),
+          ],
+        );
+      },
     );
   }
 }
 
 class _DocsHeader extends StatelessWidget {
-  const _DocsHeader({required this.title, required this.activeSlug});
+  const _DocsHeader({required this.activeSlug});
 
-  final String title;
   final String activeSlug;
 
   @override
   Widget build(BuildContext context) {
+    final entry = DocsLoader.entryFor(activeSlug);
+    final title = entry?.title ?? 'Documentation';
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
     final tt = Theme.of(context).textTheme;
     return Padding(
-      padding: const EdgeInsets.fromLTRB(0, 36, 0, 12),
+      // 28 px horizontal inset matches `_PinnedTitleDelegate` / pack detail
+      // breadcrumb. 36/12 vertical leaves a comfortable hero band above
+      // the tab strip.
+      padding: const EdgeInsets.fromLTRB(28, 36, 28, 12),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -154,33 +197,20 @@ class _DocsTabs extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final tabs = [
-      const _TabSpec(slug: 'overview', label: 'Overview'),
-      ...DocsLoader.entries
-          .where((e) => e.slug != 'overview')
-          .map((e) => _TabSpec(slug: e.slug, label: e.title)),
-    ];
     return Wrap(
       spacing: 6,
       runSpacing: 6,
       children: [
-        for (final t in tabs)
+        for (final t in DocsLoader.entries)
           _DocsTab(
-            label: t.label,
+            label: t.title,
             active: t.slug == activeSlug,
-            onTap: () => appCoordinator.navigate(
-              DocsRoute(slug: t.slug == 'overview' ? null : t.slug),
-            ),
+            onTap: () =>
+                appCoordinator.navigate(DocsTabRoute(slug: t.slug)),
           ),
       ],
     );
   }
-}
-
-class _TabSpec {
-  const _TabSpec({required this.slug, required this.label});
-  final String slug;
-  final String label;
 }
 
 class _DocsTab extends StatelessWidget {
@@ -220,7 +250,7 @@ class _DocsTab extends StatelessWidget {
 
 class _DocsLoadError extends StatelessWidget {
   const _DocsLoadError({required this.slug, required this.error});
-  final String? slug;
+  final String slug;
   final String error;
 
   @override
@@ -233,9 +263,7 @@ class _DocsLoadError extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            slug == null
-                ? 'Could not load the docs index.'
-                : 'No doc found for "$slug".',
+            'No doc found for "$slug".',
             style: Theme.of(context).textTheme.titleMedium,
           ),
           const SizedBox(height: 8),

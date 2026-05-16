@@ -1,37 +1,42 @@
 import 'package:flutter/widgets.dart';
+import 'package:zenrouter/zenrouter.dart';
 
 import '../../../features/docs/docs_page.dart';
 import '../../coordinator.dart';
 import '../../route.dart';
-import 'app_shell_layout.dart';
+import 'shell_tabs_layout.dart';
 
-/// `/docs` — overview / index of available docs.
-/// `/docs/<slug>` — a specific markdown doc, rendered inline.
+/// `/docs` and `/docs/<slug>` — the docs landing surface.
 ///
-/// Slug is one of: `architecture`, `duotone`, `flutter-3-44-icondata`,
-/// `pipeline`. The `overview` slug is the implicit landing page when
-/// no slug is provided in the URL; `DocsRoute()` with `slug: null`
-/// renders the docs index.
-class DocsRoute extends AppRoute {
-  DocsRoute({this.slug});
-
-  /// Doc slug. `null` means `/docs` (the overview / index page).
-  final String? slug;
+/// `DocsRoute` is the **layout** for the inner docs tab strip; the actual
+/// markdown body for the active sub-tab is rendered by `DocsTabRoute`
+/// instances that live inside [AppCoordinator.docsTabsStack]. Switching
+/// between docs sub-tabs (Overview / Architecture / Duotone / Flutter 3.44
+/// IconData / Pipeline / Backers) toggles the indexed stack's `activeIndex`
+/// rather than pushing — so browser back from `/docs/architecture` lands
+/// on the previous tab (not all the way out of `/docs`), and scroll
+/// position is preserved per tab.
+///
+/// Note: `props` is `const []` so all `DocsRoute` instances are equal
+/// for the outer [ShellTabsLayout]'s [IndexedStackPath] — slug routing
+/// happens one layer deeper via `DocsTabRoute`.
+class DocsRoute extends AppRoute with RouteLayout<AppRoute> {
+  @override
+  Type get layout => ShellTabsLayout;
 
   @override
-  Type get layout => AppShellLayout;
+  List<Object?> get props => const [];
 
   @override
-  List<Object?> get props => [slug];
+  Uri toUri() => appCoordinator.docsTabsStack.activeRoute.toUri();
 
   @override
-  Uri toUri() {
-    return slug == null
-        ? Uri.parse('/docs')
-        : Uri.parse('/docs/$slug');
-  }
+  IndexedStackPath<AppRoute> resolvePath(
+    covariant AppCoordinator coordinator,
+  ) =>
+      coordinator.docsTabsStack;
 
   @override
   Widget build(covariant AppCoordinator coordinator, BuildContext context) =>
-      DocsPage(slug: slug);
+      DocsShellPage(layout: this);
 }

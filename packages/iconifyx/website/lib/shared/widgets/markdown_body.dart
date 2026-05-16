@@ -4,7 +4,7 @@ import 'package:markdown_widget/markdown_widget.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../router/coordinator.dart';
-import '../../router/routes/shell/docs_route.dart';
+import '../../router/routes/shell/docs_tab_route.dart';
 import '../../theme/app_theme.dart';
 
 /// Renders a markdown string as a themed [Column] — drop into a sliver
@@ -168,7 +168,7 @@ class MarkdownBody extends StatelessWidget {
     final cleaned = url.split('#').first.split('?').first;
     final slug = _slugForLink(cleaned);
     if (slug != null) {
-      appCoordinator.navigate(DocsRoute(slug: slug));
+      appCoordinator.navigate(DocsTabRoute(slug: slug));
       return;
     }
     final uri = Uri.tryParse(url);

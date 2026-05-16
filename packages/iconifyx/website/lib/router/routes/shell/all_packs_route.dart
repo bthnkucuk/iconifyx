@@ -4,7 +4,7 @@ import 'package:zenrouter/zenrouter.dart';
 import '../../coordinator.dart';
 import '../../route.dart';
 import '../../../features/home/all_packs_page.dart';
-import 'app_shell_layout.dart';
+import 'shell_tabs_layout.dart';
 
 /// `/packs?cat=<slug>&q=<text>` — all-packs listing with optional category +
 /// pack-name filter encoded in the URL query.
@@ -20,7 +20,7 @@ class AllPacksRoute extends AppRoute with RouteQueryParameters {
   final ValueNotifier<Map<String, String>> queryNotifier;
 
   @override
-  Type get layout => AppShellLayout;
+  Type get layout => ShellTabsLayout;
 
   @override
   Uri toUri() => queries.isEmpty

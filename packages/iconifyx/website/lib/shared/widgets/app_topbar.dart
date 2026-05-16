@@ -79,21 +79,42 @@ class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
                           onTap: () => MobileDrawer.show(context)),
                     ] else ...[
                       const SizedBox(width: 14),
-                      _NavLink(
-                          label: 'Home',
-                          onTap: () => appCoordinator.navigate(HomeRoute()),
-                          active: true),
-                      _NavLink(
-                          label: 'Icons',
-                          onTap: () =>
-                              appCoordinator.navigate(AllPacksRoute())),
-                      _NavLink(
-                          label: 'Docs',
-                          onTap: () => appCoordinator.navigate(DocsRoute())),
-                      _NavLink(
-                          label: 'Changelog',
-                          onTap: () =>
-                              appCoordinator.navigate(ChangelogRoute())),
+                      // The active-tab highlight reflects the
+                      // [tabsStack]'s active index. ListenableBuilder
+                      // rebuilds only the four nav links when the user
+                      // switches tabs.
+                      ListenableBuilder(
+                        listenable: appCoordinator.tabsStack,
+                        builder: (ctx, _) {
+                          final activeIdx =
+                              appCoordinator.tabsStack.activeIndex;
+                          return Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              _NavLink(
+                                  label: 'Home',
+                                  onTap: () => appCoordinator
+                                      .navigate(HomeRoute()),
+                                  active: activeIdx == 0),
+                              _NavLink(
+                                  label: 'Icons',
+                                  onTap: () => appCoordinator
+                                      .navigate(AllPacksRoute()),
+                                  active: activeIdx == 1),
+                              _NavLink(
+                                  label: 'Docs',
+                                  onTap: () => appCoordinator
+                                      .navigate(DocsRoute()),
+                                  active: activeIdx == 2),
+                              _NavLink(
+                                  label: 'Changelog',
+                                  onTap: () => appCoordinator
+                                      .navigate(ChangelogRoute()),
+                                  active: activeIdx == 3),
+                            ],
+                          );
+                        },
+                      ),
                       const Spacer(),
                       SizedBox(
                           width: searchW, child: _SearchTrigger(color: ink2)),
