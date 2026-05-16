@@ -1,6 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:zenrouter/zenrouter.dart';
 
+import 'modules/docs_module.dart';
 import 'modules/home_module.dart';
 import 'modules/pack_module.dart';
 import 'modules/search_module.dart';
@@ -33,6 +34,7 @@ class AppCoordinator extends Coordinator<AppRoute>
         HomeModule(this),
         PackModule(this),
         SearchModule(this),
+        DocsModule(this),
       };
 
   @override

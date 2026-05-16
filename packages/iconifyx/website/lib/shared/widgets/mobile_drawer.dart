@@ -8,6 +8,8 @@ import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
 import '../../router/route.dart';
 import '../../router/routes/shell/all_packs_route.dart';
+import '../../router/routes/shell/changelog_route.dart';
+import '../../router/routes/shell/docs_route.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/search_route.dart';
 import '../../theme/app_theme.dart';
@@ -144,18 +146,18 @@ class _DrawerContent extends StatelessWidget {
           onTap: () => _go(context, AllPacksRoute()),
         ),
         const SizedBox(height: 2),
-        _NavLinkRow(
+        _NavRow(
           icon: Icons.menu_book_outlined,
           name: 'Documentation',
-          sub: 'install · usage · widgets',
-          url: 'https://pub.dev/packages/iconifyx',
+          sub: 'tree-shake · duotone · pipeline',
+          onTap: () => _go(context, DocsRoute()),
         ),
         const SizedBox(height: 2),
-        _NavLinkRow(
+        _NavRow(
           icon: Icons.history_outlined,
           name: 'Changelog',
-          sub: 'releases & notes',
-          url: 'https://github.com/bthnkucuk/iconifyx/releases',
+          sub: 'release notes',
+          onTap: () => _go(context, ChangelogRoute()),
         ),
         if (packs != null) ...[
           const SizedBox(height: 22),
@@ -335,30 +337,6 @@ class _NavRowState extends State<_NavRow> {
   }
 }
 
-class _NavLinkRow extends StatelessWidget {
-  const _NavLinkRow({
-    required this.icon,
-    required this.name,
-    required this.sub,
-    required this.url,
-  });
-  final IconData icon;
-  final String name;
-  final String sub;
-  final String url;
-  @override
-  Widget build(BuildContext context) {
-    return _NavRow(
-      icon: icon,
-      name: name,
-      sub: sub,
-      onTap: () {
-        Navigator.of(context).pop();
-        launchUrl(Uri.parse(url));
-      },
-    );
-  }
-}
 
 class _CategoryGrid extends StatelessWidget {
   const _CategoryGrid({required this.packs, required this.onTap});

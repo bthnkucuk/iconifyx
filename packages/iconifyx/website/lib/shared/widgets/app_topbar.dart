@@ -6,6 +6,8 @@ import 'package:url_launcher/url_launcher.dart';
 
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/all_packs_route.dart';
+import '../../router/routes/shell/changelog_route.dart';
+import '../../router/routes/shell/docs_route.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/search_route.dart';
 import '../../theme/app_theme.dart';
@@ -87,12 +89,11 @@ class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
                               appCoordinator.navigate(AllPacksRoute())),
                       _NavLink(
                           label: 'Docs',
-                          onTap: () =>
-                              _launch('https://pub.dev/packages/iconifyx')),
+                          onTap: () => appCoordinator.navigate(DocsRoute())),
                       _NavLink(
                           label: 'Changelog',
-                          onTap: () => _launch(
-                              'https://github.com/bthnkucuk/iconifyx/releases')),
+                          onTap: () =>
+                              appCoordinator.navigate(ChangelogRoute())),
                       const Spacer(),
                       SizedBox(
                           width: searchW, child: _SearchTrigger(color: ink2)),
@@ -111,9 +112,6 @@ class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
     );
   }
 
-  static Future<void> _launch(String url) async {
-    await launchUrl(Uri.parse(url));
-  }
 }
 
 // ─── Hamburger ──────────────────────────────────────────────────────────────
