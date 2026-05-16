@@ -56,26 +56,11 @@ class _BootstrapAppState extends State<BootstrapApp> {
     final messenger = scaffoldMessengerKey.currentState;
     if (messenger == null) return;
     messenger.showSnackBar(
-      SnackBar(
-        duration: const Duration(seconds: 10),
-        content: const Text(
+      const SnackBar(
+        duration: Duration(seconds: 10),
+        content: Text(
           'Memory usage is high after browsing many packs. '
           'Refresh the page to reclaim memory.',
-        ),
-        action: SnackBarAction(
-          label: 'Refresh',
-          onPressed: () {
-            // ignore: avoid_web_libraries_in_flutter
-            // We deliberately rely on `MaterialApp.router`'s `Router.platformRouteInformationProvider`
-            // pickup to handle the reload; the safest portable trigger is
-            // `ServicesBinding.instance.exitApplication(AppExitType.cancelable)`,
-            // but that's no-op on web. The minimal-deps approach: rebuild
-            // the root by reloading via the standard JS path. The interop
-            // sits behind a stub for non-web — see [memory_probe_web.dart].
-            // Keep this simple: defer to the user's manual reload after the
-            // snackbar reads. A future enhancement could call
-            // `window.location.reload()` via dart:js_interop.
-          },
         ),
       ),
     );

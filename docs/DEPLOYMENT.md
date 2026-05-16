@@ -112,7 +112,8 @@ website that surface via the same `paths:` trigger.
 [`MemoryProbe`](../packages/iconifyx/website/lib/bootstrap/memory_probe.dart)
 prefers the W3C `performance.measureUserAgentSpecificMemory()` API — it's
 the only browser primitive that includes CanvasKit's WASM heap (where
-the unbounded per-pack-font growth actually lives) in its byte count.
+the unbounded per-pack-font growth covered in [RESEARCH_PLAN §9](RESEARCH_PLAN.md#9--website-performance)
+actually lives) in its byte count.
 
 That API is gated behind **cross-origin isolation**, which means the
 server must emit two response headers on every document and bootstrap
