@@ -394,6 +394,37 @@ verifyFontsAgainstManifests), `test/golden_icons.test.ts` (new),
 **Tools:** `pixelmatch` ^7.x (Mapbox, 150 LOC, MIT, dep-free), fontkit
 + oslllo-svg2 already in deps. No headless browser, no SSIM lib.
 
+### §4 update (2026-05-16): Flutter-rendered raster path now sub-30 ms
+
+The original §4 plan rasterizes via fontkit → oslllo-svg2 (pure SVG
+path data). That misses what the consumer ACTUALLY sees, because
+`IconifyIcon`'s composition rules (hint-layer at 40 %, paint-order
+foreground on top, lets-icons mask-internal) only happen at Flutter
+render time. The §33b visual-diff CLI fills that gap by capturing
+the Flutter-rendered PNG via the §a87ab25b render harness — but the
+single-shot `flutter test` per icon costs ~5-8 s.
+
+**Persistent render server (Approach E, shipped this branch as
+`a87ab25b-v2`):** ONE `flutter test` process boots, binds a
+loopback TCP socket, and serves line-delimited JSON render
+requests. Per-icon cost drops to **mean 25.8 ms / p95 40 ms**
+(measured: 100 random icons across all packs, M-series). Bootstrap
+~2 s; first request per pack ~140 ms (cold font load); subsequent
+requests for the same pack ~10-15 ms.
+
+Implications for the §4 plan:
+- The Flutter-rendered comparison is now CHEAPER than the per-icon
+  pixelmatch step (~3 ms parser + ~25 ms render = ~28 ms total),
+  so we can include it in the audit-driven sampling budget without
+  blowing the 60 s ceiling.
+- Whole-corpus run (340k icons, single server): ~340 000 × 25.8 ms
+  = ~2.4 h sequential. 5 % stratified sample (~17 k) = ~7 min.
+  Already practical without parallelism; parallelism via multiple
+  server instances is straight-line linear speedup (each binds its
+  own port).
+- See `tools/generator/audit/render/README.md` for the Bench section
+  and the `RenderServer` API contract.
+
 ---
 
 ## §5 — Colour semantics: no-ink predicate + area-aware paint order
@@ -3357,6 +3388,45 @@ baseline regression gate.
 Area 2 #2) ONLY if Phase 2 wall-clock > 5 min painful. ~5 min → 30 s.
 Classifier stays TS so rule table evolves without recompiling.
 
+### §26 update (2026-05-16): Phase 2 corpus-run unblocked by Approach E
+
+Phase 1 wall-clock was 5-8 s/icon (single-shot `render-icon` per
+icon). That made a corpus sweep across 340 k icons ~600 hours —
+unusable. The persistent render server (`render-server.ts`, shipped
+as `a87ab25b-v2`) drops it to **~25.8 ms mean / icon** end-to-end
+including upstream resvg + glyph rasterize + Flutter render + diff.
+
+New numbers (verified locally, M-series, 100-icon mixed-pack bench):
+
+| Metric | Old (single-shot) | New (Approach E) | Speedup |
+|---|---:|---:|---:|
+| Bootstrap | ~10 s per icon | ~2 s once | — |
+| Per-icon mean | ~5-8 s | 26 ms | ~250× |
+| 100-icon wall | ~8-13 min | 2.6 s | ~250× |
+| Whole corpus (340k) | ~600 h | ~2.4 h | ~250× |
+| 5 % stratified sample | ~30 h | ~7 min | ~250× |
+
+The `visual-diff --corpus` mode is now shipped. CLI:
+
+```bash
+bun run tools/generator/audit/visual-diff/cli.ts \
+  --corpus --sample 200 --seed 12345           # 200 random icons
+bun run tools/generator/audit/visual-diff/cli.ts \
+  --corpus --prefix mdi                         # all of mdi
+bun run tools/generator/audit/visual-diff/cli.ts \
+  --corpus --sample 17000 --seed 42             # 5 % stratified sample
+```
+
+Output at `docs/audit/visual-diff/corpus/`:
+- `rows.jsonl` — one row per icon: `{iconRef, status, primaryReason,
+  mismatchPct, problem, remediation, ms, ...}`
+- `summary.json` — totals + status / reason histograms
+- `CORPUS_REPORT.md` — first-30 `different` examples + verdict tables
+
+Phase 3 (Rust kernel) is no longer needed for performance. Phase 2's
+remaining work is the rule expansion (9-18), HTML dashboard, and
+allowlist file — none of which are gated on render speed.
+
 ### Cross-reference vs existing plans
 
 | Plan | Overlap | What visual-diff adds |
@@ -5032,11 +5102,22 @@ before pixelmatch or, alternatively, render upstream at the same
 | §26 18-rule classifier | Phase 1 covers rules 4/5/6/7a/8/13/14/17 | concrete TS impl + report.json contract |
 | §33 Solar bug investigation | Same input case | proves audit can detect the class (rule 7a fires on the stale-TTF state) |
 
-### Phase 2 (deferred — not in this scope)
+### Phase 2 (partial — shipped in `a87ab25b-v2`)
 
-- Corpus mode (`--pack solar` → run all duotone icons; `--all` → full sweep)
+- ✅ **Persistent flutter test process (Approach E)** — `render-server.ts`
+  serves rendering via 127.0.0.1 TCP. Per-icon ~26 ms (was 5-8 s).
+  Bench `bun run render-server --bench 100` validates target.
+- ✅ **Corpus mode** — `bun run visual-diff --corpus
+  [--prefix mdi] [--sample N] [--seed N]`. Produces `rows.jsonl`,
+  `summary.json`, `CORPUS_REPORT.md` under `docs/audit/visual-diff/corpus/`.
+  Reuses the same `diffOne()` pipeline as the single-icon mode; the
+  only difference is the injected `RenderServer` for fast Flutter
+  render. 5 % stratified sample (~17 k icons) ~7 min; whole corpus
+  ~2.4 h sequential.
+
+Still deferred (NOT in `a87ab25b-v2` scope):
+
 - HTML dashboard (single self-contained `VISUAL_DIFF.html` with sprite-sheet)
-- Persistent flutter test process (Approach E) for sub-2s repeated calls
 - Allowlist + baseline regression gate
 - Rules 9–18 (mirror/rotation/layer-order-flip/colour-mapped flatten)
 

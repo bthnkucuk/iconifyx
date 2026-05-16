@@ -41,13 +41,15 @@
  */
 
 import { existsSync, statSync } from 'node:fs';
-import { mkdir, readFile, writeFile, copyFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile, copyFile, readdir } from 'node:fs/promises';
 import { dirname, join, resolve as resolvePath } from 'node:path';
 import { spawn } from 'node:child_process';
 
 import { Resvg } from '@resvg/resvg-js';
 import pixelmatch from 'pixelmatch';
 import { PNG } from 'pngjs';
+
+import { RenderServer } from '../render/render-server.ts';
 
 // --------------------------------------------------------------------------
 // Paths
@@ -90,15 +92,45 @@ const OUTPUT_BASE = join(REPO_ROOT, 'docs/audit/visual-diff');
 // Args
 // --------------------------------------------------------------------------
 
-interface CliArgs {
+interface SingleArgs {
+  mode: 'single';
   iconRef: string;
   size: number;
   skipFlutter: boolean;
   verbose: boolean;
 }
 
+interface CorpusArgs {
+  mode: 'corpus';
+  size: number;
+  verbose: boolean;
+  /** Filter to a single Iconify prefix (e.g. "mdi"). */
+  prefix?: string;
+  /** Random sample N icons (uniform across packs). 0 = all. */
+  sample: number;
+  /** PRNG seed for reproducible sampling. */
+  seed: number;
+  /** Where to write the per-icon report dirs + summary. */
+  outRoot: string;
+  /** Drop the per-icon `flutter-rendered.png` + glyph PNGs after diff (still keep when status != same). */
+  pruneSameArtifacts: boolean;
+  /** Skip the Flutter render entirely (TTF-only verdict). */
+  skipFlutter: boolean;
+}
+
+type CliArgs = SingleArgs | CorpusArgs;
+
 function parseArgs(argv: string[]): CliArgs {
-  if (argv.length === 0) usage('missing icon reference');
+  if (argv.length === 0) usage('missing arguments');
+  // Sniff corpus mode first.
+  const isCorpus = argv.includes('--corpus');
+  if (isCorpus) {
+    return parseCorpusArgs(argv);
+  }
+  return parseSingleArgs(argv);
+}
+
+function parseSingleArgs(argv: string[]): SingleArgs {
   let iconRef: string | undefined;
   let size = 256;
   let skipFlutter = false;
@@ -137,6 +169,7 @@ function parseArgs(argv: string[]): CliArgs {
   if (!iconRef.includes(':'))
     usage(`icon reference must be "prefix:name" — got "${iconRef}"`);
   return {
+    mode: 'single',
     iconRef: iconRef!,
     size,
     skipFlutter,
@@ -144,9 +177,80 @@ function parseArgs(argv: string[]): CliArgs {
   };
 }
 
+function parseCorpusArgs(argv: string[]): CorpusArgs {
+  let size = 256;
+  let verbose = false;
+  let prefix: string | undefined;
+  let sample = 100;
+  let seed = 0xc0ffee;
+  let outRoot = join(OUTPUT_BASE, 'corpus');
+  let pruneSameArtifacts = true;
+  let skipFlutter = false;
+  for (let i = 0; i < argv.length; i++) {
+    const a = argv[i]!;
+    if (!a.startsWith('--')) {
+      usage(`unexpected positional arg in --corpus mode: ${a}`);
+    }
+    const next = () => {
+      const v = argv[++i];
+      if (v === undefined) usage(`flag ${a} requires a value`);
+      return v as string;
+    };
+    switch (a) {
+      case '--corpus':
+        break;
+      case '--size':
+        size = parseInt(next(), 10);
+        break;
+      case '--prefix':
+        prefix = next();
+        break;
+      case '--sample':
+        sample = parseInt(next(), 10);
+        break;
+      case '--seed':
+        seed = parseInt(next(), 10);
+        break;
+      case '--out-root':
+        outRoot = next();
+        break;
+      case '--keep-same-artifacts':
+        pruneSameArtifacts = false;
+        break;
+      case '--skip-flutter':
+        skipFlutter = true;
+        break;
+      case '--verbose':
+        verbose = true;
+        break;
+      case '--help':
+      case '-h':
+        usage();
+        break;
+      default:
+        usage(`unknown flag in --corpus mode: ${a}`);
+    }
+  }
+  return {
+    mode: 'corpus',
+    size,
+    verbose,
+    prefix,
+    sample,
+    seed,
+    outRoot,
+    pruneSameArtifacts,
+    skipFlutter,
+  };
+}
+
 function usage(msg?: string): never {
   if (msg) console.error(`error: ${msg}`);
-  console.error('usage: bun visual-diff <prefix:name> [--size N] [--skip-flutter] [--verbose]');
+  console.error('usage:');
+  console.error('  bun visual-diff <prefix:name> [--size N] [--skip-flutter] [--verbose]');
+  console.error('  bun visual-diff --corpus [--prefix mdi] [--sample N] [--seed N]');
+  console.error('                  [--size N] [--out-root DIR] [--keep-same-artifacts]');
+  console.error('                  [--skip-flutter] [--verbose]');
   process.exit(msg ? 2 : 0);
 }
 
@@ -221,19 +325,39 @@ interface UpstreamIcon {
   height: number;
 }
 
-async function readUpstreamIcon(prefix: string, name: string): Promise<UpstreamIcon> {
+interface IconifySetJson {
+  width?: number;
+  height?: number;
+  icons: Record<string, { body: string; width?: number; height?: number }>;
+  aliases?: Record<string, { parent: string; width?: number; height?: number }>;
+}
+
+const _upstreamCache = new Map<string, IconifySetJson>();
+async function loadUpstreamSet(prefix: string): Promise<IconifySetJson> {
+  const cached = _upstreamCache.get(prefix);
+  if (cached) return cached;
   const jsonPath = join(resolveIconifyJsonDir(), `${prefix}.json`);
   if (!existsSync(jsonPath)) {
     throw new Error(`upstream iconify json not found: ${jsonPath}`);
   }
-  // @iconify/json may be a large file; read once.
-  const data = JSON.parse(await readFile(jsonPath, 'utf8')) as {
-    width?: number;
-    height?: number;
-    icons: Record<string, { body: string; width?: number; height?: number }>;
-  };
-  const icon = data.icons[name];
-  if (!icon) throw new Error(`upstream icon "${name}" not found in ${jsonPath}`);
+  const data = JSON.parse(await readFile(jsonPath, 'utf8')) as IconifySetJson;
+  _upstreamCache.set(prefix, data);
+  return data;
+}
+
+async function readUpstreamIcon(prefix: string, name: string): Promise<UpstreamIcon> {
+  const data = await loadUpstreamSet(prefix);
+  // Resolve through `aliases` chain (e.g. mdi has 5 000+ aliases) — walk
+  // the parent pointer up to 10 hops, then return the leaf icon body.
+  let resolvedName = name;
+  let hops = 0;
+  while (!data.icons[resolvedName] && data.aliases?.[resolvedName] && hops++ < 10) {
+    resolvedName = data.aliases[resolvedName]!.parent;
+  }
+  const icon = data.icons[resolvedName];
+  if (!icon) {
+    throw new Error(`upstream icon "${name}" not found in iconify ${prefix} JSON (synthetic / removed)`);
+  }
   return {
     body: icon.body,
     width: icon.width ?? data.width ?? 24,
@@ -265,9 +389,31 @@ async function rasterizeUpstream(
   outSvg: string,
   outPng: string
 ): Promise<void> {
-  const svg = buildUpstreamSvg(icon);
-  await writeFile(outSvg, svg, 'utf8');
-  const resvg = new Resvg(svg, {
+  const inner = buildUpstreamSvg(icon);
+  await writeFile(outSvg, inner, 'utf8');
+  // Force a square canvas to match the Flutter render's `size × size`
+  // RepaintBoundary. Some Iconify icons have non-square viewBoxes
+  // (e.g. `whh:v-upper-case` is 24×32) which without intervention
+  // would produce 256×341 PNGs that fail the pixelmatch size-equality
+  // guard. We nest the icon SVG inside a `size × size` outer SVG with
+  // `preserveAspectRatio="xMidYMid meet"`, after stripping the inner
+  // SVG's own width/height attrs to avoid resvg's "attribute already
+  // defined" parse error.
+  const innerNoWH = inner
+    .replace(/^<svg([^>]*)>/, (_match, attrs: string) => {
+      const cleaned = attrs
+        .replace(/\swidth="[^"]*"/g, '')
+        .replace(/\sheight="[^"]*"/g, '')
+        .replace(/\spreserveAspectRatio="[^"]*"/g, '');
+      return `<svg${cleaned} preserveAspectRatio="xMidYMid meet" width="${size}" height="${size}" x="0" y="0">`;
+    });
+  const wrapped =
+    `<svg xmlns="http://www.w3.org/2000/svg" ` +
+    `xmlns:xlink="http://www.w3.org/1999/xlink" ` +
+    `width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">` +
+    innerNoWH +
+    `</svg>`;
+  const resvg = new Resvg(wrapped, {
     fitTo: { mode: 'width', value: size },
     background: 'rgba(255,255,255,0)',
   });
@@ -881,41 +1027,71 @@ async function writeReportMd(
 }
 
 // --------------------------------------------------------------------------
-// Main
+// Per-icon pipeline (factored so corpus mode can reuse it)
 // --------------------------------------------------------------------------
 
-async function main() {
-  const args = parseArgs(process.argv.slice(2));
-  const resolved = await resolveIcon(args.iconRef);
-  const upstream = await readUpstreamIcon(resolved.prefix, resolved.iconName);
+interface DiffOneOptions {
+  iconRef: string;
+  size: number;
+  outDir: string;
+  /** Skip the flutter render entirely (TTF-only verdict). */
+  skipFlutter: boolean;
+  verbose: boolean;
+  /**
+   * Inject a render server for fast Flutter render. When absent, falls
+   * back to spawning the single-shot `render-icon` CLI (slow path).
+   */
+  renderServer?: RenderServer;
+  /**
+   * Bun-side logger. Defaults to console.log for single mode; corpus
+   * mode wires this to a per-icon collector to keep stdout quiet.
+   */
+  log?: (msg: string) => void;
+}
 
-  const slug = `${resolved.prefix}__${resolved.iconName}`;
-  const outDir = join(OUTPUT_BASE, slug);
-  await mkdir(outDir, { recursive: true });
+interface DiffOneResult {
+  iconRef: string;
+  prefix: string;
+  iconName: string;
+  packageName: string;
+  outDir: string;
+  primary: GlyphReport;
+  secondary: GlyphReport | null;
+  diff: DiffResult | null;
+  verdict: ClassifierVerdict;
+  duotone: boolean;
+  duotoneKind?: 'paintOrder' | 'maskInternal' | 'hint';
+}
+
+async function diffOne(opts: DiffOneOptions): Promise<DiffOneResult> {
+  const log = opts.log ?? ((m: string) => console.log(m));
+  const resolved = await resolveIcon(opts.iconRef);
+  const upstream = await readUpstreamIcon(resolved.prefix, resolved.iconName);
+  await mkdir(opts.outDir, { recursive: true });
 
   // ----- Step 1: upstream SVG -> PNG
-  const upstreamSvg = join(outDir, 'upstream.svg');
-  const upstreamPng = join(outDir, 'upstream.png');
-  await rasterizeUpstream(upstream, args.size, upstreamSvg, upstreamPng);
-  console.log(`wrote ${upstreamPng}`);
+  const upstreamSvg = join(opts.outDir, 'upstream.svg');
+  const upstreamPng = join(opts.outDir, 'upstream.png');
+  await rasterizeUpstream(upstream, opts.size, upstreamSvg, upstreamPng);
+  log(`wrote ${upstreamPng}`);
 
   // ----- Step 2: TTF primary glyph -> PNG
   const primaryTtf = join(resolved.packageDir, `assets/fonts/${resolved.primaryFamily}.ttf`);
   if (!existsSync(primaryTtf)) {
     throw new Error(`primary TTF not found: ${primaryTtf}`);
   }
-  const primaryPng = join(outDir, 'glyph-primary.png');
-  const primaryReport = join(outDir, 'glyph-primary.bbox.json');
+  const primaryPng = join(opts.outDir, 'glyph-primary.png');
+  const primaryReportPath = join(opts.outDir, 'glyph-primary.bbox.json');
   const primaryGlyph = await rasterizeGlyph(
     primaryTtf,
     resolved.primaryCodepoint,
-    args.size,
+    opts.size,
     primaryPng,
-    primaryReport,
-    args.verbose,
+    primaryReportPath,
+    opts.verbose,
     'em'
   );
-  console.log(
+  log(
     `wrote ${primaryPng} (glyphName=${primaryGlyph.glyphName} bbox=${primaryGlyph.bbox ? `${primaryGlyph.bbox.xMin.toFixed(0)},${primaryGlyph.bbox.yMin.toFixed(0)} ${primaryGlyph.bbox.xMax.toFixed(0)},${primaryGlyph.bbox.yMax.toFixed(0)}` : 'empty'})`
   );
 
@@ -928,33 +1104,32 @@ async function main() {
       `assets/fonts/${resolved.secondaryFamily}.ttf`
     );
     if (existsSync(secondaryTtf)) {
-      const secondaryPng = join(outDir, 'glyph-secondary.png');
-      const secondaryReport = join(outDir, 'glyph-secondary.bbox.json');
+      const secondaryPng = join(opts.outDir, 'glyph-secondary.png');
+      const secondaryReportPath = join(opts.outDir, 'glyph-secondary.bbox.json');
       secondaryGlyph = await rasterizeGlyph(
         secondaryTtf,
-        resolved.primaryCodepoint, // same cp; secondary fonts share the codepoint
-        args.size,
+        resolved.primaryCodepoint,
+        opts.size,
         secondaryPng,
-        secondaryReport,
-        args.verbose,
+        secondaryReportPath,
+        opts.verbose,
         'em'
       );
-      console.log(
+      log(
         `wrote ${secondaryPng} (glyphName=${secondaryGlyph.glyphName} bbox=${secondaryGlyph.bbox ? `${secondaryGlyph.bbox.xMin.toFixed(0)},${secondaryGlyph.bbox.yMin.toFixed(0)} ${secondaryGlyph.bbox.xMax.toFixed(0)},${secondaryGlyph.bbox.yMax.toFixed(0)}` : 'empty'})`
       );
     } else {
-      console.error(`WARN: secondary TTF missing: ${secondaryTtf}`);
+      log(`WARN: secondary TTF missing: ${secondaryTtf}`);
     }
   }
 
   // ----- Step 4: Flutter rendered (optional)
-  let flutterPng: string | null = null;
   let diff: DiffResult | null = null;
-  let verdict: ClassifierVerdict | null = null;
-  // Always compute the TTF-only verdict — these are high-signal rules
-  // (duotone bbox mismatch, empty primary, empty secondary) that don't
-  // require the slower flutter render to fire.
-  verdict = classifyTtfOnly(resolved, primaryGlyph, secondaryGlyph);
+  let verdict: ClassifierVerdict | null = classifyTtfOnly(
+    resolved,
+    primaryGlyph,
+    secondaryGlyph
+  );
   if (verdict === null) {
     verdict = {
       status: 'same',
@@ -964,25 +1139,45 @@ async function main() {
       remediation: '—',
     };
   }
-  if (!args.skipFlutter) {
-    flutterPng = join(outDir, 'flutter-rendered.png');
-    await renderFlutter(args.iconRef, args.size, 'duotone', flutterPng, args.verbose);
-    console.log(`wrote ${flutterPng}`);
-    const diffPng = join(outDir, 'diff-pixelmatch.png');
+  if (!opts.skipFlutter) {
+    const flutterPng = join(opts.outDir, 'flutter-rendered.png');
+    if (opts.renderServer) {
+      // Persistent-process fast path (~25 ms/icon). pixelRatio:1 keeps
+      // the output canvas at exactly `opts.size × opts.size` so the
+      // pixelmatch diff against the resvg upstream PNG (same size)
+      // doesn't trip the size-mismatch guard.
+      await opts.renderServer.render({
+        prefix: resolved.prefix,
+        name: resolved.iconName,
+        size: opts.size,
+        color: 0xff000000,
+        bg: 0xffffffff,
+        pixelRatio: 1,
+        out: flutterPng,
+      });
+    } else {
+      // Single-shot fallback (~5-8 s/icon). Note: the existing renderFlutter
+      // helper hardcodes pixelRatio=2, so diff against resvg's 1× canvas
+      // will fail with a size mismatch — corpus mode passes through
+      // renderServer where we override to pixelRatio=1.
+      await renderFlutter(opts.iconRef, opts.size, 'duotone', flutterPng, opts.verbose);
+    }
+    log(`wrote ${flutterPng}`);
+    const diffPng = join(opts.outDir, 'diff-pixelmatch.png');
     diff = await diffPngs(upstreamPng, flutterPng, diffPng);
-    console.log(
+    log(
       `diff: mismatch=${diff.mismatchPixels.toLocaleString('en-US')} ` +
         `(${(diff.mismatchPct * 100).toFixed(2)}%) ` +
         `inkA=${diff.inkA.toFixed(3)} inkB=${diff.inkB.toFixed(3)} ` +
         `drift=(${diff.cxDriftPx.toFixed(1)},${diff.cyDriftPx.toFixed(1)})px`
     );
     verdict = classify(resolved, diff, primaryGlyph, secondaryGlyph);
-    console.log(`verdict: ${verdict.status} / ${verdict.primaryReason}`);
+    log(`verdict: ${verdict.status} / ${verdict.primaryReason}`);
   }
 
   // ----- Step 5: report.json + REPORT.md
   const reportJson = {
-    iconRef: args.iconRef,
+    iconRef: opts.iconRef,
     prefix: resolved.prefix,
     iconName: resolved.iconName,
     packageName: resolved.packageName,
@@ -996,12 +1191,12 @@ async function main() {
     duotoneKind: resolved.duotoneKind,
   };
   await writeFile(
-    join(outDir, 'report.json'),
+    join(opts.outDir, 'report.json'),
     JSON.stringify(reportJson, null, 2),
     'utf8'
   );
   await writeReportMd(
-    outDir,
+    opts.outDir,
     resolved,
     primaryGlyph,
     secondaryGlyph,
@@ -1009,10 +1204,406 @@ async function main() {
     verdict,
     primaryTtf,
     secondaryTtf,
-    args.skipFlutter
+    opts.skipFlutter
   );
-  console.log(`wrote ${join(outDir, 'REPORT.md')}`);
-  console.log(`done. all output under ${outDir}`);
+  log(`wrote ${join(opts.outDir, 'REPORT.md')}`);
+
+  return {
+    iconRef: opts.iconRef,
+    prefix: resolved.prefix,
+    iconName: resolved.iconName,
+    packageName: resolved.packageName,
+    outDir: opts.outDir,
+    primary: primaryGlyph,
+    secondary: secondaryGlyph,
+    diff,
+    verdict,
+    duotone: resolved.duotone,
+    duotoneKind: resolved.duotoneKind,
+  };
+}
+
+// --------------------------------------------------------------------------
+// Single-icon mode
+// --------------------------------------------------------------------------
+
+async function runSingle(args: SingleArgs): Promise<void> {
+  const [prefix, ...rest] = args.iconRef.split(':');
+  const slug = `${prefix}__${rest.join(':')}`;
+  const outDir = join(OUTPUT_BASE, slug);
+  const res = await diffOne({
+    iconRef: args.iconRef,
+    size: args.size,
+    outDir,
+    skipFlutter: args.skipFlutter,
+    verbose: args.verbose,
+  });
+  console.log(`done. all output under ${res.outDir}`);
+}
+
+// --------------------------------------------------------------------------
+// Corpus mode
+// --------------------------------------------------------------------------
+
+/** Tiny xorshift32 — reproducible sampling across runs. */
+function makeRng(seed: number): () => number {
+  let s = seed | 0;
+  if (s === 0) s = 0xdeadbeef;
+  return () => {
+    s ^= s << 13;
+    s ^= s >>> 17;
+    s ^= s << 5;
+    return (s >>> 0) / 0x1_0000_0000;
+  };
+}
+
+interface PickedIcon {
+  prefix: string;
+  name: string;
+}
+
+async function listAllIcons(onlyPrefix?: string): Promise<PickedIcon[]> {
+  const allFiles = await readdir(MANIFEST_DIR);
+  const prefixes = allFiles
+    .filter((f) => f.endsWith('.json'))
+    .map((f) => f.replace(/\.json$/, ''))
+    .filter((p) => (onlyPrefix ? p === onlyPrefix : true));
+  if (prefixes.length === 0) {
+    throw new Error(
+      `no manifests found in ${MANIFEST_DIR}${onlyPrefix ? ` matching prefix=${onlyPrefix}` : ''}`
+    );
+  }
+  const picked: PickedIcon[] = [];
+  for (const prefix of prefixes) {
+    const path = join(MANIFEST_DIR, `${prefix}.json`);
+    const manifest = JSON.parse(await readFile(path, 'utf8')) as Manifest;
+    for (const [name, icon] of Object.entries(manifest.icons)) {
+      if (icon.deprecated) continue;
+      picked.push({ prefix, name });
+    }
+  }
+  return picked;
+}
+
+/** Fisher-Yates partial shuffle: pick `count` distinct items from `pool`. */
+function pickSample<T>(pool: T[], count: number, rng: () => number): T[] {
+  if (count >= pool.length) return [...pool];
+  const arr = [...pool];
+  const out: T[] = [];
+  for (let i = 0; i < count; i++) {
+    const j = i + Math.floor(rng() * (arr.length - i));
+    [arr[i], arr[j]] = [arr[j]!, arr[i]!];
+    out.push(arr[i]!);
+  }
+  return out;
+}
+
+interface CorpusRow {
+  iconRef: string;
+  prefix: string;
+  iconName: string;
+  status: 'same' | 'needs-review' | 'different';
+  primaryReason: string;
+  confidence: 'low' | 'medium' | 'high';
+  mismatchPct: number | null;
+  inkUpstream: number | null;
+  inkFlutter: number | null;
+  cxDriftPx: number | null;
+  cyDriftPx: number | null;
+  duotone: boolean;
+  duotoneKind?: 'paintOrder' | 'maskInternal' | 'hint';
+  outDir: string;
+  problem: string;
+  remediation: string;
+  ms: number;
+}
+
+async function runCorpus(args: CorpusArgs): Promise<void> {
+  console.log(`[corpus] enumerating icons${args.prefix ? ` (prefix=${args.prefix})` : ''}...`);
+  const all = await listAllIcons(args.prefix);
+  const rng = makeRng(args.seed);
+  const picked = args.sample > 0 ? pickSample(all, args.sample, rng) : all;
+  console.log(`[corpus] sampled ${picked.length} of ${all.length} icons (seed=${args.seed})`);
+
+  await mkdir(args.outRoot, { recursive: true });
+
+  let server: RenderServer | undefined;
+  let bootMs = 0;
+  if (!args.skipFlutter) {
+    console.log(`[corpus] booting render server...`);
+    const t0 = Date.now();
+    server = await RenderServer.start({ verbose: args.verbose });
+    bootMs = Date.now() - t0;
+    console.log(`[corpus] server ready in ${bootMs} ms`);
+  }
+
+  const rows: CorpusRow[] = [];
+  const statusCounts: Record<string, number> = {};
+  const reasonCounts: Record<string, number> = {};
+  const t0 = Date.now();
+  let failures = 0;
+
+  try {
+    for (let i = 0; i < picked.length; i++) {
+      const { prefix, name } = picked[i]!;
+      const iconRef = `${prefix}:${name}`;
+      const slug = `${prefix}__${name.replace(/[^a-z0-9_-]/gi, '_')}`;
+      const iconOutDir = join(args.outRoot, slug);
+      const iconT0 = Date.now();
+      try {
+        const res = await diffOne({
+          iconRef,
+          size: args.size,
+          outDir: iconOutDir,
+          skipFlutter: args.skipFlutter,
+          verbose: args.verbose,
+          renderServer: server,
+          log: () => {}, // silent in corpus mode
+        });
+        const dt = Date.now() - iconT0;
+        const row: CorpusRow = {
+          iconRef,
+          prefix: res.prefix,
+          iconName: res.iconName,
+          status: res.verdict.status,
+          primaryReason: res.verdict.primaryReason,
+          confidence: res.verdict.confidence,
+          mismatchPct: res.diff?.mismatchPct ?? null,
+          inkUpstream: res.diff?.inkA ?? null,
+          inkFlutter: res.diff?.inkB ?? null,
+          cxDriftPx: res.diff?.cxDriftPx ?? null,
+          cyDriftPx: res.diff?.cyDriftPx ?? null,
+          duotone: res.duotone,
+          duotoneKind: res.duotoneKind,
+          outDir: iconOutDir,
+          problem: res.verdict.problem,
+          remediation: res.verdict.remediation,
+          ms: dt,
+        };
+        rows.push(row);
+        statusCounts[row.status] = (statusCounts[row.status] ?? 0) + 1;
+        reasonCounts[row.primaryReason] =
+          (reasonCounts[row.primaryReason] ?? 0) + 1;
+
+        if (args.pruneSameArtifacts && row.status === 'same') {
+          // Save disk: drop the large PNGs but keep report.json + REPORT.md.
+          const { rm } = await import('node:fs/promises');
+          for (const f of [
+            'upstream.svg',
+            'upstream.png',
+            'glyph-primary.png',
+            'glyph-secondary.png',
+            'flutter-rendered.png',
+            'diff-pixelmatch.png',
+          ]) {
+            try {
+              await rm(join(iconOutDir, f), { force: true });
+            } catch {
+              // ignore
+            }
+          }
+        }
+      } catch (e) {
+        const msg = (e as Error).message ?? String(e);
+        const isSynthetic = /not found in iconify .* JSON \(synthetic/.test(msg);
+        const status: CorpusRow['status'] = isSynthetic ? 'needs-review' : 'different';
+        const reason = isSynthetic ? 'UPSTREAM_MISSING' : 'RENDER_FAILURE';
+        if (!isSynthetic) failures++;
+        rows.push({
+          iconRef,
+          prefix,
+          iconName: name,
+          status,
+          primaryReason: reason,
+          confidence: 'high',
+          mismatchPct: null,
+          inkUpstream: null,
+          inkFlutter: null,
+          cxDriftPx: null,
+          cyDriftPx: null,
+          duotone: false,
+          outDir: iconOutDir,
+          problem: msg.replace(/\n/g, ' ').slice(0, 200),
+          remediation: isSynthetic
+            ? 'synthetic weight variant (Lucide/Tabler/Iconoir/Phosphor -thin/-light/-bold) — no upstream Iconify icon to compare against; expected'
+            : 'check render-server logs / regen pack',
+          ms: Date.now() - iconT0,
+        });
+        statusCounts[status] = (statusCounts[status] ?? 0) + 1;
+        reasonCounts[reason] = (reasonCounts[reason] ?? 0) + 1;
+      }
+
+      if ((i + 1) % 25 === 0 || i + 1 === picked.length) {
+        const dt = Date.now() - t0;
+        const perIcon = dt / (i + 1);
+        const eta = perIcon * (picked.length - i - 1);
+        process.stderr.write(
+          `[corpus] ${i + 1}/${picked.length} (${(perIcon).toFixed(0)} ms/icon, ETA ${(eta / 1000).toFixed(0)}s) ` +
+            `status: ${Object.entries(statusCounts)
+              .map(([k, v]) => `${k}=${v}`)
+              .join(' ')}\n`
+        );
+      }
+    }
+  } finally {
+    if (server) await server.close();
+  }
+
+  const totalMs = Date.now() - t0;
+
+  // ----- summary.json
+  const summary = {
+    generatedAt: new Date().toISOString(),
+    sampleArgs: {
+      prefix: args.prefix ?? null,
+      sample: args.sample,
+      seed: args.seed,
+      size: args.size,
+      skipFlutter: args.skipFlutter,
+    },
+    totals: {
+      totalIcons: picked.length,
+      durationMs: totalMs,
+      bootstrapMs: bootMs,
+      failures,
+    },
+    statusCounts,
+    reasonCounts,
+  };
+  await writeFile(
+    join(args.outRoot, 'summary.json'),
+    JSON.stringify(summary, null, 2),
+    'utf8'
+  );
+
+  // ----- rows.jsonl (one row per icon)
+  await writeFile(
+    join(args.outRoot, 'rows.jsonl'),
+    rows.map((r) => JSON.stringify(r)).join('\n') + '\n',
+    'utf8'
+  );
+
+  // ----- CORPUS_REPORT.md (grouped by status)
+  await writeCorpusReportMd(args.outRoot, summary, rows);
+
+  console.log('');
+  console.log('--- CORPUS RESULTS ---');
+  console.log(`icons:          ${picked.length}`);
+  console.log(`duration:       ${(totalMs / 1000).toFixed(1)} s (${(totalMs / picked.length).toFixed(1)} ms/icon)`);
+  console.log(`bootstrap:      ${bootMs} ms`);
+  for (const [k, v] of Object.entries(statusCounts).sort((a, b) => b[1] - a[1])) {
+    console.log(`status ${k.padEnd(14)} ${v}`);
+  }
+  console.log('top reasons:');
+  for (const [k, v] of Object.entries(reasonCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10)) {
+    console.log(`  ${k.padEnd(30)} ${v}`);
+  }
+  console.log(`wrote ${join(args.outRoot, 'rows.jsonl')}`);
+  console.log(`wrote ${join(args.outRoot, 'summary.json')}`);
+  console.log(`wrote ${join(args.outRoot, 'CORPUS_REPORT.md')}`);
+}
+
+async function writeCorpusReportMd(
+  outRoot: string,
+  summary: {
+    generatedAt: string;
+    sampleArgs: {
+      prefix: string | null;
+      sample: number;
+      seed: number;
+      size: number;
+      skipFlutter: boolean;
+    };
+    totals: {
+      totalIcons: number;
+      durationMs: number;
+      bootstrapMs: number;
+      failures: number;
+    };
+    statusCounts: Record<string, number>;
+    reasonCounts: Record<string, number>;
+  },
+  rows: CorpusRow[]
+): Promise<void> {
+  const lines: string[] = [];
+  lines.push('# Visual-diff corpus report');
+  lines.push('');
+  lines.push(`Generated ${summary.generatedAt.slice(0, 10)}.`);
+  lines.push('');
+  lines.push('## Run parameters');
+  lines.push('');
+  lines.push(`- prefix: \`${summary.sampleArgs.prefix ?? 'all'}\``);
+  lines.push(`- sample: ${summary.sampleArgs.sample}`);
+  lines.push(`- seed: ${summary.sampleArgs.seed}`);
+  lines.push(`- size: ${summary.sampleArgs.size} px`);
+  lines.push(`- skipFlutter: ${summary.sampleArgs.skipFlutter}`);
+  lines.push('');
+  lines.push('## Totals');
+  lines.push('');
+  lines.push(`- icons: ${summary.totals.totalIcons}`);
+  lines.push(
+    `- duration: ${(summary.totals.durationMs / 1000).toFixed(1)} s ` +
+      `(${(summary.totals.durationMs / Math.max(1, summary.totals.totalIcons)).toFixed(1)} ms/icon)`
+  );
+  lines.push(`- bootstrap: ${summary.totals.bootstrapMs} ms`);
+  lines.push(`- failures: ${summary.totals.failures}`);
+  lines.push('');
+  lines.push('## Status breakdown');
+  lines.push('');
+  lines.push('| Status | Count |');
+  lines.push('|---|---:|');
+  for (const [k, v] of Object.entries(summary.statusCounts).sort(
+    (a, b) => b[1] - a[1]
+  )) {
+    lines.push(`| ${k} | ${v} |`);
+  }
+  lines.push('');
+  lines.push('## Top reasons');
+  lines.push('');
+  lines.push('| Reason | Count |');
+  lines.push('|---|---:|');
+  for (const [k, v] of Object.entries(summary.reasonCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 20)) {
+    lines.push(`| ${k} | ${v} |`);
+  }
+  lines.push('');
+
+  // Show first 30 different rows for quick inspection.
+  const different = rows
+    .filter((r) => r.status === 'different')
+    .slice(0, 30);
+  if (different.length > 0) {
+    lines.push('## Examples (`different`, first 30)');
+    lines.push('');
+    lines.push('| Icon | Reason | Mismatch % | Problem |');
+    lines.push('|---|---|---:|---|');
+    for (const r of different) {
+      lines.push(
+        `| \`${r.iconRef}\` | \`${r.primaryReason}\` | ` +
+          `${r.mismatchPct == null ? '—' : (r.mismatchPct * 100).toFixed(1)} | ` +
+          `${r.problem.replace(/\|/g, '\\|')} |`
+      );
+    }
+    lines.push('');
+  }
+
+  await writeFile(join(outRoot, 'CORPUS_REPORT.md'), lines.join('\n'), 'utf8');
+}
+
+// --------------------------------------------------------------------------
+// Main
+// --------------------------------------------------------------------------
+
+async function main() {
+  const args = parseArgs(process.argv.slice(2));
+  if (args.mode === 'single') {
+    await runSingle(args);
+  } else {
+    await runCorpus(args);
+  }
 }
 
 main().catch((err) => {

@@ -1,12 +1,12 @@
 #!/usr/bin/env bun
 /**
- * `render-server` — Approach E: persistent stdin-driven Flutter render server.
+ * `render-server` — Approach E: persistent socket-driven Flutter render server.
  *
  * Companion to `render-icon.ts` (Approach A single-shot). Boots ONE
- * `fvm flutter test render_server_test.dart` process, then feeds it
- * line-delimited JSON render requests on stdin and reads RENDER_OK
- * markers from stdout. Per-icon cost drops from ~5 s (Approach A) to
- * ~150-400 ms (Approach E).
+ * `fvm flutter test render_server_test.dart` process which exposes a
+ * line-delimited JSON protocol on a 127.0.0.1 TCP port (chosen by the
+ * OS). The parent CLI dials in and submits render requests. Per-icon
+ * cost drops from ~5 s (Approach A) to ~150-400 ms (Approach E).
  *
  * Used by:
  *   - `tools/generator/audit/visual-diff/cli.ts --corpus` (Phase 2)
@@ -33,7 +33,11 @@
  *
  *   - Uses `flutter test` (not `flutter run`): no display server / window /
  *     accessibility entitlement; pure Skia + Dart isolate. Bootstrap cost
- *     is paid ONCE (~10 s) instead of per call.
+ *     is paid ONCE (~6 s) instead of per call.
+ *   - 127.0.0.1 TCP is used instead of stdin because `flutter test` does
+ *     NOT proxy the parent process's stdin to the test isolate (the
+ *     orchestrator owns that fd). A loopback socket bypasses the
+ *     orchestrator entirely.
  *   - Server resolves `(prefix, name)` to font metadata; the Dart side
  *     reads TTFs straight off disk via `dart:io File` + `FontLoader`, so
  *     the host pubspec only needs `iconifyx_core` — no per-set deps.
@@ -41,18 +45,18 @@
  *   - Font registrations are cached for the lifetime of the server.
  *     First request per pack does ~30 ms FontLoader work; repeats are
  *     free.
- *   - Protocol is line-delimited JSON in / line-prefixed marker out:
- *       stdin:  `{"primaryCp":..., "out":...}\n`
- *       stdout: `RENDER_OK <out> <bytes> [id=<id>]\n`
- *               `RENDER_ERR <reason> [id=<id>]\n`
- *     We attach an `id` to every request so concurrent / out-of-order
- *     responses correlate cleanly.
+ *   - Protocol is line-delimited JSON over TCP:
+ *       client -> server:  `{"primaryCp":..., "out":..., "id":"r1"}\n`
+ *       server -> client:  `RENDER_OK <out> <bytes> id=<id>\n`
+ *                          `RENDER_ERR <reason> id=<id>\n`
+ *                          `SHUTDOWN_OK\n`
  */
 
 import { existsSync, statSync } from 'node:fs';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join, resolve as resolvePath } from 'node:path';
 import { spawn, type ChildProcessWithoutNullStreams } from 'node:child_process';
+import { Socket } from 'node:net';
 
 // --------------------------------------------------------------------------
 // Paths
@@ -62,7 +66,6 @@ const HARNESS_DIR = dirname(import.meta.url.replace('file://', ''));
 const HOST_DIR = join(HARNESS_DIR, 'host');
 const REPO_ROOT = resolvePath(HARNESS_DIR, '../../../..');
 const MANIFEST_DIR = join(REPO_ROOT, 'tools/generator/manifests');
-const PACKAGES_DIR = join(REPO_ROOT, 'packages');
 const DEPS_CACHE = join(HOST_DIR, '.deps.cache');
 const SERVER_TEST_NAME = 'render_server_test.dart';
 
@@ -153,7 +156,7 @@ export async function resolveIcon(prefix: string, name: string): Promise<Resolve
 // --------------------------------------------------------------------------
 // Host pubspec — server mode needs ONLY `iconifyx_core` because TTFs are
 // read off disk via `dart:io File` in the Dart side. Same fence as
-// render-icon.ts but with an empty package list.
+// render-icon.ts but with an empty per-set list.
 // --------------------------------------------------------------------------
 
 const DEPS_START = '# RENDER_HOST_DEPS_START';
@@ -257,13 +260,12 @@ export interface RenderRequest {
 
 interface PendingRequest {
   id: string;
-  out: string;
   resolve: (path: string) => void;
   reject: (err: Error) => void;
 }
 
 export interface RenderServerOptions {
-  /** Stream the underlying `flutter test` stdout to this process's stderr. */
+  /** Stream the underlying `flutter test` stdout/stderr to this process's stderr. */
   verbose?: boolean;
   /** Bootstrap wait timeout in ms (default 90_000). */
   bootstrapTimeoutMs?: number;
@@ -274,6 +276,7 @@ export interface RenderServerOptions {
 export class RenderServer {
   private constructor(
     private readonly child: ChildProcessWithoutNullStreams,
+    private readonly socket: Socket,
     private readonly opts: Required<RenderServerOptions>,
   ) {}
 
@@ -281,10 +284,11 @@ export class RenderServer {
   private readonly _pending = new Map<string, PendingRequest>();
   private _closed = false;
   private _exitPromise: Promise<void> | null = null;
-  private _stdoutBuf = '';
+  private _socketBuf = '';
 
   /**
-   * Boot a fresh server. Resolves once the Dart side prints `READY`.
+   * Boot a fresh server. Resolves once the Dart side prints
+   * `READY 127.0.0.1:<port>` on stdout and we've connected on that port.
    */
   static async start(opts: RenderServerOptions = {}): Promise<RenderServer> {
     const resolved: Required<RenderServerOptions> = {
@@ -305,123 +309,166 @@ export class RenderServer {
       ],
       {
         cwd: HOST_DIR,
-        // We need pipes for both stdin and stdout. stderr piped so we
-        // can surface failures.
-        stdio: ['pipe', 'pipe', 'pipe'],
+        // We pipe stdout to read the READY line. stderr piped so we can
+        // surface failures. stdin is `ignore` — the protocol runs on
+        // TCP, NOT stdin (see comment block at top).
+        stdio: ['ignore', 'pipe', 'pipe'],
+        // Detach so the child gets its OWN process group; on close()
+        // we send SIGKILL to `-child.pid` (the group), which reliably
+        // reaches the `fvm` wrapper + the `flutter` wrapper + the
+        // underlying `dartvm test` process. Without this, a SIGTERM
+        // to the `fvm` wrapper alone does NOT propagate through the
+        // nested wrappers and leaves orphan dartvm processes behind.
+        detached: true,
       },
     ) as ChildProcessWithoutNullStreams;
+    // Detached children inherit no stdio when not explicitly piped;
+    // we DO pipe stdout/stderr above, so they're attached. The only
+    // reason to detach was the process group. Don't unref() the child
+    // — we WANT this process to wait for the child to exit before
+    // our own bun process can exit cleanly.
 
-    const server = new RenderServer(child, resolved);
+    // Phase 1: wait for `READY 127.0.0.1:<port>` line on stdout.
+    const port = await new Promise<number>((resolve, reject) => {
+      let stdoutBuf = '';
+      const timer = setTimeout(() => {
+        cleanup();
+        reject(
+          new Error(
+            `server did not emit READY within ${resolved.bootstrapTimeoutMs}ms — ` +
+              `last stdout buffer: ${stdoutBuf.slice(-2048)}`,
+          ),
+        );
+      }, resolved.bootstrapTimeoutMs);
+      const onStdout = (chunk: Buffer) => {
+        const s = chunk.toString('utf8');
+        if (resolved.verbose) process.stderr.write(s);
+        stdoutBuf += s;
+        const m = stdoutBuf.match(/READY 127\.0\.0\.1:(\d+)/);
+        if (m) {
+          cleanup();
+          resolve(parseInt(m[1]!, 10));
+        }
+      };
+      const onStderr = (chunk: Buffer) => {
+        if (resolved.verbose) process.stderr.write(chunk);
+      };
+      const onExit = (code: number | null, signal: string | null) => {
+        cleanup();
+        reject(
+          new Error(
+            `flutter test exited before READY (code=${code}, signal=${signal ?? 'none'})\n` +
+              `last stdout buffer: ${stdoutBuf.slice(-2048)}`,
+          ),
+        );
+      };
+      const cleanup = () => {
+        clearTimeout(timer);
+        child.stdout.off('data', onStdout);
+        child.stderr.off('data', onStderr);
+        child.off('exit', onExit);
+      };
+      child.stdout.on('data', onStdout);
+      child.stderr.on('data', onStderr);
+      child.on('exit', onExit);
+    });
+
+    // Phase 2: dial in. With verbose still wired we keep reading stdout
+    // for diagnostics.
+    if (resolved.verbose) {
+      child.stdout.on('data', (c: Buffer) => process.stderr.write(c));
+      child.stderr.on('data', (c: Buffer) => process.stderr.write(c));
+    } else {
+      // Drain stdout/stderr so the child doesn't block on a full pipe
+      // when there's no verbose listener.
+      child.stdout.on('data', () => {});
+      child.stderr.on('data', () => {});
+    }
+
+    const socket = await new Promise<Socket>((resolve, reject) => {
+      const s = new Socket();
+      s.setNoDelay(true);
+      const onError = (err: Error) => {
+        s.removeAllListeners();
+        reject(err);
+      };
+      s.once('error', onError);
+      s.connect(port, '127.0.0.1', () => {
+        s.off('error', onError);
+        resolve(s);
+      });
+    });
+
+    const server = new RenderServer(child, socket, resolved);
     server._wire();
-    await server._waitForReady();
     return server;
   }
 
   private _wire(): void {
-    this.child.stdout.on('data', (chunk: Buffer) => {
-      this._handleStdout(chunk.toString('utf8'));
+    this.socket.on('data', (chunk: Buffer) => {
+      this._handleData(chunk.toString('utf8'));
     });
-    this.child.stderr.on('data', (chunk: Buffer) => {
-      if (this.opts.verbose) process.stderr.write(chunk);
+    this.socket.on('error', (err) => {
+      if (!this._closed) {
+        process.stderr.write(`[render-server] socket error: ${err.message}\n`);
+      }
+    });
+    // Socket close fails in-flight requests, but we wait on the CHILD
+    // exit (not socket close) for `_exitPromise`. Otherwise `close()`
+    // returns before the `fvm flutter test` wrapper has actually
+    // exited and leaves orphan processes behind.
+    this.socket.on('close', () => {
+      if (!this._closed) {
+        this._closed = true;
+        const reason = 'render-server socket closed';
+        for (const p of this._pending.values()) {
+          p.reject(new Error(reason));
+        }
+        this._pending.clear();
+      }
     });
     this._exitPromise = new Promise<void>((resolve) => {
       this.child.on('exit', (code, signal) => {
         this._closed = true;
-        // Reject any in-flight requests.
         const reason = `render-server process exited (code=${code}, signal=${signal ?? 'none'})`;
         for (const p of this._pending.values()) {
           p.reject(new Error(reason));
         }
         this._pending.clear();
-        if (!this._readyResolved) {
-          this._readyReject?.(new Error(`server died before READY: ${reason}`));
-        }
         resolve();
-      });
-      this.child.on('error', (err) => {
-        this._closed = true;
-        if (!this._readyResolved) {
-          this._readyReject?.(err);
-        }
       });
     });
   }
 
-  // ---- READY handshake ----
-  private _readyResolved = false;
-  private _readyResolve?: () => void;
-  private _readyReject?: (err: Error) => void;
-
-  private _waitForReady(): Promise<void> {
-    return new Promise<void>((resolve, reject) => {
-      this._readyResolve = () => {
-        this._readyResolved = true;
-        resolve();
-      };
-      this._readyReject = (err) => {
-        this._readyResolved = true;
-        reject(err);
-      };
-      const timer = setTimeout(() => {
-        if (!this._readyResolved) {
-          this._readyReject?.(
-            new Error(
-              `server did not emit READY within ${this.opts.bootstrapTimeoutMs}ms — ` +
-                `last stdout buffer: ${this._stdoutBuf.slice(-1024)}`,
-            ),
-          );
-        }
-      }, this.opts.bootstrapTimeoutMs);
-      // Clear timer when ready / failed.
-      const origResolve = this._readyResolve;
-      const origReject = this._readyReject;
-      this._readyResolve = () => {
-        clearTimeout(timer);
-        origResolve!();
-      };
-      this._readyReject = (err) => {
-        clearTimeout(timer);
-        origReject!(err);
-      };
-    });
-  }
-
-  // ---- stdout demultiplexer ----
-  private _handleStdout(chunk: string): void {
-    if (this.opts.verbose) process.stderr.write(chunk);
-    this._stdoutBuf += chunk;
-    // Process line by line; keep the unterminated tail in _stdoutBuf.
+  // ---- socket data demultiplexer ----
+  private _handleData(chunk: string): void {
+    this._socketBuf += chunk;
     let nl: number;
-    while ((nl = this._stdoutBuf.indexOf('\n')) !== -1) {
-      const line = this._stdoutBuf.substring(0, nl);
-      this._stdoutBuf = this._stdoutBuf.substring(nl + 1);
+    while ((nl = this._socketBuf.indexOf('\n')) !== -1) {
+      const line = this._socketBuf.substring(0, nl);
+      this._socketBuf = this._socketBuf.substring(nl + 1);
       this._handleLine(line.trim());
     }
   }
 
   private _handleLine(line: string): void {
     if (line === '') return;
-    if (line === 'READY' || line.endsWith(' READY')) {
-      this._readyResolve?.();
+    if (line === 'SHUTDOWN_OK') {
+      // The Dart side acknowledged shutdown. The socket will close
+      // shortly + the child process will exit, both wired in _wire().
       return;
     }
-    // Markers can be prefixed by flutter test reporter cruft (e.g.
-    // `[test] RENDER_OK ...`); search rather than equality.
-    const okIdx = line.indexOf('RENDER_OK ');
-    if (okIdx !== -1) {
-      this._handleOkLine(line.substring(okIdx));
+    if (line.startsWith('RENDER_OK ')) {
+      this._handleOkLine(line);
       return;
     }
-    const errIdx = line.indexOf('RENDER_ERR ');
-    if (errIdx !== -1) {
-      this._handleErrLine(line.substring(errIdx));
+    if (line.startsWith('RENDER_ERR ')) {
+      this._handleErrLine(line);
       return;
     }
-    if (line.includes('SHUTDOWN_OK')) {
-      // Pending requests will be rejected by the exit handler.
-      return;
+    if (this.opts.verbose) {
+      process.stderr.write(`[render-server] unknown line: ${line}\n`);
     }
-    // Other lines are diagnostic; ignored unless verbose (printed above).
   }
 
   private _handleOkLine(line: string): void {
@@ -517,10 +564,8 @@ export class RenderServer {
       }, this.opts.requestTimeoutMs);
       this._pending.set(id, {
         id,
-        out,
         resolve: (p) => {
           clearTimeout(timer);
-          // Sanity-check the PNG before reporting success.
           try {
             const st = statSync(p);
             if (st.size < 100) {
@@ -538,37 +583,52 @@ export class RenderServer {
           reject(err);
         },
       });
-      const payload = JSON.stringify(wire) + '\n';
-      const ok = this.child.stdin.write(payload);
-      if (!ok) {
-        // Backpressure — let the writable drain before continuing.
-        this.child.stdin.once('drain', () => {});
-      }
+      this.socket.write(JSON.stringify(wire) + '\n');
     });
   }
 
   /**
    * Shut down the server cleanly. Sends a `{"shutdown": true}` line,
-   * then waits for the process to exit.
+   * then waits for the child process to exit.
+   *
+   * The `fvm flutter test` wrapper sometimes hangs around for a few
+   * seconds after the test isolate finishes (test reporter cleanup).
+   * We escalate: send shutdown JSON -> wait 3s -> SIGTERM ->
+   * wait 2s -> SIGKILL.
    */
   async close(): Promise<void> {
     if (this._closed) return;
     try {
-      this.child.stdin.write(JSON.stringify({ shutdown: true }) + '\n');
-      this.child.stdin.end();
+      this.socket.write(JSON.stringify({ shutdown: true }) + '\n');
     } catch {
-      // Best-effort — the child might already be gone.
+      // best-effort
     }
-    // Give the child up to 5 s to exit on its own, then SIGTERM.
-    const killTimer = setTimeout(() => {
+
+    // SIGTERM the whole process group (via the negative-pid trick on
+    // unix) so the `fvm` and `flutter` wrappers AND the underlying
+    // `dartvm test` all receive the signal. Without the group-wide
+    // signal, the dartvm child usually outlives its parents.
+    const groupSignal = (sig: NodeJS.Signals) => {
+      if (this.child.pid === undefined) return;
       try {
-        this.child.kill('SIGTERM');
-      } catch {}
-    }, 5000);
+        process.kill(-this.child.pid, sig);
+      } catch {
+        try {
+          this.child.kill(sig);
+        } catch {}
+      }
+    };
+    const termTimer = setTimeout(() => groupSignal('SIGTERM'), 3000);
+    const killTimer = setTimeout(() => groupSignal('SIGKILL'), 5000);
+
     try {
       await this._exitPromise;
     } finally {
+      clearTimeout(termTimer);
       clearTimeout(killTimer);
+      try {
+        this.socket.destroy();
+      } catch {}
     }
   }
 }
@@ -584,6 +644,7 @@ interface BenchCliArgs {
   prefix?: string;
   outDir: string;
   size: number;
+  keep: boolean;
 }
 
 function parseBenchArgs(argv: string[]): BenchCliArgs {
@@ -593,6 +654,7 @@ function parseBenchArgs(argv: string[]): BenchCliArgs {
   let prefix: string | undefined;
   let size = 256;
   let outDir = join(REPO_ROOT, 'tools/generator/audit/render/host/tmp/bench');
+  let keep = false;
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i]!;
     const next = () => {
@@ -622,9 +684,12 @@ function parseBenchArgs(argv: string[]): BenchCliArgs {
       case '--out-dir':
         outDir = next();
         break;
+      case '--keep':
+        keep = true;
+        break;
       case '--help':
       case '-h':
-        console.error('usage: bun run render-server --bench N [--verbose] [--seed N] [--prefix mdi] [--size 256]');
+        console.error('usage: bun run render-server --bench N [--verbose] [--seed N] [--prefix mdi] [--size 256] [--keep]');
         process.exit(0);
         break;
       default:
@@ -632,7 +697,7 @@ function parseBenchArgs(argv: string[]): BenchCliArgs {
         process.exit(2);
     }
   }
-  return { bench, verbose, seed, prefix, outDir, size };
+  return { bench, verbose, seed, prefix, outDir, size, keep };
 }
 
 /** Tiny seeded PRNG (xorshift32) so bench runs are reproducible. */
@@ -666,11 +731,9 @@ async function pickRandomIcons(
   if (prefixes.length === 0) {
     throw new Error(`no manifests found in ${MANIFEST_DIR} matching --prefix=${onlyPrefix ?? '*'}`);
   }
-  // Pre-load manifests we'll need. With --prefix this is one; otherwise
-  // pick N random prefixes (with replacement) then one icon each.
   const picked: PickedIcon[] = [];
   let attempts = 0;
-  const maxAttempts = count * 10;
+  const maxAttempts = count * 20;
   while (picked.length < count && attempts++ < maxAttempts) {
     const prefix = prefixes[Math.floor(rng() * prefixes.length)]!;
     const manifest = await loadManifest(prefix);
@@ -706,7 +769,7 @@ async function runBench(args: BenchCliArgs): Promise<void> {
   let ok = 0;
   let firstMs = 0;
   const perIconMs: number[] = [];
-  let failures: { icon: PickedIcon; reason: string }[] = [];
+  const failures: { icon: PickedIcon; reason: string }[] = [];
   for (let i = 0; i < icons.length; i++) {
     const icon = icons[i]!;
     const out = join(args.outDir, `${String(i).padStart(4, '0')}__${icon.prefix}__${icon.name.replace(/[^a-z0-9_-]/gi, '_')}.png`);
@@ -723,7 +786,7 @@ async function runBench(args: BenchCliArgs): Promise<void> {
       perIconMs.push(dt);
       if (i === 0) firstMs = dt;
       ok++;
-      if (args.verbose || i % 10 === 0) {
+      if (args.verbose || (i + 1) % 10 === 0 || i === icons.length - 1) {
         process.stderr.write(`[bench] ${i + 1}/${count} ${icon.prefix}:${icon.name} -> ${dt}ms\n`);
       }
     } catch (err) {
@@ -750,7 +813,8 @@ async function runBench(args: BenchCliArgs): Promise<void> {
   console.error(`first request:  ${firstMs} ms (cold font load)`);
   console.error(`mean / icon:    ${meanMs.toFixed(1)} ms`);
   console.error(`p50 / p95 / max:${p(0.5)} / ${p(0.95)} / ${p(1.0)} ms`);
-  console.error(`target met:     ${meanMs < 600 ? 'YES (<600 ms/icon)' : 'NO'}`);
+  const targetMet = perIconMs.length > 0 && meanMs < 600;
+  console.error(`target met:     ${targetMet ? 'YES (<600 ms/icon)' : 'NO'}`);
   if (failures.length > 0 && failures.length <= 10) {
     console.error('failures:');
     for (const f of failures) {
@@ -758,25 +822,70 @@ async function runBench(args: BenchCliArgs): Promise<void> {
     }
   }
 
-  // Cleanup temp PNGs (best-effort).
-  const { rm } = await import('node:fs/promises');
-  try {
-    await rm(args.outDir, { recursive: true, force: true });
-  } catch {
-    // ignore
+  // Cleanup temp PNGs unless --keep.
+  if (!args.keep) {
+    const { rm } = await import('node:fs/promises');
+    try {
+      await rm(args.outDir, { recursive: true, force: true });
+    } catch {
+      // ignore
+    }
+  } else {
+    console.error(`[bench] kept PNGs at ${args.outDir}`);
   }
 
-  if (failures.length > 0) process.exitCode = 1;
+  if (failures.length > 0 || !targetMet) process.exitCode = 1;
 }
 
 if (import.meta.main) {
   const args = parseBenchArgs(process.argv.slice(2));
   if (args.bench === undefined) {
-    console.error('usage: bun run render-server --bench N [--verbose] [--seed N] [--prefix mdi] [--size 256]');
+    console.error('usage: bun run render-server --bench N [--verbose] [--seed N] [--prefix mdi] [--size 256] [--keep]');
     process.exit(2);
   }
   runBench(args).catch((err) => {
     console.error(`render-server: ${err.message ?? err}`);
     process.exit(1);
+  });
+}
+
+// --------------------------------------------------------------------------
+// Stale-process cleanup hook
+// --------------------------------------------------------------------------
+//
+// `fvm flutter test` can survive its parent if the bun process dies
+// mid-render (Ctrl-C, OOM, etc). Register SIGINT/SIGTERM listeners
+// that propagate to any active server's child, so the user's
+// terminal doesn't end up with dead `dartvm test` processes hogging
+// resources after a crash.
+//
+// (Programmatic users who call RenderServer.start are responsible
+// for calling close(); this hook is the "fall through" safety net.)
+
+const _activeServers = new Set<RenderServer>();
+const _origStart = RenderServer.start;
+RenderServer.start = async function (
+  opts?: RenderServerOptions,
+): Promise<RenderServer> {
+  const s = await _origStart.call(RenderServer, opts ?? {});
+  _activeServers.add(s);
+  const origClose = s.close.bind(s);
+  s.close = async () => {
+    try {
+      await origClose();
+    } finally {
+      _activeServers.delete(s);
+    }
+  };
+  return s;
+};
+
+for (const sig of ['SIGINT', 'SIGTERM'] as const) {
+  process.on(sig, () => {
+    if (_activeServers.size === 0) return;
+    process.stderr.write(`[render-server] caught ${sig}, closing ${_activeServers.size} server(s)\n`);
+    Promise.all([..._activeServers].map((s) => s.close())).finally(() => {
+      process.exit(sig === 'SIGINT' ? 130 : 143);
+    });
   });
 }

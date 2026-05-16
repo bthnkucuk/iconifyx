@@ -149,17 +149,125 @@ mode.
 
 ### What it does NOT do (v1)
 
-- **No persistent process.** Each invocation pays a ~5–10 s
-  `flutter test` bootstrap cost. If you need sub-2s repeated calls
-  (visual-diff over thousands of icons), the next step is Approach E
-  — a long-running flutter test app that reads `(prefix, name, …)` from
-  stdin and writes PNGs to stdout, length-prefixed. The Bun wrapper's
-  protocol is already factored so adding a `--persistent` mode is a
-  follow-up.
 - **No raw-SVG mode.** The prompt mentioned `raw-svg` as a bonus
   (rasterize the upstream Iconify SVG via resvg for comparison). Not
   shipped in v1 — easy to add as a separate code path that bypasses the
   flutter test entirely.
+
+## Approach E (`render-server`) — persistent process, ~25 ms/icon
+
+Single-shot `render-icon` pays a ~5-10 s `flutter test` bootstrap per
+call. For bulk workloads (visual-diff Phase 2 corpus run over 340k
+icons; golden refresh; etc.) this is fatal — even a 1 % sample is
+hours. `render-server.ts` boots ONE `flutter test` process that
+listens on a 127.0.0.1 TCP port and serves line-delimited JSON
+render requests; per-icon cost drops to **~25 ms (mean) / ~140 ms
+(p95)** after the one-time ~2 s bootstrap.
+
+### Why TCP instead of stdin
+
+The obvious design — pipe JSON into the test process's stdin — does
+not work. `flutter test` owns the test isolate's stdin fd (used for
+Observatory commands when `--start-paused`) and does NOT proxy the
+parent process's stdin through. A 127.0.0.1 socket bypasses the
+orchestrator entirely. `ServerSocket.bind` is unrestricted in test
+isolates, and the loopback hop adds <1 ms.
+
+### Bench
+
+```bash
+cd tools/generator
+bun run render-server --bench 100              # 100 random icons, mixed packs
+bun run render-server --bench 100 --prefix mdi # 100 random mdi icons
+bun run render-server --bench 5 --seed 42 --keep  # debugging: leave PNGs in tmp/bench/
+```
+
+Last numbers (M-series, mixed packs, 100 icons):
+
+```
+bootstrap:      2734 ms
+wall (render):  2585 ms
+first request:  138 ms (cold font load for that pack)
+mean / icon:    25.8 ms
+p50 / p95 / max:23 / 40 / 138 ms
+target met:     YES (<600 ms/icon)
+```
+
+### Programmatic use
+
+```ts
+import { RenderServer } from './render-server.ts';
+
+const server = await RenderServer.start();
+try {
+  await server.render({
+    prefix: 'mdi',
+    name: 'home',
+    size: 256,
+    out: '/tmp/mdi-home.png',
+    color: 0xff0066ff,
+    bg: 0x00ffffff,
+  });
+} finally {
+  await server.close();
+}
+```
+
+The `out` path is absolute; the server's Dart side writes directly
+to it via `dart:io File`. Use `RenderServer.start({ verbose: true })`
+to stream the underlying `flutter test` output for debugging.
+
+### Wired into visual-diff `--corpus`
+
+```bash
+# Sample 200 icons (uniform across packs), reproducible
+bun run tools/generator/audit/visual-diff/cli.ts \
+  --corpus --sample 200 --seed 12345
+
+# Whole pack
+bun run tools/generator/audit/visual-diff/cli.ts \
+  --corpus --prefix mdi --sample 0
+```
+
+Produces `docs/audit/visual-diff/corpus/`:
+- `rows.jsonl` — one JSON row per icon with verdict + metrics
+- `summary.json` — totals + status/reason counts
+- `CORPUS_REPORT.md` — human-readable summary + first-30 `different` examples
+- `<prefix>__<name>/` — per-icon report dir (PNGs pruned when status=same)
+
+### Architecture notes
+
+- **One server serves every pack.** TTFs are loaded off disk via
+  `FontLoader` from `dart:io File` reads, not from the pubspec's
+  asset bundler. The host pubspec only needs `iconifyx_core`; per-set
+  TTFs are reachable by their absolute path. First request per pack
+  pays ~30 ms FontLoader cost; subsequent requests for the same pack
+  are free.
+- **Sequential rendering.** `WidgetTester` is single-threaded; the
+  protocol serialises requests. Parallelism = run multiple servers
+  (each on its own port). For 25 ms/icon a single server already
+  delivers ~40 icons/s — enough for the 340k corpus in ~2.4 h, or
+  the 5 % stratified sample (~17k) in ~7 min.
+- **Per-icon request fields:** `primaryCp`, `primaryFamily`,
+  `primaryPackage`, `secondaryCp?`, `secondaryFamily?`, `kind`,
+  `mode?`, `size?`, `color?`, `bg?`, `secondaryColor?`,
+  `pixelRatio?`, `out`, `id?`. The `id` is round-tripped so the
+  client can correlate out-of-order responses (the server is FIFO
+  in practice, but the protocol allows for it).
+- **Cleanup.** `await server.close()` sends `{"shutdown": true}`,
+  waits up to 5 s for the child to exit, then SIGTERMs. On process
+  crash the orphaned `flutter test` exits when the socket closes.
+
+### Files
+
+```
+tools/generator/audit/render/
+├── render-icon.ts                 # single-shot Approach A (was)
+├── render_icon_test.dart          # canonical single-shot test
+├── render-server.ts               # NEW persistent Approach E (Bun CLI + RenderServer class)
+├── render_server_test.dart        # NEW canonical server test (auto-synced into host/test/)
+└── host/test/                     # both tests live here, kept in sync each call
+```
 
 ## Constraints satisfied
 

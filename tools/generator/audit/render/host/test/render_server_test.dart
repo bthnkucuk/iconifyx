@@ -1,45 +1,57 @@
-// IconData below is constructed from runtime values supplied via stdin —
+// IconData below is constructed from runtime values supplied via socket —
 // same approach the website takes when reconstructing `IconifyIconData`
 // from `icons_index.json`. Tree-shake-icons doesn't apply to a test
 // isolate, so the const-arg requirement is moot.
 // ignore_for_file: non_const_argument_for_const_parameter, avoid_print
 
-// Persistent stdin-driven render server (Approach E v2).
+// Persistent socket-driven render server (Approach E v2).
 //
 // Companion to `render_icon_test.dart` (single-shot Approach A). This file
-// runs ONE long-lived `testWidgets` that reads JSON requests from stdin
-// and writes a PNG per request via `RepaintBoundary.toImage`. Keeping
-// fonts loaded across requests + skipping the per-call `flutter test`
-// bootstrap drops per-icon cost from ~5 s to ~200 ms.
+// runs ONE long-lived `testWidgets` that:
 //
-// Protocol (line-delimited JSON on stdin):
+//   1. Binds a `ServerSocket` on 127.0.0.1 at an OS-picked free port.
+//   2. Prints `READY 127.0.0.1:<port>` on stdout so the parent process
+//      can dial in.
+//   3. Accepts ONE client connection at a time and serves line-delimited
+//      JSON render requests on it, writing PNG files via
+//      `RepaintBoundary.toImage` and replying with `RENDER_OK <out>
+//      <bytes> id=<id>\n` per request.
+//   4. Shuts down on `{"shutdown": true}` or when stdout/parent dies.
 //
-//   {"primaryCp": 0xe000, "primaryFamily": "Mdi",
-//    "primaryPackage": "iconifyx_mdi", "kind": 0,
-//    "size": 256, "color": "0xff000000", "bg": "0x00ffffff",
-//    "pixelRatio": 2.0, "out": "/tmp/render-001.png"}
+// Why a socket instead of stdin: `flutter test` does NOT pipe the parent
+// process's stdin to the test isolate. An earlier draft of this file
+// blocked forever on `stdin.transform(...).listen(...)` because the
+// orchestrator owns stdin (Observatory commands etc). A 127.0.0.1
+// socket bypasses that entirely — `ServerSocket.bind` is unrestricted
+// in test isolates, and the parent CLI just opens a TCP `Socket` to
+// the printed port.
 //
-//   Optional fields:
+// Protocol (UTF-8 line-delimited JSON):
+//
+//   request:
+//     {"primaryCp": 0xe000, "primaryFamily": "Mdi",
+//      "primaryPackage": "iconifyx_mdi", "kind": 0,
+//      "size": 256, "color": "0xff000000", "bg": "0x00ffffff",
+//      "pixelRatio": 2.0, "out": "/tmp/render-001.png",
+//      "id": "r1"}
+//
+//   optional fields:
 //     secondaryCp, secondaryFamily   — when duotone
 //     mode                            — "duotone"|"primary-only"|"secondary-only" (default duotone)
 //     secondaryColor                  — paint-order override
-//     id                              — opaque correlation id echoed back on RENDER_OK
 //
-//   Special:
-//     {"shutdown": true}              — exit cleanly
+//   responses:
+//     RENDER_OK <out> <bytes> id=<id>\n
+//     RENDER_ERR <reason> id=<id>\n
 //
-// Stdout markers (one per line):
-//   READY                             — server is up and accepting requests
-//   RENDER_OK <out> <bytes> [id=<id>] — request completed
-//   RENDER_ERR <reason> [id=<id>]     — request failed (server keeps running)
-//   SHUTDOWN_OK                       — server is exiting
+//   shutdown:
+//     {"shutdown": true}              -> server writes SHUTDOWN_OK\n then exits
 //
-// All other lines on stdout are diagnostic and should be ignored by clients.
+// Stdout markers (one per line; for parent CLI to consume):
+//   READY 127.0.0.1:<port>            — server is up; dial in
+//   BYE                                — server is exiting
 //
-// The font cache (`_loadedFonts`) and pubspec are unchanged across the
-// run: TTFs are read off disk via `dart:io File`, so the host pubspec
-// only needs `iconifyx_core` — no per-set deps. This lets a single
-// server process serve every pack without `pub get` between requests.
+// All other stdout lines are diagnostic (flutter test reporter chatter).
 
 import 'dart:async';
 import 'dart:convert';
@@ -294,82 +306,110 @@ Future<int> _renderOne(WidgetTester tester, _RenderRequest req) async {
   return writtenBytes;
 }
 
+/// Handle one TCP client. Reads line-delimited JSON requests, writes
+/// `RENDER_OK` / `RENDER_ERR` per request. Returns when the client
+/// disconnects or sends `{"shutdown": true}`. If shutdown was requested
+/// the outer loop exits.
+Future<bool> _handleClient(WidgetTester tester, Socket client) async {
+  client.setOption(SocketOption.tcpNoDelay, true);
+  var shutdownRequested = false;
+  // `Socket` is `Stream<Uint8List>`; `utf8.decoder` wants
+  // `Stream<List<int>>`, so cast through that type before the chain.
+  final lineStream = client
+      .cast<List<int>>()
+      .transform(utf8.decoder)
+      .transform(const LineSplitter());
+
+  // Each request is processed sequentially. We DON'T parallelise inside
+  // a single client because WidgetTester is single-threaded; rendering
+  // two icons at once would step on each other's view + repaintKey.
+  await for (final line in lineStream) {
+    final trimmed = line.trim();
+    if (trimmed.isEmpty) continue;
+    Map<String, Object?> j;
+    try {
+      j = jsonDecode(trimmed) as Map<String, Object?>;
+    } catch (e) {
+      client.write(
+        'RENDER_ERR bad_json:${e.toString().replaceAll('\n', ' ')}\n',
+      );
+      continue;
+    }
+    if (j['shutdown'] == true) {
+      client.write('SHUTDOWN_OK\n');
+      await client.flush();
+      shutdownRequested = true;
+      break;
+    }
+    String? id;
+    try {
+      final req = _RenderRequest.fromJson(j);
+      id = req.id;
+      final bytes = await _renderOne(tester, req);
+      final idSuffix = id != null ? ' id=$id' : '';
+      client.write('RENDER_OK ${req.out} $bytes$idSuffix\n');
+    } catch (e, st) {
+      final msg = e.toString().replaceAll('\n', ' ');
+      final idSuffix = id != null ? ' id=$id' : '';
+      client.write('RENDER_ERR $msg$idSuffix\n');
+      // Stderr for debugging without polluting the wire protocol.
+      stderr.writeln('render-server: $e\n$st');
+    }
+    await client.flush();
+  }
+  try {
+    await client.close();
+  } catch (_) {
+    // Best effort.
+  }
+  return shutdownRequested;
+}
+
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
   _repoRoot = _findRepoRoot();
 
-  // testTimeout: never — the server may run for hours.
+  // The whole server lives inside ONE long-running testWidgets so the
+  // tester + binding + font cache persist for every request.
   testWidgets('render-server', (tester) async {
-    // Surface "ready" marker on stdout so the parent CLI can move past
-    // the bootstrap phase.
-    print('READY');
-
-    // Reading stdin line-by-line. `runAsync` lets us await real-time
-    // futures (the fake_async clock would block).
     final completer = Completer<void>();
-    StreamSubscription<String>? sub;
+    ServerSocket? server;
+    StreamSubscription<Socket>? sub;
     await tester.runAsync(() async {
-      sub = stdin
-          .transform(utf8.decoder)
-          .transform(const LineSplitter())
-          .listen((line) async {
-        // Pause while we process — `LineSplitter` does NOT buffer for
-        // free; we drain one line, suspend the subscription, render,
-        // then resume so a fast producer can't starve us.
+      // 127.0.0.1 only: server is process-local, never reachable from
+      // off-host. Port 0 means "let the OS pick a free one".
+      server = await ServerSocket.bind(InternetAddress.loopbackIPv4, 0);
+      // Print READY line on stdout for the parent CLI to dial in.
+      print('READY 127.0.0.1:${server!.port}');
+      sub = server!.listen((client) async {
+        // Pause incoming-client listener while this client is being
+        // served. We only ever expect one client at a time (the parent
+        // CLI), and serial processing is forced by the single
+        // WidgetTester anyway.
         sub!.pause();
         try {
-          final trimmed = line.trim();
-          if (trimmed.isEmpty) {
-            sub!.resume();
+          final shutdown = await _handleClient(tester, client);
+          if (shutdown) {
+            if (!completer.isCompleted) completer.complete();
             return;
           }
-          Map<String, Object?> j;
-          try {
-            j = jsonDecode(trimmed) as Map<String, Object?>;
-          } catch (e) {
-            print('RENDER_ERR bad_json:${e.toString().replaceAll('\n', ' ')}');
-            sub!.resume();
-            return;
-          }
-          if (j['shutdown'] == true) {
-            print('SHUTDOWN_OK');
-            await sub!.cancel();
-            completer.complete();
-            return;
-          }
-          String? id;
-          try {
-            final req = _RenderRequest.fromJson(j);
-            id = req.id;
-            final bytes = await _renderOne(tester, req);
-            final idSuffix = id != null ? ' id=$id' : '';
-            print('RENDER_OK ${req.out} $bytes$idSuffix');
-          } catch (e, st) {
-            final msg = e.toString().replaceAll('\n', ' ');
-            final idSuffix = id != null ? ' id=$id' : '';
-            print('RENDER_ERR $msg$idSuffix');
-            // Send stack to stderr for debugging without polluting stdout.
-            stderr.writeln('render-server: $e\n$st');
-          }
+        } catch (e, st) {
+          stderr.writeln('render-server: client handler threw: $e\n$st');
         } finally {
-          // Always resume so we don't deadlock on a single failing request.
-          if (!sub!.isPaused) {
-            // already cancelled (shutdown path) — no-op
-          } else {
+          if (!completer.isCompleted) {
             sub!.resume();
           }
-        }
-      }, onDone: () {
-        // EOF → clean shutdown.
-        if (!completer.isCompleted) {
-          print('SHUTDOWN_OK');
-          completer.complete();
         }
       }, onError: (Object e) {
-        stderr.writeln('render-server stdin error: $e');
+        stderr.writeln('render-server: accept error: $e');
         if (!completer.isCompleted) completer.complete();
       });
     });
     await completer.future;
+    await sub?.cancel();
+    try {
+      await server?.close();
+    } catch (_) {}
+    print('BYE');
   }, timeout: Timeout.none);
 }
