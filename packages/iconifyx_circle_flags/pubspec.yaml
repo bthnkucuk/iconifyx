@@ -1,6 +1,6 @@
 name: iconifyx_circle_flags
 description: >-
-  Circle Flags icons from Iconify, packaged for Flutter (5 icons, MIT license).
+  Circle Flags icons from Iconify, packaged for Flutter (737 icons, MIT license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: CircleFlags
       fonts:
         - asset: assets/fonts/CircleFlags.ttf
+    - family: CircleFlagsSecondary
+      fonts:
+        - asset: assets/fonts/CircleFlagsSecondary.ttf

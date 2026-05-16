@@ -14,6 +14,7 @@
     "@iconify/json": "^2.2.300",
     "@iconify/tools": "^4.0.0",
     "@iconify/utils": "^2.1.30",
+    "@neplex/vectorizer": "^0.0.5",
     "@resvg/resvg-js": "^2.6.2",
     "fontkit": "^2.0.4",
     "oslllo-potrace": "^5.0.0",

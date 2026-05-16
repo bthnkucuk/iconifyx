@@ -38,6 +38,31 @@ export interface GeneratorConfig {
    * bodies flatten to a single layer.
    */
   colorMappedSets?: string[];
+  /**
+   * Iconify prefixes whose paint-order-dropped icons (multi-fill bodies
+   * that would otherwise render as featureless monochrome blobs in the
+   * TTF) should be recovered through the vtracer pipeline. For each
+   * listed prefix the pipeline rasterises every paint-order-drop
+   * candidate via `@resvg/resvg-js`, runs `@neplex/vectorizer`
+   * (visioncortex vtracer) in stacked-colour mode, and reduces the
+   * resulting 4-8 layer SVG to a 2-layer (background + foreground)
+   * duotone with `kind: paintOrder`. Recovered icons feed the same
+   * Primary/Secondary font pair as the existing two-colour duotone
+   * split (§5b path 2).
+   *
+   * Opt-in because vtracer first-run is slow (~80-200 ms / icon) and
+   * the output is approximate — best for multi-colour emoji families
+   * (twemoji, noto, fluent-emoji-flat) and country-flag silhouettes
+   * (`circle-flags`). Bodies that fail the trace (panic, or produce
+   * fewer than 2 distinct colour layers) still get the existing
+   * paint-order drop treatment.
+   *
+   * Cache lives at `tools/generator/.cache/vtrace/<prefix>/<sha>.json`
+   * (gitignored, content-addressed).
+   *
+   * @see tools/generator/src/vtracer.ts
+   */
+  vtracerSets?: string[];
 }
 
 const CONFIG_PATH = path.resolve(import.meta.dir, '..', 'config.yaml');

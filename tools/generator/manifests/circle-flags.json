@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "circle-flags",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-15",
+  "lastUpdated": "2026-05-16",
   "category": "Flags / Maps",
   "subPackage": "iconifyx_circle_flags",
   "info": {
@@ -16,40 +16,5169 @@
       "spdx": "MIT",
       "url": "https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE"
     },
-    "total": 5
+    "total": 737
   },
   "fonts": [
     {
       "family": "CircleFlags",
-      "nextCodepoint": 57349,
-      "iconCount": 5
+      "nextCodepoint": 58081,
+      "iconCount": 737
+    },
+    {
+      "family": "CircleFlagsSecondary",
+      "nextCodepoint": 58081,
+      "iconCount": 732
     }
   ],
   "icons": {
+    "aa": {
+      "codepoint": 57349,
+      "fontFamily": "CircleFlags",
+      "identifier": "aa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ab": {
+      "codepoint": 57350,
+      "fontFamily": "CircleFlags",
+      "identifier": "ab",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ac": {
+      "codepoint": 57351,
+      "fontFamily": "CircleFlags",
+      "identifier": "ac",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ad": {
+      "codepoint": 57352,
+      "fontFamily": "CircleFlags",
+      "identifier": "ad",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ae": {
+      "codepoint": 57353,
+      "fontFamily": "CircleFlags",
+      "identifier": "ae",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "af": {
+      "codepoint": 57354,
+      "fontFamily": "CircleFlags",
+      "identifier": "af",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "af-emirate": {
+      "codepoint": 57355,
+      "fontFamily": "CircleFlags",
+      "identifier": "afEmirate",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "afar": {
+      "codepoint": 57356,
+      "fontFamily": "CircleFlags",
+      "identifier": "afar",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ag": {
+      "codepoint": 57357,
+      "fontFamily": "CircleFlags",
+      "identifier": "ag",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ai": {
+      "codepoint": 57358,
+      "fontFamily": "CircleFlags",
+      "identifier": "ai",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ak": {
+      "codepoint": 57359,
+      "fontFamily": "CircleFlags",
+      "identifier": "ak",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "al": {
+      "codepoint": 57360,
+      "fontFamily": "CircleFlags",
+      "identifier": "al",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "am": {
+      "codepoint": 57361,
+      "fontFamily": "CircleFlags",
+      "identifier": "am",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "an": {
+      "codepoint": 57362,
+      "fontFamily": "CircleFlags",
+      "identifier": "an",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ao": {
+      "codepoint": 57363,
+      "fontFamily": "CircleFlags",
+      "identifier": "ao",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "aq": {
+      "codepoint": 57364,
+      "fontFamily": "CircleFlags",
+      "identifier": "aq",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "aq-true-south": {
+      "codepoint": 57365,
+      "fontFamily": "CircleFlags",
+      "identifier": "aqTrueSouth",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ar": {
+      "codepoint": 57366,
+      "fontFamily": "CircleFlags",
+      "identifier": "ar",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "artsakh": {
+      "codepoint": 57367,
+      "fontFamily": "CircleFlags",
+      "identifier": "artsakh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "as": {
+      "codepoint": 57368,
+      "fontFamily": "CircleFlags",
+      "identifier": "as_",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "at": {
+      "codepoint": 57369,
+      "fontFamily": "CircleFlags",
+      "identifier": "at",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au": {
+      "codepoint": 57370,
+      "fontFamily": "CircleFlags",
+      "identifier": "au",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-aboriginal": {
+      "codepoint": 57371,
+      "fontFamily": "CircleFlags",
+      "identifier": "auAboriginal",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-act": {
+      "codepoint": 57372,
+      "fontFamily": "CircleFlags",
+      "identifier": "auAct",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-nsw": {
+      "codepoint": 57373,
+      "fontFamily": "CircleFlags",
+      "identifier": "auNsw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-nt": {
+      "codepoint": 57374,
+      "fontFamily": "CircleFlags",
+      "identifier": "auNt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-qld": {
+      "codepoint": 57375,
+      "fontFamily": "CircleFlags",
+      "identifier": "auQld",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-sa": {
+      "codepoint": 57376,
+      "fontFamily": "CircleFlags",
+      "identifier": "auSa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-tas": {
+      "codepoint": 57377,
+      "fontFamily": "CircleFlags",
+      "identifier": "auTas",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-torres-strait-islands": {
+      "codepoint": 57378,
+      "fontFamily": "CircleFlags",
+      "identifier": "auTorresStraitIslands",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-vic": {
+      "codepoint": 57379,
+      "fontFamily": "CircleFlags",
+      "identifier": "auVic",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "au-wa": {
+      "codepoint": 57380,
+      "fontFamily": "CircleFlags",
+      "identifier": "auWa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "av": {
+      "codepoint": 57381,
+      "fontFamily": "CircleFlags",
+      "identifier": "av",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "aw": {
+      "codepoint": 57382,
+      "fontFamily": "CircleFlags",
+      "identifier": "aw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ax": {
+      "codepoint": 57383,
+      "fontFamily": "CircleFlags",
+      "identifier": "ax",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ay": {
+      "codepoint": 57384,
+      "fontFamily": "CircleFlags",
+      "identifier": "ay",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "az": {
+      "codepoint": 57385,
+      "fontFamily": "CircleFlags",
+      "identifier": "az",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ba": {
+      "codepoint": 57386,
+      "fontFamily": "CircleFlags",
+      "identifier": "ba",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bb": {
+      "codepoint": 57387,
+      "fontFamily": "CircleFlags",
+      "identifier": "bb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bd": {
+      "codepoint": 57388,
+      "fontFamily": "CircleFlags",
+      "identifier": "bd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "be": {
+      "codepoint": 57389,
+      "fontFamily": "CircleFlags",
+      "identifier": "be",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bf": {
+      "codepoint": 57390,
+      "fontFamily": "CircleFlags",
+      "identifier": "bf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bg": {
+      "codepoint": 57391,
+      "fontFamily": "CircleFlags",
+      "identifier": "bg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bh": {
+      "codepoint": 57392,
+      "fontFamily": "CircleFlags",
+      "identifier": "bh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bi": {
+      "codepoint": 57393,
+      "fontFamily": "CircleFlags",
+      "identifier": "bi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bj": {
+      "codepoint": 57394,
+      "fontFamily": "CircleFlags",
+      "identifier": "bj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bl": {
+      "codepoint": 57395,
+      "fontFamily": "CircleFlags",
+      "identifier": "bl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bm": {
+      "codepoint": 57396,
+      "fontFamily": "CircleFlags",
+      "identifier": "bm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bn": {
+      "codepoint": 57397,
+      "fontFamily": "CircleFlags",
+      "identifier": "bn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bo": {
+      "codepoint": 57398,
+      "fontFamily": "CircleFlags",
+      "identifier": "bo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bq": {
+      "codepoint": 57399,
+      "fontFamily": "CircleFlags",
+      "identifier": "bq",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bq-bo": {
+      "codepoint": 57400,
+      "fontFamily": "CircleFlags",
+      "identifier": "bqBo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bq-sa": {
+      "codepoint": 57401,
+      "fontFamily": "CircleFlags",
+      "identifier": "bqSa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bq-se": {
+      "codepoint": 57402,
+      "fontFamily": "CircleFlags",
+      "identifier": "bqSe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "br": {
+      "codepoint": 57403,
+      "fontFamily": "CircleFlags",
+      "identifier": "br",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bs": {
+      "codepoint": 57404,
+      "fontFamily": "CircleFlags",
+      "identifier": "bs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bt": {
+      "codepoint": 57405,
+      "fontFamily": "CircleFlags",
+      "identifier": "bt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bv": {
+      "codepoint": 57406,
+      "fontFamily": "CircleFlags",
+      "identifier": "bv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bw": {
+      "codepoint": 57407,
+      "fontFamily": "CircleFlags",
+      "identifier": "bw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "by": {
+      "codepoint": 57408,
+      "fontFamily": "CircleFlags",
+      "identifier": "by",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "bz": {
+      "codepoint": 57409,
+      "fontFamily": "CircleFlags",
+      "identifier": "bz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ca": {
+      "codepoint": 57410,
+      "fontFamily": "CircleFlags",
+      "identifier": "ca",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ca-bc": {
+      "codepoint": 57411,
+      "fontFamily": "CircleFlags",
+      "identifier": "caBc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ca-qc": {
+      "codepoint": 57412,
+      "fontFamily": "CircleFlags",
+      "identifier": "caQc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cc": {
+      "codepoint": 57413,
+      "fontFamily": "CircleFlags",
+      "identifier": "cc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cd": {
+      "codepoint": 57414,
+      "fontFamily": "CircleFlags",
+      "identifier": "cd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ce": {
+      "codepoint": 57415,
+      "fontFamily": "CircleFlags",
+      "identifier": "ce",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ceb": {
+      "codepoint": 57416,
+      "fontFamily": "CircleFlags",
+      "identifier": "ceb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cf": {
+      "codepoint": 57417,
+      "fontFamily": "CircleFlags",
+      "identifier": "cf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cg": {
+      "codepoint": 57418,
+      "fontFamily": "CircleFlags",
+      "identifier": "cg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ch": {
+      "codepoint": 57419,
+      "fontFamily": "CircleFlags",
+      "identifier": "ch",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ch-gr": {
+      "codepoint": 57420,
+      "fontFamily": "CircleFlags",
+      "identifier": "chGr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "checkered": {
+      "codepoint": 57421,
+      "fontFamily": "CircleFlags",
+      "identifier": "checkered",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "chequered": {
+      "codepoint": 57422,
+      "fontFamily": "CircleFlags",
+      "identifier": "chequered",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "chm": {
+      "codepoint": 57423,
+      "fontFamily": "CircleFlags",
+      "identifier": "chm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ci": {
+      "codepoint": 57424,
+      "fontFamily": "CircleFlags",
+      "identifier": "ci",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ck": {
+      "codepoint": 57425,
+      "fontFamily": "CircleFlags",
+      "identifier": "ck",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ckb": {
+      "codepoint": 57426,
+      "fontFamily": "CircleFlags",
+      "identifier": "ckb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cl": {
+      "codepoint": 57427,
+      "fontFamily": "CircleFlags",
+      "identifier": "cl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cm": {
+      "codepoint": 57428,
+      "fontFamily": "CircleFlags",
+      "identifier": "cm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cn": {
+      "codepoint": 57429,
+      "fontFamily": "CircleFlags",
+      "identifier": "cn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cn-hk": {
+      "codepoint": 57430,
+      "fontFamily": "CircleFlags",
+      "identifier": "cnHk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cn-xj": {
+      "codepoint": 57431,
+      "fontFamily": "CircleFlags",
+      "identifier": "cnXj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "co": {
+      "codepoint": 57432,
+      "fontFamily": "CircleFlags",
+      "identifier": "co",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cp": {
+      "codepoint": 57433,
+      "fontFamily": "CircleFlags",
+      "identifier": "cp",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cq": {
+      "codepoint": 57434,
+      "fontFamily": "CircleFlags",
+      "identifier": "cq",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cr": {
+      "codepoint": 57435,
+      "fontFamily": "CircleFlags",
+      "identifier": "cr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cs": {
+      "codepoint": 57436,
+      "fontFamily": "CircleFlags",
+      "identifier": "cs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cu": {
+      "codepoint": 57437,
+      "fontFamily": "CircleFlags",
+      "identifier": "cu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cv": {
+      "codepoint": 57438,
+      "fontFamily": "CircleFlags",
+      "identifier": "cv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cw": {
+      "codepoint": 57439,
+      "fontFamily": "CircleFlags",
+      "identifier": "cw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cx": {
+      "codepoint": 57440,
+      "fontFamily": "CircleFlags",
+      "identifier": "cx",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cy": {
+      "codepoint": 57441,
+      "fontFamily": "CircleFlags",
+      "identifier": "cy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "cz": {
+      "codepoint": 57442,
+      "fontFamily": "CircleFlags",
+      "identifier": "cz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "da": {
+      "codepoint": 57443,
+      "fontFamily": "CircleFlags",
+      "identifier": "da",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "de": {
+      "codepoint": 57444,
+      "fontFamily": "CircleFlags",
+      "identifier": "de",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "dg": {
+      "codepoint": 57445,
+      "fontFamily": "CircleFlags",
+      "identifier": "dg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "dj": {
+      "codepoint": 57446,
+      "fontFamily": "CircleFlags",
+      "identifier": "dj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "dk": {
+      "codepoint": 57447,
+      "fontFamily": "CircleFlags",
+      "identifier": "dk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "dm": {
+      "codepoint": 57448,
+      "fontFamily": "CircleFlags",
+      "identifier": "dm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "do": {
+      "codepoint": 57449,
+      "fontFamily": "CircleFlags",
+      "identifier": "do_",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "dv": {
+      "codepoint": 57450,
+      "fontFamily": "CircleFlags",
+      "identifier": "dv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "dz": {
+      "codepoint": 57451,
+      "fontFamily": "CircleFlags",
+      "identifier": "dz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ea": {
+      "codepoint": 57452,
+      "fontFamily": "CircleFlags",
+      "identifier": "ea",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "earth": {
+      "codepoint": 57453,
+      "fontFamily": "CircleFlags",
+      "identifier": "earth",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "east-african-federation": {
+      "codepoint": 57454,
+      "fontFamily": "CircleFlags",
+      "identifier": "eastAfricanFederation",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "easter-island": {
+      "codepoint": 57455,
+      "fontFamily": "CircleFlags",
+      "identifier": "easterIsland",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ec": {
+      "codepoint": 57456,
+      "fontFamily": "CircleFlags",
+      "identifier": "ec",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ec-w": {
+      "codepoint": 57457,
+      "fontFamily": "CircleFlags",
+      "identifier": "ecW",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ee": {
+      "codepoint": 57458,
+      "fontFamily": "CircleFlags",
+      "identifier": "ee",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "eg": {
+      "codepoint": 57459,
+      "fontFamily": "CircleFlags",
+      "identifier": "eg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "eh": {
+      "codepoint": 57460,
+      "fontFamily": "CircleFlags",
+      "identifier": "eh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "el": {
+      "codepoint": 57461,
+      "fontFamily": "CircleFlags",
+      "identifier": "el",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en": {
+      "codepoint": 57462,
+      "fontFamily": "CircleFlags",
+      "identifier": "en",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-au": {
+      "codepoint": 57463,
+      "fontFamily": "CircleFlags",
+      "identifier": "enAu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-ca": {
+      "codepoint": 57464,
+      "fontFamily": "CircleFlags",
+      "identifier": "enCa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-gh": {
+      "codepoint": 57465,
+      "fontFamily": "CircleFlags",
+      "identifier": "enGh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-hk": {
+      "codepoint": 57466,
+      "fontFamily": "CircleFlags",
+      "identifier": "enHk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-ie": {
+      "codepoint": 57467,
+      "fontFamily": "CircleFlags",
+      "identifier": "enIe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-in": {
+      "codepoint": 57468,
+      "fontFamily": "CircleFlags",
+      "identifier": "enIn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-ke": {
+      "codepoint": 57469,
+      "fontFamily": "CircleFlags",
+      "identifier": "enKe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-ng": {
+      "codepoint": 57470,
+      "fontFamily": "CircleFlags",
+      "identifier": "enNg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-nz": {
+      "codepoint": 57471,
+      "fontFamily": "CircleFlags",
+      "identifier": "enNz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-ph": {
+      "codepoint": 57472,
+      "fontFamily": "CircleFlags",
+      "identifier": "enPh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-sg": {
+      "codepoint": 57473,
+      "fontFamily": "CircleFlags",
+      "identifier": "enSg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-tz": {
+      "codepoint": 57474,
+      "fontFamily": "CircleFlags",
+      "identifier": "enTz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-us": {
+      "codepoint": 57475,
+      "fontFamily": "CircleFlags",
+      "identifier": "enUs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "en-za": {
+      "codepoint": 57476,
+      "fontFamily": "CircleFlags",
+      "identifier": "enZa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "eo": {
+      "codepoint": 57477,
+      "fontFamily": "CircleFlags",
+      "identifier": "eo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "er": {
+      "codepoint": 57478,
+      "fontFamily": "CircleFlags",
+      "identifier": "er",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es": {
+      "codepoint": 57479,
+      "fontFamily": "CircleFlags",
+      "identifier": "es",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-ar": {
+      "codepoint": 57480,
+      "fontFamily": "CircleFlags",
+      "identifier": "esAr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-ce": {
+      "codepoint": 57481,
+      "fontFamily": "CircleFlags",
+      "identifier": "esCe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-cn": {
+      "codepoint": 57482,
+      "fontFamily": "CircleFlags",
+      "identifier": "esCn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-ct": {
+      "codepoint": 57483,
+      "fontFamily": "CircleFlags",
+      "identifier": "esCt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-ga": {
+      "codepoint": 57484,
+      "fontFamily": "CircleFlags",
+      "identifier": "esGa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-ib": {
+      "codepoint": 57485,
+      "fontFamily": "CircleFlags",
+      "identifier": "esIb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-ml": {
+      "codepoint": 57486,
+      "fontFamily": "CircleFlags",
+      "identifier": "esMl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-mx": {
+      "codepoint": 57487,
+      "fontFamily": "CircleFlags",
+      "identifier": "esMx",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-pv": {
+      "codepoint": 57488,
+      "fontFamily": "CircleFlags",
+      "identifier": "esPv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "es-variant": {
+      "codepoint": 57489,
+      "fontFamily": "CircleFlags",
+      "identifier": "esVariant",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "esperanto": {
+      "codepoint": 57490,
+      "fontFamily": "CircleFlags",
+      "identifier": "esperanto",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et": {
+      "codepoint": 57491,
+      "fontFamily": "CircleFlags",
+      "identifier": "et",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-af": {
+      "codepoint": 57492,
+      "fontFamily": "CircleFlags",
+      "identifier": "etAf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-am": {
+      "codepoint": 57493,
+      "fontFamily": "CircleFlags",
+      "identifier": "etAm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-be": {
+      "codepoint": 57494,
+      "fontFamily": "CircleFlags",
+      "identifier": "etBe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-ga": {
+      "codepoint": 57495,
+      "fontFamily": "CircleFlags",
+      "identifier": "etGa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-ha": {
+      "codepoint": 57496,
+      "fontFamily": "CircleFlags",
+      "identifier": "etHa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-or": {
+      "codepoint": 57497,
+      "fontFamily": "CircleFlags",
+      "identifier": "etOr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-si": {
+      "codepoint": 57498,
+      "fontFamily": "CircleFlags",
+      "identifier": "etSi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-sn": {
+      "codepoint": 57499,
+      "fontFamily": "CircleFlags",
+      "identifier": "etSn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-so": {
+      "codepoint": 57500,
+      "fontFamily": "CircleFlags",
+      "identifier": "etSo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-sw": {
+      "codepoint": 57501,
+      "fontFamily": "CircleFlags",
+      "identifier": "etSw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "et-ti": {
+      "codepoint": 57502,
+      "fontFamily": "CircleFlags",
+      "identifier": "etTi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "eu": {
+      "codepoint": 57503,
+      "fontFamily": "CircleFlags",
+      "identifier": "eu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "european-union": {
+      "codepoint": 57504,
+      "fontFamily": "CircleFlags",
+      "identifier": "europeanUnion",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ewe": {
+      "codepoint": 57505,
+      "fontFamily": "CircleFlags",
+      "identifier": "ewe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fa": {
+      "codepoint": 57506,
+      "fontFamily": "CircleFlags",
+      "identifier": "fa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fi": {
+      "codepoint": 57507,
+      "fontFamily": "CircleFlags",
+      "identifier": "fi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fil": {
+      "codepoint": 57508,
+      "fontFamily": "CircleFlags",
+      "identifier": "fil",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fj": {
+      "codepoint": 57509,
+      "fontFamily": "CircleFlags",
+      "identifier": "fj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fk": {
+      "codepoint": 57510,
+      "fontFamily": "CircleFlags",
+      "identifier": "fk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fm": {
+      "codepoint": 57511,
+      "fontFamily": "CircleFlags",
+      "identifier": "fm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fo": {
+      "codepoint": 57512,
+      "fontFamily": "CircleFlags",
+      "identifier": "fo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fr": {
+      "codepoint": 57513,
+      "fontFamily": "CircleFlags",
+      "identifier": "fr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fr-20r": {
+      "codepoint": 57514,
+      "fontFamily": "CircleFlags",
+      "identifier": "fr20r",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fr-bre": {
+      "codepoint": 57515,
+      "fontFamily": "CircleFlags",
+      "identifier": "frBre",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fr-cp": {
+      "codepoint": 57516,
+      "fontFamily": "CircleFlags",
+      "identifier": "frCp",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fr-h": {
+      "codepoint": 57517,
+      "fontFamily": "CircleFlags",
+      "identifier": "frH",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fx": {
+      "codepoint": 57518,
+      "fontFamily": "CircleFlags",
+      "identifier": "fx",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "fy": {
+      "codepoint": 57519,
+      "fontFamily": "CircleFlags",
+      "identifier": "fy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ga": {
+      "codepoint": 57520,
+      "fontFamily": "CircleFlags",
+      "identifier": "ga",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gb": {
+      "codepoint": 57521,
+      "fontFamily": "CircleFlags",
+      "identifier": "gb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gb-con": {
+      "codepoint": 57522,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbCon",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gb-eng": {
+      "codepoint": 57523,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbEng",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gb-nir": {
+      "codepoint": 57524,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbNir",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gb-ork": {
+      "codepoint": 57525,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbOrk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gb-sct": {
+      "codepoint": 57526,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbSct",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gb-wls": {
+      "codepoint": 57527,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbWls",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gd": {
+      "codepoint": 57528,
+      "fontFamily": "CircleFlags",
+      "identifier": "gd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ge": {
+      "codepoint": 57529,
+      "fontFamily": "CircleFlags",
+      "identifier": "ge",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ge-ab": {
+      "codepoint": 57530,
+      "fontFamily": "CircleFlags",
+      "identifier": "geAb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gf": {
+      "codepoint": 57531,
+      "fontFamily": "CircleFlags",
+      "identifier": "gf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gg": {
+      "codepoint": 57532,
+      "fontFamily": "CircleFlags",
+      "identifier": "gg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gh": {
+      "codepoint": 57533,
+      "fontFamily": "CircleFlags",
+      "identifier": "gh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gi": {
+      "codepoint": 57534,
+      "fontFamily": "CircleFlags",
+      "identifier": "gi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gl": {
+      "codepoint": 57535,
+      "fontFamily": "CircleFlags",
+      "identifier": "gl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gm": {
+      "codepoint": 57536,
+      "fontFamily": "CircleFlags",
+      "identifier": "gm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gn": {
+      "codepoint": 57537,
+      "fontFamily": "CircleFlags",
+      "identifier": "gn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gp": {
+      "codepoint": 57538,
+      "fontFamily": "CircleFlags",
+      "identifier": "gp",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gq": {
+      "codepoint": 57539,
+      "fontFamily": "CircleFlags",
+      "identifier": "gq",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gr": {
+      "codepoint": 57540,
+      "fontFamily": "CircleFlags",
+      "identifier": "gr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gs": {
+      "codepoint": 57541,
+      "fontFamily": "CircleFlags",
+      "identifier": "gs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gt": {
+      "codepoint": 57542,
+      "fontFamily": "CircleFlags",
+      "identifier": "gt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gu": {
+      "codepoint": 57543,
+      "fontFamily": "CircleFlags",
+      "identifier": "gu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "guarani": {
+      "codepoint": 57544,
+      "fontFamily": "CircleFlags",
+      "identifier": "guarani",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gv": {
+      "codepoint": 57545,
+      "fontFamily": "CircleFlags",
+      "identifier": "gv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gw": {
+      "codepoint": 57546,
+      "fontFamily": "CircleFlags",
+      "identifier": "gw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "gy": {
+      "codepoint": 57547,
+      "fontFamily": "CircleFlags",
+      "identifier": "gy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ha": {
+      "codepoint": 57548,
+      "fontFamily": "CircleFlags",
+      "identifier": "ha",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hausa": {
+      "codepoint": 57549,
+      "fontFamily": "CircleFlags",
+      "identifier": "hausa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "haw": {
+      "codepoint": 57550,
+      "fontFamily": "CircleFlags",
+      "identifier": "haw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "he": {
+      "codepoint": 57551,
+      "fontFamily": "CircleFlags",
+      "identifier": "he",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hi": {
+      "codepoint": 57552,
+      "fontFamily": "CircleFlags",
+      "identifier": "hi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hk": {
+      "codepoint": 57553,
+      "fontFamily": "CircleFlags",
+      "identifier": "hk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hm": {
+      "codepoint": 57554,
+      "fontFamily": "CircleFlags",
+      "identifier": "hm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hmn": {
+      "codepoint": 57555,
+      "fontFamily": "CircleFlags",
+      "identifier": "hmn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hmong": {
+      "codepoint": 57556,
+      "fontFamily": "CircleFlags",
+      "identifier": "hmong",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hn": {
+      "codepoint": 57557,
+      "fontFamily": "CircleFlags",
+      "identifier": "hn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ho": {
+      "codepoint": 57558,
+      "fontFamily": "CircleFlags",
+      "identifier": "ho",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hr": {
+      "codepoint": 57559,
+      "fontFamily": "CircleFlags",
+      "identifier": "hr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ht": {
+      "codepoint": 57560,
+      "fontFamily": "CircleFlags",
+      "identifier": "ht",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hu": {
+      "codepoint": 57561,
+      "fontFamily": "CircleFlags",
+      "identifier": "hu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "hy": {
+      "codepoint": 57562,
+      "fontFamily": "CircleFlags",
+      "identifier": "hy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ia": {
+      "codepoint": 57563,
+      "fontFamily": "CircleFlags",
+      "identifier": "ia",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ic": {
+      "codepoint": 57564,
+      "fontFamily": "CircleFlags",
+      "identifier": "ic",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "id": {
+      "codepoint": 57565,
+      "fontFamily": "CircleFlags",
+      "identifier": "id",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "id-jb": {
+      "codepoint": 57566,
+      "fontFamily": "CircleFlags",
+      "identifier": "idJb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "id-jt": {
+      "codepoint": 57567,
+      "fontFamily": "CircleFlags",
+      "identifier": "idJt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ie": {
+      "codepoint": 57568,
+      "fontFamily": "CircleFlags",
+      "identifier": "ie",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ig": {
+      "codepoint": 57569,
+      "fontFamily": "CircleFlags",
+      "identifier": "ig",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "il": {
+      "codepoint": 57570,
+      "fontFamily": "CircleFlags",
+      "identifier": "il",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ilo": {
+      "codepoint": 57571,
+      "fontFamily": "CircleFlags",
+      "identifier": "ilo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "im": {
+      "codepoint": 57572,
+      "fontFamily": "CircleFlags",
+      "identifier": "im",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "in": {
+      "codepoint": 57573,
+      "fontFamily": "CircleFlags",
+      "identifier": "in_",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "in-as": {
+      "codepoint": 57574,
+      "fontFamily": "CircleFlags",
+      "identifier": "inAs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "in-gj": {
+      "codepoint": 57575,
+      "fontFamily": "CircleFlags",
+      "identifier": "inGj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "in-ka": {
+      "codepoint": 57576,
+      "fontFamily": "CircleFlags",
+      "identifier": "inKa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "in-mn": {
+      "codepoint": 57577,
+      "fontFamily": "CircleFlags",
+      "identifier": "inMn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "in-mz": {
+      "codepoint": 57578,
+      "fontFamily": "CircleFlags",
+      "identifier": "inMz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "in-or": {
+      "codepoint": 57579,
+      "fontFamily": "CircleFlags",
+      "identifier": "inOr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "in-tg": {
+      "codepoint": 57580,
+      "fontFamily": "CircleFlags",
+      "identifier": "inTg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "in-tn": {
+      "codepoint": 57581,
+      "fontFamily": "CircleFlags",
+      "identifier": "inTn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "interslavic": {
+      "codepoint": 57582,
+      "fontFamily": "CircleFlags",
+      "identifier": "interslavic",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "io": {
+      "codepoint": 57583,
+      "fontFamily": "CircleFlags",
+      "identifier": "io",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "iq": {
+      "codepoint": 57584,
+      "fontFamily": "CircleFlags",
+      "identifier": "iq",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "iq-kr": {
+      "codepoint": 57585,
+      "fontFamily": "CircleFlags",
+      "identifier": "iqKr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ir": {
+      "codepoint": 57586,
+      "fontFamily": "CircleFlags",
+      "identifier": "ir",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "is": {
+      "codepoint": 57587,
+      "fontFamily": "CircleFlags",
+      "identifier": "is_",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it": {
+      "codepoint": 57588,
+      "fontFamily": "CircleFlags",
+      "identifier": "it",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
     "it-21": {
       "codepoint": 57344,
       "fontFamily": "CircleFlags",
       "identifier": "it21"
+    },
+    "it-23": {
+      "codepoint": 57589,
+      "fontFamily": "CircleFlags",
+      "identifier": "it23",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-25": {
+      "codepoint": 57590,
+      "fontFamily": "CircleFlags",
+      "identifier": "it25",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-32": {
+      "codepoint": 57591,
+      "fontFamily": "CircleFlags",
+      "identifier": "it32",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-34": {
+      "codepoint": 57592,
+      "fontFamily": "CircleFlags",
+      "identifier": "it34",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-36": {
+      "codepoint": 57593,
+      "fontFamily": "CircleFlags",
+      "identifier": "it36",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "it-42": {
       "codepoint": 57345,
       "fontFamily": "CircleFlags",
       "identifier": "it42"
     },
+    "it-45": {
+      "codepoint": 57594,
+      "fontFamily": "CircleFlags",
+      "identifier": "it45",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-52": {
+      "codepoint": 57595,
+      "fontFamily": "CircleFlags",
+      "identifier": "it52",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-55": {
+      "codepoint": 57596,
+      "fontFamily": "CircleFlags",
+      "identifier": "it55",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-57": {
+      "codepoint": 57597,
+      "fontFamily": "CircleFlags",
+      "identifier": "it57",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-62": {
+      "codepoint": 57598,
+      "fontFamily": "CircleFlags",
+      "identifier": "it62",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-65": {
+      "codepoint": 57599,
+      "fontFamily": "CircleFlags",
+      "identifier": "it65",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
     "it-67": {
       "codepoint": 57346,
       "fontFamily": "CircleFlags",
       "identifier": "it67"
+    },
+    "it-72": {
+      "codepoint": 57600,
+      "fontFamily": "CircleFlags",
+      "identifier": "it72",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-75": {
+      "codepoint": 57601,
+      "fontFamily": "CircleFlags",
+      "identifier": "it75",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-77": {
+      "codepoint": 57602,
+      "fontFamily": "CircleFlags",
+      "identifier": "it77",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-78": {
+      "codepoint": 57603,
+      "fontFamily": "CircleFlags",
+      "identifier": "it78",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-82": {
+      "codepoint": 57604,
+      "fontFamily": "CircleFlags",
+      "identifier": "it82",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "it-88": {
+      "codepoint": 57605,
+      "fontFamily": "CircleFlags",
+      "identifier": "it88",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "iw": {
+      "codepoint": 57606,
+      "fontFamily": "CircleFlags",
+      "identifier": "iw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ja": {
+      "codepoint": 57607,
+      "fontFamily": "CircleFlags",
+      "identifier": "ja",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "je": {
+      "codepoint": 57608,
+      "fontFamily": "CircleFlags",
+      "identifier": "je",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "jm": {
+      "codepoint": 57609,
+      "fontFamily": "CircleFlags",
+      "identifier": "jm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "jo": {
+      "codepoint": 57610,
+      "fontFamily": "CircleFlags",
+      "identifier": "jo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "jolly-roger": {
+      "codepoint": 57611,
+      "fontFamily": "CircleFlags",
+      "identifier": "jollyRoger",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "jp": {
+      "codepoint": 57612,
+      "fontFamily": "CircleFlags",
+      "identifier": "jp",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "jv": {
+      "codepoint": 57613,
+      "fontFamily": "CircleFlags",
+      "identifier": "jv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ka": {
+      "codepoint": 57614,
+      "fontFamily": "CircleFlags",
+      "identifier": "ka",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kannada": {
+      "codepoint": 57615,
+      "fontFamily": "CircleFlags",
+      "identifier": "kannada",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kanuri": {
+      "codepoint": 57616,
+      "fontFamily": "CircleFlags",
+      "identifier": "kanuri",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ke": {
+      "codepoint": 57617,
+      "fontFamily": "CircleFlags",
+      "identifier": "ke",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kg": {
+      "codepoint": 57618,
+      "fontFamily": "CircleFlags",
+      "identifier": "kg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kh": {
+      "codepoint": 57619,
+      "fontFamily": "CircleFlags",
+      "identifier": "kh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ki": {
+      "codepoint": 57620,
+      "fontFamily": "CircleFlags",
+      "identifier": "ki",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kikuyu": {
+      "codepoint": 57621,
+      "fontFamily": "CircleFlags",
+      "identifier": "kikuyu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kk": {
+      "codepoint": 57622,
+      "fontFamily": "CircleFlags",
+      "identifier": "kk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kl": {
+      "codepoint": 57623,
+      "fontFamily": "CircleFlags",
+      "identifier": "kl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "klingon": {
+      "codepoint": 57624,
+      "fontFamily": "CircleFlags",
+      "identifier": "klingon",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "km": {
+      "codepoint": 57625,
+      "fontFamily": "CircleFlags",
+      "identifier": "km",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kn": {
+      "codepoint": 57626,
+      "fontFamily": "CircleFlags",
+      "identifier": "kn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ko": {
+      "codepoint": 57627,
+      "fontFamily": "CircleFlags",
+      "identifier": "ko",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kongo": {
+      "codepoint": 57628,
+      "fontFamily": "CircleFlags",
+      "identifier": "kongo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kp": {
+      "codepoint": 57629,
+      "fontFamily": "CircleFlags",
+      "identifier": "kp",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kr": {
+      "codepoint": 57630,
+      "fontFamily": "CircleFlags",
+      "identifier": "kr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kri": {
+      "codepoint": 57631,
+      "fontFamily": "CircleFlags",
+      "identifier": "kri",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ks": {
+      "codepoint": 57632,
+      "fontFamily": "CircleFlags",
+      "identifier": "ks",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ku": {
+      "codepoint": 57633,
+      "fontFamily": "CircleFlags",
+      "identifier": "ku",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kurdistan": {
+      "codepoint": 57634,
+      "fontFamily": "CircleFlags",
+      "identifier": "kurdistan",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kv": {
+      "codepoint": 57635,
+      "fontFamily": "CircleFlags",
+      "identifier": "kv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kw": {
+      "codepoint": 57636,
+      "fontFamily": "CircleFlags",
+      "identifier": "kw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ky": {
+      "codepoint": 57637,
+      "fontFamily": "CircleFlags",
+      "identifier": "ky",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "kz": {
+      "codepoint": 57638,
+      "fontFamily": "CircleFlags",
+      "identifier": "kz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "la": {
+      "codepoint": 57639,
+      "fontFamily": "CircleFlags",
+      "identifier": "la",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-aa": {
+      "codepoint": 57640,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ab": {
+      "codepoint": 57641,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-af": {
+      "codepoint": 57642,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ak": {
+      "codepoint": 57643,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-am": {
+      "codepoint": 57644,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-an": {
+      "codepoint": 57645,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ar": {
+      "codepoint": 57646,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-as": {
+      "codepoint": 57647,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-av": {
+      "codepoint": 57648,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ay": {
+      "codepoint": 57649,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-az": {
+      "codepoint": 57650,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ba": {
+      "codepoint": 57651,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-be": {
+      "codepoint": 57652,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-bg": {
+      "codepoint": 57653,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-bi": {
+      "codepoint": 57654,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-bm": {
+      "codepoint": 57655,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-bn": {
+      "codepoint": 57656,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-bo": {
+      "codepoint": 57657,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-br": {
+      "codepoint": 57658,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-bs": {
+      "codepoint": 57659,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ca": {
+      "codepoint": 57660,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ce": {
+      "codepoint": 57661,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ceb": {
+      "codepoint": 57662,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCeb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ch": {
+      "codepoint": 57663,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-chm": {
+      "codepoint": 57664,
+      "fontFamily": "CircleFlags",
+      "identifier": "langChm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ckb": {
+      "codepoint": 57665,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCkb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-co": {
+      "codepoint": 57666,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-cs": {
+      "codepoint": 57667,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-cv": {
+      "codepoint": 57668,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-cy": {
+      "codepoint": 57669,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-da": {
+      "codepoint": 57670,
+      "fontFamily": "CircleFlags",
+      "identifier": "langDa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-de": {
+      "codepoint": 57671,
+      "fontFamily": "CircleFlags",
+      "identifier": "langDe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-dv": {
+      "codepoint": 57672,
+      "fontFamily": "CircleFlags",
+      "identifier": "langDv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-dz": {
+      "codepoint": 57673,
+      "fontFamily": "CircleFlags",
+      "identifier": "langDz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ee": {
+      "codepoint": 57674,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-el": {
+      "codepoint": 57675,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en": {
+      "codepoint": 57676,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-au": {
+      "codepoint": 57677,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnAu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-ca": {
+      "codepoint": 57678,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnCa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-gh": {
+      "codepoint": 57679,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnGh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-hk": {
+      "codepoint": 57680,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnHk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-ie": {
+      "codepoint": 57681,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnIe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-in": {
+      "codepoint": 57682,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnIn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-ke": {
+      "codepoint": 57683,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnKe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-ng": {
+      "codepoint": 57684,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnNg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-nz": {
+      "codepoint": 57685,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnNz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-ph": {
+      "codepoint": 57686,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnPh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-sg": {
+      "codepoint": 57687,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnSg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-tz": {
+      "codepoint": 57688,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnTz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-us": {
+      "codepoint": 57689,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnUs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-en-za": {
+      "codepoint": 57690,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnZa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-eo": {
+      "codepoint": 57691,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-es": {
+      "codepoint": 57692,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-es-mx": {
+      "codepoint": 57693,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEsMx",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-et": {
+      "codepoint": 57694,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-eu": {
+      "codepoint": 57695,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-fa": {
+      "codepoint": 57696,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-fi": {
+      "codepoint": 57697,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-fil": {
+      "codepoint": 57698,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFil",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-fj": {
+      "codepoint": 57699,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-fo": {
+      "codepoint": 57700,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-fr": {
+      "codepoint": 57701,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-fy": {
+      "codepoint": 57702,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ga": {
+      "codepoint": 57703,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-gd": {
+      "codepoint": 57704,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-gl": {
+      "codepoint": 57705,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-gn": {
+      "codepoint": 57706,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-gu": {
+      "codepoint": 57707,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-gv": {
+      "codepoint": 57708,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ha": {
+      "codepoint": 57709,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-haw": {
+      "codepoint": 57710,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHaw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-he": {
+      "codepoint": 57711,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-hi": {
+      "codepoint": 57712,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-hmn": {
+      "codepoint": 57713,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHmn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ho": {
+      "codepoint": 57714,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-hr": {
+      "codepoint": 57715,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ht": {
+      "codepoint": 57716,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-hu": {
+      "codepoint": 57717,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-hy": {
+      "codepoint": 57718,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ia": {
+      "codepoint": 57719,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-id": {
+      "codepoint": 57720,
+      "fontFamily": "CircleFlags",
+      "identifier": "langId",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ie": {
+      "codepoint": 57721,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ig": {
+      "codepoint": 57722,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ilo": {
+      "codepoint": 57723,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIlo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-interslavic": {
+      "codepoint": 57724,
+      "fontFamily": "CircleFlags",
+      "identifier": "langInterslavic",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-io": {
+      "codepoint": 57725,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-is": {
+      "codepoint": 57726,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-it": {
+      "codepoint": 57727,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ja": {
+      "codepoint": 57728,
+      "fontFamily": "CircleFlags",
+      "identifier": "langJa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-jv": {
+      "codepoint": 57729,
+      "fontFamily": "CircleFlags",
+      "identifier": "langJv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ka": {
+      "codepoint": 57730,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-kg": {
+      "codepoint": 57731,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ki": {
+      "codepoint": 57732,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-kk": {
+      "codepoint": 57733,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-kl": {
+      "codepoint": 57734,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-km": {
+      "codepoint": 57735,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-kn": {
+      "codepoint": 57736,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ko": {
+      "codepoint": 57737,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-kr": {
+      "codepoint": 57738,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-kri": {
+      "codepoint": 57739,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKri",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ks": {
+      "codepoint": 57740,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ku": {
+      "codepoint": 57741,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-kv": {
+      "codepoint": 57742,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-kw": {
+      "codepoint": 57743,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ky": {
+      "codepoint": 57744,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-la": {
+      "codepoint": 57745,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-lb": {
+      "codepoint": 57746,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-lg": {
+      "codepoint": 57747,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ln": {
+      "codepoint": 57748,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-lo": {
+      "codepoint": 57749,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-lt": {
+      "codepoint": 57750,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-lu": {
+      "codepoint": 57751,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-lus": {
+      "codepoint": 57752,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLus",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-lv": {
+      "codepoint": 57753,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-mg": {
+      "codepoint": 57754,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-mh": {
+      "codepoint": 57755,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-mi": {
+      "codepoint": 57756,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-mk": {
+      "codepoint": 57757,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ml": {
+      "codepoint": 57758,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-mn": {
+      "codepoint": 57759,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-mni": {
+      "codepoint": 57760,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMni",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-mr": {
+      "codepoint": 57761,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-mrj": {
+      "codepoint": 57762,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMrj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ms": {
+      "codepoint": 57763,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-mt": {
+      "codepoint": 57764,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-my": {
+      "codepoint": 57765,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-na": {
+      "codepoint": 57766,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-nb": {
+      "codepoint": 57767,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-nd": {
+      "codepoint": 57768,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ne": {
+      "codepoint": 57769,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-nl": {
+      "codepoint": 57770,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-nn": {
+      "codepoint": 57771,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-no": {
+      "codepoint": 57772,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-non": {
+      "codepoint": 57773,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNon",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-nr": {
+      "codepoint": 57774,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ny": {
+      "codepoint": 57775,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-oc": {
+      "codepoint": 57776,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-om": {
+      "codepoint": 57777,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-or": {
+      "codepoint": 57778,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-os": {
+      "codepoint": 57779,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-oto": {
+      "codepoint": 57780,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOto",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-pa": {
+      "codepoint": 57781,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-pap": {
+      "codepoint": 57782,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPap",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-pl": {
+      "codepoint": 57783,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "lang-pms": {
       "codepoint": 57347,
       "fontFamily": "CircleFlags",
       "identifier": "langPms"
     },
+    "lang-ps": {
+      "codepoint": 57784,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-pt": {
+      "codepoint": 57785,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-pt-br": {
+      "codepoint": 57786,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPtBr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-qu": {
+      "codepoint": 57787,
+      "fontFamily": "CircleFlags",
+      "identifier": "langQu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-rm": {
+      "codepoint": 57788,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-rn": {
+      "codepoint": 57789,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ro": {
+      "codepoint": 57790,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ru": {
+      "codepoint": 57791,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-rw": {
+      "codepoint": 57792,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sc": {
+      "codepoint": 57793,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sd": {
+      "codepoint": 57794,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-se": {
+      "codepoint": 57795,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sg": {
+      "codepoint": 57796,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-si": {
+      "codepoint": 57797,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sk": {
+      "codepoint": 57798,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sl": {
+      "codepoint": 57799,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sm": {
+      "codepoint": 57800,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sn": {
+      "codepoint": 57801,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-so": {
+      "codepoint": 57802,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sq": {
+      "codepoint": 57803,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSq",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sr": {
+      "codepoint": 57804,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ss": {
+      "codepoint": 57805,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-st": {
+      "codepoint": 57806,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-su": {
+      "codepoint": 57807,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sv": {
+      "codepoint": 57808,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-sw": {
+      "codepoint": 57809,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ta": {
+      "codepoint": 57810,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-te": {
+      "codepoint": 57811,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-tg": {
+      "codepoint": 57812,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-th": {
+      "codepoint": 57813,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ti": {
+      "codepoint": 57814,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-tk": {
+      "codepoint": 57815,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-tl": {
+      "codepoint": 57816,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-tn": {
+      "codepoint": 57817,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-to": {
+      "codepoint": 57818,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-tr": {
+      "codepoint": 57819,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-translingual": {
+      "codepoint": 57820,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTranslingual",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-tt": {
+      "codepoint": 57821,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ty": {
+      "codepoint": 57822,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-udm": {
+      "codepoint": 57823,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUdm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ug": {
+      "codepoint": 57824,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-uk": {
+      "codepoint": 57825,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-ur": {
+      "codepoint": 57826,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-uz": {
+      "codepoint": 57827,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-vi": {
+      "codepoint": 57828,
+      "fontFamily": "CircleFlags",
+      "identifier": "langVi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-vo": {
+      "codepoint": 57829,
+      "fontFamily": "CircleFlags",
+      "identifier": "langVo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-xh": {
+      "codepoint": 57830,
+      "fontFamily": "CircleFlags",
+      "identifier": "langXh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-xx": {
+      "codepoint": 57831,
+      "fontFamily": "CircleFlags",
+      "identifier": "langXx",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-yi": {
+      "codepoint": 57832,
+      "fontFamily": "CircleFlags",
+      "identifier": "langYi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-yo": {
+      "codepoint": 57833,
+      "fontFamily": "CircleFlags",
+      "identifier": "langYo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-yua": {
+      "codepoint": 57834,
+      "fontFamily": "CircleFlags",
+      "identifier": "langYua",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-zh": {
+      "codepoint": 57835,
+      "fontFamily": "CircleFlags",
+      "identifier": "langZh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lang-zu": {
+      "codepoint": 57836,
+      "fontFamily": "CircleFlags",
+      "identifier": "langZu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lb": {
+      "codepoint": 57837,
+      "fontFamily": "CircleFlags",
+      "identifier": "lb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lc": {
+      "codepoint": 57838,
+      "fontFamily": "CircleFlags",
+      "identifier": "lc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lg": {
+      "codepoint": 57839,
+      "fontFamily": "CircleFlags",
+      "identifier": "lg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lgbt": {
+      "codepoint": 57840,
+      "fontFamily": "CircleFlags",
+      "identifier": "lgbt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lgbt-progress": {
+      "codepoint": 57841,
+      "fontFamily": "CircleFlags",
+      "identifier": "lgbtProgress",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lgbt-transgender": {
+      "codepoint": 57842,
+      "fontFamily": "CircleFlags",
+      "identifier": "lgbtTransgender",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "li": {
+      "codepoint": 57843,
+      "fontFamily": "CircleFlags",
+      "identifier": "li",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lk": {
+      "codepoint": 57844,
+      "fontFamily": "CircleFlags",
+      "identifier": "lk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ln": {
+      "codepoint": 57845,
+      "fontFamily": "CircleFlags",
+      "identifier": "ln",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lo": {
+      "codepoint": 57846,
+      "fontFamily": "CircleFlags",
+      "identifier": "lo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lr": {
+      "codepoint": 57847,
+      "fontFamily": "CircleFlags",
+      "identifier": "lr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ls": {
+      "codepoint": 57848,
+      "fontFamily": "CircleFlags",
+      "identifier": "ls",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lt": {
+      "codepoint": 57849,
+      "fontFamily": "CircleFlags",
+      "identifier": "lt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lu": {
+      "codepoint": 57850,
+      "fontFamily": "CircleFlags",
+      "identifier": "lu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lus": {
+      "codepoint": 57851,
+      "fontFamily": "CircleFlags",
+      "identifier": "lus",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "lv": {
+      "codepoint": 57852,
+      "fontFamily": "CircleFlags",
+      "identifier": "lv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ly": {
+      "codepoint": 57853,
+      "fontFamily": "CircleFlags",
+      "identifier": "ly",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ma": {
+      "codepoint": 57854,
+      "fontFamily": "CircleFlags",
+      "identifier": "ma",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "malayali": {
+      "codepoint": 57855,
+      "fontFamily": "CircleFlags",
+      "identifier": "malayali",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "manipur": {
+      "codepoint": 57856,
+      "fontFamily": "CircleFlags",
+      "identifier": "manipur",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "maori": {
+      "codepoint": 57857,
+      "fontFamily": "CircleFlags",
+      "identifier": "maori",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mars": {
+      "codepoint": 57858,
+      "fontFamily": "CircleFlags",
+      "identifier": "mars",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mc": {
+      "codepoint": 57859,
+      "fontFamily": "CircleFlags",
+      "identifier": "mc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "md": {
+      "codepoint": 57860,
+      "fontFamily": "CircleFlags",
+      "identifier": "md",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "me": {
+      "codepoint": 57861,
+      "fontFamily": "CircleFlags",
+      "identifier": "me",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mf": {
+      "codepoint": 57862,
+      "fontFamily": "CircleFlags",
+      "identifier": "mf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mg": {
+      "codepoint": 57863,
+      "fontFamily": "CircleFlags",
+      "identifier": "mg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mh": {
+      "codepoint": 57864,
+      "fontFamily": "CircleFlags",
+      "identifier": "mh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mi": {
+      "codepoint": 57865,
+      "fontFamily": "CircleFlags",
+      "identifier": "mi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mizoram": {
+      "codepoint": 57866,
+      "fontFamily": "CircleFlags",
+      "identifier": "mizoram",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mk": {
+      "codepoint": 57867,
+      "fontFamily": "CircleFlags",
+      "identifier": "mk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ml": {
+      "codepoint": 57868,
+      "fontFamily": "CircleFlags",
+      "identifier": "ml",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mm": {
+      "codepoint": 57869,
+      "fontFamily": "CircleFlags",
+      "identifier": "mm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mn": {
+      "codepoint": 57870,
+      "fontFamily": "CircleFlags",
+      "identifier": "mn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mni": {
+      "codepoint": 57871,
+      "fontFamily": "CircleFlags",
+      "identifier": "mni",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mo": {
+      "codepoint": 57872,
+      "fontFamily": "CircleFlags",
+      "identifier": "mo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mp": {
+      "codepoint": 57873,
+      "fontFamily": "CircleFlags",
+      "identifier": "mp",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mq": {
+      "codepoint": 57874,
+      "fontFamily": "CircleFlags",
+      "identifier": "mq",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mq-old": {
+      "codepoint": 57875,
+      "fontFamily": "CircleFlags",
+      "identifier": "mqOld",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mr": {
+      "codepoint": 57876,
+      "fontFamily": "CircleFlags",
+      "identifier": "mr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mrj": {
+      "codepoint": 57877,
+      "fontFamily": "CircleFlags",
+      "identifier": "mrj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ms": {
+      "codepoint": 57878,
+      "fontFamily": "CircleFlags",
+      "identifier": "ms",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mt": {
+      "codepoint": 57879,
+      "fontFamily": "CircleFlags",
+      "identifier": "mt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mu": {
+      "codepoint": 57880,
+      "fontFamily": "CircleFlags",
+      "identifier": "mu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mv": {
+      "codepoint": 57881,
+      "fontFamily": "CircleFlags",
+      "identifier": "mv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mw": {
+      "codepoint": 57882,
+      "fontFamily": "CircleFlags",
+      "identifier": "mw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mx": {
+      "codepoint": 57883,
+      "fontFamily": "CircleFlags",
+      "identifier": "mx",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "my": {
+      "codepoint": 57884,
+      "fontFamily": "CircleFlags",
+      "identifier": "my",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "mz": {
+      "codepoint": 57885,
+      "fontFamily": "CircleFlags",
+      "identifier": "mz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "na": {
+      "codepoint": 57886,
+      "fontFamily": "CircleFlags",
+      "identifier": "na",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nato": {
+      "codepoint": 57887,
+      "fontFamily": "CircleFlags",
+      "identifier": "nato",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nb": {
+      "codepoint": 57888,
+      "fontFamily": "CircleFlags",
+      "identifier": "nb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nc": {
+      "codepoint": 57889,
+      "fontFamily": "CircleFlags",
+      "identifier": "nc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nd": {
+      "codepoint": 57890,
+      "fontFamily": "CircleFlags",
+      "identifier": "nd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ne": {
+      "codepoint": 57891,
+      "fontFamily": "CircleFlags",
+      "identifier": "ne",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nf": {
+      "codepoint": 57892,
+      "fontFamily": "CircleFlags",
+      "identifier": "nf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ng": {
+      "codepoint": 57893,
+      "fontFamily": "CircleFlags",
+      "identifier": "ng",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ni": {
+      "codepoint": 57894,
+      "fontFamily": "CircleFlags",
+      "identifier": "ni",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nl": {
+      "codepoint": 57895,
+      "fontFamily": "CircleFlags",
+      "identifier": "nl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nl-fr": {
+      "codepoint": 57896,
+      "fontFamily": "CircleFlags",
+      "identifier": "nlFr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nn": {
+      "codepoint": 57897,
+      "fontFamily": "CircleFlags",
+      "identifier": "nn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "no": {
+      "codepoint": 57898,
+      "fontFamily": "CircleFlags",
+      "identifier": "no",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "non": {
+      "codepoint": 57899,
+      "fontFamily": "CircleFlags",
+      "identifier": "non",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "northern-cyprus": {
+      "codepoint": 57900,
+      "fontFamily": "CircleFlags",
+      "identifier": "northernCyprus",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "np": {
+      "codepoint": 57901,
+      "fontFamily": "CircleFlags",
+      "identifier": "np",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nr": {
+      "codepoint": 57902,
+      "fontFamily": "CircleFlags",
+      "identifier": "nr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nu": {
+      "codepoint": 57903,
+      "fontFamily": "CircleFlags",
+      "identifier": "nu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ny": {
+      "codepoint": 57904,
+      "fontFamily": "CircleFlags",
+      "identifier": "ny",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "nz": {
+      "codepoint": 57905,
+      "fontFamily": "CircleFlags",
+      "identifier": "nz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "oc": {
+      "codepoint": 57906,
+      "fontFamily": "CircleFlags",
+      "identifier": "oc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "occitania": {
+      "codepoint": 57907,
+      "fontFamily": "CircleFlags",
+      "identifier": "occitania",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "olympics": {
+      "codepoint": 57908,
+      "fontFamily": "CircleFlags",
+      "identifier": "olympics",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "om": {
+      "codepoint": 57909,
+      "fontFamily": "CircleFlags",
+      "identifier": "om",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "or": {
+      "codepoint": 57910,
+      "fontFamily": "CircleFlags",
+      "identifier": "or",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "os": {
+      "codepoint": 57911,
+      "fontFamily": "CircleFlags",
+      "identifier": "os",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "oto": {
+      "codepoint": 57912,
+      "fontFamily": "CircleFlags",
+      "identifier": "oto",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "otomi": {
+      "codepoint": 57913,
+      "fontFamily": "CircleFlags",
+      "identifier": "otomi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pa": {
+      "codepoint": 57914,
+      "fontFamily": "CircleFlags",
+      "identifier": "pa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pap": {
+      "codepoint": 57915,
+      "fontFamily": "CircleFlags",
+      "identifier": "pap",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pe": {
+      "codepoint": 57916,
+      "fontFamily": "CircleFlags",
+      "identifier": "pe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pf": {
+      "codepoint": 57917,
+      "fontFamily": "CircleFlags",
+      "identifier": "pf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pg": {
+      "codepoint": 57918,
+      "fontFamily": "CircleFlags",
+      "identifier": "pg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ph": {
+      "codepoint": 57919,
+      "fontFamily": "CircleFlags",
+      "identifier": "ph",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pirate": {
+      "codepoint": 57920,
+      "fontFamily": "CircleFlags",
+      "identifier": "pirate",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pk": {
+      "codepoint": 57921,
+      "fontFamily": "CircleFlags",
+      "identifier": "pk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pk-jk": {
+      "codepoint": 57922,
+      "fontFamily": "CircleFlags",
+      "identifier": "pkJk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pk-sd": {
+      "codepoint": 57923,
+      "fontFamily": "CircleFlags",
+      "identifier": "pkSd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pl": {
+      "codepoint": 57924,
+      "fontFamily": "CircleFlags",
+      "identifier": "pl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pm": {
+      "codepoint": 57925,
+      "fontFamily": "CircleFlags",
+      "identifier": "pm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
     "pms": {
       "codepoint": 57348,
       "fontFamily": "CircleFlags",
       "identifier": "pms"
+    },
+    "pn": {
+      "codepoint": 57926,
+      "fontFamily": "CircleFlags",
+      "identifier": "pn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pr": {
+      "codepoint": 57927,
+      "fontFamily": "CircleFlags",
+      "identifier": "pr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ps": {
+      "codepoint": 57928,
+      "fontFamily": "CircleFlags",
+      "identifier": "ps",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pt": {
+      "codepoint": 57929,
+      "fontFamily": "CircleFlags",
+      "identifier": "pt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pt-20": {
+      "codepoint": 57930,
+      "fontFamily": "CircleFlags",
+      "identifier": "pt20",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pt-30": {
+      "codepoint": 57931,
+      "fontFamily": "CircleFlags",
+      "identifier": "pt30",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pt-br": {
+      "codepoint": 57932,
+      "fontFamily": "CircleFlags",
+      "identifier": "ptBr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "pw": {
+      "codepoint": 57933,
+      "fontFamily": "CircleFlags",
+      "identifier": "pw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "py": {
+      "codepoint": 57934,
+      "fontFamily": "CircleFlags",
+      "identifier": "py",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "qa": {
+      "codepoint": 57935,
+      "fontFamily": "CircleFlags",
+      "identifier": "qa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "qu": {
+      "codepoint": 57936,
+      "fontFamily": "CircleFlags",
+      "identifier": "qu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "quechua": {
+      "codepoint": 57937,
+      "fontFamily": "CircleFlags",
+      "identifier": "quechua",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "re": {
+      "codepoint": 57938,
+      "fontFamily": "CircleFlags",
+      "identifier": "re",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "rm": {
+      "codepoint": 57939,
+      "fontFamily": "CircleFlags",
+      "identifier": "rm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "rn": {
+      "codepoint": 57940,
+      "fontFamily": "CircleFlags",
+      "identifier": "rn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ro": {
+      "codepoint": 57941,
+      "fontFamily": "CircleFlags",
+      "identifier": "ro",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "rs": {
+      "codepoint": 57942,
+      "fontFamily": "CircleFlags",
+      "identifier": "rs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru": {
+      "codepoint": 57943,
+      "fontFamily": "CircleFlags",
+      "identifier": "ru",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru-ba": {
+      "codepoint": 57944,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruBa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru-ce": {
+      "codepoint": 57945,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruCe",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru-cu": {
+      "codepoint": 57946,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruCu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru-da": {
+      "codepoint": 57947,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruDa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru-dpr": {
+      "codepoint": 57948,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruDpr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru-ko": {
+      "codepoint": 57949,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruKo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru-lpr": {
+      "codepoint": 57950,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruLpr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru-ta": {
+      "codepoint": 57951,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruTa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ru-ud": {
+      "codepoint": 57952,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruUd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "rw": {
+      "codepoint": 57953,
+      "fontFamily": "CircleFlags",
+      "identifier": "rw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sa": {
+      "codepoint": 57954,
+      "fontFamily": "CircleFlags",
+      "identifier": "sa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sami": {
+      "codepoint": 57955,
+      "fontFamily": "CircleFlags",
+      "identifier": "sami",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sb": {
+      "codepoint": 57956,
+      "fontFamily": "CircleFlags",
+      "identifier": "sb",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sc": {
+      "codepoint": 57957,
+      "fontFamily": "CircleFlags",
+      "identifier": "sc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sd": {
+      "codepoint": 57958,
+      "fontFamily": "CircleFlags",
+      "identifier": "sd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "se": {
+      "codepoint": 57959,
+      "fontFamily": "CircleFlags",
+      "identifier": "se",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sg": {
+      "codepoint": 57960,
+      "fontFamily": "CircleFlags",
+      "identifier": "sg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sh": {
+      "codepoint": 57961,
+      "fontFamily": "CircleFlags",
+      "identifier": "sh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sh-ac": {
+      "codepoint": 57962,
+      "fontFamily": "CircleFlags",
+      "identifier": "shAc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sh-hl": {
+      "codepoint": 57963,
+      "fontFamily": "CircleFlags",
+      "identifier": "shHl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sh-ta": {
+      "codepoint": 57964,
+      "fontFamily": "CircleFlags",
+      "identifier": "shTa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "si": {
+      "codepoint": 57965,
+      "fontFamily": "CircleFlags",
+      "identifier": "si",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sindh": {
+      "codepoint": 57966,
+      "fontFamily": "CircleFlags",
+      "identifier": "sindh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sj": {
+      "codepoint": 57967,
+      "fontFamily": "CircleFlags",
+      "identifier": "sj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sk": {
+      "codepoint": 57968,
+      "fontFamily": "CircleFlags",
+      "identifier": "sk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sl": {
+      "codepoint": 57969,
+      "fontFamily": "CircleFlags",
+      "identifier": "sl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sm": {
+      "codepoint": 57970,
+      "fontFamily": "CircleFlags",
+      "identifier": "sm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sn": {
+      "codepoint": 57971,
+      "fontFamily": "CircleFlags",
+      "identifier": "sn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "so": {
+      "codepoint": 57972,
+      "fontFamily": "CircleFlags",
+      "identifier": "so",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "somaliland": {
+      "codepoint": 57973,
+      "fontFamily": "CircleFlags",
+      "identifier": "somaliland",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "south-ossetia": {
+      "codepoint": 57974,
+      "fontFamily": "CircleFlags",
+      "identifier": "southOssetia",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "soviet-union": {
+      "codepoint": 57975,
+      "fontFamily": "CircleFlags",
+      "identifier": "sovietUnion",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sq": {
+      "codepoint": 57976,
+      "fontFamily": "CircleFlags",
+      "identifier": "sq",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sr": {
+      "codepoint": 57977,
+      "fontFamily": "CircleFlags",
+      "identifier": "sr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ss": {
+      "codepoint": 57978,
+      "fontFamily": "CircleFlags",
+      "identifier": "ss",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "st": {
+      "codepoint": 57979,
+      "fontFamily": "CircleFlags",
+      "identifier": "st",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "su": {
+      "codepoint": 57980,
+      "fontFamily": "CircleFlags",
+      "identifier": "su",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sv": {
+      "codepoint": 57981,
+      "fontFamily": "CircleFlags",
+      "identifier": "sv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sw": {
+      "codepoint": 57982,
+      "fontFamily": "CircleFlags",
+      "identifier": "sw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sx": {
+      "codepoint": 57983,
+      "fontFamily": "CircleFlags",
+      "identifier": "sx",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sy": {
+      "codepoint": 57984,
+      "fontFamily": "CircleFlags",
+      "identifier": "sy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "sz": {
+      "codepoint": 57985,
+      "fontFamily": "CircleFlags",
+      "identifier": "sz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ta": {
+      "codepoint": 57986,
+      "fontFamily": "CircleFlags",
+      "identifier": "ta",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tc": {
+      "codepoint": 57987,
+      "fontFamily": "CircleFlags",
+      "identifier": "tc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "td": {
+      "codepoint": 57988,
+      "fontFamily": "CircleFlags",
+      "identifier": "td",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "te": {
+      "codepoint": 57989,
+      "fontFamily": "CircleFlags",
+      "identifier": "te",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tf": {
+      "codepoint": 57990,
+      "fontFamily": "CircleFlags",
+      "identifier": "tf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tg": {
+      "codepoint": 57991,
+      "fontFamily": "CircleFlags",
+      "identifier": "tg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "th": {
+      "codepoint": 57992,
+      "fontFamily": "CircleFlags",
+      "identifier": "th",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ti": {
+      "codepoint": 57993,
+      "fontFamily": "CircleFlags",
+      "identifier": "ti",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tibet": {
+      "codepoint": 57994,
+      "fontFamily": "CircleFlags",
+      "identifier": "tibet",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tj": {
+      "codepoint": 57995,
+      "fontFamily": "CircleFlags",
+      "identifier": "tj",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tk": {
+      "codepoint": 57996,
+      "fontFamily": "CircleFlags",
+      "identifier": "tk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tl": {
+      "codepoint": 57997,
+      "fontFamily": "CircleFlags",
+      "identifier": "tl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tm": {
+      "codepoint": 57998,
+      "fontFamily": "CircleFlags",
+      "identifier": "tm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tn": {
+      "codepoint": 57999,
+      "fontFamily": "CircleFlags",
+      "identifier": "tn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "to": {
+      "codepoint": 58000,
+      "fontFamily": "CircleFlags",
+      "identifier": "to",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "torres-strait-islands": {
+      "codepoint": 58001,
+      "fontFamily": "CircleFlags",
+      "identifier": "torresStraitIslands",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tr": {
+      "codepoint": 58002,
+      "fontFamily": "CircleFlags",
+      "identifier": "tr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "translingual": {
+      "codepoint": 58003,
+      "fontFamily": "CircleFlags",
+      "identifier": "translingual",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "transnistria": {
+      "codepoint": 58004,
+      "fontFamily": "CircleFlags",
+      "identifier": "transnistria",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tt": {
+      "codepoint": 58005,
+      "fontFamily": "CircleFlags",
+      "identifier": "tt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tv": {
+      "codepoint": 58006,
+      "fontFamily": "CircleFlags",
+      "identifier": "tv",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tw": {
+      "codepoint": 58007,
+      "fontFamily": "CircleFlags",
+      "identifier": "tw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ty": {
+      "codepoint": 58008,
+      "fontFamily": "CircleFlags",
+      "identifier": "ty",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tz": {
+      "codepoint": 58009,
+      "fontFamily": "CircleFlags",
+      "identifier": "tz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "tz-zanzibar": {
+      "codepoint": 58010,
+      "fontFamily": "CircleFlags",
+      "identifier": "tzZanzibar",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ua": {
+      "codepoint": 58011,
+      "fontFamily": "CircleFlags",
+      "identifier": "ua",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "udm": {
+      "codepoint": 58012,
+      "fontFamily": "CircleFlags",
+      "identifier": "udm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ug": {
+      "codepoint": 58013,
+      "fontFamily": "CircleFlags",
+      "identifier": "ug",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "uk": {
+      "codepoint": 58014,
+      "fontFamily": "CircleFlags",
+      "identifier": "uk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "um": {
+      "codepoint": 58015,
+      "fontFamily": "CircleFlags",
+      "identifier": "um",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "un": {
+      "codepoint": 58016,
+      "fontFamily": "CircleFlags",
+      "identifier": "un",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "united-nations": {
+      "codepoint": 58017,
+      "fontFamily": "CircleFlags",
+      "identifier": "unitedNations",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ur": {
+      "codepoint": 58018,
+      "fontFamily": "CircleFlags",
+      "identifier": "ur",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us": {
+      "codepoint": 58019,
+      "fontFamily": "CircleFlags",
+      "identifier": "us",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-ak": {
+      "codepoint": 58020,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-al": {
+      "codepoint": 58021,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-ar": {
+      "codepoint": 58022,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-as": {
+      "codepoint": 58023,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-az": {
+      "codepoint": 58024,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-betsy-ross": {
+      "codepoint": 58025,
+      "fontFamily": "CircleFlags",
+      "identifier": "usBetsyRoss",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-ca": {
+      "codepoint": 58026,
+      "fontFamily": "CircleFlags",
+      "identifier": "usCa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-co": {
+      "codepoint": 58027,
+      "fontFamily": "CircleFlags",
+      "identifier": "usCo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-confederate-battle": {
+      "codepoint": 58028,
+      "fontFamily": "CircleFlags",
+      "identifier": "usConfederateBattle",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-dc": {
+      "codepoint": 58029,
+      "fontFamily": "CircleFlags",
+      "identifier": "usDc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-fl": {
+      "codepoint": 58030,
+      "fontFamily": "CircleFlags",
+      "identifier": "usFl",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-ga": {
+      "codepoint": 58031,
+      "fontFamily": "CircleFlags",
+      "identifier": "usGa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-gu": {
+      "codepoint": 58032,
+      "fontFamily": "CircleFlags",
+      "identifier": "usGu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-hi": {
+      "codepoint": 58033,
+      "fontFamily": "CircleFlags",
+      "identifier": "usHi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-in": {
+      "codepoint": 58034,
+      "fontFamily": "CircleFlags",
+      "identifier": "usIn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-md": {
+      "codepoint": 58035,
+      "fontFamily": "CircleFlags",
+      "identifier": "usMd",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-mo": {
+      "codepoint": 58036,
+      "fontFamily": "CircleFlags",
+      "identifier": "usMo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-mp": {
+      "codepoint": 58037,
+      "fontFamily": "CircleFlags",
+      "identifier": "usMp",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-ms": {
+      "codepoint": 58038,
+      "fontFamily": "CircleFlags",
+      "identifier": "usMs",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-nc": {
+      "codepoint": 58039,
+      "fontFamily": "CircleFlags",
+      "identifier": "usNc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-nm": {
+      "codepoint": 58040,
+      "fontFamily": "CircleFlags",
+      "identifier": "usNm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-or": {
+      "codepoint": 58041,
+      "fontFamily": "CircleFlags",
+      "identifier": "usOr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-pr": {
+      "codepoint": 58042,
+      "fontFamily": "CircleFlags",
+      "identifier": "usPr",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-ri": {
+      "codepoint": 58043,
+      "fontFamily": "CircleFlags",
+      "identifier": "usRi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-sc": {
+      "codepoint": 58044,
+      "fontFamily": "CircleFlags",
+      "identifier": "usSc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-tn": {
+      "codepoint": 58045,
+      "fontFamily": "CircleFlags",
+      "identifier": "usTn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-tx": {
+      "codepoint": 58046,
+      "fontFamily": "CircleFlags",
+      "identifier": "usTx",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-um": {
+      "codepoint": 58047,
+      "fontFamily": "CircleFlags",
+      "identifier": "usUm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-vi": {
+      "codepoint": 58048,
+      "fontFamily": "CircleFlags",
+      "identifier": "usVi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-wa": {
+      "codepoint": 58049,
+      "fontFamily": "CircleFlags",
+      "identifier": "usWa",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-wi": {
+      "codepoint": 58050,
+      "fontFamily": "CircleFlags",
+      "identifier": "usWi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "us-wy": {
+      "codepoint": 58051,
+      "fontFamily": "CircleFlags",
+      "identifier": "usWy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "uy": {
+      "codepoint": 58052,
+      "fontFamily": "CircleFlags",
+      "identifier": "uy",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "uz": {
+      "codepoint": 58053,
+      "fontFamily": "CircleFlags",
+      "identifier": "uz",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "va": {
+      "codepoint": 58054,
+      "fontFamily": "CircleFlags",
+      "identifier": "va",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "vc": {
+      "codepoint": 58055,
+      "fontFamily": "CircleFlags",
+      "identifier": "vc",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ve": {
+      "codepoint": 58056,
+      "fontFamily": "CircleFlags",
+      "identifier": "ve",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "vg": {
+      "codepoint": 58057,
+      "fontFamily": "CircleFlags",
+      "identifier": "vg",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "vi": {
+      "codepoint": 58058,
+      "fontFamily": "CircleFlags",
+      "identifier": "vi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "vn": {
+      "codepoint": 58059,
+      "fontFamily": "CircleFlags",
+      "identifier": "vn",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "vo": {
+      "codepoint": 58060,
+      "fontFamily": "CircleFlags",
+      "identifier": "vo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "vu": {
+      "codepoint": 58061,
+      "fontFamily": "CircleFlags",
+      "identifier": "vu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "wf": {
+      "codepoint": 58062,
+      "fontFamily": "CircleFlags",
+      "identifier": "wf",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "wiphala": {
+      "codepoint": 58063,
+      "fontFamily": "CircleFlags",
+      "identifier": "wiphala",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ws": {
+      "codepoint": 58064,
+      "fontFamily": "CircleFlags",
+      "identifier": "ws",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "xh": {
+      "codepoint": 58065,
+      "fontFamily": "CircleFlags",
+      "identifier": "xh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "xk": {
+      "codepoint": 58066,
+      "fontFamily": "CircleFlags",
+      "identifier": "xk",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "xx": {
+      "codepoint": 58067,
+      "fontFamily": "CircleFlags",
+      "identifier": "xx",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "ye": {
+      "codepoint": 58068,
+      "fontFamily": "CircleFlags",
+      "identifier": "ye",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "yi": {
+      "codepoint": 58069,
+      "fontFamily": "CircleFlags",
+      "identifier": "yi",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "yiddish": {
+      "codepoint": 58070,
+      "fontFamily": "CircleFlags",
+      "identifier": "yiddish",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "yo": {
+      "codepoint": 58071,
+      "fontFamily": "CircleFlags",
+      "identifier": "yo",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "yorubaland": {
+      "codepoint": 58072,
+      "fontFamily": "CircleFlags",
+      "identifier": "yorubaland",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "yt": {
+      "codepoint": 58073,
+      "fontFamily": "CircleFlags",
+      "identifier": "yt",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "yu": {
+      "codepoint": 58074,
+      "fontFamily": "CircleFlags",
+      "identifier": "yu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "yua": {
+      "codepoint": 58075,
+      "fontFamily": "CircleFlags",
+      "identifier": "yua",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "za": {
+      "codepoint": 58076,
+      "fontFamily": "CircleFlags",
+      "identifier": "za",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "zh": {
+      "codepoint": 58077,
+      "fontFamily": "CircleFlags",
+      "identifier": "zh",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "zm": {
+      "codepoint": 58078,
+      "fontFamily": "CircleFlags",
+      "identifier": "zm",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "zu": {
+      "codepoint": 58079,
+      "fontFamily": "CircleFlags",
+      "identifier": "zu",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
+    },
+    "zw": {
+      "codepoint": 58080,
+      "fontFamily": "CircleFlags",
+      "identifier": "zw",
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     }
   }
 }

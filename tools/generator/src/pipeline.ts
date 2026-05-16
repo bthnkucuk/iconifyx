@@ -16,6 +16,7 @@ import {
 import { loadConfig, displayCategory, fontFamilyFromPrefix, dartFileNameFromPrefix } from './group_sets.ts';
 import { validateIconBody } from './glyph_validator.ts';
 import { strokeFillBatch } from './stroke_fill.ts';
+import { vtraceBatch } from './vtracer.ts';
 import {
   isDuotoneBody,
   splitDuotoneBody,
@@ -140,6 +141,20 @@ interface RasterFillAuditEntry {
    */
   maskPatternCount: number;
   maskPatternSamples: string[];
+  /**
+   * vtracer recovery stats — populated only for packs listed in
+   * `config.vtracerSets`. `vtraceConsidered` is the number of paint-
+   * order-risk candidates fed to vtracer; `vtraceRecovered` is the
+   * subset that vtracer split into ≥2 distinct colour layers and were
+   * re-emitted as paint-order duotone (`kind: paintOrder`).
+   * `vtraceFailed` covers the rest — monochrome traces, panics, or
+   * unparseable output — which still fall through to the existing
+   * paint-order drop. Surfaced in STROKE_AUDIT.md.
+   */
+  vtraceConsidered: number;
+  vtraceRecovered: number;
+  vtraceFailed: number;
+  vtraceRecoveredSamples: string[];
 }
 const rasterFillSignalCache = new Map<string, RasterFillAuditEntry>();
 
@@ -313,6 +328,10 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
       perIconTracedSamples: cached?.perIconTracedSamples ?? [],
       maskPatternCount: cached?.maskPatternCount ?? 0,
       maskPatternSamples: cached?.maskPatternSamples ?? [],
+      vtraceConsidered: cached?.vtraceConsidered ?? 0,
+      vtraceRecovered: cached?.vtraceRecovered ?? 0,
+      vtraceFailed: cached?.vtraceFailed ?? 0,
+      vtraceRecoveredSamples: cached?.vtraceRecoveredSamples ?? [],
     });
   }
   await writeStrokeAudit(auditEntries);
@@ -607,6 +626,60 @@ async function processOneSet(
     }
   }
 
+  // vtracer recovery (opt-in via `config.vtracerSets`). For packs that
+  // ship a lot of multi-colour bodies (twemoji, noto, fluent-emoji-flat,
+  // circle-flags, …) the paint-order drop below would otherwise leak
+  // ~thousands of icons per pack. vtracer rasterises each candidate and
+  // re-traces it into stacked colour layers; we reduce those to the top
+  // 2 by area and emit the icon as a duotone `(primary, secondary)` pair
+  // with `kind: paintOrder`. Successfully recovered icons are then
+  // EXCLUDED from the paint-order drop below — they've been converted
+  // into a renderable duotone form. Bodies that vtracer can't reduce to
+  // ≥2 layers, or whose worker panics, still fall through to the drop.
+  //
+  // The recovered icons feed the existing Secondary font pipeline via
+  // the same `secondaryByName` map the two-colour and mask-internal
+  // splitters use, so no further codegen changes are needed downstream.
+  let vtraceConsidered = 0;
+  let vtraceRecovered = 0;
+  let vtraceFailed = 0;
+  let vtraceRecoveredSamples: string[] = [];
+  const isVtracerSet = (config.vtracerSets ?? []).includes(prefix);
+  if (isVtracerSet) {
+    const candidates = allResolved.filter(
+      (r) => !duotoneNames.has(r.name) && isPaintOrderRiskBody(r.body)
+    );
+    if (candidates.length > 0) {
+      vtraceConsidered = candidates.length;
+      log.info(
+        `  "${prefix}": vtracer-eligible — ${candidates.length} paint-order candidate${candidates.length === 1 ? '' : 's'}`
+      );
+      const vt = await vtraceBatch(prefix, candidates);
+      vtraceRecovered = vt.recovered.length;
+      vtraceFailed =
+        vt.monochromeFailures.length +
+        vt.panicSkipped.length +
+        vt.otherFailures.length;
+      for (const rec of vt.recovered) {
+        // Primary body was mutated in-place by vtraceBatch; we just need
+        // to register the secondary and mark the icon as paint-order
+        // duotone so the rest of the pipeline routes it correctly.
+        secondaryByName.set(rec.icon.name, {
+          ...rec.icon,
+          body: rec.secondary,
+        });
+        duotoneNames.add(rec.icon.name);
+        duotoneKindByName.set(rec.icon.name, 'paintOrder');
+      }
+      vtraceRecoveredSamples = vt.recovered
+        .slice(0, 3)
+        .map((r) => r.icon.name);
+      log.info(
+        `  "${prefix}": vtracer recovered ${vtraceRecovered}/${candidates.length} (${vt.cacheHits} cached, ${vt.monochromeFailures.length} monochrome, ${vt.panicSkipped.length} panic, ${vt.otherFailures.length} other-fail)`
+      );
+    }
+  }
+
   // Paint-order detection. Sample AFTER stroke-fill — rasterize-trace
   // collapses every body to a single `fill="..."` path, so packs that went
   // through it correctly report a 0% paint-order ratio here even though
@@ -627,9 +700,10 @@ async function processOneSet(
   let paintOrderDropped = 0;
   const paintOrderDroppedNames = new Set<string>();
   for (const r of allResolved) {
-    // Icons split into duotone above (either via opacity or via 2-color
-    // split) already have their primary half normalised to a single fill —
-    // no need to drop them. Their secondary half is shipped separately.
+    // Icons split into duotone above (either via opacity, 2-color split,
+    // mask-internal split, OR vtracer multi-colour recovery) already have
+    // their primary half normalised to a single fill — no need to drop.
+    // Their secondary half is shipped separately via the Secondary font.
     if (duotoneNames.has(r.name)) continue;
     if (isPaintOrderRiskBody(r.body)) {
       paintOrderDroppedNames.add(r.name);
@@ -650,6 +724,10 @@ async function processOneSet(
     perIconTracedSamples: perIconTracedNames.slice(0, 3),
     maskPatternCount,
     maskPatternSamples: maskPatternNames,
+    vtraceConsidered,
+    vtraceRecovered,
+    vtraceFailed,
+    vtraceRecoveredSamples,
   });
 
   if (paintOrderDropped > 0) {

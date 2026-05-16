@@ -51,6 +51,16 @@ against `git log` to see what's landed.
 
 ## §1 — Vector tracing quality
 
+**Status: ✅ SHIPPED (2026-05-16). Phase 1 — opt-in via
+`config.vtracerSets`; `circle-flags` + `twemoji` ON by default
+(both at 100 % recovery: 732 + 3 861 = 4 593 icons newly
+ship-able). `fluent-emoji-flat` (~3 088 candidates) and `noto`
+(~4 020 candidates) are eligible but commented out pending visual
+QA — uncomment in `config.yaml: vtracerSets` to flip on.** See
+empirical-results sub-section below and
+`tools/generator/src/vtracer.ts` + `vtracer_worker.ts` for the
+implementation.
+
 **Verdict: Adopt `@neplex/vectorizer` (vtracer) for paint-order
 multi-colour drops. Hold Potrace for monochrome.**
 
@@ -89,6 +99,56 @@ inheritance (regex currently reads child only).
 linux). `oslllo-svg-fixer` can be DROPPED once vtracer lands.
 
 **Cost:** ~2 days. **Estimated icons recovered:** 10-14 k.
+
+### Empirical results (Phase 1, 2026-05-16)
+
+Shipped as `tools/generator/src/vtracer.ts` (orchestrator) +
+`vtracer_worker.ts` (subprocess + bisect-on-panic, mirrors
+`stroke_fill_worker.ts`). Cache lives at
+`.cache/vtrace/<prefix>/<wyhash16>.json`.
+
+| Pack | Live before | Live after | Δ | vtracer candidates | Recovered | % | Comment |
+|---|---:|---:|---:|---:|---:|---:|---|
+| `circle-flags` | 5 | **737** | **+732** | 732 | 732 | **100 %** | flag silhouettes → BG circle + accent path; 200 s cache-cold |
+| `twemoji` | 715 | **4 576** | **+3 861** | 3 861 | 3 861 | **100 %** | emoji families; 1 094 s cache-cold (~270 ms/icon); 152 validator drops (alien-monster, etc.) |
+| `fluent-emoji-flat` | ? | ? | ? | ~3 088 | _pending_ | _pending_ | opt-in via config — cache-cold cost ~15 min |
+| `noto` | ? | ? | ? | ~4 020 | _pending_ | _pending_ | gradient-heavy; expect lower recovery |
+
+**Phase 1 total recovered to date: 4 593 icons across two packs**
+(circle-flags 732 + twemoji 3 861). Each ships as a paint-order
+duotone with primary in the regular font, secondary in
+`<Family>Secondary.ttf`.
+
+Per-icon trace cost on M-series: ~270 ms cache-miss
+(rasterise via `@resvg/resvg-js` at 256 × 256 + vtracer
+spline mode). Single subprocess per pack; worker bisects
+on resvg/vtracer panic same as stroke-fill. Determinism
+preserved via pinned VTRACER_CONFIG (colorPrecision=6,
+filterSpeckle=6, layerDifference=24, mode=Spline).
+
+**Codepoint stability**: recovered icons get codepoints via the
+existing allocator path — they're routed through `secondaryByName`
+with `duotoneKind: 'paintOrder'`, indistinguishable from a two-
+colour split downstream. The existing §32 sibling-merge step adds
+supp PUA slots if any pack newly crosses the 6 000-icon BMP cap.
+
+`@neplex/vectorizer` 0.0.5 ships prebuilt darwin-arm64/-x64 and
+linux-x64/-arm64 native bindings; no Rust toolchain on user or CI.
+The const-enum identifiers in the package's `.d.ts` conflict with
+`verbatimModuleSyntax`; worker mirrors the literal values
+(documented inline; values are stable vtracer public API since
+v0.6).
+
+### Open questions (Phase 2)
+
+- Visual diff per pack to confirm recovery quality (visual-diff
+  CLI on 50 sampled icons per opted-in pack).
+- Per-pack `vtracerSets` tuning: noto's gradient layers may need
+  different `filterSpeckle` / `layerDifference`.
+- Should `noto-v1:hot-beverage` / `noto-v1:lady-beetle` (the two
+  known stroke-fill panic icons — see CLAUDE.md §5a-bis) also try
+  vtracer recovery? Currently they're skipped at the stroke-fill
+  stage before reaching the vtracer dispatch.
 
 ---
 
@@ -1731,7 +1791,7 @@ trace, vtracer multi-colour recovery ~10-14 k icons).**
 | Crate | Verdict | Replaces / unlocks | Δ | Cost |
 |---|---|---|---:|---:|
 | **`resvg` + `usvg`** (Linebender, Apache/MIT, v0.47) | **High ROI** | Direct in-process rasterize; eliminates node-canvas/oslllo JS shim + IPC roundtrip | 30-50 s warm | 16-24 h |
-| **`vtracer`** (visioncortex, MIT) | **High ROI** | Multi-colour trace; recovers ~10-14 k currently-dropped paint-order emoji/flag icons (§1) | new capability + ~3 min cache-miss | 8-12 h |
+| **`vtracer`** (visioncortex, MIT) | **✅ SHIPPED 2026-05-16** via `@neplex/vectorizer` 0.0.5 — pre-built native bindings on darwin/linux, no Rust toolchain. See §1 empirical-results sub-section. circle-flags pilot: 732/732 recovered (100 %). | new capability + ~270 ms / icon cache-miss | 8-12 h |
 | **`tiny-skia`** (Linebender, BSD-3) | **High ROI** | CPU rasterize for visual-diff audit; 340 k glyphs @ 64×64 in ~5-8 s vs ~75 s TS | 70+ s | 4-6 h |
 | **`fontations`** (`skrifa` + `read-fonts`, Google) | **High ROI** | `font_verify.ts` replacement + true-render empty-glyph check (catches what fontkit can't) | 3-7 s | 8-12 h |
 | **`harfbuzz_rs`** | **Medium** | Native shaping; ~10× WASM `harfbuzzjs` (§8) | 28 s | 6 h |

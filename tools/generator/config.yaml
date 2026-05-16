@@ -100,6 +100,40 @@ multiWeightStrokeSets:
 colorMappedSets:
   - catppuccin
 
+# Iconify packs whose paint-order-dropped icons (multi-fill bodies that
+# would render as featureless monochrome blobs in a flat TTF) should be
+# recovered via the vtracer pipeline. For each listed prefix the
+# generator rasterises every paint-order-drop candidate, runs
+# `@neplex/vectorizer` in stacked-colour mode, reduces the resulting
+# layered SVG to a top-2 (background + foreground) duotone, and emits
+# the icon as `IconifyIconData.duo(p, s, kind: kindPaintOrder)` — the
+# same path the two-colour `trySplitTwoColorBody` produces for logos.
+#
+# Opt-in because vtracer first-run is slow (~80-200 ms / icon); output
+# is cached at `tools/generator/.cache/vtrace/<prefix>/<sha>.json` so
+# warm regens read from disk in microseconds.
+#
+# Target packs (estimated recovery vs current drops):
+#   - twemoji            (~4500 drops → ~3000 recoverable estimate)
+#   - noto               (~3800 → ~2500; gradient bodies stay dropped)
+#   - fluent-emoji-flat  (~3174 → ~2000)
+#   - circle-flags       (~737 → ~600 silhouettes)
+#
+# Bodies that vtracer can't reduce to ≥2 distinct layers, or whose
+# trace worker panics, still fall through to the existing paint-order
+# drop path. See tools/generator/src/vtracer.ts + vtracer_worker.ts.
+# Phase 1 opt-in list. `circle-flags` and `twemoji` are proven at
+# 100 % recovery on first-cache-cold run (732 / 732 and 3 861 / 3 861
+# respectively, see docs/RESEARCH_PLAN.md §1 empirical-results table).
+# `fluent-emoji-flat` and `noto` are eligible (~3 088 / ~4 020
+# candidates each) but pending visual review of a recovered sample
+# — uncomment them when ready to regenerate.
+vtracerSets:
+  - circle-flags
+  - twemoji
+#   - fluent-emoji-flat
+#   - noto
+
 # Pretty names for Iconify category strings (example app drawer headers).
 displayCategoryAliases:
   "UI 24px": "UI · 24px Grid"

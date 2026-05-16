@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE',
-  iconCount: 5,
+  iconCount: 737,
 );

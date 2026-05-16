@@ -57,6 +57,19 @@ export interface AuditEntry {
   maskPatternCount: number;
   /** Up to 3 sample names of mask-pattern icons in this pack. */
   maskPatternSamples: string[];
+  /**
+   * vtracer recovery stats — populated only for packs listed in
+   * `config.vtracerSets`. `vtraceConsidered` is the number of paint-
+   * order-risk bodies fed to vtracer; `vtraceRecovered` is how many
+   * came back with ≥2 distinct colour layers and were re-emitted as
+   * paint-order duotone; `vtraceFailed` is the rest (monochrome
+   * traces, panics, other failures) which still get the paint-order
+   * drop. Surfaced in STROKE_AUDIT.md under the dedicated section.
+   */
+  vtraceConsidered: number;
+  vtraceRecovered: number;
+  vtraceFailed: number;
+  vtraceRecoveredSamples: string[];
 }
 
 /**
@@ -133,6 +146,15 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
   lines.push(
     `- **Icons proactively dropped this run for paint-order risk:** ${totalPaintOrderDropped.toLocaleString('en-US')}`
   );
+  const totalVtraceRecoveredTop = rows.reduce(
+    (s, r) => s + r.vtraceRecovered,
+    0
+  );
+  if (totalVtraceRecoveredTop > 0) {
+    lines.push(
+      `- **Icons recovered this run via vtracer (paint-order → duotone):** ${totalVtraceRecoveredTop.toLocaleString('en-US')}`
+    );
+  }
   if (totalMissed > 0) {
     lines.push('');
     lines.push(
@@ -302,6 +324,72 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
         : '—';
       lines.push(
         `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.maskPatternCount.toLocaleString('en-US')} | ${pct} | ${samples} |`
+      );
+    }
+  }
+  lines.push('');
+
+  // vtracer recovery section. Packs listed in `config.vtracerSets`
+  // route their paint-order-dropped candidates through vtracer
+  // (`@neplex/vectorizer`); successful traces are re-emitted as
+  // paint-order duotone via the existing Secondary font path.
+  const vtraceRows = [...rows]
+    .filter((r) => r.vtraceConsidered > 0)
+    .sort((a, b) => b.vtraceRecovered - a.vtraceRecovered);
+  const totalVtraceConsidered = rows.reduce(
+    (s, r) => s + r.vtraceConsidered,
+    0
+  );
+  const totalVtraceRecovered = rows.reduce(
+    (s, r) => s + r.vtraceRecovered,
+    0
+  );
+  const totalVtraceFailed = rows.reduce((s, r) => s + r.vtraceFailed, 0);
+  lines.push('## vtracer recovery (multi-colour → duotone)');
+  lines.push('');
+  lines.push(
+    'Packs opted into `config.vtracerSets` (e.g. `twemoji`, `noto`, ' +
+      '`fluent-emoji-flat`, `circle-flags`) route their paint-order-risk ' +
+      'candidates through `@neplex/vectorizer` (visioncortex vtracer): ' +
+      'rasterise the source via `@resvg/resvg-js`, trace into stacked colour ' +
+      'layers, reduce to the top-2 by polygon area, and re-emit as a paint-' +
+      'order duotone primary+secondary pair (`kind: paintOrder`). The recovered ' +
+      'icons render through the same widget composition logos use. Bodies ' +
+      'vtracer can\'t reduce to ≥2 distinct layers, plus any worker panics, ' +
+      'still fall through to the paint-order drop.'
+  );
+  lines.push('');
+  lines.push(
+    `- **Total vtracer candidates this run:** ${totalVtraceConsidered.toLocaleString('en-US')}`
+  );
+  lines.push(
+    `- **Recovered as paint-order duotone:** ${totalVtraceRecovered.toLocaleString('en-US')}` +
+      (totalVtraceConsidered > 0
+        ? ` (${((totalVtraceRecovered / totalVtraceConsidered) * 100).toFixed(0)}%)`
+        : '')
+  );
+  lines.push(
+    `- **Still dropped (monochrome trace / panic / other-fail):** ${totalVtraceFailed.toLocaleString('en-US')}`
+  );
+  lines.push('');
+  if (vtraceRows.length === 0) {
+    lines.push(
+      '_No packs opted in this run. Add a prefix to `vtracerSets` in `tools/generator/config.yaml`._'
+    );
+  } else {
+    lines.push('| Set | Prefix | Considered | Recovered | Failed | Recovery % | Spot-check |');
+    lines.push('|---|---|---:|---:|---:|---:|---|');
+    for (const r of vtraceRows) {
+      const pct =
+        r.vtraceConsidered > 0
+          ? ((r.vtraceRecovered / r.vtraceConsidered) * 100).toFixed(0) + '%'
+          : '—';
+      const samples =
+        r.vtraceRecoveredSamples.length > 0
+          ? r.vtraceRecoveredSamples.map((n) => `\`${n}\``).join(', ')
+          : '—';
+      lines.push(
+        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.vtraceConsidered.toLocaleString('en-US')} | ${r.vtraceRecovered.toLocaleString('en-US')} | ${r.vtraceFailed.toLocaleString('en-US')} | ${pct} | ${samples} |`
       );
     }
   }
