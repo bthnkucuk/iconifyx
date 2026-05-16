@@ -60,6 +60,19 @@ const COMMANDS: Record<string, AuditCommand> = {
       });
     },
   },
+  'codepoint-exhaustion': {
+    description:
+      '§16 A4 codepoint exhaustion forecast — per-font live/reserved counts vs the BMP PUA soft cap (6,000 / 6,400 slots), plus supp-PUA tier usage and headroom percentage. Warns when a font is < 10% from triggering a sibling split. Read-only — emits docs/audit/codepoint-exhaustion/*.json + CODEPOINT_EXHAUSTION.md.',
+    run: async (args) => {
+      const flags = parseSharedFlags(args);
+      const { runCodepointExhaustionAudit } = await import(
+        './audit/codepoint_exhaustion.ts'
+      );
+      await runCodepointExhaustionAudit({
+        prefixes: flags.prefixes,
+      });
+    },
+  },
 };
 
 function parseSharedFlags(args: string[]): { prefixes?: Set<string> } {
