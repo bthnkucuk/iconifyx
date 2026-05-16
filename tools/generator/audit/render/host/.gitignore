@@ -5,3 +5,5 @@
 build/
 pubspec.lock
 .deps.cache
+.render-lock
+tmp/

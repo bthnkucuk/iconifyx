@@ -19,8 +19,8 @@ dependencies:
     sdk: flutter
   iconifyx_core:
     path: ../../../../../packages/iconifyx_core
-  iconifyx_solar:
-    path: ../../../../../packages/iconifyx_solar
+  iconifyx_lets_icons:
+    path: ../../../../../packages/iconifyx_lets_icons
 # RENDER_HOST_DEPS_END
 
 dev_dependencies:

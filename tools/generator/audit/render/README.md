@@ -110,6 +110,43 @@ we need sub-2s repeated calls.
 - **No display state to flake.** No window, no screenshot APIs, no
   hardware decoder — pure Skia + raw bytes.
 
+### Three landmines we hit and pinned down
+
+These are the bugs that turned this from a 90-min sketch into a
+half-day hunt. Captured here so the next person doesn't pay them again:
+
+1. **`File.writeAsBytes` MUST live inside `tester.runAsync(...)`** — same
+   for `RepaintBoundary.toImage` and `Image.toByteData`. Outside
+   runAsync the test isolate's fake_async clock holds dart:io
+   microtasks, so the bytes get computed but the write hangs forever
+   until flutter_test SIGTERMs the tester (~3 min of looking like
+   "still running"). Confirmed by stage-printing each `await`: the
+   final `await File.writeAsBytes` was the one that hung.
+2. **`flutter test` runs with `--use-test-fonts --disable-asset-fonts`**
+   by default, so dep-declared fonts in per-set packages' pubspecs
+   never load. We sidestep by reading TTFs off disk via `dart:io File`
+   inside the test and registering them with `FontLoader`. We register
+   both the bare family AND the engine's package-prefixed lookup key
+   (`packages/<pkg>/<family>`) because `TextStyle(fontFamily, package:)`
+   resolves to the prefixed form.
+3. **The viewport is 800×600 by default** — without resizing it, the
+   `RepaintBoundary` captures the full viewport (not just the icon)
+   and you get a 1600×1200 PNG with the icon centred in a sea of
+   background. Setting `tester.view.physicalSize = Size(size, size)`
+   + `devicePixelRatio = 1.0` makes the boundary exactly `size × size`,
+   then `toImage(pixelRatio: N)` scales as expected.
+
+### Canonical test file + concurrent-agent safety
+
+`render-icon.ts` syncs the canonical `render_icon_test.dart`
+(next to the CLI) into `host/test/` on every invocation. The harness
+gets used in parallel by multiple agents and CI jobs, and external
+tools have been seen to revert the host's test file to an older
+version that omits the runAsync fix (landmine #1) — every render
+after that point would hang for ~3 minutes. Re-syncing from the
+canonical source on every call costs nothing and removes the failure
+mode.
+
 ### What it does NOT do (v1)
 
 - **No persistent process.** Each invocation pays a ~5–10 s
@@ -144,12 +181,14 @@ we need sub-2s repeated calls.
 
 ```
 tools/generator/audit/render/
-├── render-icon.ts                 # Bun CLI wrapper (this file's entry point)
+├── render-icon.ts                 # Bun CLI wrapper (entry point)
+├── render_icon_test.dart          # CANONICAL Dart test (auto-synced into host/test/)
+├── refresh-samples.ts             # regenerate docs/audit/render-samples/*.png
 ├── README.md                      # this file
-└── host/                          # Flutter test project
+└── host/                          # Flutter test project (single, shared)
     ├── pubspec.yaml               # rewritten per-call (RENDER_HOST_DEPS_START fence)
     ├── lib/render_host.dart       # placeholder so pub get is happy
-    ├── test/render_icon_test.dart # the actual `testWidgets` that paints
+    ├── test/render_icon_test.dart # synced from ../render_icon_test.dart
     └── tmp/                       # staging output dir (PNG lands here first)
 ```
 

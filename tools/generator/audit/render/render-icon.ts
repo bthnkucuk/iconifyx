@@ -240,7 +240,28 @@ async function resolveIcon(iconRef: string): Promise<ResolvedIcon> {
 const DEPS_START = '# RENDER_HOST_DEPS_START';
 const DEPS_END = '# RENDER_HOST_DEPS_END';
 
+/**
+ * Sync the canonical test file (next to this CLI) into HOST_DIR/test
+ * on every invocation. External tools have been seen to revert it to
+ * an older version that omits the `tester.runAsync` wrapper around
+ * File.writeAsBytes — that flavour hangs flutter_tester ~3 minutes
+ * before SIGTERM. Re-syncing from the canonical source is cheap and
+ * keeps the harness robust.
+ */
+async function syncTestFile(): Promise<void> {
+  const sharedTest = join(HARNESS_DIR, 'render_icon_test.dart');
+  if (!existsSync(sharedTest)) return; // no canonical source — leave host as-is
+  const hostTest = join(HOST_DIR, 'test', 'render_icon_test.dart');
+  await mkdir(dirname(hostTest), { recursive: true });
+  const wanted = await readFile(sharedTest, 'utf8');
+  const have = existsSync(hostTest) ? await readFile(hostTest, 'utf8') : '';
+  if (have !== wanted) {
+    await writeFile(hostTest, wanted, 'utf8');
+  }
+}
+
 async function ensurePubspecForPack(packageName: string, verbose: boolean): Promise<void> {
+  await syncTestFile();
   const pubspecPath = join(HOST_DIR, 'pubspec.yaml');
   const current = await readFile(pubspecPath, 'utf8');
   const startIdx = current.indexOf(DEPS_START);
