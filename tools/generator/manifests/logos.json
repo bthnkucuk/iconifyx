@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "prefix": "logos",
-  "iconifyJsonVersion": "2.2.473",
+  "iconifyJsonVersion": "2.2.472",
   "lastUpdated": "2026-05-16",
   "category": "Logos",
   "subPackage": "iconifyx_logos",
@@ -16,18 +16,18 @@
       "spdx": "CC0-1.0",
       "url": "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt"
     },
-    "total": 936
+    "total": 930
   },
   "fonts": [
     {
       "family": "Logos",
-      "nextCodepoint": 59053,
-      "iconCount": 936
+      "nextCodepoint": 58281,
+      "iconCount": 928
     },
     {
       "family": "LogosSecondary",
-      "nextCodepoint": 59053,
-      "iconCount": 379
+      "nextCodepoint": 58281,
+      "iconCount": 378
     }
   ],
   "icons": {
@@ -1108,9 +1108,7 @@
     "copyleft-pirate": {
       "codepoint": 57525,
       "fontFamily": "Logos",
-      "identifier": "copyleftPirate",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "identifier": "copyleftPirate"
     },
     "corda": {
       "codepoint": 57526,
@@ -2970,34 +2968,6 @@
       "fontFamily": "Logos",
       "identifier": "materialUi"
     },
-    "materializecss": {
-      "codepoint": 59051,
-      "fontFamily": "Logos",
-      "identifier": "materializecss",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
-    },
-    "matomo": {
-      "codepoint": 58591,
-      "fontFamily": "Logos",
-      "identifier": "matomo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "matomo-icon": {
-      "codepoint": 58592,
-      "fontFamily": "Logos",
-      "identifier": "matomoIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "matplotlib-icon": {
-      "codepoint": 58593,
-      "fontFamily": "Logos",
-      "identifier": "matplotlibIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "matter": {
       "codepoint": 57846,
       "fontFamily": "Logos",
@@ -3318,13 +3288,6 @@
       "codepoint": 57901,
       "fontFamily": "Logos",
       "identifier": "myth"
-    },
-    "naiveui": {
-      "codepoint": 59052,
-      "fontFamily": "Logos",
-      "identifier": "naiveui",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
     },
     "nanonets": {
       "codepoint": 57902,
@@ -4378,8 +4341,8 @@
       "codepoint": 58085,
       "fontFamily": "Logos",
       "identifier": "sherlockIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "duotone": true,
+      "duotoneKind": "paintOrder"
     },
     "shields": {
       "codepoint": 58086,
@@ -5409,9 +5372,7 @@
     "yaml": {
       "codepoint": 58262,
       "fontFamily": "Logos",
-      "identifier": "yaml",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "identifier": "yaml"
     },
     "yandex-ru": {
       "codepoint": 58263,

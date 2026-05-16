@@ -1,5 +1,5 @@
 // GENERATED FILE — do not edit.
-// Source: @iconify/json v2.2.473, set "material-icon-theme"
+// Source: @iconify/json v2.2.472, set "material-icon-theme"
 // Regenerate via `bun run generate --set material-icon-theme`.
 
 import 'package:flutter/widgets.dart';
@@ -9,9 +9,9 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Material Extensions
 /// License: MIT — https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE
-/// Icons: 790 (split across 2 fonts)
+/// Icons: 775 (split across 2 fonts)
 ///
-/// Generated from @iconify/json v2.2.473.
+/// Generated from @iconify/json v2.2.472.
 @staticIconProvider
 class MaterialIconThemeIcons {
   const MaterialIconThemeIcons._();
@@ -48,11 +48,6 @@ class MaterialIconThemeIcons {
   /// `adonis`
   static const IconifyIconData adonis = IconifyIconData.solo(
     IconData(0xe005, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `advpl`
-  static const IconifyIconData advpl = IconifyIconData.solo(
-    IconData(0xe318, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `android`
@@ -263,11 +258,6 @@ class MaterialIconThemeIcons {
     IconData(0xe02e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `contentlayer`
-  static const IconifyIconData contentlayer = IconifyIconData.solo(
-    IconData(0xe319, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `contributing`
   static const IconifyIconData contributing = IconifyIconData.solo(
     IconData(0xe02f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -301,11 +291,6 @@ class MaterialIconThemeIcons {
   /// `cursor`
   static const IconifyIconData cursor = IconifyIconData.solo(
     IconData(0xe035, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `cursor-light`
-  static const IconifyIconData cursorLight = IconifyIconData.solo(
-    IconData(0xe31a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `cypress`
@@ -678,90 +663,8 @@ class MaterialIconThemeIcons {
     IconData(0xe077, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `folder-features` (paint-order duotone)
-  static const IconifyIconData folderFeatures = IconifyIconData.duo(
-    IconData(0xe1fa, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fa, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-features-open` (paint-order duotone)
-  static const IconifyIconData folderFeaturesOpen = IconifyIconData.duo(
-    IconData(0xe1fb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fb, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-filter` (paint-order duotone)
-  static const IconifyIconData folderFilter = IconifyIconData.duo(
-    IconData(0xe1fc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fc, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-filter-open` (paint-order duotone)
-  static const IconifyIconData folderFilterOpen = IconifyIconData.duo(
-    IconData(0xe1fd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fd, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-firebase` (paint-order duotone)
-  static const IconifyIconData folderFirebase = IconifyIconData.duo(
-    IconData(0xe1fe, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1fe, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-firebase-open` (paint-order duotone)
-  static const IconifyIconData folderFirebaseOpen = IconifyIconData.duo(
-    IconData(0xe1ff, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe1ff, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-firestore` (paint-order duotone)
-  static const IconifyIconData folderFirestore = IconifyIconData.duo(
-    IconData(0xe200, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe200, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-firestore-open` (paint-order duotone)
-  static const IconifyIconData folderFirestoreOpen = IconifyIconData.duo(
-    IconData(0xe201, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe201, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-flutter` (paint-order duotone)
-  static const IconifyIconData folderFlutter = IconifyIconData.duo(
-    IconData(0xe204, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe204, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-flutter-open` (paint-order duotone)
-  static const IconifyIconData folderFlutterOpen = IconifyIconData.duo(
-    IconData(0xe205, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe205, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-font` (paint-order duotone)
-  static const IconifyIconData folderFont = IconifyIconData.duo(
-    IconData(0xe206, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe206, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-font-open` (paint-order duotone)
-  static const IconifyIconData folderFontOpen = IconifyIconData.duo(
-    IconData(0xe207, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe207, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `folder-forgejo`
-  static const IconifyIconData folderForgejo = IconifyIconData.solo(
-    IconData(0xe31b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-forgejo-open`
-  static const IconifyIconData folderForgejoOpen = IconifyIconData.solo(
-    IconData(0xe31c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-form` (paint-order duotone)
-  static const IconifyIconData folderForm = IconifyIconData.duo(
+  /// `folder-benchmark` (paint-order duotone)
+  static const IconifyIconData folderBenchmark = IconifyIconData.duo(
     IconData(0xe078, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe078, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
@@ -1346,13 +1249,8 @@ class MaterialIconThemeIcons {
     IconData(0xe0d9, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `google`
-  static const IconifyIconData google = IconifyIconData.solo(
-    IconData(0xe31d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `gradle`
-  static const IconifyIconData gradle = IconifyIconData.solo(
+  /// `folder-error` (paint-order duotone)
+  static const IconifyIconData folderError = IconifyIconData.duo(
     IconData(0xe0da, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe0da, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
@@ -1417,14 +1315,8 @@ class MaterialIconThemeIcons {
     IconData(0xe0e4, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `hjson` (paint-order duotone)
-  static const IconifyIconData hjson = IconifyIconData.duo(
-    IconData(0xe31e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe31e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `horusec`
-  static const IconifyIconData horusec = IconifyIconData.solo(
+  /// `folder-fastlane` (paint-order duotone)
+  static const IconifyIconData folderFastlane = IconifyIconData.duo(
     IconData(0xe0e5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe0e5, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
@@ -1483,13 +1375,8 @@ class MaterialIconThemeIcons {
     IconData(0xe0ee, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `jenkins`
-  static const IconifyIconData jenkins = IconifyIconData.solo(
-    IconData(0xe31f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `jinja`
-  static const IconifyIconData jinja = IconifyIconData.solo(
+  /// `folder-firestore` (paint-order duotone)
+  static const IconifyIconData folderFirestore = IconifyIconData.duo(
     IconData(0xe0ef, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe0ef, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
@@ -1638,13 +1525,8 @@ class MaterialIconThemeIcons {
     IconData(0xe107, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `minecraft-fabric`
-  static const IconifyIconData minecraftFabric = IconifyIconData.solo(
-    IconData(0xe320, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `mint`
-  static const IconifyIconData mint = IconifyIconData.solo(
+  /// `folder-global-open` (paint-order duotone)
+  static const IconifyIconData folderGlobalOpen = IconifyIconData.duo(
     IconData(0xe108, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe108, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
@@ -1775,13 +1657,8 @@ class MaterialIconThemeIcons {
     IconData(0xe11d, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `opentofu-light`
-  static const IconifyIconData opentofuLight = IconifyIconData.solo(
-    IconData(0xe321, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `otne`
-  static const IconifyIconData otne = IconifyIconData.solo(
+  /// `folder-husky-open` (paint-order duotone)
+  static const IconifyIconData folderHuskyOpen = IconifyIconData.duo(
     IconData(0xe11e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe11e, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
@@ -1912,13 +1789,8 @@ class MaterialIconThemeIcons {
     IconData(0xe133, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `rbxmk`
-  static const IconifyIconData rbxmk = IconifyIconData.solo(
-    IconData(0xe322, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `react`
-  static const IconifyIconData react = IconifyIconData.solo(
+  /// `folder-jinja-open-light` (paint-order duotone)
+  static const IconifyIconData folderJinjaOpenLight = IconifyIconData.duo(
     IconData(0xe134, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe134, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
@@ -2235,13 +2107,8 @@ class MaterialIconThemeIcons {
     IconData(0xe168, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `tsdown`
-  static const IconifyIconData tsdown = IconifyIconData.solo(
-    IconData(0xe323, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `tune`
-  static const IconifyIconData tune = IconifyIconData.solo(
+  /// `folder-migrations` (paint-order duotone)
+  static const IconifyIconData folderMigrations = IconifyIconData.duo(
     IconData(0xe169, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe169, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'), kind: IconifyIconData.kindPaintOrder,
   );

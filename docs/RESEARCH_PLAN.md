@@ -1324,51 +1324,9 @@ on the table.
 
 ---
 
-## §14 — SVG layer-order conventions (empirical survey) ✅ Tasks 1-3 SHIPPED
+## §14 — SVG layer-order conventions (empirical survey)
 
 **Verdict: Adopt three concrete changes; ~2 080 icons fixed in ~4 h.**
-
-**Status (2026-05-16):**
-- ✅ `extractConcreteFills` → `extractConcretePaints` (walks both
-  `fill=` and `stroke=`, including inline `style="…"` form). See
-  `tools/generator/src/svg_preprocess.ts`.
-- ✅ `trySplitTwoColorBody` rewritten to handle the `(fill A, stroke B)`
-  2-paint case + the §14 unified decision tree (white-as-FG override →
-  area-leader with 1.3× gap → source-order tie-break).
-- ✅ `shoelaceAreaOfPath(d)` + `elementArea(tag, attrs)` ink-area
-  helpers, based on `svg-pathdata`'s AST (curves flattened to endpoint
-  line segments — "good enough" for the comparator, not an exact
-  bezier integral).
-- ✅ `isCanonicalWhite(colour)` predicate covers `#fff`, `#ffffff`,
-  `white`, and `rgb(255,255,255)` keywords.
-- ✅ `isPaintOrderRiskBody` upgraded to use the paint-aware extractor
-  so unsplit 2-paint bodies still fall through to the drop path
-  cleanly.
-- ✅ `trySplitTwoStrokeColorBody` (colour-mapped Catppuccin path)
-  updated to the same decision tree.
-- ✅ 14 new unit tests in `svg_preprocess.test.ts` covering the
-  `streamline-color:add-bell-notification` fill+stroke case, the
-  `logos:adobe-after-effects` area-leader case, the
-  `cryptocurrency-color:xmr` white-as-FG override (both source-order
-  positions), area-gap floor, source-order tie-break, and the
-  fill+stroke-on-the-same-element edge case.
-
-**Empirical Δ from regenerating affected packs:**
-- `streamline-color`: 810 → **1292 two-color icons** split into
-  duotone primary/secondary (**+482**, matches the survey's
-  ~481 fill+stroke detector-only gap).
-- Other packs (logos / vscode-icons / material-icon-theme /
-  cryptocurrency-color / streamline-cyber-color / streamline-flex-
-  color) regenerated alongside. The bulk of their pre-existing
-  2-fill icons were already counted; net new icons come from
-  the (rare) fill+stroke cases + flipped paint-order assignments
-  via white-as-FG + area-leader.
-
-Task 4 (3-colour reduction → top-2 by area + 3rd flattened) is
-**not shipped** — deferred for a follow-up; was budgeted to recover
-~290 icons (gcp tiles, three-colour logos).
-
-
 
 Empirical survey across @iconify/json 2.2.472 (~166 k icons) measured
 how often each heuristic gets the right primary/secondary assignment

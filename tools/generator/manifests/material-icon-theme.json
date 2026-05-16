@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "prefix": "material-icon-theme",
-  "iconifyJsonVersion": "2.2.473",
+  "iconifyJsonVersion": "2.2.472",
   "lastUpdated": "2026-05-16",
   "category": "Programming",
   "subPackage": "iconifyx_material_icon_theme",
@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
     },
-    "total": 790
+    "total": 775
   },
   "fonts": [
     {
       "family": "MaterialIconTheme",
-      "nextCodepoint": 58148,
-      "iconCount": 790
+      "nextCodepoint": 58124,
+      "iconCount": 775
     },
     {
       "family": "MaterialIconThemeSecondary",
-      "nextCodepoint": 58148,
-      "iconCount": 540
+      "nextCodepoint": 58124,
+      "iconCount": 539
     }
   ],
   "icons": {
@@ -68,11 +68,6 @@
       "codepoint": 57349,
       "fontFamily": "MaterialIconTheme",
       "identifier": "adonis"
-    },
-    "advpl": {
-      "codepoint": 58136,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "advpl"
     },
     "android": {
       "codepoint": 57350,
@@ -297,11 +292,6 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "conduct"
     },
-    "contentlayer": {
-      "codepoint": 58137,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "contentlayer"
-    },
     "contributing": {
       "codepoint": 57391,
       "fontFamily": "MaterialIconTheme",
@@ -336,11 +326,6 @@
       "codepoint": 57397,
       "fontFamily": "MaterialIconTheme",
       "identifier": "cursor"
-    },
-    "cursor-light": {
-      "codepoint": 58138,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "cursorLight"
     },
     "cypress": {
       "codepoint": 57398,
@@ -1620,16 +1605,6 @@
       "identifier": "folderFontOpen",
       "duotone": true,
       "duotoneKind": "paintOrder"
-    },
-    "folder-forgejo": {
-      "codepoint": 58139,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "folderForgejo"
-    },
-    "folder-forgejo-open": {
-      "codepoint": 58140,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "folderForgejoOpen"
     },
     "folder-form": {
       "codepoint": 57589,
@@ -3895,11 +3870,6 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "godotAssets"
     },
-    "google": {
-      "codepoint": 58141,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "google"
-    },
     "gradle": {
       "codepoint": 57915,
       "fontFamily": "MaterialIconTheme",
@@ -3950,13 +3920,6 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "histoire"
     },
-    "hjson": {
-      "codepoint": 58142,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "hjson",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
-    },
     "horusec": {
       "codepoint": 57925,
       "fontFamily": "MaterialIconTheme",
@@ -4006,11 +3969,6 @@
       "codepoint": 57934,
       "fontFamily": "MaterialIconTheme",
       "identifier": "javascriptMap"
-    },
-    "jenkins": {
-      "codepoint": 58143,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "jenkins"
     },
     "jinja": {
       "codepoint": 57935,
@@ -4178,11 +4136,6 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "minecraft"
     },
-    "minecraft-fabric": {
-      "codepoint": 58144,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "minecraftFabric"
-    },
     "mint": {
       "codepoint": 57965,
       "fontFamily": "MaterialIconTheme",
@@ -4312,11 +4265,6 @@
       "codepoint": 57988,
       "fontFamily": "MaterialIconTheme",
       "identifier": "onnx"
-    },
-    "opentofu-light": {
-      "codepoint": 58145,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "opentofuLight"
     },
     "otne": {
       "codepoint": 57989,
@@ -4479,11 +4427,6 @@
       "codepoint": 58018,
       "fontFamily": "MaterialIconTheme",
       "identifier": "razor"
-    },
-    "rbxmk": {
-      "codepoint": 58146,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "rbxmk"
     },
     "react": {
       "codepoint": 58019,
@@ -4871,11 +4814,6 @@
       "codepoint": 58087,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tsdoc"
-    },
-    "tsdown": {
-      "codepoint": 58147,
-      "fontFamily": "MaterialIconTheme",
-      "identifier": "tsdown"
     },
     "tune": {
       "codepoint": 58088,

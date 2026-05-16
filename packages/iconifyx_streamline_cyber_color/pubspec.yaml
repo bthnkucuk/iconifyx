@@ -20,6 +20,3 @@ flutter:
     - family: StreamlineCyberColor
       fonts:
         - asset: assets/fonts/StreamlineCyberColor.ttf
-    - family: StreamlineCyberColorSecondary
-      fonts:
-        - asset: assets/fonts/StreamlineCyberColorSecondary.ttf

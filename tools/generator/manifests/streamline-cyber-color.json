@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "prefix": "streamline-cyber-color",
-  "iconifyJsonVersion": "2.2.473",
+  "iconifyJsonVersion": "2.2.472",
   "lastUpdated": "2026-05-16",
   "category": "UI Multicolor",
   "subPackage": "iconifyx_streamline_cyber_color",
@@ -25,12 +25,7 @@
     {
       "family": "StreamlineCyberColor",
       "nextCodepoint": 57844,
-      "iconCount": 500
-    },
-    {
-      "family": "StreamlineCyberColorSecondary",
-      "nextCodepoint": 57844,
-      "iconCount": 8
+      "iconCount": 497
     }
   ],
   "icons": {
@@ -252,9 +247,7 @@
     "bin-2": {
       "codepoint": 57387,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "bin2",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "identifier": "bin2"
     },
     "binocular-1": {
       "codepoint": 57388,
@@ -274,9 +267,7 @@
     "bluetooth-searching": {
       "codepoint": 57391,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "bluetoothSearching",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "identifier": "bluetoothSearching"
     },
     "bomb": {
       "codepoint": 57392,
@@ -873,9 +864,7 @@
     "cursor-scroll-vertical": {
       "codepoint": 57510,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "cursorScrollVertical",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "identifier": "cursorScrollVertical"
     },
     "cursor-select-area": {
       "codepoint": 57511,
@@ -1100,9 +1089,7 @@
     "focus-3": {
       "codepoint": 57555,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "focus3",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "identifier": "focus3"
     },
     "football": {
       "codepoint": 57556,
@@ -2061,9 +2048,7 @@
     "signal-2": {
       "codepoint": 57746,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "signal2",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "identifier": "signal2"
     },
     "signal-square": {
       "codepoint": 57747,
@@ -2218,9 +2203,7 @@
     "swimming-pool-2": {
       "codepoint": 57777,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "swimmingPool2",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "identifier": "swimmingPool2"
     },
     "synchronize-2": {
       "codepoint": 57778,
@@ -2295,9 +2278,7 @@
     "timer-mode": {
       "codepoint": 57792,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "timerMode",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "identifier": "timerMode"
     },
     "timer0-1": {
       "codepoint": 57793,
@@ -2372,9 +2353,7 @@
     "usb": {
       "codepoint": 57807,
       "fontFamily": "StreamlineCyberColor",
-      "identifier": "usb",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "identifier": "usb"
     },
     "usb-flash-drive": {
       "codepoint": 57808,
