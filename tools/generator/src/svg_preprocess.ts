@@ -1424,6 +1424,164 @@ export function scaleStrokeWidths(body: string, ratio: number): string {
   return out;
 }
 // ============================================================================
+// Stroke-as-fill skip
+// ============================================================================
+//
+// Some packs (BPMN, kentico-icons, some flagpack variants) draw "outline"
+// glyphs with strokes so thick that the stroke geometry IS the glyph — e.g.
+// BPMN's tasks are 220-unit strokes inside a 1700-unit viewBox. Running these
+// through rasterize+Potrace adds ~50-200 ms per icon for zero visible gain:
+// the trace recovers the same shape that the stroke already paints, just
+// slower and with some Potrace smoothing artefacts. Skipping rasterize-trace
+// when the stroke is already "fill-like" both speeds up the run AND preserves
+// the source geometry's sharpness.
+//
+// Heuristic: `max(strokeWidth) * 2 >= viewBoxMaxSide * 0.15` (i.e. doubled
+// stroke covers ≥15% of the longest viewBox side). The `*2` is the
+// stroke-on-both-sides spread; the 15% threshold was picked by surveying the
+// known thick-stroke offenders against a sample of normal stroke packs.
+
+const VIEWBOX_RE =
+  /viewBox\s*=\s*["']\s*[-0-9.eE]+\s+[-0-9.eE]+\s+([-0-9.eE]+)\s+([-0-9.eE]+)\s*["']/;
+
+/**
+ * Extract the maximum side of the body's enclosing viewBox. Returns
+ * `undefined` if no viewBox is found in `body` directly — most Iconify
+ * bodies don't carry the viewBox inline (it's on the outer `<svg>` wrapper
+ * applied by `iconToSvg`), so callers typically pass the viewBox max side
+ * derived from the source `ResolvedIcon`'s `width` / `height` instead.
+ */
+export function viewBoxMaxSide(body: string): number | undefined {
+  const m = body.match(VIEWBOX_RE);
+  if (!m) return undefined;
+  const w = parseFloat(m[1]!);
+  const h = parseFloat(m[2]!);
+  if (!Number.isFinite(w) || !Number.isFinite(h)) return undefined;
+  return Math.max(w, h);
+}
+
+/**
+ * Find the maximum `stroke-width` value used anywhere in `body`. Considers
+ * both the attribute form (`stroke-width="…"`) and the inline-style form
+ * (`style="…; stroke-width: …"`). Returns 0 if no stroke-width is set; the
+ * SVG default is 1 but the caller (`strokeIsFillLike`) treats 0 as "not
+ * thick enough" and bails. Non-numeric values are ignored.
+ */
+export function maxStrokeWidth(body: string): number {
+  let max = 0;
+  const attrRe = /stroke-width\s*=\s*["']([^"']+)["']/g;
+  let m: RegExpExecArray | null;
+  while ((m = attrRe.exec(body)) !== null) {
+    const w = parseFloat(m[1]!);
+    if (Number.isFinite(w) && w > max) max = w;
+  }
+  const styleRe = /style\s*=\s*["']([^"']*)["']/g;
+  while ((m = styleRe.exec(body)) !== null) {
+    const css = m[1]!;
+    const inner = css.match(/\bstroke-width\s*:\s*(-?\d+(?:\.\d+)?|\.\d+)/i);
+    if (inner) {
+      const w = parseFloat(inner[1]!);
+      if (Number.isFinite(w) && w > max) max = w;
+    }
+  }
+  return max;
+}
+
+/**
+ * Returns `true` when the body's strokes are thick enough (relative to
+ * the viewBox) AND the body has a useful fill region, so that running
+ * rasterize+Potrace would add no information — the fill carries the
+ * icon's silhouette and the stroke is decorative thickness. Used by
+ * [stroke_fill.ts] to skip tracing for packs like BPMN's filled-task
+ * variants where 120-unit strokes inside a 2000-unit viewBox act as
+ * decorative borders around an existing filled body; the rasterize-trace
+ * pass would just round-trip the same shape with Potrace smoothing
+ * artefacts at a ~100 ms / icon cost.
+ *
+ * **Threshold:** `max(strokeWidth) * 2 >= viewBoxMaxSide * 0.15`. The
+ * `*2` accounts for the stroke spreading equally either side of the path
+ * centre-line. The 15% factor was picked by hand-surveying known thick-
+ * stroke packs (bpmn ~13% per side = 26% doubled; way past threshold)
+ * against typical stroke packs (Lucide / Tabler ~2 stroke in a 24
+ * viewBox = ~8% doubled; well under threshold).
+ *
+ * **Safety guard:** the skip ONLY applies when the body has a concrete
+ * fill region somewhere. svgicons2svgfont collapses strokes to
+ * zero-width geometry, so an icon whose only paint is a stroke (BPMN's
+ * pure-outline `call-activity` rect: `<rect fill="transparent"
+ * stroke="…"/>`) would ship as a solid disc without rasterize-trace
+ * regardless of how thick the stroke is. With at least one concrete (or
+ * `currentColor`) fill present, the fill carries the icon's perceived
+ * shape; the stroke is decorative thickness that can be safely dropped.
+ * Without this guard, Lucide and Tabler would catastrophically regress
+ * (their stroke-only icons exceed the 15% threshold at sw=2 / vb=24
+ * → ratio 16.7%).
+ *
+ * Callers should still respect the rest of the stroke-fill pipeline —
+ * this predicate only short-circuits the rasterize-trace step. The body
+ * still flows through duotone split, paint-order detection, validator,
+ * codepoint allocation, etc. unchanged.
+ */
+export function strokeIsFillLike(
+  body: string,
+  vbMaxSide: number | undefined
+): boolean {
+  if (vbMaxSide === undefined || vbMaxSide <= 0) return false;
+  const sw = maxStrokeWidth(body);
+  if (sw <= 0) return false;
+  if (sw * 2 < vbMaxSide * 0.15) return false;
+  // Safety guard: require at least one concrete (or `currentColor`) fill
+  // region. A pure-stroke body (`fill="none"` or `fill="transparent"`
+  // everywhere) would lose its only paint geometry if we bypass the
+  // rasterize-trace step — svgicons2svgfont treats strokes as zero-width
+  // and would ship the icon as a solid disc. With a fill region present,
+  // the fill carries the silhouette and the stroke becomes safe-to-drop
+  // decorative thickness.
+  if (!bodyHasUsefulFill(body)) return false;
+  return true;
+}
+
+/**
+ * True if `body`'s DOMINANT paint style is filled rather than stroke-only.
+ * Used by [strokeIsFillLike] as a safety guard against skipping
+ * rasterize-trace on packs whose icons rely on the stroke for the main
+ * shape and only carry small decorative `fill="currentColor"` accents
+ * (Lucide's `vault`, `chart-scatter`, etc. mix `fill="none"` outer group
+ * with `<circle r=".5" fill="currentColor"/>` accents).
+ *
+ * Heuristic: "filled" means the body has at least one concrete fill
+ * region AND it does NOT explicitly opt-out via an outer-element-level
+ * `fill="none"` / `fill="transparent"`. Iconify stroke packs canonically
+ * wrap with `<g fill="none" stroke="…">` — that signal is enough to
+ * keep them out of the skip path.
+ */
+function bodyHasUsefulFill(body: string): boolean {
+  // If ANY element opts out of fill at the group / root level, treat the
+  // body as stroke-dominant. This is the canonical Iconify stroke pack
+  // signature (`<g fill="none" stroke="…">`).
+  if (/\bfill\s*=\s*["'](?:none|transparent)["']/.test(body)) return false;
+  if (/\bfill\s*:\s*(?:none|transparent)\b/i.test(body)) return false;
+  // Now look for at least one concrete fill region.
+  const fillAttrRe = /\bfill\s*=\s*["']([^"']+)["']/g;
+  let m: RegExpExecArray | null;
+  while ((m = fillAttrRe.exec(body)) !== null) {
+    const v = m[1]!.trim().toLowerCase();
+    if (v.startsWith('url(')) continue;
+    return true;
+  }
+  const styleRe = /style\s*=\s*["']([^"']*)["']/g;
+  while ((m = styleRe.exec(body)) !== null) {
+    const css = m[1]!;
+    const f = css.match(/\bfill\s*:\s*([^;"'\s]+)/i);
+    if (f) {
+      const v = f[1]!.trim().toLowerCase();
+      if (!v.startsWith('url(')) return true;
+    }
+  }
+  return false;
+}
+
+// ============================================================================
 // Duo-tone support
 // ============================================================================
 //

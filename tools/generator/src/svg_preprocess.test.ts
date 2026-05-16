@@ -7,6 +7,8 @@ import {
   trySplitTwoColorBody,
   scaleStrokeWidths,
   setStrokeWidth,
+  strokeIsFillLike,
+  maxStrokeWidth,
 } from './svg_preprocess.ts';
 import { parseBody, directElementChildren } from './dom.ts';
 import type { ResolvedIcon } from './load_iconify.ts';
@@ -327,6 +329,64 @@ describe('setStrokeWidth — legacy flat-replace behaviour preserved', () => {
     expect(out).toBe(
       `<path stroke-width="1.5" d="M0 0"/><path stroke-width="1.5" d="M1 1"/>`
     );
+  });
+});
+
+describe('maxStrokeWidth', () => {
+  test('finds the largest attribute width', () => {
+    const body = `<path stroke-width="2" d="M0 0"/><path stroke-width="5" d="M1 1"/>`;
+    expect(maxStrokeWidth(body)).toBe(5);
+  });
+
+  test('considers inline-style declarations', () => {
+    const body = `<path style="stroke-width: 3" d="M0 0"/>`;
+    expect(maxStrokeWidth(body)).toBe(3);
+  });
+
+  test('returns 0 when no stroke-width is present', () => {
+    expect(maxStrokeWidth(`<path d="M0 0"/>`)).toBe(0);
+  });
+});
+
+describe('strokeIsFillLike', () => {
+  test('thick stroke + concrete fill flagged as fill-like', () => {
+    // 220*2 = 440 >= 1700*0.15 = 255 ✓; fill region present.
+    const body =
+      `<path fill="currentColor" stroke="currentColor" stroke-width="220" d="M0 0"/>`;
+    expect(strokeIsFillLike(body, 1700)).toBe(true);
+  });
+
+  test('BPMN pure-outline (transparent fill) NOT flagged (safety guard)', () => {
+    // BPMN's `call-activity` is `<rect fill="transparent" stroke=… stroke-width=220 …/>`.
+    // The stroke is thick enough to trip the 0.15 threshold, but the fill
+    // is transparent — svgicons2svgfont would ship a solid disc if we
+    // skipped rasterize-trace. Safety guard kicks in and forces tracing.
+    const body =
+      `<rect fill="transparent" stroke="currentColor" stroke-width="220" d="M0 0"/>`;
+    expect(strokeIsFillLike(body, 1700)).toBe(false);
+  });
+
+  test('Lucide-style thin strokes NOT flagged', () => {
+    // Lucide ships fill=none + stroke=currentColor + stroke-width=2 inside
+    // a 24-unit viewBox. The safety guard catches this — no fill region.
+    const body =
+      `<path fill="none" stroke="currentColor" stroke-width="2" d="M0 0"/>`;
+    expect(strokeIsFillLike(body, 24)).toBe(false);
+  });
+
+  test('zero stroke-width returns false', () => {
+    expect(strokeIsFillLike(`<path d="M0 0"/>`, 24)).toBe(false);
+  });
+
+  test('missing viewBox returns false', () => {
+    const body = `<path fill="currentColor" stroke-width="100" d="M0 0"/>`;
+    expect(strokeIsFillLike(body, undefined)).toBe(false);
+  });
+
+  test('inline-style fill also satisfies safety guard', () => {
+    const body =
+      `<path style="fill: currentColor; stroke: currentColor; stroke-width: 5" d="M0 0"/>`;
+    expect(strokeIsFillLike(body, 24)).toBe(true);
   });
 });
 

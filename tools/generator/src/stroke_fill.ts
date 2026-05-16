@@ -5,7 +5,7 @@ import { existsSync, mkdirSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { Database } from 'bun:sqlite';
 import { log } from './log.ts';
-import { iconToSvg } from './svg_preprocess.ts';
+import { iconToSvg, strokeIsFillLike } from './svg_preprocess.ts';
 import type { ResolvedIcon } from './load_iconify.ts';
 
 /**
@@ -281,10 +281,37 @@ export async function strokeFillBatch(
   failures: number;
   /** Names of icons whose stroke-fill worker died (native panic). */
   panicSkipped: string[];
+  /** Names of icons short-circuited because their strokes were already fill-like. */
+  fillLikeSkipped: string[];
 }> {
   if (icons.length === 0) {
-    return { converted: 0, cacheHits: 0, failures: 0, panicSkipped: [] };
+    return { converted: 0, cacheHits: 0, failures: 0, panicSkipped: [], fillLikeSkipped: [] };
   }
+
+  // §6 fix: drop icons whose strokes are already so thick that rasterize+
+  // trace adds nothing. Saves ~50-200 ms per skipped icon and preserves
+  // the source's sharp geometry rather than introducing Potrace smoothing.
+  // BPMN's 220-unit strokes inside a 1700-unit viewBox are the canonical
+  // case — see `strokeIsFillLike` for the threshold.
+  const fillLikeSkipped: string[] = [];
+  const trace: ResolvedIcon[] = [];
+  for (const ic of icons) {
+    const vbMaxSide = Math.max(ic.width ?? 0, ic.height ?? 0);
+    if (strokeIsFillLike(ic.body, vbMaxSide || undefined)) {
+      fillLikeSkipped.push(ic.name);
+      continue;
+    }
+    trace.push(ic);
+  }
+  if (fillLikeSkipped.length > 0) {
+    log.info(
+      `  "${prefix}": stroke-as-fill skip on ${fillLikeSkipped.length} icon${fillLikeSkipped.length === 1 ? '' : 's'} (already-thick strokes; no trace needed)`
+    );
+  }
+  if (trace.length === 0) {
+    return { converted: 0, cacheHits: 0, failures: 0, panicSkipped: [], fillLikeSkipped };
+  }
+  icons = trace;
 
   await mkdir(CACHE_ROOT, { recursive: true });
   const db = getDb();
@@ -342,7 +369,7 @@ export async function strokeFillBatch(
   }
 
   if (pending.length === 0) {
-    return { converted: 0, cacheHits, failures: 0, panicSkipped: [] };
+    return { converted: 0, cacheHits, failures: 0, panicSkipped: [], fillLikeSkipped };
   }
 
   log.info(
@@ -382,7 +409,7 @@ export async function strokeFillBatch(
     })();
   }
 
-  return { converted, cacheHits, failures, panicSkipped };
+  return { converted, cacheHits, failures, panicSkipped, fillLikeSkipped };
 }
 
 /**
@@ -416,7 +443,33 @@ export async function strokeFillBatchMulti(
       cacheHits: 0,
       failures: 0,
       panicSkipped: [],
+      fillLikeSkipped: [],
     });
+  }
+
+  // §6 fix: pre-filter every job to skip icons whose strokes are already
+  // fill-like. The skipped icons keep their original body (which the
+  // rest of the pipeline can still build into a TTF — the strokes are
+  // thick enough to render as a filled region without trace conversion).
+  // Saves ~50-200 ms per skipped icon; surfaced in STROKE_AUDIT.md.
+  for (const job of jobs) {
+    if (job.icons.length === 0) continue;
+    const jobResult = results.get(job.prefix)!;
+    const kept: ResolvedIcon[] = [];
+    for (const ic of job.icons) {
+      const vbMaxSide = Math.max(ic.width ?? 0, ic.height ?? 0);
+      if (strokeIsFillLike(ic.body, vbMaxSide || undefined)) {
+        jobResult.fillLikeSkipped.push(ic.name);
+        continue;
+      }
+      kept.push(ic);
+    }
+    if (jobResult.fillLikeSkipped.length > 0) {
+      log.info(
+        `  "${job.prefix}": stroke-as-fill skip on ${jobResult.fillLikeSkipped.length} icon${jobResult.fillLikeSkipped.length === 1 ? '' : 's'} (already-thick strokes; no trace needed)`
+      );
+    }
+    job.icons = kept;
   }
 
   // First pass per job: resolve cache hits, collect cache misses. Hits

@@ -188,6 +188,15 @@ interface RasterFillAuditEntry {
   vtraceRecovered: number;
   vtraceFailed: number;
   vtraceRecoveredSamples: string[];
+  /**
+   * Per-set count of icons that were ROUTED into stroke-fill but
+   * short-circuited by `strokeIsFillLike` because their strokes are
+   * already thick enough to act as a filled region (BPMN, kentico-icons,
+   * etc.). Surfaced in STROKE_AUDIT.md so we can see how much wall-clock
+   * was saved per pack.
+   */
+  fillLikeSkipped: number;
+  fillLikeSkippedSamples: string[];
 }
 const rasterFillSignalCache = new Map<string, RasterFillAuditEntry>();
 
@@ -447,6 +456,8 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
       vtraceRecovered: cached?.vtraceRecovered ?? 0,
       vtraceFailed: cached?.vtraceFailed ?? 0,
       vtraceRecoveredSamples: cached?.vtraceRecoveredSamples ?? [],
+      fillLikeSkipped: cached?.fillLikeSkipped ?? 0,
+      fillLikeSkippedSamples: cached?.fillLikeSkippedSamples ?? [],
     });
   }
   await writeStrokeAudit(auditEntries);
@@ -760,10 +771,26 @@ async function processOneSet(
       }
     }
   }
+  // §6 fix: aggregate stroke-as-fill skip counts per pack so the audit
+  // shows where rasterize-trace was short-circuited (BPMN-style thick
+  // strokes that don't need tracing).
+  let fillLikeSkippedTotal = 0;
+  let fillLikeSkippedSamples: string[] = [];
   if (sfJobs.length > 0) {
     const sfResults = await strokeFillBatchMulti(sfJobs);
     for (const r of sfResults) {
       for (const n of r.panicSkipped) strokeFillPanicNames.add(n);
+      // Only count primary-pack skips — secondary fonts are derived from
+      // the same source bodies so their skip count would double-count.
+      if (r.prefix === prefix && r.fillLikeSkipped) {
+        fillLikeSkippedTotal += r.fillLikeSkipped.length;
+        if (fillLikeSkippedSamples.length < 3) {
+          fillLikeSkippedSamples = [
+            ...fillLikeSkippedSamples,
+            ...r.fillLikeSkipped.slice(0, 3 - fillLikeSkippedSamples.length),
+          ];
+        }
+      }
     }
   }
 
@@ -869,6 +896,8 @@ async function processOneSet(
     vtraceRecovered,
     vtraceFailed,
     vtraceRecoveredSamples,
+    fillLikeSkipped: fillLikeSkippedTotal,
+    fillLikeSkippedSamples,
   });
 
   if (paintOrderDropped > 0) {

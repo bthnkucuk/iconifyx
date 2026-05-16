@@ -70,6 +70,16 @@ export interface AuditEntry {
   vtraceRecovered: number;
   vtraceFailed: number;
   vtraceRecoveredSamples: string[];
+  /**
+   * §6: count of icons short-circuited by `strokeIsFillLike` because
+   * their strokes are already thick enough that rasterize-trace would
+   * add no information. BPMN-style packs (220-unit strokes in a
+   * 1700-unit viewBox) typically skip 100% of their icons via this
+   * predicate. Saves ~50-200 ms per skipped icon at the rasterize-trace
+   * step and preserves source-geometry sharpness.
+   */
+  fillLikeSkipped: number;
+  fillLikeSkippedSamples: string[];
 }
 
 /**
@@ -390,6 +400,47 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
           : '—';
       lines.push(
         `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.vtraceConsidered.toLocaleString('en-US')} | ${r.vtraceRecovered.toLocaleString('en-US')} | ${r.vtraceFailed.toLocaleString('en-US')} | ${pct} | ${samples} |`
+      );
+    }
+  }
+  lines.push('');
+
+  // Stroke-as-fill skip section (§6). Packs here had their rasterize-
+  // trace step short-circuited for at least one icon because the body's
+  // strokes are already thick enough relative to the viewBox to render
+  // as a filled region without trace conversion. BPMN is the canonical
+  // case — 220-unit strokes inside a 1700-unit viewBox.
+  const fillLikeRows = [...rows]
+    .filter((r) => r.fillLikeSkipped > 0)
+    .sort((a, b) => b.fillLikeSkipped - a.fillLikeSkipped);
+  const totalFillLike = rows.reduce((s, r) => s + r.fillLikeSkipped, 0);
+  lines.push('## Stroke-as-fill skip (already-thick strokes, no trace needed)');
+  lines.push('');
+  lines.push(
+    'Icons whose strokes are thick enough (relative to the viewBox) that ' +
+      'they already act as a filled region — rasterize+Potrace adds no ' +
+      'information here, only ~50-200 ms / icon of CPU and a small loss of ' +
+      'geometry sharpness from Potrace smoothing. The pipeline now skips ' +
+      'these icons at the stroke-fill step; their original body flows ' +
+      'through the rest of the pipeline (codepoint allocation, font build, ' +
+      'etc.) unchanged. Threshold: `max(strokeWidth) * 2 >= viewBoxMaxSide * 0.15`.'
+  );
+  lines.push('');
+  lines.push(
+    `- **Icons short-circuited via stroke-as-fill skip this run:** ${totalFillLike.toLocaleString('en-US')}`
+  );
+  lines.push('');
+  if (fillLikeRows.length === 0) {
+    lines.push('_No stroke-as-fill skips this run._');
+  } else {
+    lines.push('| Set | Prefix | Skipped | Spot-check |');
+    lines.push('|---|---|---:|---|');
+    for (const r of fillLikeRows) {
+      const samples = r.fillLikeSkippedSamples.length > 0
+        ? r.fillLikeSkippedSamples.map((n) => `\`${n}\``).join(', ')
+        : '—';
+      lines.push(
+        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.fillLikeSkipped.toLocaleString('en-US')} | ${samples} |`
       );
     }
   }
