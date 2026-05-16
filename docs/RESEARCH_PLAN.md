@@ -4385,21 +4385,62 @@ platforms today without modifying Flutter SDK.**
 
 ## Implementation status quick reference
 
-| § | Topic | Status |
-|---|---|---|
-| §1-§12 | Initial 12 research streams | 📋 documented, partial impl |
-| §13/§15 | Speed plan + cross-check | 📋 documented (not impl) |
-| §14 | Layer-order survey | 📋 documented (not impl) |
-| §16 | Audit gap analysis | 📋 documented; **A6** ✅ shipped (mid-§32) |
-| §17/§18 | Rust crates + port verdict | 📋 documented (no port) |
-| §19 | Search-bar space-eater bug | 📋 root-cause analysed (fix not committed) |
-| §20-§27 | Various web + tooling research | 📋 documented |
-| §28 | Tree-shake empirical findings | ✅ resolved by §32 |
-| §29 | Gap audit | ✅ documented |
-| §30 | Implementation roadmap | ✅ documented |
-| §31 | Zero-config research | ✅ obsolete (superseded by §32) |
-| §32 | Single-TTF-per-pack | ✅ **SHIPPED** (5 commits) |
-| §33 | Solar/Phosphor alignment bug + audit-litmus | 🚧 OPEN (5 agents running) |
+_Refreshed 2026-05-16 after the 17-commit integration sweep._
+
+| § | Topic | Status | Anchor commit(s) |
+|---|---|---|---|
+| §1 | Vector tracing (vtracer multi-colour recovery) | ✅ **SHIPPED** | `28710973` (+4,593 icons) |
+| §2 | Area-based duotone classification | 📋 documented | — |
+| §3 | Font build correctness (iterate-until-empty) | ✅ **SHIPPED** | `8e1d295d` (569→0 empty glyphs) |
+| §4 | Audit + visual regression infrastructure | ✅ Shipped via §26/§33b | `5ededcc5`, `1f2d9a76` |
+| §5 | Colour semantics no-ink predicate | 📋 documented | — |
+| §6 | Stroke handling (subsumed into §5a/§5a-bis pipeline) | ✅ Shipped in pipeline | — |
+| §7 | SVG AST migration (regex → htmlparser2) | ✅ **SHIPPED** | `8e1d295d`, `69b357af` |
+| §8 | Multi-language tools (Python fontTools bridge) | ✅ Partial — uv venv + canonicalize/merge/rename | `8e1d295d` |
+| §9 | Website perf (trigram + lazy FontLoader) | ✅ **PARTIAL** — RepaintBoundary/Picture cache deferred | `ae45ecbc`, `99dfa81b` |
+| §10 | Website architecture + UX (selection tray) | ✅ Foundation shipped | `2333fd05` |
+| §11 | icons_index.json CDN shards | ✅ Infrastructure (opt-in via `kUseCdn`) | `ea3f1e36` |
+| §12 | packs.json on jsDelivr | ✅ Infrastructure (opt-in via `kUseCdn`) | `d3784e26` |
+| §13 | Generator + audit speed plan | ✅ Superseded by §15 | — |
+| §14 | Stroke-aware paint extraction | 🚧 **PARTIAL** — extractor done, deep `trySplitTwoColorBody` rewrite deferred | `cd63cfdf`; full §14 reverted in `dc22535d` |
+| §15 | Generator speed quick wins | ✅ **SHIPPED** | `5d8a2462`, `72e2e952`, `b860c119` |
+| §16-A1+A3 | Manifest-lint + identifier-collision audit | ✅ **SHIPPED** | `2c75f10c` |
+| §16-A2 | Orphan-const audit subcommand | ✅ **SHIPPED** | `8e1d295d` |
+| §16-A6 | Duotone primary/secondary codepoint sync | ✅ Shipped mid-§32 | — |
+| §16-A8 | `deprecatedReason` + upstream-regressions detector | ✅ **SHIPPED** | `8e1d295d` |
+| §16-A10 | Determinism + svg2ttf bbox patch | ✅ **SHIPPED** | `72174d7a`, `b2b4b988` |
+| §16-A14 | Suspicious-glyph perceptual hash | 📋 documented | — |
+| §17/§18 | Rust crates + port verdict | ✅ Decision shipped (vtracer crate adopted; no full port) | `28710973` |
+| §19 | Search-bar space-eater bug | ✅ **SHIPPED** | `48200ae2` |
+| §20 | Figma + ecosystem SVG tooling | 📋 research notes | — |
+| §21 | GitHub Pages deploy | ✅ **SHIPPED** | `a34929d4` |
+| §22 R1 | Alias-map split | ✅ **SHIPPED** (BREAKING for consumers) | `dad0ca88` (mdi 70k→38k) |
+| §22 R2 | Per-pack categories | ✅ **SHIPPED** | `dad0ca88` |
+| §22 R3 | Per-pack independent versioning | ✅ **SHIPPED** | `9bc3434b` |
+| §22 R4 | Category-meta packages | ✅ **SHIPPED** | `21b1f218` |
+| §22 R5 | `PackInfo` + tags exposure | ✅ **SHIPPED** | `8e1d295d` |
+| §23 #1-#5 | Website perf top-5 | ✅ **SHIPPED** | `6df95f72`, `46e7e6b5`, `7ce2b6be`, `beca986e`, `a4998ca0` |
+| §24 | AI workflow + hooks + skills + memory | 📋 documented | — |
+| §25 | Multi-colour → mono/two-tone reduction | 📋 documented (vtracer addresses similar in §1) | — |
+| §26 / §33b | Visual-diff Phase 1.5 (3-way + corpus + dashboard) | ✅ **SHIPPED** | `1f2d9a76` |
+| §27 | Sheet back-button routing | ✅ Shipped; **regressed** — see TODO below | `816cfcd8` |
+| §28 | Tree-shake empirical findings | ✅ Resolved by §32 | — |
+| §29 | Research-plan gap audit | ✅ Documented | — |
+| §30 | Implementation roadmap | ✅ Documented | — |
+| §31 | Zero-config tree-shake research | ✅ Obsolete (superseded by §32) | — |
+| §32 | Single-TTF-per-pack via cmap fmt 12 + supp PUA | ✅ **SHIPPED** (5 commits) | `79beb0d`→`fc5f6d4` |
+| §33 (alignment) | Solar/Phosphor duotone alignment | ✅ **RESOLVED** (user-verified, audit-litmus passed) | `b2b4b988` + `8e1d295d` |
+| §33 (cmap dedup) | Post-build glyph rename | ✅ **SHIPPED** (38,645 → 0 collisions) | `1600bbfe`, `2992fa83` |
+
+**Headline:** ~28/34 sections fully shipped (~**82 %**); 3 partial; 6 research-only or absorbed by other sections.
+
+### Live TODOs (post-sweep, 2026-05-16)
+
+1. **§27 regression** — icon-detail sheet back-button needs 2-3 presses to escape; should be single-press. Reopened after the §22 R1 alias migration + visual audit landings (probably interacted with `RouteUnique.props`).
+2. **§14 deep rewrite** — port white-as-FG / area-leader / source-order tie-break into the AST-walking `trySplitTwoColorBody`. Recovers ~739 more icons (streamline-color family).
+3. **§11/§12 CDN go-live** — flip `kUseCdn = true`, point `cdn_manifest.json` at the jsDelivr base, verify fallback to bundled paths still works.
+4. **Website UX** — opacity / size / colour controls on icon-detail page leak into the wrong layer for `emojione:antenna-bars` (secondary opacity slider mutates primary colour). Move the controls to the pack-detail sidebar, thread state via URL query params, regenerate the "Copy code" snippet from the live state.
+5. **§9 finishing** — `TextPainter.toImage` / `ui.Picture` cache for repeated-glyph paints; deferred-loading on fling scrolls (rule §7 in `packages/iconifyx/website/CLAUDE.md`).
 
 ---
 
