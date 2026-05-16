@@ -18,7 +18,7 @@ On every push to `main` that touches the website, a per-set package, the
 3. Caches `~/.pub-cache`, keyed on the website's `pubspec.lock`.
 4. Runs `flutter pub get` and `flutter analyze lib --no-fatal-infos`.
 5. Builds `build/web` in release mode (`flutter build web --release
-   --base-href "/icons/" --no-source-maps --no-tree-shake-icons`).
+   --base-href "/iconifyx/" --no-source-maps --no-tree-shake-icons`).
 6. Guards the bundle size at < 250 MB (current build is ~163 MB → leaves
    ~50 % headroom).
 7. Uploads the `build/web` directory as a Pages artifact.
@@ -38,7 +38,7 @@ Locked in by §21; revisit only if performance changes warrant it.
 - **Routing: hash.** `lib/main.dart` does **not** call
   `setUrlStrategy(PathUrlStrategy())`. URLs look like `/#/pack/mdi`,
   which Pages serves without any 404.html SPA fallback dance.
-- **Base href: `/icons/`** — the default `https://<user>.github.io/icons/`
+- **Base href: `/iconifyx/`** — the default `https://<user>.github.io/iconifyx/`
   Pages URL. Switching to a custom domain or user-Pages site: see the
   matrix below.
 
@@ -73,7 +73,7 @@ After the workflow lands on `main` you must do this once per repo:
    artifact uploaded by `actions/upload-pages-artifact@v3`.
 2. **Settings → Pages → Enabled** — confirm Pages is on for the repo.
 3. (First push only) The first run takes a couple of minutes after Pages
-   enablement before `https://<user>.github.io/icons/` resolves; subsequent
+   enablement before `https://<user>.github.io/iconifyx/` resolves; subsequent
    deploys propagate in ~30 s.
 
 You can verify the deployment after a green run on the Actions tab:
@@ -83,7 +83,7 @@ You can verify the deployment after a green run on the Actions tab:
 
 | Scenario | URL | `--base-href` | `web/CNAME` |
 |---|---|---|---|
-| Default (project Pages) | `https://<user>.github.io/icons/` | `"/icons/"` | omit |
+| Default (project Pages) | `https://<user>.github.io/iconifyx/` | `"/iconifyx/"` | omit |
 | User Pages (rename repo to `<user>.github.io`) | `https://<user>.github.io/` | `"/"` | omit |
 | Custom apex / sub-domain | `https://iconifyx.dev/` | `"/"` | `iconifyx.dev` |
 
@@ -202,7 +202,7 @@ static files with a fixed set. Effects on the probe today:
 
 | Environment | Heap API in use | Accuracy |
 |---|---|---|
-| `<user>.github.io/icons/` (Pages) | `performance.memory.usedJSHeapSize` (legacy, Chromium-only) | Underestimate — excludes CanvasKit WASM heap |
+| `<user>.github.io/iconifyx/` (Pages) | `performance.memory.usedJSHeapSize` (legacy, Chromium-only) | Underestimate — excludes CanvasKit WASM heap |
 | Safari / Firefox on Pages | none — falls back to visit-count signal | Coarse but bounded |
 | Self-hosted with COOP/COEP headers | `measureUserAgentSpecificMemory()` | Accurate (full origin heap) |
 
@@ -257,10 +257,10 @@ The same commands the workflow runs:
 ```bash
 cd packages/iconifyx/website
 fvm flutter pub get
-fvm flutter build web --release --base-href "/icons/" --no-source-maps --no-tree-shake-icons
+fvm flutter build web --release --base-href "/iconifyx/" --no-source-maps --no-tree-shake-icons
 du -sm build/web              # expect ~163 MB, must be < 250
 ls build/web                  # index.html, flutter.js, main.dart.js, canvaskit/, assets/
-grep '<base href' build/web/index.html   # expect "/icons/"
+grep '<base href' build/web/index.html   # expect "/iconifyx/"
 ```
 
 If `du` jumps significantly, investigate before pushing — the workflow's

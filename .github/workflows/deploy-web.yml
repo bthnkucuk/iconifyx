@@ -62,10 +62,15 @@ jobs:
       - run: flutter analyze lib --no-fatal-infos
 
       - name: Build web (CanvasKit default, hash routing, no source maps)
+        # base-href must match the GitHub Pages URL path. Repo is
+        # `bthnkucuk/iconifyx` → project Pages serves at
+        # `https://bthnkucuk.github.io/iconifyx/`. If you move to a
+        # custom domain or user Pages (`<user>.github.io`), set this to
+        # `"/"` and follow the matrix in `docs/DEPLOYMENT.md`.
         run: |
           flutter build web \
             --release \
-            --base-href "/icons/" \
+            --base-href "/iconifyx/" \
             --no-source-maps \
             --no-tree-shake-icons
 
@@ -76,6 +81,12 @@ jobs:
           test "$size" -lt 250 || { echo "build/web exceeded 250 MB"; exit 1; }
 
       - uses: actions/configure-pages@v5
+        # `enablement: true` lets the action auto-enable Pages on first
+        # run if it isn't already configured (skips the manual Settings →
+        # Pages → "GitHub Actions" source step). After the first
+        # successful deploy this becomes a no-op.
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: packages/iconifyx/website/build/web
