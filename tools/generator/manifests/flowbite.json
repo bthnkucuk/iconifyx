@@ -25,64 +25,93 @@
     {
       "family": "Flowbite",
       "nextCodepoint": 58177,
-      "iconCount": 832
+      "iconCount": 803
     }
   ],
   "icons": {
     "add-column-after-outline": {
       "codepoint": 57344,
       "fontFamily": "Flowbite",
-      "identifier": "addColumnAfterOutline"
+      "identifier": "addColumnAfterOutline",
+      "categories": [
+        "General"
+      ]
     },
     "add-column-before-outline": {
       "codepoint": 57345,
       "fontFamily": "Flowbite",
-      "identifier": "addColumnBeforeOutline"
+      "identifier": "addColumnBeforeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "address-book-outline": {
       "codepoint": 57346,
       "fontFamily": "Flowbite",
-      "identifier": "addressBookOutline"
+      "identifier": "addressBookOutline",
+      "categories": [
+        "User"
+      ]
     },
     "address-book-solid": {
       "codepoint": 57347,
       "fontFamily": "Flowbite",
-      "identifier": "addressBookSolid"
+      "identifier": "addressBookSolid",
+      "categories": [
+        "User"
+      ]
     },
     "adjustments-horizontal-outline": {
       "codepoint": 57348,
       "fontFamily": "Flowbite",
-      "identifier": "adjustmentsHorizontalOutline"
+      "identifier": "adjustmentsHorizontalOutline",
+      "categories": [
+        "General"
+      ]
     },
     "adjustments-horizontal-solid": {
       "codepoint": 57349,
       "fontFamily": "Flowbite",
-      "identifier": "adjustmentsHorizontalSolid"
+      "identifier": "adjustmentsHorizontalSolid",
+      "categories": [
+        "General"
+      ]
     },
     "adjustments-vertical-outline": {
       "codepoint": 57350,
       "fontFamily": "Flowbite",
-      "identifier": "adjustmentsVerticalOutline"
+      "identifier": "adjustmentsVerticalOutline",
+      "categories": [
+        "General"
+      ]
     },
     "adjustments-vertical-solid": {
       "codepoint": 57351,
       "fontFamily": "Flowbite",
-      "identifier": "adjustmentsVerticalSolid"
+      "identifier": "adjustmentsVerticalSolid",
+      "categories": [
+        "General"
+      ]
     },
     "adress-book-outline": {
-      "codepoint": 57352,
+      "codepoint": 57346,
       "fontFamily": "Flowbite",
-      "identifier": "adressBookOutline"
+      "identifier": "adressBookOutline",
+      "aliasOf": "address-book-outline"
     },
     "adress-book-solid": {
-      "codepoint": 57353,
+      "codepoint": 57347,
       "fontFamily": "Flowbite",
-      "identifier": "adressBookSolid"
+      "identifier": "adressBookSolid",
+      "aliasOf": "address-book-solid"
     },
     "align-center-outline": {
       "codepoint": 57354,
       "fontFamily": "Flowbite",
-      "identifier": "alignCenterOutline"
+      "identifier": "alignCenterOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "align-center-solid": {
       "codepoint": 57355,
@@ -92,117 +121,178 @@
     "align-justify-outline": {
       "codepoint": 57356,
       "fontFamily": "Flowbite",
-      "identifier": "alignJustifyOutline"
+      "identifier": "alignJustifyOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "align-left-outline": {
       "codepoint": 57357,
       "fontFamily": "Flowbite",
-      "identifier": "alignLeftOutline"
+      "identifier": "alignLeftOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "align-right-outline": {
       "codepoint": 57358,
       "fontFamily": "Flowbite",
-      "identifier": "alignRightOutline"
+      "identifier": "alignRightOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "angle-down-outline": {
       "codepoint": 57359,
       "fontFamily": "Flowbite",
-      "identifier": "angleDownOutline"
+      "identifier": "angleDownOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "angle-down-solid": {
-      "codepoint": 57360,
+      "codepoint": 57359,
       "fontFamily": "Flowbite",
-      "identifier": "angleDownSolid"
+      "identifier": "angleDownSolid",
+      "aliasOf": "angle-down-outline"
     },
     "angle-left-outline": {
       "codepoint": 57361,
       "fontFamily": "Flowbite",
-      "identifier": "angleLeftOutline"
+      "identifier": "angleLeftOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "angle-left-solid": {
-      "codepoint": 57362,
+      "codepoint": 57361,
       "fontFamily": "Flowbite",
-      "identifier": "angleLeftSolid"
+      "identifier": "angleLeftSolid",
+      "aliasOf": "angle-left-outline"
     },
     "angle-right-outline": {
       "codepoint": 57363,
       "fontFamily": "Flowbite",
-      "identifier": "angleRightOutline"
+      "identifier": "angleRightOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "angle-right-solid": {
-      "codepoint": 57364,
+      "codepoint": 57363,
       "fontFamily": "Flowbite",
-      "identifier": "angleRightSolid"
+      "identifier": "angleRightSolid",
+      "aliasOf": "angle-right-outline"
     },
     "angle-top-solid": {
-      "codepoint": 57365,
+      "codepoint": 57366,
       "fontFamily": "Flowbite",
-      "identifier": "angleTopSolid"
+      "identifier": "angleTopSolid",
+      "aliasOf": "angle-up-outline"
     },
     "angle-up-outline": {
       "codepoint": 57366,
       "fontFamily": "Flowbite",
-      "identifier": "angleUpOutline"
+      "identifier": "angleUpOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "annotation-outline": {
       "codepoint": 57367,
       "fontFamily": "Flowbite",
-      "identifier": "annotationOutline"
+      "identifier": "annotationOutline",
+      "categories": [
+        "General"
+      ]
     },
     "annotation-solid": {
       "codepoint": 57368,
       "fontFamily": "Flowbite",
-      "identifier": "annotationSolid"
+      "identifier": "annotationSolid",
+      "categories": [
+        "General"
+      ]
     },
     "api-key-outline": {
       "codepoint": 57369,
       "fontFamily": "Flowbite",
-      "identifier": "apiKeyOutline"
+      "identifier": "apiKeyOutline",
+      "categories": [
+        "General"
+      ]
     },
     "apple-full-outline": {
       "codepoint": 57370,
       "fontFamily": "Flowbite",
-      "identifier": "appleFullOutline"
+      "identifier": "appleFullOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "apple-full-solid": {
       "codepoint": 57371,
       "fontFamily": "Flowbite",
-      "identifier": "appleFullSolid"
+      "identifier": "appleFullSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "apple-solid": {
       "codepoint": 57372,
       "fontFamily": "Flowbite",
-      "identifier": "appleSolid"
+      "identifier": "appleSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "archive-arrow-down-outline": {
       "codepoint": 57373,
       "fontFamily": "Flowbite",
-      "identifier": "archiveArrowDownOutline"
+      "identifier": "archiveArrowDownOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "archive-arrow-down-solid": {
       "codepoint": 57374,
       "fontFamily": "Flowbite",
-      "identifier": "archiveArrowDownSolid"
+      "identifier": "archiveArrowDownSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "archive-outline": {
       "codepoint": 57375,
       "fontFamily": "Flowbite",
-      "identifier": "archiveOutline"
+      "identifier": "archiveOutline",
+      "categories": [
+        "General"
+      ]
     },
     "archive-solid": {
       "codepoint": 57376,
       "fontFamily": "Flowbite",
-      "identifier": "archiveSolid"
+      "identifier": "archiveSolid",
+      "categories": [
+        "General"
+      ]
     },
     "arrow-down-outline": {
       "codepoint": 57377,
       "fontFamily": "Flowbite",
-      "identifier": "arrowDownOutline"
+      "identifier": "arrowDownOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-down-to-bracket-outline": {
       "codepoint": 57378,
       "fontFamily": "Flowbite",
-      "identifier": "arrowDownToBracketOutline"
+      "identifier": "arrowDownToBracketOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-down-to-bracket-solid": {
       "codepoint": 57379,
@@ -212,7 +302,10 @@
     "arrow-left-outline": {
       "codepoint": 57380,
       "fontFamily": "Flowbite",
-      "identifier": "arrowLeftOutline"
+      "identifier": "arrowLeftOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-left-solid": {
       "codepoint": 57381,
@@ -222,7 +315,10 @@
     "arrow-left-to-bracket-outline": {
       "codepoint": 57382,
       "fontFamily": "Flowbite",
-      "identifier": "arrowLeftToBracketOutline"
+      "identifier": "arrowLeftToBracketOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-left-to-bracket-solid": {
       "codepoint": 57383,
@@ -232,12 +328,18 @@
     "arrow-right-alt-outline": {
       "codepoint": 57384,
       "fontFamily": "Flowbite",
-      "identifier": "arrowRightAltOutline"
+      "identifier": "arrowRightAltOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-right-alt-solid": {
       "codepoint": 57385,
       "fontFamily": "Flowbite",
-      "identifier": "arrowRightAltSolid"
+      "identifier": "arrowRightAltSolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-right-arrow-left-solid": {
       "codepoint": 57386,
@@ -247,7 +349,10 @@
     "arrow-right-outline": {
       "codepoint": 57387,
       "fontFamily": "Flowbite",
-      "identifier": "arrowRightOutline"
+      "identifier": "arrowRightOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-right-solid": {
       "codepoint": 57388,
@@ -257,7 +362,10 @@
     "arrow-right-to-bracket-outline": {
       "codepoint": 57389,
       "fontFamily": "Flowbite",
-      "identifier": "arrowRightToBracketOutline"
+      "identifier": "arrowRightToBracketOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-right-to-bracket-solid": {
       "codepoint": 57390,
@@ -267,7 +375,10 @@
     "arrow-sort-letters-outline": {
       "codepoint": 57391,
       "fontFamily": "Flowbite",
-      "identifier": "arrowSortLettersOutline"
+      "identifier": "arrowSortLettersOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-sort-letters-solid": {
       "codepoint": 57392,
@@ -277,7 +388,10 @@
     "arrow-up-down-outline": {
       "codepoint": 57393,
       "fontFamily": "Flowbite",
-      "identifier": "arrowUpDownOutline"
+      "identifier": "arrowUpDownOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-up-down-solid": {
       "codepoint": 57394,
@@ -287,17 +401,26 @@
     "arrow-up-from-bracket-outline": {
       "codepoint": 57395,
       "fontFamily": "Flowbite",
-      "identifier": "arrowUpFromBracketOutline"
+      "identifier": "arrowUpFromBracketOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-up-outline": {
       "codepoint": 57396,
       "fontFamily": "Flowbite",
-      "identifier": "arrowUpOutline"
+      "identifier": "arrowUpOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-up-right-down-left-outline": {
       "codepoint": 57397,
       "fontFamily": "Flowbite",
-      "identifier": "arrowUpRightDownLeftOutline"
+      "identifier": "arrowUpRightDownLeftOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrow-up-right-down-left-solid": {
       "codepoint": 57398,
@@ -307,12 +430,18 @@
     "arrow-up-right-from-square-outline": {
       "codepoint": 57399,
       "fontFamily": "Flowbite",
-      "identifier": "arrowUpRightFromSquareOutline"
+      "identifier": "arrowUpRightFromSquareOutline",
+      "categories": [
+        "General"
+      ]
     },
     "arrow-up-right-from-square-solid": {
       "codepoint": 57400,
       "fontFamily": "Flowbite",
-      "identifier": "arrowUpRightFromSquareSolid"
+      "identifier": "arrowUpRightFromSquareSolid",
+      "categories": [
+        "General"
+      ]
     },
     "arrow-up-solid": {
       "codepoint": 57401,
@@ -322,17 +451,26 @@
     "arrows-repeat-count-outline": {
       "codepoint": 57402,
       "fontFamily": "Flowbite",
-      "identifier": "arrowsRepeatCountOutline"
+      "identifier": "arrowsRepeatCountOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "arrows-repeat-outline": {
       "codepoint": 57403,
       "fontFamily": "Flowbite",
-      "identifier": "arrowsRepeatOutline"
+      "identifier": "arrowsRepeatOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "atom-outline": {
       "codepoint": 57404,
       "fontFamily": "Flowbite",
-      "identifier": "atomOutline"
+      "identifier": "atomOutline",
+      "categories": [
+        "General"
+      ]
     },
     "atom-solid": {
       "codepoint": 57405,
@@ -342,362 +480,574 @@
     "award-outline": {
       "codepoint": 57406,
       "fontFamily": "Flowbite",
-      "identifier": "awardOutline"
+      "identifier": "awardOutline",
+      "categories": [
+        "General"
+      ]
     },
     "award-solid": {
       "codepoint": 57407,
       "fontFamily": "Flowbite",
-      "identifier": "awardSolid"
+      "identifier": "awardSolid",
+      "categories": [
+        "General"
+      ]
     },
     "aws-solid": {
       "codepoint": 57408,
       "fontFamily": "Flowbite",
-      "identifier": "awsSolid"
+      "identifier": "awsSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "backward-step-outline": {
       "codepoint": 57409,
       "fontFamily": "Flowbite",
-      "identifier": "backwardStepOutline"
+      "identifier": "backwardStepOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "backward-step-solid": {
       "codepoint": 57410,
       "fontFamily": "Flowbite",
-      "identifier": "backwardStepSolid"
+      "identifier": "backwardStepSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "bacon-outline": {
       "codepoint": 57411,
       "fontFamily": "Flowbite",
-      "identifier": "baconOutline"
+      "identifier": "baconOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "bacon-solid": {
       "codepoint": 57412,
       "fontFamily": "Flowbite",
-      "identifier": "baconSolid"
+      "identifier": "baconSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "badge-check-outline": {
       "codepoint": 57413,
       "fontFamily": "Flowbite",
-      "identifier": "badgeCheckOutline"
+      "identifier": "badgeCheckOutline",
+      "categories": [
+        "General"
+      ]
     },
     "badge-check-solid": {
       "codepoint": 57414,
       "fontFamily": "Flowbite",
-      "identifier": "badgeCheckSolid"
+      "identifier": "badgeCheckSolid",
+      "categories": [
+        "General"
+      ]
     },
     "ban-outline": {
       "codepoint": 57415,
       "fontFamily": "Flowbite",
-      "identifier": "banOutline"
+      "identifier": "banOutline",
+      "categories": [
+        "General"
+      ]
     },
     "barcode-outline": {
       "codepoint": 57416,
       "fontFamily": "Flowbite",
-      "identifier": "barcodeOutline"
+      "identifier": "barcodeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bars-from-left-outline": {
       "codepoint": 57417,
       "fontFamily": "Flowbite",
-      "identifier": "barsFromLeftOutline"
+      "identifier": "barsFromLeftOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bars-from-left-solid": {
-      "codepoint": 57418,
+      "codepoint": 57417,
       "fontFamily": "Flowbite",
-      "identifier": "barsFromLeftSolid"
+      "identifier": "barsFromLeftSolid",
+      "aliasOf": "bars-from-left-outline"
     },
     "bars-outline": {
       "codepoint": 57419,
       "fontFamily": "Flowbite",
-      "identifier": "barsOutline"
+      "identifier": "barsOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bars-solid": {
-      "codepoint": 57420,
+      "codepoint": 57419,
       "fontFamily": "Flowbite",
-      "identifier": "barsSolid"
+      "identifier": "barsSolid",
+      "aliasOf": "bars-outline"
     },
     "battery-outline": {
       "codepoint": 57421,
       "fontFamily": "Flowbite",
-      "identifier": "batteryOutline"
+      "identifier": "batteryOutline",
+      "categories": [
+        "General"
+      ]
     },
     "battery-solid": {
       "codepoint": 57422,
       "fontFamily": "Flowbite",
-      "identifier": "batterySolid"
+      "identifier": "batterySolid",
+      "categories": [
+        "General"
+      ]
     },
     "bed-outline": {
       "codepoint": 57423,
       "fontFamily": "Flowbite",
-      "identifier": "bedOutline"
+      "identifier": "bedOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bed-solid": {
       "codepoint": 57424,
       "fontFamily": "Flowbite",
-      "identifier": "bedSolid"
+      "identifier": "bedSolid",
+      "categories": [
+        "General"
+      ]
     },
     "beer-mug-empty-outline": {
       "codepoint": 57425,
       "fontFamily": "Flowbite",
-      "identifier": "beerMugEmptyOutline"
+      "identifier": "beerMugEmptyOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "beer-mug-empty-solid": {
       "codepoint": 57426,
       "fontFamily": "Flowbite",
-      "identifier": "beerMugEmptySolid"
+      "identifier": "beerMugEmptySolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "bell-active-alt-outline": {
       "codepoint": 57427,
       "fontFamily": "Flowbite",
-      "identifier": "bellActiveAltOutline"
+      "identifier": "bellActiveAltOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bell-active-alt-solid": {
       "codepoint": 57428,
       "fontFamily": "Flowbite",
-      "identifier": "bellActiveAltSolid"
+      "identifier": "bellActiveAltSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bell-active-outline": {
       "codepoint": 57429,
       "fontFamily": "Flowbite",
-      "identifier": "bellActiveOutline"
+      "identifier": "bellActiveOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bell-active-solid": {
       "codepoint": 57430,
       "fontFamily": "Flowbite",
-      "identifier": "bellActiveSolid"
+      "identifier": "bellActiveSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bell-outline": {
       "codepoint": 57431,
       "fontFamily": "Flowbite",
-      "identifier": "bellOutline"
+      "identifier": "bellOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bell-ring-outline": {
       "codepoint": 57432,
       "fontFamily": "Flowbite",
-      "identifier": "bellRingOutline"
+      "identifier": "bellRingOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bell-ring-solid": {
       "codepoint": 57433,
       "fontFamily": "Flowbite",
-      "identifier": "bellRingSolid"
+      "identifier": "bellRingSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bell-solid": {
       "codepoint": 57434,
       "fontFamily": "Flowbite",
-      "identifier": "bellSolid"
+      "identifier": "bellSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bitcoin-solid": {
       "codepoint": 57435,
       "fontFamily": "Flowbite",
-      "identifier": "bitcoinSolid"
+      "identifier": "bitcoinSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "blender-phone-outline": {
       "codepoint": 57436,
       "fontFamily": "Flowbite",
-      "identifier": "blenderPhoneOutline"
+      "identifier": "blenderPhoneOutline",
+      "categories": [
+        "General"
+      ]
     },
     "blender-phone-solid": {
       "codepoint": 57437,
       "fontFamily": "Flowbite",
-      "identifier": "blenderPhoneSolid"
+      "identifier": "blenderPhoneSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bone-outline": {
       "codepoint": 57438,
       "fontFamily": "Flowbite",
-      "identifier": "boneOutline"
+      "identifier": "boneOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "bone-solid": {
       "codepoint": 57439,
       "fontFamily": "Flowbite",
-      "identifier": "boneSolid"
+      "identifier": "boneSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "book-open-outline": {
       "codepoint": 57440,
       "fontFamily": "Flowbite",
-      "identifier": "bookOpenOutline"
+      "identifier": "bookOpenOutline",
+      "categories": [
+        "General"
+      ]
     },
     "book-open-reader-outline": {
       "codepoint": 57441,
       "fontFamily": "Flowbite",
-      "identifier": "bookOpenReaderOutline"
+      "identifier": "bookOpenReaderOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "book-open-reader-solid": {
       "codepoint": 57442,
       "fontFamily": "Flowbite",
-      "identifier": "bookOpenReaderSolid"
+      "identifier": "bookOpenReaderSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "book-open-solid": {
       "codepoint": 57443,
       "fontFamily": "Flowbite",
-      "identifier": "bookOpenSolid"
+      "identifier": "bookOpenSolid",
+      "categories": [
+        "General"
+      ]
     },
     "book-outline": {
       "codepoint": 57444,
       "fontFamily": "Flowbite",
-      "identifier": "bookOutline"
+      "identifier": "bookOutline",
+      "categories": [
+        "General"
+      ]
     },
     "book-solid": {
       "codepoint": 57445,
       "fontFamily": "Flowbite",
-      "identifier": "bookSolid"
+      "identifier": "bookSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bookmark-outline": {
       "codepoint": 57446,
       "fontFamily": "Flowbite",
-      "identifier": "bookmarkOutline"
+      "identifier": "bookmarkOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bookmark-solid": {
       "codepoint": 57447,
       "fontFamily": "Flowbite",
-      "identifier": "bookmarkSolid"
+      "identifier": "bookmarkSolid",
+      "categories": [
+        "General"
+      ]
     },
     "booth-curtain-outline": {
       "codepoint": 57448,
       "fontFamily": "Flowbite",
-      "identifier": "boothCurtainOutline"
+      "identifier": "boothCurtainOutline",
+      "categories": [
+        "General"
+      ]
     },
     "booth-curtain-solid": {
       "codepoint": 57449,
       "fontFamily": "Flowbite",
-      "identifier": "boothCurtainSolid"
+      "identifier": "boothCurtainSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bowl-food-outline": {
       "codepoint": 57450,
       "fontFamily": "Flowbite",
-      "identifier": "bowlFoodOutline"
+      "identifier": "bowlFoodOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "bowl-food-solid": {
       "codepoint": 57451,
       "fontFamily": "Flowbite",
-      "identifier": "bowlFoodSolid"
+      "identifier": "bowlFoodSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "bowl-rice-outline": {
       "codepoint": 57452,
       "fontFamily": "Flowbite",
-      "identifier": "bowlRiceOutline"
+      "identifier": "bowlRiceOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "bowl-rice-solid": {
       "codepoint": 57453,
       "fontFamily": "Flowbite",
-      "identifier": "bowlRiceSolid"
+      "identifier": "bowlRiceSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "brain-outline": {
       "codepoint": 57454,
       "fontFamily": "Flowbite",
-      "identifier": "brainOutline"
+      "identifier": "brainOutline",
+      "categories": [
+        "General"
+      ]
     },
     "brain-solid": {
       "codepoint": 57455,
       "fontFamily": "Flowbite",
-      "identifier": "brainSolid"
+      "identifier": "brainSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bread-slice-outline": {
       "codepoint": 57456,
       "fontFamily": "Flowbite",
-      "identifier": "breadSliceOutline"
+      "identifier": "breadSliceOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "bread-slice-solid": {
       "codepoint": 57457,
       "fontFamily": "Flowbite",
-      "identifier": "breadSliceSolid"
+      "identifier": "breadSliceSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "briefcase-outline": {
       "codepoint": 57458,
       "fontFamily": "Flowbite",
-      "identifier": "briefcaseOutline"
+      "identifier": "briefcaseOutline",
+      "categories": [
+        "General"
+      ]
     },
     "briefcase-solid": {
       "codepoint": 57459,
       "fontFamily": "Flowbite",
-      "identifier": "briefcaseSolid"
+      "identifier": "briefcaseSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bug-outline": {
       "codepoint": 57460,
       "fontFamily": "Flowbite",
-      "identifier": "bugOutline"
+      "identifier": "bugOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bug-solid": {
       "codepoint": 57461,
       "fontFamily": "Flowbite",
-      "identifier": "bugSolid"
+      "identifier": "bugSolid",
+      "categories": [
+        "General"
+      ]
     },
     "building-outline": {
       "codepoint": 57462,
       "fontFamily": "Flowbite",
-      "identifier": "buildingOutline"
+      "identifier": "buildingOutline",
+      "categories": [
+        "General"
+      ]
     },
     "building-solid": {
       "codepoint": 57463,
       "fontFamily": "Flowbite",
-      "identifier": "buildingSolid"
+      "identifier": "buildingSolid",
+      "categories": [
+        "General"
+      ]
     },
     "bullhorn-outline": {
       "codepoint": 57464,
       "fontFamily": "Flowbite",
-      "identifier": "bullhornOutline"
+      "identifier": "bullhornOutline",
+      "categories": [
+        "General"
+      ]
     },
     "bullhorn-solid": {
       "codepoint": 57465,
       "fontFamily": "Flowbite",
-      "identifier": "bullhornSolid"
+      "identifier": "bullhornSolid",
+      "categories": [
+        "General"
+      ]
     },
     "burger-outline": {
       "codepoint": 57466,
       "fontFamily": "Flowbite",
-      "identifier": "burgerOutline"
+      "identifier": "burgerOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "burger-solid": {
       "codepoint": 57467,
       "fontFamily": "Flowbite",
-      "identifier": "burgerSolid"
+      "identifier": "burgerSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "cake-candles-outline": {
       "codepoint": 57468,
       "fontFamily": "Flowbite",
-      "identifier": "cakeCandlesOutline"
+      "identifier": "cakeCandlesOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "cake-candles-solid": {
       "codepoint": 57469,
       "fontFamily": "Flowbite",
-      "identifier": "cakeCandlesSolid"
+      "identifier": "cakeCandlesSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "calendar-edit-outline": {
       "codepoint": 57470,
       "fontFamily": "Flowbite",
-      "identifier": "calendarEditOutline"
+      "identifier": "calendarEditOutline",
+      "categories": [
+        "General"
+      ]
     },
     "calendar-edit-solid": {
       "codepoint": 57471,
       "fontFamily": "Flowbite",
-      "identifier": "calendarEditSolid"
+      "identifier": "calendarEditSolid",
+      "categories": [
+        "General"
+      ]
     },
     "calendar-month-outline": {
       "codepoint": 57472,
       "fontFamily": "Flowbite",
-      "identifier": "calendarMonthOutline"
+      "identifier": "calendarMonthOutline",
+      "categories": [
+        "General"
+      ]
     },
     "calendar-month-solid": {
       "codepoint": 57473,
       "fontFamily": "Flowbite",
-      "identifier": "calendarMonthSolid"
+      "identifier": "calendarMonthSolid",
+      "categories": [
+        "General"
+      ]
     },
     "calendar-plus-outline": {
       "codepoint": 57474,
       "fontFamily": "Flowbite",
-      "identifier": "calendarPlusOutline"
+      "identifier": "calendarPlusOutline",
+      "categories": [
+        "General"
+      ]
     },
     "calendar-plus-solid": {
       "codepoint": 57475,
       "fontFamily": "Flowbite",
-      "identifier": "calendarPlusSolid"
+      "identifier": "calendarPlusSolid",
+      "categories": [
+        "General"
+      ]
     },
     "calendar-week-outline": {
       "codepoint": 57476,
       "fontFamily": "Flowbite",
-      "identifier": "calendarWeekOutline"
+      "identifier": "calendarWeekOutline",
+      "categories": [
+        "General"
+      ]
     },
     "calendar-week-solid": {
       "codepoint": 57477,
       "fontFamily": "Flowbite",
-      "identifier": "calendarWeekSolid"
+      "identifier": "calendarWeekSolid",
+      "categories": [
+        "General"
+      ]
     },
     "camera-foto-outline": {
       "codepoint": 57478,
@@ -712,32 +1062,50 @@
     "camera-photo-outline": {
       "codepoint": 57480,
       "fontFamily": "Flowbite",
-      "identifier": "cameraPhotoOutline"
+      "identifier": "cameraPhotoOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "camera-photo-solid": {
       "codepoint": 57481,
       "fontFamily": "Flowbite",
-      "identifier": "cameraPhotoSolid"
+      "identifier": "cameraPhotoSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "candy-cane-outline": {
       "codepoint": 57482,
       "fontFamily": "Flowbite",
-      "identifier": "candyCaneOutline"
+      "identifier": "candyCaneOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "candy-cane-solid": {
       "codepoint": 57483,
       "fontFamily": "Flowbite",
-      "identifier": "candyCaneSolid"
+      "identifier": "candyCaneSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "caption-outline": {
       "codepoint": 57484,
       "fontFamily": "Flowbite",
-      "identifier": "captionOutline"
+      "identifier": "captionOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "caption-solid": {
       "codepoint": 57485,
       "fontFamily": "Flowbite",
-      "identifier": "captionSolid"
+      "identifier": "captionSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "captioning-outline": {
       "codepoint": 57486,
@@ -752,157 +1120,250 @@
     "caret-down-outline": {
       "codepoint": 57488,
       "fontFamily": "Flowbite",
-      "identifier": "caretDownOutline"
+      "identifier": "caretDownOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "caret-down-solid": {
       "codepoint": 57489,
       "fontFamily": "Flowbite",
-      "identifier": "caretDownSolid"
+      "identifier": "caretDownSolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "caret-left-outline": {
       "codepoint": 57490,
       "fontFamily": "Flowbite",
-      "identifier": "caretLeftOutline"
+      "identifier": "caretLeftOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "caret-left-solid": {
       "codepoint": 57491,
       "fontFamily": "Flowbite",
-      "identifier": "caretLeftSolid"
+      "identifier": "caretLeftSolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "caret-right-outline": {
       "codepoint": 57492,
       "fontFamily": "Flowbite",
-      "identifier": "caretRightOutline"
+      "identifier": "caretRightOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "caret-right-solid": {
       "codepoint": 57493,
       "fontFamily": "Flowbite",
-      "identifier": "caretRightSolid"
+      "identifier": "caretRightSolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "caret-sort-outline": {
       "codepoint": 57494,
       "fontFamily": "Flowbite",
-      "identifier": "caretSortOutline"
+      "identifier": "caretSortOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "caret-sort-solid": {
       "codepoint": 57495,
       "fontFamily": "Flowbite",
-      "identifier": "caretSortSolid"
+      "identifier": "caretSortSolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "caret-up-outline": {
       "codepoint": 57496,
       "fontFamily": "Flowbite",
-      "identifier": "caretUpOutline"
+      "identifier": "caretUpOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "caret-up-solid": {
       "codepoint": 57497,
       "fontFamily": "Flowbite",
-      "identifier": "caretUpSolid"
+      "identifier": "caretUpSolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "carrot-outline": {
       "codepoint": 57498,
       "fontFamily": "Flowbite",
-      "identifier": "carrotOutline"
+      "identifier": "carrotOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "carrot-solid": {
       "codepoint": 57499,
       "fontFamily": "Flowbite",
-      "identifier": "carrotSolid"
+      "identifier": "carrotSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "cart-outline": {
       "codepoint": 57500,
       "fontFamily": "Flowbite",
-      "identifier": "cartOutline"
+      "identifier": "cartOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cart-plus-alt-outline": {
       "codepoint": 57501,
       "fontFamily": "Flowbite",
-      "identifier": "cartPlusAltOutline"
+      "identifier": "cartPlusAltOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cart-plus-alt-solid": {
       "codepoint": 57502,
       "fontFamily": "Flowbite",
-      "identifier": "cartPlusAltSolid"
+      "identifier": "cartPlusAltSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cart-plus-outline": {
       "codepoint": 57503,
       "fontFamily": "Flowbite",
-      "identifier": "cartPlusOutline"
+      "identifier": "cartPlusOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cart-plus-solid": {
       "codepoint": 57504,
       "fontFamily": "Flowbite",
-      "identifier": "cartPlusSolid"
+      "identifier": "cartPlusSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cart-solid": {
       "codepoint": 57505,
       "fontFamily": "Flowbite",
-      "identifier": "cartSolid"
+      "identifier": "cartSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cash-outline": {
       "codepoint": 57506,
       "fontFamily": "Flowbite",
-      "identifier": "cashOutline"
+      "identifier": "cashOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cash-register-outline": {
       "codepoint": 57507,
       "fontFamily": "Flowbite",
-      "identifier": "cashRegisterOutline"
+      "identifier": "cashRegisterOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cash-register-solid": {
       "codepoint": 57508,
       "fontFamily": "Flowbite",
-      "identifier": "cashRegisterSolid"
+      "identifier": "cashRegisterSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cash-solid": {
       "codepoint": 57509,
       "fontFamily": "Flowbite",
-      "identifier": "cashSolid"
+      "identifier": "cashSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "cell-attributes-outline": {
       "codepoint": 57510,
       "fontFamily": "Flowbite",
-      "identifier": "cellAttributesOutline"
+      "identifier": "cellAttributesOutline",
+      "categories": [
+        "General"
+      ]
     },
     "chalkboard-outline": {
       "codepoint": 57511,
       "fontFamily": "Flowbite",
-      "identifier": "chalkboardOutline"
+      "identifier": "chalkboardOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "chalkboard-solid": {
       "codepoint": 57512,
       "fontFamily": "Flowbite",
-      "identifier": "chalkboardSolid"
+      "identifier": "chalkboardSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "chalkboard-user-outline": {
       "codepoint": 57513,
       "fontFamily": "Flowbite",
-      "identifier": "chalkboardUserOutline"
+      "identifier": "chalkboardUserOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "chalkboard-user-solid": {
       "codepoint": 57514,
       "fontFamily": "Flowbite",
-      "identifier": "chalkboardUserSolid"
+      "identifier": "chalkboardUserSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "champagne-glasses-outline": {
       "codepoint": 57515,
       "fontFamily": "Flowbite",
-      "identifier": "champagneGlassesOutline"
+      "identifier": "champagneGlassesOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "champagne-glasses-solid": {
       "codepoint": 57516,
       "fontFamily": "Flowbite",
-      "identifier": "champagneGlassesSolid"
+      "identifier": "champagneGlassesSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "chart-line-down-outline": {
       "codepoint": 57517,
       "fontFamily": "Flowbite",
-      "identifier": "chartLineDownOutline"
+      "identifier": "chartLineDownOutline",
+      "categories": [
+        "General"
+      ]
     },
     "chart-line-up-outline": {
       "codepoint": 57518,
       "fontFamily": "Flowbite",
-      "identifier": "chartLineUpOutline"
+      "identifier": "chartLineUpOutline",
+      "categories": [
+        "General"
+      ]
     },
     "chart-line-up-solid": {
       "codepoint": 57519,
@@ -912,37 +1373,56 @@
     "chart-mixed-dollar-outline": {
       "codepoint": 57520,
       "fontFamily": "Flowbite",
-      "identifier": "chartMixedDollarOutline"
+      "identifier": "chartMixedDollarOutline",
+      "categories": [
+        "General"
+      ]
     },
     "chart-mixed-dollar-solid": {
       "codepoint": 57521,
       "fontFamily": "Flowbite",
-      "identifier": "chartMixedDollarSolid"
+      "identifier": "chartMixedDollarSolid",
+      "categories": [
+        "General"
+      ]
     },
     "chart-mixed-outline": {
       "codepoint": 57522,
       "fontFamily": "Flowbite",
-      "identifier": "chartMixedOutline"
+      "identifier": "chartMixedOutline",
+      "categories": [
+        "General"
+      ]
     },
     "chart-mixed-solid": {
-      "codepoint": 57523,
+      "codepoint": 57522,
       "fontFamily": "Flowbite",
-      "identifier": "chartMixedSolid"
+      "identifier": "chartMixedSolid",
+      "aliasOf": "chart-mixed-outline"
     },
     "chart-outline": {
       "codepoint": 57524,
       "fontFamily": "Flowbite",
-      "identifier": "chartOutline"
+      "identifier": "chartOutline",
+      "categories": [
+        "General"
+      ]
     },
     "chart-pie-outline": {
       "codepoint": 57525,
       "fontFamily": "Flowbite",
-      "identifier": "chartPieOutline"
+      "identifier": "chartPieOutline",
+      "categories": [
+        "General"
+      ]
     },
     "chart-pie-solid": {
       "codepoint": 57526,
       "fontFamily": "Flowbite",
-      "identifier": "chartPieSolid"
+      "identifier": "chartPieSolid",
+      "categories": [
+        "General"
+      ]
     },
     "chart-solid": {
       "codepoint": 57527,
@@ -952,27 +1432,42 @@
     "check-circle-outline": {
       "codepoint": 57528,
       "fontFamily": "Flowbite",
-      "identifier": "checkCircleOutline"
+      "identifier": "checkCircleOutline",
+      "categories": [
+        "General"
+      ]
     },
     "check-circle-solid": {
       "codepoint": 57529,
       "fontFamily": "Flowbite",
-      "identifier": "checkCircleSolid"
+      "identifier": "checkCircleSolid",
+      "categories": [
+        "General"
+      ]
     },
     "check-outline": {
       "codepoint": 57530,
       "fontFamily": "Flowbite",
-      "identifier": "checkOutline"
+      "identifier": "checkOutline",
+      "categories": [
+        "General"
+      ]
     },
     "check-plus-circle-outline": {
       "codepoint": 57531,
       "fontFamily": "Flowbite",
-      "identifier": "checkPlusCircleOutline"
+      "identifier": "checkPlusCircleOutline",
+      "categories": [
+        "General"
+      ]
     },
     "check-plus-circle-solid": {
       "codepoint": 57532,
       "fontFamily": "Flowbite",
-      "identifier": "checkPlusCircleSolid"
+      "identifier": "checkPlusCircleSolid",
+      "categories": [
+        "General"
+      ]
     },
     "check-solid": {
       "codepoint": 57533,
@@ -982,237 +1477,358 @@
     "cheese-outline": {
       "codepoint": 57534,
       "fontFamily": "Flowbite",
-      "identifier": "cheeseOutline"
+      "identifier": "cheeseOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "cheese-solid": {
       "codepoint": 57535,
       "fontFamily": "Flowbite",
-      "identifier": "cheeseSolid"
+      "identifier": "cheeseSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "chevron-double-down-outline": {
       "codepoint": 57536,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDoubleDownOutline"
+      "identifier": "chevronDoubleDownOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "chevron-double-down-solid": {
-      "codepoint": 57537,
+      "codepoint": 57536,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDoubleDownSolid"
+      "identifier": "chevronDoubleDownSolid",
+      "aliasOf": "chevron-double-down-outline"
     },
     "chevron-double-left-outline": {
       "codepoint": 57538,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDoubleLeftOutline"
+      "identifier": "chevronDoubleLeftOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "chevron-double-left-solid": {
-      "codepoint": 57539,
+      "codepoint": 57538,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDoubleLeftSolid"
+      "identifier": "chevronDoubleLeftSolid",
+      "aliasOf": "chevron-double-left-outline"
     },
     "chevron-double-right-outline": {
       "codepoint": 57540,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDoubleRightOutline"
+      "identifier": "chevronDoubleRightOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "chevron-double-right-solid": {
-      "codepoint": 57541,
+      "codepoint": 57540,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDoubleRightSolid"
+      "identifier": "chevronDoubleRightSolid",
+      "aliasOf": "chevron-double-right-outline"
     },
     "chevron-double-up-outline": {
       "codepoint": 57542,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDoubleUpOutline"
+      "identifier": "chevronDoubleUpOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "chevron-double-up-solid": {
-      "codepoint": 57543,
+      "codepoint": 57542,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDoubleUpSolid"
+      "identifier": "chevronDoubleUpSolid",
+      "aliasOf": "chevron-double-up-outline"
     },
     "chevron-down-outline": {
       "codepoint": 57544,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDownOutline"
+      "identifier": "chevronDownOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "chevron-down-solid": {
-      "codepoint": 57545,
+      "codepoint": 57544,
       "fontFamily": "Flowbite",
-      "identifier": "chevronDownSolid"
+      "identifier": "chevronDownSolid",
+      "aliasOf": "chevron-down-outline"
     },
     "chevron-left-outline": {
       "codepoint": 57546,
       "fontFamily": "Flowbite",
-      "identifier": "chevronLeftOutline"
+      "identifier": "chevronLeftOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "chevron-left-solid": {
-      "codepoint": 57547,
+      "codepoint": 57546,
       "fontFamily": "Flowbite",
-      "identifier": "chevronLeftSolid"
+      "identifier": "chevronLeftSolid",
+      "aliasOf": "chevron-left-outline"
     },
     "chevron-right-outline": {
       "codepoint": 57548,
       "fontFamily": "Flowbite",
-      "identifier": "chevronRightOutline"
+      "identifier": "chevronRightOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "chevron-right-solid": {
-      "codepoint": 57549,
+      "codepoint": 57548,
       "fontFamily": "Flowbite",
-      "identifier": "chevronRightSolid"
+      "identifier": "chevronRightSolid",
+      "aliasOf": "chevron-right-outline"
     },
     "chevron-sort-outline": {
       "codepoint": 57550,
       "fontFamily": "Flowbite",
-      "identifier": "chevronSortOutline"
+      "identifier": "chevronSortOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "chevron-sort-solid": {
-      "codepoint": 57551,
+      "codepoint": 57550,
       "fontFamily": "Flowbite",
-      "identifier": "chevronSortSolid"
+      "identifier": "chevronSortSolid",
+      "aliasOf": "chevron-sort-outline"
     },
     "chevron-up-outline": {
       "codepoint": 57552,
       "fontFamily": "Flowbite",
-      "identifier": "chevronUpOutline"
+      "identifier": "chevronUpOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "chevron-up-solid": {
-      "codepoint": 57553,
+      "codepoint": 57552,
       "fontFamily": "Flowbite",
-      "identifier": "chevronUpSolid"
+      "identifier": "chevronUpSolid",
+      "aliasOf": "chevron-up-outline"
     },
     "circle-check-solid": {
-      "codepoint": 57554,
+      "codepoint": 57529,
       "fontFamily": "Flowbite",
-      "identifier": "circleCheckSolid"
+      "identifier": "circleCheckSolid",
+      "aliasOf": "check-circle-solid"
     },
     "circle-minus-outline": {
       "codepoint": 57555,
       "fontFamily": "Flowbite",
-      "identifier": "circleMinusOutline"
+      "identifier": "circleMinusOutline",
+      "categories": [
+        "General"
+      ]
     },
     "circle-minus-solid": {
       "codepoint": 57556,
       "fontFamily": "Flowbite",
-      "identifier": "circleMinusSolid"
+      "identifier": "circleMinusSolid",
+      "categories": [
+        "General"
+      ]
     },
     "circle-pause-outline": {
       "codepoint": 57557,
       "fontFamily": "Flowbite",
-      "identifier": "circlePauseOutline"
+      "identifier": "circlePauseOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "circle-pause-solid": {
       "codepoint": 57558,
       "fontFamily": "Flowbite",
-      "identifier": "circlePauseSolid"
+      "identifier": "circlePauseSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "circle-plus-outline": {
       "codepoint": 57559,
       "fontFamily": "Flowbite",
-      "identifier": "circlePlusOutline"
+      "identifier": "circlePlusOutline",
+      "categories": [
+        "General"
+      ]
     },
     "circle-plus-solid": {
       "codepoint": 57560,
       "fontFamily": "Flowbite",
-      "identifier": "circlePlusSolid"
+      "identifier": "circlePlusSolid",
+      "categories": [
+        "General"
+      ]
     },
     "clapperboard-play-outline": {
       "codepoint": 57561,
       "fontFamily": "Flowbite",
-      "identifier": "clapperboardPlayOutline"
+      "identifier": "clapperboardPlayOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "clapperboard-play-solid": {
       "codepoint": 57562,
       "fontFamily": "Flowbite",
-      "identifier": "clapperboardPlaySolid"
+      "identifier": "clapperboardPlaySolid",
+      "categories": [
+        "Media"
+      ]
     },
     "clipboard-check-outline": {
       "codepoint": 57563,
       "fontFamily": "Flowbite",
-      "identifier": "clipboardCheckOutline"
+      "identifier": "clipboardCheckOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "clipboard-check-solid": {
       "codepoint": 57564,
       "fontFamily": "Flowbite",
-      "identifier": "clipboardCheckSolid"
+      "identifier": "clipboardCheckSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "clipboard-clean-outline": {
       "codepoint": 57565,
       "fontFamily": "Flowbite",
-      "identifier": "clipboardCleanOutline"
+      "identifier": "clipboardCleanOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "clipboard-clean-solid": {
       "codepoint": 57566,
       "fontFamily": "Flowbite",
-      "identifier": "clipboardCleanSolid"
+      "identifier": "clipboardCleanSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "clipboard-list-outline": {
       "codepoint": 57567,
       "fontFamily": "Flowbite",
-      "identifier": "clipboardListOutline"
+      "identifier": "clipboardListOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "clipboard-list-solid": {
       "codepoint": 57568,
       "fontFamily": "Flowbite",
-      "identifier": "clipboardListSolid"
+      "identifier": "clipboardListSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "clipboard-outline": {
       "codepoint": 57569,
       "fontFamily": "Flowbite",
-      "identifier": "clipboardOutline"
+      "identifier": "clipboardOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "clipboard-solid": {
       "codepoint": 57570,
       "fontFamily": "Flowbite",
-      "identifier": "clipboardSolid"
+      "identifier": "clipboardSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "clock-arrow-outline": {
       "codepoint": 57571,
       "fontFamily": "Flowbite",
-      "identifier": "clockArrowOutline"
+      "identifier": "clockArrowOutline",
+      "categories": [
+        "General"
+      ]
     },
     "clock-outline": {
       "codepoint": 57572,
       "fontFamily": "Flowbite",
-      "identifier": "clockOutline"
+      "identifier": "clockOutline",
+      "categories": [
+        "General"
+      ]
     },
     "clock-solid": {
       "codepoint": 57573,
       "fontFamily": "Flowbite",
-      "identifier": "clockSolid"
+      "identifier": "clockSolid",
+      "categories": [
+        "General"
+      ]
     },
     "close-circle-outline": {
       "codepoint": 57574,
       "fontFamily": "Flowbite",
-      "identifier": "closeCircleOutline"
+      "identifier": "closeCircleOutline",
+      "categories": [
+        "General"
+      ]
     },
     "close-circle-solid": {
       "codepoint": 57575,
       "fontFamily": "Flowbite",
-      "identifier": "closeCircleSolid"
+      "identifier": "closeCircleSolid",
+      "categories": [
+        "General"
+      ]
     },
     "close-outline": {
       "codepoint": 57576,
       "fontFamily": "Flowbite",
-      "identifier": "closeOutline"
+      "identifier": "closeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "close-sidebar-alt-outline": {
       "codepoint": 57577,
       "fontFamily": "Flowbite",
-      "identifier": "closeSidebarAltOutline"
+      "identifier": "closeSidebarAltOutline",
+      "categories": [
+        "General"
+      ]
     },
     "close-sidebar-alt-solid": {
       "codepoint": 57578,
       "fontFamily": "Flowbite",
-      "identifier": "closeSidebarAltSolid"
+      "identifier": "closeSidebarAltSolid",
+      "categories": [
+        "General"
+      ]
     },
     "close-sidebar-outline": {
       "codepoint": 57579,
       "fontFamily": "Flowbite",
-      "identifier": "closeSidebarOutline"
+      "identifier": "closeSidebarOutline",
+      "categories": [
+        "General"
+      ]
     },
     "close-sidebar-solid": {
       "codepoint": 57580,
       "fontFamily": "Flowbite",
-      "identifier": "closeSidebarSolid"
+      "identifier": "closeSidebarSolid",
+      "categories": [
+        "General"
+      ]
     },
     "close-solid": {
       "codepoint": 57581,
@@ -1222,67 +1838,106 @@
     "cloud-arrow-up-outline": {
       "codepoint": 57582,
       "fontFamily": "Flowbite",
-      "identifier": "cloudArrowUpOutline"
+      "identifier": "cloudArrowUpOutline",
+      "categories": [
+        "General"
+      ]
     },
     "cloud-arrow-up-solid": {
       "codepoint": 57583,
       "fontFamily": "Flowbite",
-      "identifier": "cloudArrowUpSolid"
+      "identifier": "cloudArrowUpSolid",
+      "categories": [
+        "General"
+      ]
     },
     "cloud-meatball-outline": {
       "codepoint": 57584,
       "fontFamily": "Flowbite",
-      "identifier": "cloudMeatballOutline"
+      "identifier": "cloudMeatballOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "cloud-meatball-solid": {
       "codepoint": 57585,
       "fontFamily": "Flowbite",
-      "identifier": "cloudMeatballSolid"
+      "identifier": "cloudMeatballSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "code-branch-outline": {
       "codepoint": 57586,
       "fontFamily": "Flowbite",
-      "identifier": "codeBranchOutline"
+      "identifier": "codeBranchOutline",
+      "categories": [
+        "General"
+      ]
     },
     "code-branch-solid": {
       "codepoint": 57587,
       "fontFamily": "Flowbite",
-      "identifier": "codeBranchSolid"
+      "identifier": "codeBranchSolid",
+      "categories": [
+        "General"
+      ]
     },
     "code-fork-outline": {
       "codepoint": 57588,
       "fontFamily": "Flowbite",
-      "identifier": "codeForkOutline"
+      "identifier": "codeForkOutline",
+      "categories": [
+        "General"
+      ]
     },
     "code-fork-solid": {
       "codepoint": 57589,
       "fontFamily": "Flowbite",
-      "identifier": "codeForkSolid"
+      "identifier": "codeForkSolid",
+      "categories": [
+        "General"
+      ]
     },
     "code-merge-outline": {
       "codepoint": 57590,
       "fontFamily": "Flowbite",
-      "identifier": "codeMergeOutline"
+      "identifier": "codeMergeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "code-merge-solid": {
       "codepoint": 57591,
       "fontFamily": "Flowbite",
-      "identifier": "codeMergeSolid"
+      "identifier": "codeMergeSolid",
+      "categories": [
+        "General"
+      ]
     },
     "code-outline": {
       "codepoint": 57592,
       "fontFamily": "Flowbite",
-      "identifier": "codeOutline"
+      "identifier": "codeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "code-pull-request-outline": {
       "codepoint": 57593,
       "fontFamily": "Flowbite",
-      "identifier": "codePullRequestOutline"
+      "identifier": "codePullRequestOutline",
+      "categories": [
+        "General"
+      ]
     },
     "code-pull-request-solid": {
       "codepoint": 57594,
       "fontFamily": "Flowbite",
-      "identifier": "codePullRequestSolid"
+      "identifier": "codePullRequestSolid",
+      "categories": [
+        "General"
+      ]
     },
     "code-solid": {
       "codepoint": 57595,
@@ -1292,27 +1947,42 @@
     "cog-outline": {
       "codepoint": 57596,
       "fontFamily": "Flowbite",
-      "identifier": "cogOutline"
+      "identifier": "cogOutline",
+      "categories": [
+        "General"
+      ]
     },
     "cog-solid": {
       "codepoint": 57597,
       "fontFamily": "Flowbite",
-      "identifier": "cogSolid"
+      "identifier": "cogSolid",
+      "categories": [
+        "General"
+      ]
     },
     "column-outline": {
       "codepoint": 57598,
       "fontFamily": "Flowbite",
-      "identifier": "columnOutline"
+      "identifier": "columnOutline",
+      "categories": [
+        "General"
+      ]
     },
     "column-solid": {
       "codepoint": 57599,
       "fontFamily": "Flowbite",
-      "identifier": "columnSolid"
+      "identifier": "columnSolid",
+      "categories": [
+        "General"
+      ]
     },
     "command-outline": {
       "codepoint": 57600,
       "fontFamily": "Flowbite",
-      "identifier": "commandOutline"
+      "identifier": "commandOutline",
+      "categories": [
+        "General"
+      ]
     },
     "command-solid": {
       "codepoint": 57601,
@@ -1322,137 +1992,214 @@
     "compress-outline": {
       "codepoint": 57602,
       "fontFamily": "Flowbite",
-      "identifier": "compressOutline"
+      "identifier": "compressOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "compress-solid": {
-      "codepoint": 57603,
+      "codepoint": 57602,
       "fontFamily": "Flowbite",
-      "identifier": "compressSolid"
+      "identifier": "compressSolid",
+      "aliasOf": "compress-outline"
     },
     "computer-speaker-outline": {
       "codepoint": 57604,
       "fontFamily": "Flowbite",
-      "identifier": "computerSpeakerOutline"
+      "identifier": "computerSpeakerOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "computer-speaker-solid": {
       "codepoint": 57605,
       "fontFamily": "Flowbite",
-      "identifier": "computerSpeakerSolid"
+      "identifier": "computerSpeakerSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "cookie-outline": {
       "codepoint": 57606,
       "fontFamily": "Flowbite",
-      "identifier": "cookieOutline"
+      "identifier": "cookieOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "cookie-solid": {
       "codepoint": 57607,
       "fontFamily": "Flowbite",
-      "identifier": "cookieSolid"
+      "identifier": "cookieSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "credit-card-outline": {
       "codepoint": 57608,
       "fontFamily": "Flowbite",
-      "identifier": "creditCardOutline"
+      "identifier": "creditCardOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "credit-card-plus-alt-outline": {
       "codepoint": 57609,
       "fontFamily": "Flowbite",
-      "identifier": "creditCardPlusAltOutline"
+      "identifier": "creditCardPlusAltOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "credit-card-plus-alt-solid": {
       "codepoint": 57610,
       "fontFamily": "Flowbite",
-      "identifier": "creditCardPlusAltSolid"
+      "identifier": "creditCardPlusAltSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "credit-card-plus-outline": {
       "codepoint": 57611,
       "fontFamily": "Flowbite",
-      "identifier": "creditCardPlusOutline"
+      "identifier": "creditCardPlusOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "credit-card-plus-solid": {
       "codepoint": 57612,
       "fontFamily": "Flowbite",
-      "identifier": "creditCardPlusSolid"
+      "identifier": "creditCardPlusSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "credit-card-solid": {
       "codepoint": 57613,
       "fontFamily": "Flowbite",
-      "identifier": "creditCardSolid"
+      "identifier": "creditCardSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "css-solid": {
       "codepoint": 57614,
       "fontFamily": "Flowbite",
-      "identifier": "cssSolid"
+      "identifier": "cssSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "cube-solid": {
       "codepoint": 57615,
       "fontFamily": "Flowbite",
-      "identifier": "cubeSolid"
+      "identifier": "cubeSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "cubes-stacked-outline": {
       "codepoint": 57616,
       "fontFamily": "Flowbite",
-      "identifier": "cubesStackedOutline"
+      "identifier": "cubesStackedOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "cubes-stacked-solid": {
       "codepoint": 57617,
       "fontFamily": "Flowbite",
-      "identifier": "cubesStackedSolid"
+      "identifier": "cubesStackedSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "database-outline": {
       "codepoint": 57618,
       "fontFamily": "Flowbite",
-      "identifier": "databaseOutline"
+      "identifier": "databaseOutline",
+      "categories": [
+        "General"
+      ]
     },
     "database-solid": {
       "codepoint": 57619,
       "fontFamily": "Flowbite",
-      "identifier": "databaseSolid"
+      "identifier": "databaseSolid",
+      "categories": [
+        "General"
+      ]
     },
     "delete-column-outline": {
       "codepoint": 57620,
       "fontFamily": "Flowbite",
-      "identifier": "deleteColumnOutline"
+      "identifier": "deleteColumnOutline",
+      "categories": [
+        "General"
+      ]
     },
     "delete-row-outline": {
       "codepoint": 57621,
       "fontFamily": "Flowbite",
-      "identifier": "deleteRowOutline"
+      "identifier": "deleteRowOutline",
+      "categories": [
+        "General"
+      ]
     },
     "delete-table-outline": {
       "codepoint": 57622,
       "fontFamily": "Flowbite",
-      "identifier": "deleteTableOutline"
+      "identifier": "deleteTableOutline",
+      "categories": [
+        "General"
+      ]
     },
     "desktop-pc-outline": {
       "codepoint": 57623,
       "fontFamily": "Flowbite",
-      "identifier": "desktopPcOutline"
+      "identifier": "desktopPcOutline",
+      "categories": [
+        "General"
+      ]
     },
     "desktop-pc-solid": {
       "codepoint": 57624,
       "fontFamily": "Flowbite",
-      "identifier": "desktopPcSolid"
+      "identifier": "desktopPcSolid",
+      "categories": [
+        "General"
+      ]
     },
     "discord-solid": {
       "codepoint": 57625,
       "fontFamily": "Flowbite",
-      "identifier": "discordSolid"
+      "identifier": "discordSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "dna-outline": {
       "codepoint": 57626,
       "fontFamily": "Flowbite",
-      "identifier": "dnaOutline"
+      "identifier": "dnaOutline",
+      "categories": [
+        "General"
+      ]
     },
     "dna-solid": {
-      "codepoint": 57627,
+      "codepoint": 58110,
       "fontFamily": "Flowbite",
-      "identifier": "dnaSolid"
+      "identifier": "dnaSolid",
+      "aliasOf": "truck-solid"
     },
     "dollar-outline": {
       "codepoint": 57628,
       "fontFamily": "Flowbite",
-      "identifier": "dollarOutline"
+      "identifier": "dollarOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "dollar-solid": {
       "codepoint": 57629,
@@ -1462,7 +2209,10 @@
     "dots-horizontal-outline": {
       "codepoint": 57630,
       "fontFamily": "Flowbite",
-      "identifier": "dotsHorizontalOutline"
+      "identifier": "dotsHorizontalOutline",
+      "categories": [
+        "General"
+      ]
     },
     "dots-horizontal-solid": {
       "codepoint": 57631,
@@ -1472,7 +2222,10 @@
     "dots-vertical-outline": {
       "codepoint": 57632,
       "fontFamily": "Flowbite",
-      "identifier": "dotsVerticalOutline"
+      "identifier": "dotsVerticalOutline",
+      "categories": [
+        "General"
+      ]
     },
     "dots-vertical-solid": {
       "codepoint": 57633,
@@ -1482,107 +2235,170 @@
     "download-outline": {
       "codepoint": 57634,
       "fontFamily": "Flowbite",
-      "identifier": "downloadOutline"
+      "identifier": "downloadOutline",
+      "categories": [
+        "General"
+      ]
     },
     "download-solid": {
       "codepoint": 57635,
       "fontFamily": "Flowbite",
-      "identifier": "downloadSolid"
+      "identifier": "downloadSolid",
+      "categories": [
+        "General"
+      ]
     },
     "draw-square-outline": {
       "codepoint": 57636,
       "fontFamily": "Flowbite",
-      "identifier": "drawSquareOutline"
+      "identifier": "drawSquareOutline",
+      "categories": [
+        "General"
+      ]
     },
     "draw-square-solid": {
       "codepoint": 57637,
       "fontFamily": "Flowbite",
-      "identifier": "drawSquareSolid"
+      "identifier": "drawSquareSolid",
+      "categories": [
+        "General"
+      ]
     },
     "dribbble-solid": {
       "codepoint": 57638,
       "fontFamily": "Flowbite",
-      "identifier": "dribbbleSolid"
+      "identifier": "dribbbleSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "dropbox-solid": {
       "codepoint": 57639,
       "fontFamily": "Flowbite",
-      "identifier": "dropboxSolid"
+      "identifier": "dropboxSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "droplet-bottle-alt-outline": {
       "codepoint": 57640,
       "fontFamily": "Flowbite",
-      "identifier": "dropletBottleAltOutline"
+      "identifier": "dropletBottleAltOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "droplet-bottle-alt-solid": {
       "codepoint": 57641,
       "fontFamily": "Flowbite",
-      "identifier": "dropletBottleAltSolid"
+      "identifier": "dropletBottleAltSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "droplet-bottle-outline": {
       "codepoint": 57642,
       "fontFamily": "Flowbite",
-      "identifier": "dropletBottleOutline"
+      "identifier": "dropletBottleOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "droplet-bottle-solid": {
       "codepoint": 57643,
       "fontFamily": "Flowbite",
-      "identifier": "dropletBottleSolid"
+      "identifier": "dropletBottleSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "drumstick-bite-outline": {
       "codepoint": 57644,
       "fontFamily": "Flowbite",
-      "identifier": "drumstickBiteOutline"
+      "identifier": "drumstickBiteOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "drumstick-bite-solid": {
       "codepoint": 57645,
       "fontFamily": "Flowbite",
-      "identifier": "drumstickBiteSolid"
+      "identifier": "drumstickBiteSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "edit-outline": {
       "codepoint": 57646,
       "fontFamily": "Flowbite",
-      "identifier": "editOutline"
+      "identifier": "editOutline",
+      "categories": [
+        "General"
+      ]
     },
     "edit-solid": {
       "codepoint": 57647,
       "fontFamily": "Flowbite",
-      "identifier": "editSolid"
+      "identifier": "editSolid",
+      "categories": [
+        "General"
+      ]
     },
     "egg-outline": {
       "codepoint": 57648,
       "fontFamily": "Flowbite",
-      "identifier": "eggOutline"
+      "identifier": "eggOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "egg-solid": {
       "codepoint": 57649,
       "fontFamily": "Flowbite",
-      "identifier": "eggSolid"
+      "identifier": "eggSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "envelope-open-outline": {
       "codepoint": 57650,
       "fontFamily": "Flowbite",
-      "identifier": "envelopeOpenOutline"
+      "identifier": "envelopeOpenOutline",
+      "categories": [
+        "General"
+      ]
     },
     "envelope-open-solid": {
       "codepoint": 57651,
       "fontFamily": "Flowbite",
-      "identifier": "envelopeOpenSolid"
+      "identifier": "envelopeOpenSolid",
+      "categories": [
+        "General"
+      ]
     },
     "envelope-outline": {
       "codepoint": 57652,
       "fontFamily": "Flowbite",
-      "identifier": "envelopeOutline"
+      "identifier": "envelopeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "envelope-solid": {
       "codepoint": 57653,
       "fontFamily": "Flowbite",
-      "identifier": "envelopeSolid"
+      "identifier": "envelopeSolid",
+      "categories": [
+        "General"
+      ]
     },
     "euro-outline": {
       "codepoint": 57654,
       "fontFamily": "Flowbite",
-      "identifier": "euroOutline"
+      "identifier": "euroOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "euro-solid": {
       "codepoint": 57655,
@@ -1592,17 +2408,26 @@
     "exclamation-circle-outline": {
       "codepoint": 57656,
       "fontFamily": "Flowbite",
-      "identifier": "exclamationCircleOutline"
+      "identifier": "exclamationCircleOutline",
+      "categories": [
+        "General"
+      ]
     },
     "exclamation-circle-solid": {
       "codepoint": 57657,
       "fontFamily": "Flowbite",
-      "identifier": "exclamationCircleSolid"
+      "identifier": "exclamationCircleSolid",
+      "categories": [
+        "General"
+      ]
     },
     "expand-outline": {
       "codepoint": 57658,
       "fontFamily": "Flowbite",
-      "identifier": "expandOutline"
+      "identifier": "expandOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "expand-solid": {
       "codepoint": 57659,
@@ -1612,172 +2437,272 @@
     "eye-outline": {
       "codepoint": 57660,
       "fontFamily": "Flowbite",
-      "identifier": "eyeOutline"
+      "identifier": "eyeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "eye-slash-outline": {
       "codepoint": 57661,
       "fontFamily": "Flowbite",
-      "identifier": "eyeSlashOutline"
+      "identifier": "eyeSlashOutline",
+      "categories": [
+        "General"
+      ]
     },
     "eye-slash-solid": {
       "codepoint": 57662,
       "fontFamily": "Flowbite",
-      "identifier": "eyeSlashSolid"
+      "identifier": "eyeSlashSolid",
+      "categories": [
+        "General"
+      ]
     },
     "eye-solid": {
       "codepoint": 57663,
       "fontFamily": "Flowbite",
-      "identifier": "eyeSolid"
+      "identifier": "eyeSolid",
+      "categories": [
+        "General"
+      ]
     },
     "face-explode-outline": {
       "codepoint": 57664,
       "fontFamily": "Flowbite",
-      "identifier": "faceExplodeOutline"
+      "identifier": "faceExplodeOutline",
+      "categories": [
+        "Emoji"
+      ]
     },
     "face-explode-solid": {
       "codepoint": 57665,
       "fontFamily": "Flowbite",
-      "identifier": "faceExplodeSolid"
+      "identifier": "faceExplodeSolid",
+      "categories": [
+        "Emoji"
+      ]
     },
     "face-grin-outline": {
       "codepoint": 57666,
       "fontFamily": "Flowbite",
-      "identifier": "faceGrinOutline"
+      "identifier": "faceGrinOutline",
+      "categories": [
+        "Emoji"
+      ]
     },
     "face-grin-solid": {
       "codepoint": 57667,
       "fontFamily": "Flowbite",
-      "identifier": "faceGrinSolid"
+      "identifier": "faceGrinSolid",
+      "categories": [
+        "Emoji"
+      ]
     },
     "face-grin-stars-outline": {
       "codepoint": 57668,
       "fontFamily": "Flowbite",
-      "identifier": "faceGrinStarsOutline"
+      "identifier": "faceGrinStarsOutline",
+      "categories": [
+        "Emoji"
+      ]
     },
     "face-grin-stars-solid": {
       "codepoint": 57669,
       "fontFamily": "Flowbite",
-      "identifier": "faceGrinStarsSolid"
+      "identifier": "faceGrinStarsSolid",
+      "categories": [
+        "Emoji"
+      ]
     },
     "face-laugh-outline": {
       "codepoint": 57670,
       "fontFamily": "Flowbite",
-      "identifier": "faceLaughOutline"
+      "identifier": "faceLaughOutline",
+      "categories": [
+        "Emoji"
+      ]
     },
     "face-laugh-solid": {
       "codepoint": 57671,
       "fontFamily": "Flowbite",
-      "identifier": "faceLaughSolid"
+      "identifier": "faceLaughSolid",
+      "categories": [
+        "Emoji"
+      ]
     },
     "face-laughz-solid": {
-      "codepoint": 57672,
+      "codepoint": 57671,
       "fontFamily": "Flowbite",
-      "identifier": "faceLaughzSolid"
+      "identifier": "faceLaughzSolid",
+      "aliasOf": "face-laugh-solid"
     },
     "facebook-solid": {
       "codepoint": 57673,
       "fontFamily": "Flowbite",
-      "identifier": "facebookSolid"
+      "identifier": "facebookSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "file-chart-bar-outline": {
       "codepoint": 57674,
       "fontFamily": "Flowbite",
-      "identifier": "fileChartBarOutline"
+      "identifier": "fileChartBarOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-chart-bar-solid": {
       "codepoint": 57675,
       "fontFamily": "Flowbite",
-      "identifier": "fileChartBarSolid"
+      "identifier": "fileChartBarSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-check-outline": {
       "codepoint": 57676,
       "fontFamily": "Flowbite",
-      "identifier": "fileCheckOutline"
+      "identifier": "fileCheckOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-check-solid": {
       "codepoint": 57677,
       "fontFamily": "Flowbite",
-      "identifier": "fileCheckSolid"
+      "identifier": "fileCheckSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-circle-plus-outline": {
       "codepoint": 57678,
       "fontFamily": "Flowbite",
-      "identifier": "fileCirclePlusOutline"
+      "identifier": "fileCirclePlusOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-circle-plus-solid": {
       "codepoint": 57679,
       "fontFamily": "Flowbite",
-      "identifier": "fileCirclePlusSolid"
+      "identifier": "fileCirclePlusSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-clone-outline": {
       "codepoint": 57680,
       "fontFamily": "Flowbite",
-      "identifier": "fileCloneOutline"
+      "identifier": "fileCloneOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-clone-solid": {
       "codepoint": 57681,
       "fontFamily": "Flowbite",
-      "identifier": "fileCloneSolid"
+      "identifier": "fileCloneSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-code-outline": {
       "codepoint": 57682,
       "fontFamily": "Flowbite",
-      "identifier": "fileCodeOutline"
+      "identifier": "fileCodeOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-code-solid": {
       "codepoint": 57683,
       "fontFamily": "Flowbite",
-      "identifier": "fileCodeSolid"
+      "identifier": "fileCodeSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-copy-alt-outline": {
       "codepoint": 57684,
       "fontFamily": "Flowbite",
-      "identifier": "fileCopyAltOutline"
+      "identifier": "fileCopyAltOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-copy-alt-solid": {
       "codepoint": 57685,
       "fontFamily": "Flowbite",
-      "identifier": "fileCopyAltSolid"
+      "identifier": "fileCopyAltSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-copy-outline": {
       "codepoint": 57686,
       "fontFamily": "Flowbite",
-      "identifier": "fileCopyOutline"
+      "identifier": "fileCopyOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-copy-solid": {
       "codepoint": 57687,
       "fontFamily": "Flowbite",
-      "identifier": "fileCopySolid"
+      "identifier": "fileCopySolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-csv-outline": {
       "codepoint": 57688,
       "fontFamily": "Flowbite",
-      "identifier": "fileCsvOutline"
+      "identifier": "fileCsvOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-csv-solid": {
       "codepoint": 57689,
       "fontFamily": "Flowbite",
-      "identifier": "fileCsvSolid"
+      "identifier": "fileCsvSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-doc-outline": {
       "codepoint": 57690,
       "fontFamily": "Flowbite",
-      "identifier": "fileDocOutline"
+      "identifier": "fileDocOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-doc-solid": {
       "codepoint": 57691,
       "fontFamily": "Flowbite",
-      "identifier": "fileDocSolid"
+      "identifier": "fileDocSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-export-outline": {
       "codepoint": 57692,
       "fontFamily": "Flowbite",
-      "identifier": "fileExportOutline"
+      "identifier": "fileExportOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-export-solid": {
       "codepoint": 57693,
       "fontFamily": "Flowbite",
-      "identifier": "fileExportSolid"
+      "identifier": "fileExportSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-icvoice-solid": {
       "codepoint": 57694,
@@ -1787,177 +2712,282 @@
     "file-image-outline": {
       "codepoint": 57695,
       "fontFamily": "Flowbite",
-      "identifier": "fileImageOutline"
+      "identifier": "fileImageOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-image-solid": {
       "codepoint": 57696,
       "fontFamily": "Flowbite",
-      "identifier": "fileImageSolid"
+      "identifier": "fileImageSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-import-outline": {
       "codepoint": 57697,
       "fontFamily": "Flowbite",
-      "identifier": "fileImportOutline"
+      "identifier": "fileImportOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-import-solid": {
       "codepoint": 57698,
       "fontFamily": "Flowbite",
-      "identifier": "fileImportSolid"
+      "identifier": "fileImportSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-invoice-outline": {
       "codepoint": 57699,
       "fontFamily": "Flowbite",
-      "identifier": "fileInvoiceOutline"
+      "identifier": "fileInvoiceOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-invoice-solid": {
       "codepoint": 57700,
       "fontFamily": "Flowbite",
-      "identifier": "fileInvoiceSolid"
+      "identifier": "fileInvoiceSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-lines-outline": {
       "codepoint": 57701,
       "fontFamily": "Flowbite",
-      "identifier": "fileLinesOutline"
+      "identifier": "fileLinesOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-lines-solid": {
       "codepoint": 57702,
       "fontFamily": "Flowbite",
-      "identifier": "fileLinesSolid"
+      "identifier": "fileLinesSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-music-outline": {
       "codepoint": 57703,
       "fontFamily": "Flowbite",
-      "identifier": "fileMusicOutline"
+      "identifier": "fileMusicOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-music-solid": {
       "codepoint": 57704,
       "fontFamily": "Flowbite",
-      "identifier": "fileMusicSolid"
+      "identifier": "fileMusicSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-outline": {
       "codepoint": 57705,
       "fontFamily": "Flowbite",
-      "identifier": "fileOutline"
+      "identifier": "fileOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-paste-outline": {
       "codepoint": 57706,
       "fontFamily": "Flowbite",
-      "identifier": "filePasteOutline"
+      "identifier": "filePasteOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-paste-solid": {
       "codepoint": 57707,
       "fontFamily": "Flowbite",
-      "identifier": "filePasteSolid"
+      "identifier": "filePasteSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-pdf-outline": {
       "codepoint": 57708,
       "fontFamily": "Flowbite",
-      "identifier": "filePdfOutline"
+      "identifier": "filePdfOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-pdf-solid": {
       "codepoint": 57709,
       "fontFamily": "Flowbite",
-      "identifier": "filePdfSolid"
+      "identifier": "filePdfSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-pen-outline": {
       "codepoint": 57710,
       "fontFamily": "Flowbite",
-      "identifier": "filePenOutline"
+      "identifier": "filePenOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-pen-solid": {
       "codepoint": 57711,
       "fontFamily": "Flowbite",
-      "identifier": "filePenSolid"
+      "identifier": "filePenSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-ppt-outline": {
       "codepoint": 57712,
       "fontFamily": "Flowbite",
-      "identifier": "filePptOutline"
+      "identifier": "filePptOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-ppt-solid": {
       "codepoint": 57713,
       "fontFamily": "Flowbite",
-      "identifier": "filePptSolid"
+      "identifier": "filePptSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-search-outline": {
       "codepoint": 57714,
       "fontFamily": "Flowbite",
-      "identifier": "fileSearchOutline"
+      "identifier": "fileSearchOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-search-solid": {
       "codepoint": 57715,
       "fontFamily": "Flowbite",
-      "identifier": "fileSearchSolid"
+      "identifier": "fileSearchSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-shield-outline": {
       "codepoint": 57716,
       "fontFamily": "Flowbite",
-      "identifier": "fileShieldOutline"
+      "identifier": "fileShieldOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-shield-solid": {
       "codepoint": 57717,
       "fontFamily": "Flowbite",
-      "identifier": "fileShieldSolid"
+      "identifier": "fileShieldSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-solid": {
       "codepoint": 57718,
       "fontFamily": "Flowbite",
-      "identifier": "fileSolid"
+      "identifier": "fileSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-video-outline": {
       "codepoint": 57719,
       "fontFamily": "Flowbite",
-      "identifier": "fileVideoOutline"
+      "identifier": "fileVideoOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-video-solid": {
       "codepoint": 57720,
       "fontFamily": "Flowbite",
-      "identifier": "fileVideoSolid"
+      "identifier": "fileVideoSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-word-outline": {
       "codepoint": 57721,
       "fontFamily": "Flowbite",
-      "identifier": "fileWordOutline"
+      "identifier": "fileWordOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-word-solid": {
       "codepoint": 57722,
       "fontFamily": "Flowbite",
-      "identifier": "fileWordSolid"
+      "identifier": "fileWordSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-zip-outline": {
       "codepoint": 57723,
       "fontFamily": "Flowbite",
-      "identifier": "fileZipOutline"
+      "identifier": "fileZipOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "file-zip-solid": {
       "codepoint": 57724,
       "fontFamily": "Flowbite",
-      "identifier": "fileZipSolid"
+      "identifier": "fileZipSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "filter-dollar-outline": {
       "codepoint": 57725,
       "fontFamily": "Flowbite",
-      "identifier": "filterDollarOutline"
+      "identifier": "filterDollarOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "filter-dollar-solid": {
       "codepoint": 57726,
       "fontFamily": "Flowbite",
-      "identifier": "filterDollarSolid"
+      "identifier": "filterDollarSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "filter-outline": {
       "codepoint": 57727,
       "fontFamily": "Flowbite",
-      "identifier": "filterOutline"
+      "identifier": "filterOutline",
+      "categories": [
+        "General"
+      ]
     },
     "filter-solid": {
       "codepoint": 57728,
       "fontFamily": "Flowbite",
-      "identifier": "filterSolid"
+      "identifier": "filterSolid",
+      "categories": [
+        "General"
+      ]
     },
     "fingerprint-outline": {
       "codepoint": 57729,
       "fontFamily": "Flowbite",
-      "identifier": "fingerprintOutline"
+      "identifier": "fingerprintOutline",
+      "categories": [
+        "General"
+      ]
     },
     "fingerprint-solid": {
       "codepoint": 57730,
@@ -1967,552 +2997,880 @@
     "fire-outline": {
       "codepoint": 57731,
       "fontFamily": "Flowbite",
-      "identifier": "fireOutline"
+      "identifier": "fireOutline",
+      "categories": [
+        "General"
+      ]
     },
     "fire-solid": {
       "codepoint": 57732,
       "fontFamily": "Flowbite",
-      "identifier": "fireSolid"
+      "identifier": "fireSolid",
+      "categories": [
+        "General"
+      ]
     },
     "fish-alt-outline": {
       "codepoint": 57733,
       "fontFamily": "Flowbite",
-      "identifier": "fishAltOutline"
+      "identifier": "fishAltOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "fish-alt-solid": {
       "codepoint": 57734,
       "fontFamily": "Flowbite",
-      "identifier": "fishAltSolid"
+      "identifier": "fishAltSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "fish-outline": {
       "codepoint": 57735,
       "fontFamily": "Flowbite",
-      "identifier": "fishOutline"
+      "identifier": "fishOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "fish-solid": {
       "codepoint": 57736,
       "fontFamily": "Flowbite",
-      "identifier": "fishSolid"
+      "identifier": "fishSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "fix-tables-outline": {
       "codepoint": 57737,
       "fontFamily": "Flowbite",
-      "identifier": "fixTablesOutline"
+      "identifier": "fixTablesOutline",
+      "categories": [
+        "General"
+      ]
     },
     "flag-outline": {
       "codepoint": 57738,
       "fontFamily": "Flowbite",
-      "identifier": "flagOutline"
+      "identifier": "flagOutline",
+      "categories": [
+        "General"
+      ]
     },
     "flag-solid": {
       "codepoint": 57739,
       "fontFamily": "Flowbite",
-      "identifier": "flagSolid"
+      "identifier": "flagSolid",
+      "categories": [
+        "General"
+      ]
     },
     "flask-outline": {
       "codepoint": 57740,
       "fontFamily": "Flowbite",
-      "identifier": "flaskOutline"
+      "identifier": "flaskOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "flask-solid": {
       "codepoint": 57741,
       "fontFamily": "Flowbite",
-      "identifier": "flaskSolid"
+      "identifier": "flaskSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "floppy-disk-alt-outline": {
       "codepoint": 57742,
       "fontFamily": "Flowbite",
-      "identifier": "floppyDiskAltOutline"
+      "identifier": "floppyDiskAltOutline",
+      "categories": [
+        "General"
+      ]
     },
     "floppy-disk-alt-solid": {
       "codepoint": 57743,
       "fontFamily": "Flowbite",
-      "identifier": "floppyDiskAltSolid"
+      "identifier": "floppyDiskAltSolid",
+      "categories": [
+        "General"
+      ]
     },
     "floppy-disk-outline": {
       "codepoint": 57744,
       "fontFamily": "Flowbite",
-      "identifier": "floppyDiskOutline"
+      "identifier": "floppyDiskOutline",
+      "categories": [
+        "General"
+      ]
     },
     "floppy-disk-solid": {
       "codepoint": 57745,
       "fontFamily": "Flowbite",
-      "identifier": "floppyDiskSolid"
+      "identifier": "floppyDiskSolid",
+      "categories": [
+        "General"
+      ]
     },
     "flowbite-solid": {
       "codepoint": 57746,
       "fontFamily": "Flowbite",
-      "identifier": "flowbiteSolid"
+      "identifier": "flowbiteSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "folder-arrow-right-outline": {
       "codepoint": 57747,
       "fontFamily": "Flowbite",
-      "identifier": "folderArrowRightOutline"
+      "identifier": "folderArrowRightOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "folder-arrow-right-solid": {
       "codepoint": 57748,
       "fontFamily": "Flowbite",
-      "identifier": "folderArrowRightSolid"
+      "identifier": "folderArrowRightSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "folder-duplicate-outline": {
       "codepoint": 57749,
       "fontFamily": "Flowbite",
-      "identifier": "folderDuplicateOutline"
+      "identifier": "folderDuplicateOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "folder-duplicate-solid": {
       "codepoint": 57750,
       "fontFamily": "Flowbite",
-      "identifier": "folderDuplicateSolid"
+      "identifier": "folderDuplicateSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "folder-open-outline": {
       "codepoint": 57751,
       "fontFamily": "Flowbite",
-      "identifier": "folderOpenOutline"
+      "identifier": "folderOpenOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "folder-open-solid": {
       "codepoint": 57752,
       "fontFamily": "Flowbite",
-      "identifier": "folderOpenSolid"
+      "identifier": "folderOpenSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "folder-outline": {
       "codepoint": 57753,
       "fontFamily": "Flowbite",
-      "identifier": "folderOutline"
+      "identifier": "folderOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "folder-plus-outline": {
       "codepoint": 57754,
       "fontFamily": "Flowbite",
-      "identifier": "folderPlusOutline"
+      "identifier": "folderPlusOutline",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "folder-plus-solid": {
       "codepoint": 57755,
       "fontFamily": "Flowbite",
-      "identifier": "folderPlusSolid"
+      "identifier": "folderPlusSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "folder-solid": {
       "codepoint": 57756,
       "fontFamily": "Flowbite",
-      "identifier": "folderSolid"
+      "identifier": "folderSolid",
+      "categories": [
+        "Files Folders"
+      ]
     },
     "font-color-alt-solid": {
       "codepoint": 57757,
       "fontFamily": "Flowbite",
-      "identifier": "fontColorAltSolid"
+      "identifier": "fontColorAltSolid",
+      "categories": [
+        "Text"
+      ]
     },
     "font-color-outline": {
       "codepoint": 57758,
       "fontFamily": "Flowbite",
-      "identifier": "fontColorOutline"
+      "identifier": "fontColorOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "font-family-outline": {
       "codepoint": 57759,
       "fontFamily": "Flowbite",
-      "identifier": "fontFamilyOutline"
+      "identifier": "fontFamilyOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "font-highlight-outline": {
       "codepoint": 57760,
       "fontFamily": "Flowbite",
-      "identifier": "fontHighlightOutline"
+      "identifier": "fontHighlightOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "forward-outline": {
       "codepoint": 57761,
       "fontFamily": "Flowbite",
-      "identifier": "forwardOutline"
+      "identifier": "forwardOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "forward-solid": {
       "codepoint": 57762,
       "fontFamily": "Flowbite",
-      "identifier": "forwardSolid"
+      "identifier": "forwardSolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "forward-step-outline": {
       "codepoint": 57763,
       "fontFamily": "Flowbite",
-      "identifier": "forwardStepOutline"
+      "identifier": "forwardStepOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "forward-step-solid": {
       "codepoint": 57764,
       "fontFamily": "Flowbite",
-      "identifier": "forwardStepSolid"
+      "identifier": "forwardStepSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "gift-box-outline": {
       "codepoint": 57765,
       "fontFamily": "Flowbite",
-      "identifier": "giftBoxOutline"
+      "identifier": "giftBoxOutline",
+      "categories": [
+        "General"
+      ]
     },
     "gift-box-solid": {
       "codepoint": 57766,
       "fontFamily": "Flowbite",
-      "identifier": "giftBoxSolid"
+      "identifier": "giftBoxSolid",
+      "categories": [
+        "General"
+      ]
     },
     "github-solid": {
       "codepoint": 57767,
       "fontFamily": "Flowbite",
-      "identifier": "githubSolid"
+      "identifier": "githubSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "gitlab-solid": {
       "codepoint": 57768,
       "fontFamily": "Flowbite",
-      "identifier": "gitlabSolid"
+      "identifier": "gitlabSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "glass-water-droplet-outline": {
       "codepoint": 57769,
       "fontFamily": "Flowbite",
-      "identifier": "glassWaterDropletOutline"
+      "identifier": "glassWaterDropletOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "glass-water-droplet-solid": {
       "codepoint": 57770,
       "fontFamily": "Flowbite",
-      "identifier": "glassWaterDropletSolid"
+      "identifier": "glassWaterDropletSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "glass-water-outline": {
       "codepoint": 57771,
       "fontFamily": "Flowbite",
-      "identifier": "glassWaterOutline"
+      "identifier": "glassWaterOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "glass-water-solid": {
       "codepoint": 57772,
       "fontFamily": "Flowbite",
-      "identifier": "glassWaterSolid"
+      "identifier": "glassWaterSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "globe-outline": {
       "codepoint": 57773,
       "fontFamily": "Flowbite",
-      "identifier": "globeOutline"
+      "identifier": "globeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "globe-solid": {
       "codepoint": 57774,
       "fontFamily": "Flowbite",
-      "identifier": "globeSolid"
+      "identifier": "globeSolid",
+      "categories": [
+        "General"
+      ]
     },
     "go-to-next-cell-outline": {
       "codepoint": 57775,
       "fontFamily": "Flowbite",
-      "identifier": "goToNextCellOutline"
+      "identifier": "goToNextCellOutline",
+      "categories": [
+        "General"
+      ]
     },
     "go-to-prev-cell-outline": {
       "codepoint": 57776,
       "fontFamily": "Flowbite",
-      "identifier": "goToPrevCellOutline"
+      "identifier": "goToPrevCellOutline",
+      "categories": [
+        "General"
+      ]
     },
     "google-solid": {
       "codepoint": 57777,
       "fontFamily": "Flowbite",
-      "identifier": "googleSolid"
+      "identifier": "googleSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "graduation-cap-outline": {
       "codepoint": 57778,
       "fontFamily": "Flowbite",
-      "identifier": "graduationCapOutline"
+      "identifier": "graduationCapOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "graduation-cap-solid": {
       "codepoint": 57779,
       "fontFamily": "Flowbite",
-      "identifier": "graduationCapSolid"
+      "identifier": "graduationCapSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "grid-24x24px-outline": {
-      "codepoint": 57780,
+      "codepoint": 57945,
       "fontFamily": "Flowbite",
-      "identifier": "grid24x24pxOutline"
+      "identifier": "grid24x24pxOutline",
+      "aliasOf": "pause-outline"
     },
     "grid-outline": {
       "codepoint": 57781,
       "fontFamily": "Flowbite",
-      "identifier": "gridOutline"
+      "identifier": "gridOutline",
+      "categories": [
+        "General"
+      ]
     },
     "grid-plus-outline": {
       "codepoint": 57782,
       "fontFamily": "Flowbite",
-      "identifier": "gridPlusOutline"
+      "identifier": "gridPlusOutline",
+      "categories": [
+        "General"
+      ]
     },
     "grid-plus-solid": {
       "codepoint": 57783,
       "fontFamily": "Flowbite",
-      "identifier": "gridPlusSolid"
+      "identifier": "gridPlusSolid",
+      "categories": [
+        "General"
+      ]
     },
     "grid-solid": {
       "codepoint": 57784,
       "fontFamily": "Flowbite",
-      "identifier": "gridSolid"
+      "identifier": "gridSolid",
+      "categories": [
+        "General"
+      ]
     },
     "hammer-outline": {
       "codepoint": 57785,
       "fontFamily": "Flowbite",
-      "identifier": "hammerOutline"
+      "identifier": "hammerOutline",
+      "categories": [
+        "General"
+      ]
     },
     "hammer-solid": {
       "codepoint": 57786,
       "fontFamily": "Flowbite",
-      "identifier": "hammerSolid"
+      "identifier": "hammerSolid",
+      "categories": [
+        "General"
+      ]
     },
     "headphones-outline": {
       "codepoint": 57787,
       "fontFamily": "Flowbite",
-      "identifier": "headphonesOutline"
+      "identifier": "headphonesOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "headphones-solid": {
       "codepoint": 57788,
       "fontFamily": "Flowbite",
-      "identifier": "headphonesSolid"
+      "identifier": "headphonesSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "heart-outline": {
       "codepoint": 57789,
       "fontFamily": "Flowbite",
-      "identifier": "heartOutline"
+      "identifier": "heartOutline",
+      "categories": [
+        "General"
+      ]
     },
     "heart-solid": {
       "codepoint": 57790,
       "fontFamily": "Flowbite",
-      "identifier": "heartSolid"
+      "identifier": "heartSolid",
+      "categories": [
+        "General"
+      ]
     },
     "home-outline": {
       "codepoint": 57791,
       "fontFamily": "Flowbite",
-      "identifier": "homeOutline"
+      "identifier": "homeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "home-solid": {
       "codepoint": 57792,
       "fontFamily": "Flowbite",
-      "identifier": "homeSolid"
+      "identifier": "homeSolid",
+      "categories": [
+        "General"
+      ]
     },
     "horizontal-lines-outline": {
       "codepoint": 57793,
       "fontFamily": "Flowbite",
-      "identifier": "horizontalLinesOutline"
+      "identifier": "horizontalLinesOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "hotdog-outline": {
       "codepoint": 57794,
       "fontFamily": "Flowbite",
-      "identifier": "hotdogOutline"
+      "identifier": "hotdogOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "hotdog-solid": {
       "codepoint": 57795,
       "fontFamily": "Flowbite",
-      "identifier": "hotdogSolid"
+      "identifier": "hotdogSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "hourglass-outline": {
       "codepoint": 57796,
       "fontFamily": "Flowbite",
-      "identifier": "hourglassOutline"
+      "identifier": "hourglassOutline",
+      "categories": [
+        "General"
+      ]
     },
     "hourglass-solid": {
       "codepoint": 57797,
       "fontFamily": "Flowbite",
-      "identifier": "hourglassSolid"
+      "identifier": "hourglassSolid",
+      "categories": [
+        "General"
+      ]
     },
     "html-solid": {
       "codepoint": 57798,
       "fontFamily": "Flowbite",
-      "identifier": "htmlSolid"
+      "identifier": "htmlSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "icecream-alt-outline": {
       "codepoint": 57799,
       "fontFamily": "Flowbite",
-      "identifier": "icecreamAltOutline"
+      "identifier": "icecreamAltOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "icecream-alt-solid": {
       "codepoint": 57800,
       "fontFamily": "Flowbite",
-      "identifier": "icecreamAltSolid"
+      "identifier": "icecreamAltSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "icecream-outline": {
       "codepoint": 57801,
       "fontFamily": "Flowbite",
-      "identifier": "icecreamOutline"
+      "identifier": "icecreamOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "icecream-solid": {
       "codepoint": 57802,
       "fontFamily": "Flowbite",
-      "identifier": "icecreamSolid"
+      "identifier": "icecreamSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "image-outline": {
       "codepoint": 57803,
       "fontFamily": "Flowbite",
-      "identifier": "imageOutline"
+      "identifier": "imageOutline",
+      "categories": [
+        "General"
+      ]
     },
     "image-solid": {
       "codepoint": 57804,
       "fontFamily": "Flowbite",
-      "identifier": "imageSolid"
+      "identifier": "imageSolid",
+      "categories": [
+        "General"
+      ]
     },
     "inbox-full-outline": {
       "codepoint": 57805,
       "fontFamily": "Flowbite",
-      "identifier": "inboxFullOutline"
+      "identifier": "inboxFullOutline",
+      "categories": [
+        "General"
+      ]
     },
     "inbox-full-solid": {
       "codepoint": 57806,
       "fontFamily": "Flowbite",
-      "identifier": "inboxFullSolid"
+      "identifier": "inboxFullSolid",
+      "categories": [
+        "General"
+      ]
     },
     "inbox-outline": {
       "codepoint": 57807,
       "fontFamily": "Flowbite",
-      "identifier": "inboxOutline"
+      "identifier": "inboxOutline",
+      "categories": [
+        "General"
+      ]
     },
     "inbox-solid": {
       "codepoint": 57808,
       "fontFamily": "Flowbite",
-      "identifier": "inboxSolid"
+      "identifier": "inboxSolid",
+      "categories": [
+        "General"
+      ]
     },
     "incoming-call-outline": {
       "codepoint": 57809,
       "fontFamily": "Flowbite",
-      "identifier": "incomingCallOutline"
+      "identifier": "incomingCallOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "incoming-call-solid": {
       "codepoint": 57810,
       "fontFamily": "Flowbite",
-      "identifier": "incomingCallSolid"
+      "identifier": "incomingCallSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "indent-outline": {
       "codepoint": 57811,
       "fontFamily": "Flowbite",
-      "identifier": "indentOutline"
+      "identifier": "indentOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "indent-solid": {
       "codepoint": 57812,
       "fontFamily": "Flowbite",
-      "identifier": "indentSolid"
+      "identifier": "indentSolid",
+      "categories": [
+        "Text"
+      ]
     },
     "info-circle-outline": {
       "codepoint": 57813,
       "fontFamily": "Flowbite",
-      "identifier": "infoCircleOutline"
+      "identifier": "infoCircleOutline",
+      "categories": [
+        "General"
+      ]
     },
     "info-circle-solid": {
       "codepoint": 57814,
       "fontFamily": "Flowbite",
-      "identifier": "infoCircleSolid"
+      "identifier": "infoCircleSolid",
+      "categories": [
+        "General"
+      ]
     },
     "insert-row-after-outline": {
       "codepoint": 57815,
       "fontFamily": "Flowbite",
-      "identifier": "insertRowAfterOutline"
+      "identifier": "insertRowAfterOutline",
+      "categories": [
+        "General"
+      ]
     },
     "insert-row-before-outline": {
       "codepoint": 57816,
       "fontFamily": "Flowbite",
-      "identifier": "insertRowBeforeOutline"
+      "identifier": "insertRowBeforeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "insert-table-alt-outline": {
       "codepoint": 57817,
       "fontFamily": "Flowbite",
-      "identifier": "insertTableAltOutline"
+      "identifier": "insertTableAltOutline",
+      "categories": [
+        "General"
+      ]
     },
     "insert-table-outline": {
       "codepoint": 57818,
       "fontFamily": "Flowbite",
-      "identifier": "insertTableOutline"
+      "identifier": "insertTableOutline",
+      "categories": [
+        "General"
+      ]
     },
     "instagram-solid": {
       "codepoint": 57819,
       "fontFamily": "Flowbite",
-      "identifier": "instagramSolid"
+      "identifier": "instagramSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "jar-outline": {
       "codepoint": 57820,
       "fontFamily": "Flowbite",
-      "identifier": "jarOutline"
+      "identifier": "jarOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "jar-solid": {
       "codepoint": 57821,
       "fontFamily": "Flowbite",
-      "identifier": "jarSolid"
+      "identifier": "jarSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "jar-wheat-outline": {
       "codepoint": 57822,
       "fontFamily": "Flowbite",
-      "identifier": "jarWheatOutline"
+      "identifier": "jarWheatOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "jar-wheat-solid": {
       "codepoint": 57823,
       "fontFamily": "Flowbite",
-      "identifier": "jarWheatSolid"
+      "identifier": "jarWheatSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "keyboard-outline": {
       "codepoint": 57824,
       "fontFamily": "Flowbite",
-      "identifier": "keyboardOutline"
+      "identifier": "keyboardOutline",
+      "categories": [
+        "General"
+      ]
     },
     "keyboard-solid": {
       "codepoint": 57825,
       "fontFamily": "Flowbite",
-      "identifier": "keyboardSolid"
+      "identifier": "keyboardSolid",
+      "categories": [
+        "General"
+      ]
     },
     "label-outline": {
       "codepoint": 57826,
       "fontFamily": "Flowbite",
-      "identifier": "labelOutline"
+      "identifier": "labelOutline",
+      "categories": [
+        "General"
+      ]
     },
     "label-solid": {
       "codepoint": 57827,
       "fontFamily": "Flowbite",
-      "identifier": "labelSolid"
+      "identifier": "labelSolid",
+      "categories": [
+        "General"
+      ]
     },
     "landmark-outline": {
       "codepoint": 57828,
       "fontFamily": "Flowbite",
-      "identifier": "landmarkOutline"
+      "identifier": "landmarkOutline",
+      "categories": [
+        "General"
+      ]
     },
     "landmark-solid": {
       "codepoint": 57829,
       "fontFamily": "Flowbite",
-      "identifier": "landmarkSolid"
+      "identifier": "landmarkSolid",
+      "categories": [
+        "General"
+      ]
     },
     "language-outline": {
       "codepoint": 57830,
       "fontFamily": "Flowbite",
-      "identifier": "languageOutline"
+      "identifier": "languageOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "laptop-code-outline": {
       "codepoint": 57831,
       "fontFamily": "Flowbite",
-      "identifier": "laptopCodeOutline"
+      "identifier": "laptopCodeOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "laptop-code-solid": {
       "codepoint": 57832,
       "fontFamily": "Flowbite",
-      "identifier": "laptopCodeSolid"
+      "identifier": "laptopCodeSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "laptop-file-outline": {
       "codepoint": 57833,
       "fontFamily": "Flowbite",
-      "identifier": "laptopFileOutline"
+      "identifier": "laptopFileOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "laptop-file-solid": {
       "codepoint": 57834,
       "fontFamily": "Flowbite",
-      "identifier": "laptopFileSolid"
+      "identifier": "laptopFileSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "laravel-solid": {
       "codepoint": 57835,
       "fontFamily": "Flowbite",
-      "identifier": "laravelSolid"
+      "identifier": "laravelSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "layers-outline": {
       "codepoint": 57836,
       "fontFamily": "Flowbite",
-      "identifier": "layersOutline"
+      "identifier": "layersOutline",
+      "categories": [
+        "General"
+      ]
     },
     "layers-solid": {
       "codepoint": 57837,
       "fontFamily": "Flowbite",
-      "identifier": "layersSolid"
+      "identifier": "layersSolid",
+      "categories": [
+        "General"
+      ]
     },
     "lemon-outline": {
       "codepoint": 57838,
       "fontFamily": "Flowbite",
-      "identifier": "lemonOutline"
+      "identifier": "lemonOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "lemon-solid": {
       "codepoint": 57839,
       "fontFamily": "Flowbite",
-      "identifier": "lemonSolid"
+      "identifier": "lemonSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "letter-bold-outline": {
       "codepoint": 57840,
       "fontFamily": "Flowbite",
-      "identifier": "letterBoldOutline"
+      "identifier": "letterBoldOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "letter-bold-solid": {
       "codepoint": 57841,
@@ -2522,7 +3880,10 @@
     "letter-italic-outline": {
       "codepoint": 57842,
       "fontFamily": "Flowbite",
-      "identifier": "letterItalicOutline"
+      "identifier": "letterItalicOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "letter-italic-solid": {
       "codepoint": 57843,
@@ -2532,7 +3893,10 @@
     "letter-underline-outline": {
       "codepoint": 57844,
       "fontFamily": "Flowbite",
-      "identifier": "letterUnderlineOutline"
+      "identifier": "letterUnderlineOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "letter-underline-solid": {
       "codepoint": 57845,
@@ -2542,32 +3906,50 @@
     "life-saver-outline": {
       "codepoint": 57846,
       "fontFamily": "Flowbite",
-      "identifier": "lifeSaverOutline"
+      "identifier": "lifeSaverOutline",
+      "categories": [
+        "General"
+      ]
     },
     "life-saver-solid": {
       "codepoint": 57847,
       "fontFamily": "Flowbite",
-      "identifier": "lifeSaverSolid"
+      "identifier": "lifeSaverSolid",
+      "categories": [
+        "General"
+      ]
     },
     "lightbulb-outline": {
       "codepoint": 57848,
       "fontFamily": "Flowbite",
-      "identifier": "lightbulbOutline"
+      "identifier": "lightbulbOutline",
+      "categories": [
+        "General"
+      ]
     },
     "lightbulb-solid": {
       "codepoint": 57849,
       "fontFamily": "Flowbite",
-      "identifier": "lightbulbSolid"
+      "identifier": "lightbulbSolid",
+      "categories": [
+        "General"
+      ]
     },
     "link-break-outline": {
       "codepoint": 57850,
       "fontFamily": "Flowbite",
-      "identifier": "linkBreakOutline"
+      "identifier": "linkBreakOutline",
+      "categories": [
+        "General"
+      ]
     },
     "link-outline": {
       "codepoint": 57851,
       "fontFamily": "Flowbite",
-      "identifier": "linkOutline"
+      "identifier": "linkOutline",
+      "categories": [
+        "General"
+      ]
     },
     "link-solid": {
       "codepoint": 57852,
@@ -2577,22 +3959,34 @@
     "linkedin-solid": {
       "codepoint": 57853,
       "fontFamily": "Flowbite",
-      "identifier": "linkedinSolid"
+      "identifier": "linkedinSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "list-music-outline": {
       "codepoint": 57854,
       "fontFamily": "Flowbite",
-      "identifier": "listMusicOutline"
+      "identifier": "listMusicOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "list-music-solid": {
       "codepoint": 57855,
       "fontFamily": "Flowbite",
-      "identifier": "listMusicSolid"
+      "identifier": "listMusicSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "list-outline": {
       "codepoint": 57856,
       "fontFamily": "Flowbite",
-      "identifier": "listOutline"
+      "identifier": "listOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "list-solid": {
       "codepoint": 57857,
@@ -2602,32 +3996,50 @@
     "lock-open-outline": {
       "codepoint": 57858,
       "fontFamily": "Flowbite",
-      "identifier": "lockOpenOutline"
+      "identifier": "lockOpenOutline",
+      "categories": [
+        "General"
+      ]
     },
     "lock-open-solid": {
       "codepoint": 57859,
       "fontFamily": "Flowbite",
-      "identifier": "lockOpenSolid"
+      "identifier": "lockOpenSolid",
+      "categories": [
+        "General"
+      ]
     },
     "lock-outline": {
       "codepoint": 57860,
       "fontFamily": "Flowbite",
-      "identifier": "lockOutline"
+      "identifier": "lockOutline",
+      "categories": [
+        "General"
+      ]
     },
     "lock-solid": {
       "codepoint": 57861,
       "fontFamily": "Flowbite",
-      "identifier": "lockSolid"
+      "identifier": "lockSolid",
+      "categories": [
+        "General"
+      ]
     },
     "lock-time-outline": {
       "codepoint": 57862,
       "fontFamily": "Flowbite",
-      "identifier": "lockTimeOutline"
+      "identifier": "lockTimeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "lock-time-solid": {
       "codepoint": 57863,
       "fontFamily": "Flowbite",
-      "identifier": "lockTimeSolid"
+      "identifier": "lockTimeSolid",
+      "categories": [
+        "General"
+      ]
     },
     "magic-wand-outline": {
       "codepoint": 57864,
@@ -2642,12 +4054,18 @@
     "mail-box-outline": {
       "codepoint": 57866,
       "fontFamily": "Flowbite",
-      "identifier": "mailBoxOutline"
+      "identifier": "mailBoxOutline",
+      "categories": [
+        "General"
+      ]
     },
     "mail-box-solid": {
       "codepoint": 57867,
       "fontFamily": "Flowbite",
-      "identifier": "mailBoxSolid"
+      "identifier": "mailBoxSolid",
+      "categories": [
+        "General"
+      ]
     },
     "map-location-outline": {
       "codepoint": 57868,
@@ -2657,132 +4075,210 @@
     "map-pin-alt-outline": {
       "codepoint": 57869,
       "fontFamily": "Flowbite",
-      "identifier": "mapPinAltOutline"
+      "identifier": "mapPinAltOutline",
+      "categories": [
+        "General"
+      ]
     },
     "map-pin-alt-solid": {
       "codepoint": 57870,
       "fontFamily": "Flowbite",
-      "identifier": "mapPinAltSolid"
+      "identifier": "mapPinAltSolid",
+      "categories": [
+        "General"
+      ]
     },
     "map-pin-outline": {
       "codepoint": 57871,
       "fontFamily": "Flowbite",
-      "identifier": "mapPinOutline"
+      "identifier": "mapPinOutline",
+      "categories": [
+        "General"
+      ]
     },
     "map-pin-solid": {
       "codepoint": 57872,
       "fontFamily": "Flowbite",
-      "identifier": "mapPinSolid"
+      "identifier": "mapPinSolid",
+      "categories": [
+        "General"
+      ]
     },
     "martini-glass-citrus-outline": {
       "codepoint": 57873,
       "fontFamily": "Flowbite",
-      "identifier": "martiniGlassCitrusOutline"
+      "identifier": "martiniGlassCitrusOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "martini-glass-citrus-solid": {
       "codepoint": 57874,
       "fontFamily": "Flowbite",
-      "identifier": "martiniGlassCitrusSolid"
+      "identifier": "martiniGlassCitrusSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "martini-glass-empty-outline": {
       "codepoint": 57875,
       "fontFamily": "Flowbite",
-      "identifier": "martiniGlassEmptyOutline"
+      "identifier": "martiniGlassEmptyOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "martini-glass-empty-solid": {
       "codepoint": 57876,
       "fontFamily": "Flowbite",
-      "identifier": "martiniGlassEmptySolid"
+      "identifier": "martiniGlassEmptySolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "martini-glass-outline": {
       "codepoint": 57877,
       "fontFamily": "Flowbite",
-      "identifier": "martiniGlassOutline"
+      "identifier": "martiniGlassOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "martini-glass-solid": {
       "codepoint": 57878,
       "fontFamily": "Flowbite",
-      "identifier": "martiniGlassSolid"
+      "identifier": "martiniGlassSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "mastercard-solid": {
       "codepoint": 57879,
       "fontFamily": "Flowbite",
-      "identifier": "mastercardSolid"
+      "identifier": "mastercardSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "merge-cells-outline": {
       "codepoint": 57880,
       "fontFamily": "Flowbite",
-      "identifier": "mergeCellsOutline"
+      "identifier": "mergeCellsOutline",
+      "categories": [
+        "General"
+      ]
     },
     "merge-or-split-outline": {
       "codepoint": 57881,
       "fontFamily": "Flowbite",
-      "identifier": "mergeOrSplitOutline"
+      "identifier": "mergeOrSplitOutline",
+      "categories": [
+        "General"
+      ]
     },
     "message-caption-outline": {
       "codepoint": 57882,
       "fontFamily": "Flowbite",
-      "identifier": "messageCaptionOutline"
+      "identifier": "messageCaptionOutline",
+      "categories": [
+        "General"
+      ]
     },
     "message-caption-solid": {
       "codepoint": 57883,
       "fontFamily": "Flowbite",
-      "identifier": "messageCaptionSolid"
+      "identifier": "messageCaptionSolid",
+      "categories": [
+        "General"
+      ]
     },
     "message-dots-outline": {
       "codepoint": 57884,
       "fontFamily": "Flowbite",
-      "identifier": "messageDotsOutline"
+      "identifier": "messageDotsOutline",
+      "categories": [
+        "General"
+      ]
     },
     "message-dots-solid": {
       "codepoint": 57885,
       "fontFamily": "Flowbite",
-      "identifier": "messageDotsSolid"
+      "identifier": "messageDotsSolid",
+      "categories": [
+        "General"
+      ]
     },
     "messages-outline": {
       "codepoint": 57886,
       "fontFamily": "Flowbite",
-      "identifier": "messagesOutline"
+      "identifier": "messagesOutline",
+      "categories": [
+        "General"
+      ]
     },
     "messages-solid": {
       "codepoint": 57887,
       "fontFamily": "Flowbite",
-      "identifier": "messagesSolid"
+      "identifier": "messagesSolid",
+      "categories": [
+        "General"
+      ]
     },
     "microphone-outline": {
       "codepoint": 57888,
       "fontFamily": "Flowbite",
-      "identifier": "microphoneOutline"
+      "identifier": "microphoneOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "microphone-slash-outline": {
       "codepoint": 57889,
       "fontFamily": "Flowbite",
-      "identifier": "microphoneSlashOutline"
+      "identifier": "microphoneSlashOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "microphone-slash-solid": {
       "codepoint": 57890,
       "fontFamily": "Flowbite",
-      "identifier": "microphoneSlashSolid"
+      "identifier": "microphoneSlashSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "microphone-solid": {
       "codepoint": 57891,
       "fontFamily": "Flowbite",
-      "identifier": "microphoneSolid"
+      "identifier": "microphoneSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "microscope-outline": {
       "codepoint": 57892,
       "fontFamily": "Flowbite",
-      "identifier": "microscopeOutline"
+      "identifier": "microscopeOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "microscope-solid": {
       "codepoint": 57893,
       "fontFamily": "Flowbite",
-      "identifier": "microscopeSolid"
+      "identifier": "microscopeSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "minimize-outline": {
       "codepoint": 57894,
       "fontFamily": "Flowbite",
-      "identifier": "minimizeOutline"
+      "identifier": "minimizeOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "minimize-solid": {
       "codepoint": 57895,
@@ -2792,107 +4288,168 @@
     "minus-outline": {
       "codepoint": 57896,
       "fontFamily": "Flowbite",
-      "identifier": "minusOutline"
+      "identifier": "minusOutline",
+      "categories": [
+        "General"
+      ]
     },
     "minus-solid": {
-      "codepoint": 57897,
+      "codepoint": 57896,
       "fontFamily": "Flowbite",
-      "identifier": "minusSolid"
+      "identifier": "minusSolid",
+      "aliasOf": "minus-outline"
     },
     "missed-call-outline": {
       "codepoint": 57898,
       "fontFamily": "Flowbite",
-      "identifier": "missedCallOutline"
+      "identifier": "missedCallOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "missed-call-solid": {
       "codepoint": 57899,
       "fontFamily": "Flowbite",
-      "identifier": "missedCallSolid"
+      "identifier": "missedCallSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "mobile-phone-outline": {
       "codepoint": 57900,
       "fontFamily": "Flowbite",
-      "identifier": "mobilePhoneOutline"
+      "identifier": "mobilePhoneOutline",
+      "categories": [
+        "General"
+      ]
     },
     "mobile-phone-solid": {
       "codepoint": 57901,
       "fontFamily": "Flowbite",
-      "identifier": "mobilePhoneSolid"
+      "identifier": "mobilePhoneSolid",
+      "categories": [
+        "General"
+      ]
     },
     "mongo-db-solid": {
       "codepoint": 57902,
       "fontFamily": "Flowbite",
-      "identifier": "mongoDbSolid"
+      "identifier": "mongoDbSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "moon-outline": {
       "codepoint": 57903,
       "fontFamily": "Flowbite",
-      "identifier": "moonOutline"
+      "identifier": "moonOutline",
+      "categories": [
+        "Weather"
+      ]
     },
     "moon-plus-outline": {
       "codepoint": 57904,
       "fontFamily": "Flowbite",
-      "identifier": "moonPlusOutline"
+      "identifier": "moonPlusOutline",
+      "categories": [
+        "Weather"
+      ]
     },
     "moon-plus-solid": {
       "codepoint": 57905,
       "fontFamily": "Flowbite",
-      "identifier": "moonPlusSolid"
+      "identifier": "moonPlusSolid",
+      "categories": [
+        "Weather"
+      ]
     },
     "moon-solid": {
       "codepoint": 57906,
       "fontFamily": "Flowbite",
-      "identifier": "moonSolid"
+      "identifier": "moonSolid",
+      "categories": [
+        "Weather"
+      ]
     },
     "mug-hot-outline": {
       "codepoint": 57907,
       "fontFamily": "Flowbite",
-      "identifier": "mugHotOutline"
+      "identifier": "mugHotOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "mug-hot-solid": {
       "codepoint": 57908,
       "fontFamily": "Flowbite",
-      "identifier": "mugHotSolid"
+      "identifier": "mugHotSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "mug-saucer-outline": {
       "codepoint": 57909,
       "fontFamily": "Flowbite",
-      "identifier": "mugSaucerOutline"
+      "identifier": "mugSaucerOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "mug-saucer-solid": {
       "codepoint": 57910,
       "fontFamily": "Flowbite",
-      "identifier": "mugSaucerSolid"
+      "identifier": "mugSaucerSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "music-alt-outline": {
       "codepoint": 57911,
       "fontFamily": "Flowbite",
-      "identifier": "musicAltOutline"
+      "identifier": "musicAltOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "music-alt-solid": {
       "codepoint": 57912,
       "fontFamily": "Flowbite",
-      "identifier": "musicAltSolid"
+      "identifier": "musicAltSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "music-outline": {
       "codepoint": 57913,
       "fontFamily": "Flowbite",
-      "identifier": "musicOutline"
+      "identifier": "musicOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "music-solid": {
       "codepoint": 57914,
       "fontFamily": "Flowbite",
-      "identifier": "musicSolid"
+      "identifier": "musicSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "newspaper-outline": {
       "codepoint": 57915,
       "fontFamily": "Flowbite",
-      "identifier": "newspaperOutline"
+      "identifier": "newspaperOutline",
+      "categories": [
+        "General"
+      ]
     },
     "newspaper-solid": {
       "codepoint": 57916,
       "fontFamily": "Flowbite",
-      "identifier": "newspaperSolid"
+      "identifier": "newspaperSolid",
+      "categories": [
+        "General"
+      ]
     },
     "newspapper-outline": {
       "codepoint": 57917,
@@ -2907,52 +4464,82 @@
     "npm-solid": {
       "codepoint": 57919,
       "fontFamily": "Flowbite",
-      "identifier": "npmSolid"
+      "identifier": "npmSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "objects-column-outline": {
       "codepoint": 57920,
       "fontFamily": "Flowbite",
-      "identifier": "objectsColumnOutline"
+      "identifier": "objectsColumnOutline",
+      "categories": [
+        "General"
+      ]
     },
     "objects-column-solid": {
       "codepoint": 57921,
       "fontFamily": "Flowbite",
-      "identifier": "objectsColumnSolid"
+      "identifier": "objectsColumnSolid",
+      "categories": [
+        "General"
+      ]
     },
     "open-door-outline": {
       "codepoint": 57922,
       "fontFamily": "Flowbite",
-      "identifier": "openDoorOutline"
+      "identifier": "openDoorOutline",
+      "categories": [
+        "General"
+      ]
     },
     "open-door-solid": {
       "codepoint": 57923,
       "fontFamily": "Flowbite",
-      "identifier": "openDoorSolid"
+      "identifier": "openDoorSolid",
+      "categories": [
+        "General"
+      ]
     },
     "open-sidebar-alt-outline": {
       "codepoint": 57924,
       "fontFamily": "Flowbite",
-      "identifier": "openSidebarAltOutline"
+      "identifier": "openSidebarAltOutline",
+      "categories": [
+        "General"
+      ]
     },
     "open-sidebar-alt-solid": {
       "codepoint": 57925,
       "fontFamily": "Flowbite",
-      "identifier": "openSidebarAltSolid"
+      "identifier": "openSidebarAltSolid",
+      "categories": [
+        "General"
+      ]
     },
     "open-sidebar-outline": {
       "codepoint": 57926,
       "fontFamily": "Flowbite",
-      "identifier": "openSidebarOutline"
+      "identifier": "openSidebarOutline",
+      "categories": [
+        "General"
+      ]
     },
     "open-sidebar-solid": {
       "codepoint": 57927,
       "fontFamily": "Flowbite",
-      "identifier": "openSidebarSolid"
+      "identifier": "openSidebarSolid",
+      "categories": [
+        "General"
+      ]
     },
     "ordered-list-outline": {
       "codepoint": 57928,
       "fontFamily": "Flowbite",
-      "identifier": "orderedListOutline"
+      "identifier": "orderedListOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "ordored-list-outline": {
       "codepoint": 57929,
@@ -2967,57 +4554,86 @@
     "outdent-outline": {
       "codepoint": 57931,
       "fontFamily": "Flowbite",
-      "identifier": "outdentOutline"
+      "identifier": "outdentOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "outdent-solid": {
       "codepoint": 57932,
       "fontFamily": "Flowbite",
-      "identifier": "outdentSolid"
+      "identifier": "outdentSolid",
+      "categories": [
+        "Text"
+      ]
     },
     "outgoing-call-outline": {
       "codepoint": 57933,
       "fontFamily": "Flowbite",
-      "identifier": "outgoingCallOutline"
+      "identifier": "outgoingCallOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "outgoing-call-solid": {
       "codepoint": 57934,
       "fontFamily": "Flowbite",
-      "identifier": "outgoingCallSolid"
+      "identifier": "outgoingCallSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "palette-outline": {
       "codepoint": 57935,
       "fontFamily": "Flowbite",
-      "identifier": "paletteOutline"
+      "identifier": "paletteOutline",
+      "categories": [
+        "General"
+      ]
     },
     "palette-solid": {
       "codepoint": 57936,
       "fontFamily": "Flowbite",
-      "identifier": "paletteSolid"
+      "identifier": "paletteSolid",
+      "categories": [
+        "General"
+      ]
     },
     "paper-clip-outline": {
       "codepoint": 57937,
       "fontFamily": "Flowbite",
-      "identifier": "paperClipOutline"
+      "identifier": "paperClipOutline",
+      "categories": [
+        "General"
+      ]
     },
     "paper-clip-solid": {
-      "codepoint": 57938,
+      "codepoint": 57937,
       "fontFamily": "Flowbite",
-      "identifier": "paperClipSolid"
+      "identifier": "paperClipSolid",
+      "aliasOf": "paper-clip-outline"
     },
     "paper-plane-outline": {
       "codepoint": 57939,
       "fontFamily": "Flowbite",
-      "identifier": "paperPlaneOutline"
+      "identifier": "paperPlaneOutline",
+      "categories": [
+        "General"
+      ]
     },
     "paper-plane-solid": {
       "codepoint": 57940,
       "fontFamily": "Flowbite",
-      "identifier": "paperPlaneSolid"
+      "identifier": "paperPlaneSolid",
+      "categories": [
+        "General"
+      ]
     },
     "papper-plane-outline": {
-      "codepoint": 57941,
+      "codepoint": 57939,
       "fontFamily": "Flowbite",
-      "identifier": "papperPlaneOutline"
+      "identifier": "papperPlaneOutline",
+      "aliasOf": "paper-plane-outline"
     },
     "papper-plane-solid": {
       "codepoint": 57942,
@@ -3027,82 +4643,130 @@
     "paragraph-outline": {
       "codepoint": 57943,
       "fontFamily": "Flowbite",
-      "identifier": "paragraphOutline"
+      "identifier": "paragraphOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "paragraph-solid": {
       "codepoint": 57944,
       "fontFamily": "Flowbite",
-      "identifier": "paragraphSolid"
+      "identifier": "paragraphSolid",
+      "categories": [
+        "Text"
+      ]
     },
     "pause-outline": {
       "codepoint": 57945,
       "fontFamily": "Flowbite",
-      "identifier": "pauseOutline"
+      "identifier": "pauseOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "pause-solid": {
       "codepoint": 57946,
       "fontFamily": "Flowbite",
-      "identifier": "pauseSolid"
+      "identifier": "pauseSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "pen-nib-outline": {
       "codepoint": 57947,
       "fontFamily": "Flowbite",
-      "identifier": "penNibOutline"
+      "identifier": "penNibOutline",
+      "categories": [
+        "General"
+      ]
     },
     "pen-nib-solid": {
       "codepoint": 57948,
       "fontFamily": "Flowbite",
-      "identifier": "penNibSolid"
+      "identifier": "penNibSolid",
+      "categories": [
+        "General"
+      ]
     },
     "pen-outline": {
       "codepoint": 57949,
       "fontFamily": "Flowbite",
-      "identifier": "penOutline"
+      "identifier": "penOutline",
+      "categories": [
+        "General"
+      ]
     },
     "pen-solid": {
       "codepoint": 57950,
       "fontFamily": "Flowbite",
-      "identifier": "penSolid"
+      "identifier": "penSolid",
+      "categories": [
+        "General"
+      ]
     },
     "pepper-hot-outline": {
       "codepoint": 57951,
       "fontFamily": "Flowbite",
-      "identifier": "pepperHotOutline"
+      "identifier": "pepperHotOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "pepper-hot-solid": {
       "codepoint": 57952,
       "fontFamily": "Flowbite",
-      "identifier": "pepperHotSolid"
+      "identifier": "pepperHotSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "person-chalkboard-outline": {
       "codepoint": 57953,
       "fontFamily": "Flowbite",
-      "identifier": "personChalkboardOutline"
+      "identifier": "personChalkboardOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "person-chalkboard-solid": {
       "codepoint": 57954,
       "fontFamily": "Flowbite",
-      "identifier": "personChalkboardSolid"
+      "identifier": "personChalkboardSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "phone-hangup-outline": {
       "codepoint": 57955,
       "fontFamily": "Flowbite",
-      "identifier": "phoneHangupOutline"
+      "identifier": "phoneHangupOutline",
+      "categories": [
+        "General"
+      ]
     },
     "phone-hangup-solid": {
       "codepoint": 57956,
       "fontFamily": "Flowbite",
-      "identifier": "phoneHangupSolid"
+      "identifier": "phoneHangupSolid",
+      "categories": [
+        "General"
+      ]
     },
     "phone-outline": {
       "codepoint": 57957,
       "fontFamily": "Flowbite",
-      "identifier": "phoneOutline"
+      "identifier": "phoneOutline",
+      "categories": [
+        "General"
+      ]
     },
     "phone-solid": {
       "codepoint": 57958,
       "fontFamily": "Flowbite",
-      "identifier": "phoneSolid"
+      "identifier": "phoneSolid",
+      "categories": [
+        "General"
+      ]
     },
     "pie-chart-solid": {
       "codepoint": 57959,
@@ -3113,123 +4777,194 @@
       "codepoint": 57960,
       "fontFamily": "Flowbite",
       "identifier": "pizzaSliceOutline",
+      "categories": [
+        "Food Beverage"
+      ],
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "pizza-slice-solid": {
       "codepoint": 57961,
       "fontFamily": "Flowbite",
-      "identifier": "pizzaSliceSolid"
+      "identifier": "pizzaSliceSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "plate-wheat-outline": {
       "codepoint": 57962,
       "fontFamily": "Flowbite",
-      "identifier": "plateWheatOutline"
+      "identifier": "plateWheatOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "plate-wheat-solid": {
       "codepoint": 57963,
       "fontFamily": "Flowbite",
-      "identifier": "plateWheatSolid"
+      "identifier": "plateWheatSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "play-outline": {
       "codepoint": 57964,
       "fontFamily": "Flowbite",
-      "identifier": "playOutline"
+      "identifier": "playOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "play-solid": {
       "codepoint": 57965,
       "fontFamily": "Flowbite",
-      "identifier": "playSolid"
+      "identifier": "playSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "plus-outline": {
       "codepoint": 57966,
       "fontFamily": "Flowbite",
-      "identifier": "plusOutline"
+      "identifier": "plusOutline",
+      "categories": [
+        "General"
+      ]
     },
     "plus-solid": {
-      "codepoint": 57967,
+      "codepoint": 57966,
       "fontFamily": "Flowbite",
-      "identifier": "plusSolid"
+      "identifier": "plusSolid",
+      "aliasOf": "plus-outline"
     },
     "printer-outline": {
       "codepoint": 57968,
       "fontFamily": "Flowbite",
-      "identifier": "printerOutline"
+      "identifier": "printerOutline",
+      "categories": [
+        "General"
+      ]
     },
     "printer-solid": {
       "codepoint": 57969,
       "fontFamily": "Flowbite",
-      "identifier": "printerSolid"
+      "identifier": "printerSolid",
+      "categories": [
+        "General"
+      ]
     },
     "profile-card-outline": {
       "codepoint": 57970,
       "fontFamily": "Flowbite",
-      "identifier": "profileCardOutline"
+      "identifier": "profileCardOutline",
+      "categories": [
+        "User"
+      ]
     },
     "profile-card-solid": {
       "codepoint": 57971,
       "fontFamily": "Flowbite",
-      "identifier": "profileCardSolid"
+      "identifier": "profileCardSolid",
+      "categories": [
+        "User"
+      ]
     },
     "qr-code-outline": {
       "codepoint": 57972,
       "fontFamily": "Flowbite",
-      "identifier": "qrCodeOutline"
+      "identifier": "qrCodeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "question-circle-outline": {
       "codepoint": 57973,
       "fontFamily": "Flowbite",
-      "identifier": "questionCircleOutline"
+      "identifier": "questionCircleOutline",
+      "categories": [
+        "General"
+      ]
     },
     "question-circle-solid": {
       "codepoint": 57974,
       "fontFamily": "Flowbite",
-      "identifier": "questionCircleSolid"
+      "identifier": "questionCircleSolid",
+      "categories": [
+        "General"
+      ]
     },
     "quote-outline": {
       "codepoint": 57975,
       "fontFamily": "Flowbite",
-      "identifier": "quoteOutline"
+      "identifier": "quoteOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "quote-solid": {
       "codepoint": 57976,
       "fontFamily": "Flowbite",
-      "identifier": "quoteSolid"
+      "identifier": "quoteSolid",
+      "categories": [
+        "Text"
+      ]
     },
     "react-solid": {
       "codepoint": 57977,
       "fontFamily": "Flowbite",
-      "identifier": "reactSolid"
+      "identifier": "reactSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "receipt-outline": {
       "codepoint": 57978,
       "fontFamily": "Flowbite",
-      "identifier": "receiptOutline"
+      "identifier": "receiptOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "receipt-solid": {
       "codepoint": 57979,
       "fontFamily": "Flowbite",
-      "identifier": "receiptSolid"
+      "identifier": "receiptSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "rectangle-list-outline": {
       "codepoint": 57980,
       "fontFamily": "Flowbite",
-      "identifier": "rectangleListOutline"
+      "identifier": "rectangleListOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "rectangle-list-solid": {
       "codepoint": 57981,
       "fontFamily": "Flowbite",
-      "identifier": "rectangleListSolid"
+      "identifier": "rectangleListSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "reddit-solid": {
       "codepoint": 57982,
       "fontFamily": "Flowbite",
-      "identifier": "redditSolid"
+      "identifier": "redditSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "redo-outline": {
       "codepoint": 57983,
       "fontFamily": "Flowbite",
-      "identifier": "redoOutline"
+      "identifier": "redoOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "redo-solid": {
       "codepoint": 57984,
@@ -3239,42 +4974,66 @@
     "refresh-outline": {
       "codepoint": 57985,
       "fontFamily": "Flowbite",
-      "identifier": "refreshOutline"
+      "identifier": "refreshOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "reply-all-outline": {
       "codepoint": 57986,
       "fontFamily": "Flowbite",
-      "identifier": "replyAllOutline"
+      "identifier": "replyAllOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "reply-all-solid": {
       "codepoint": 57987,
       "fontFamily": "Flowbite",
-      "identifier": "replyAllSolid"
+      "identifier": "replyAllSolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "reply-outline": {
       "codepoint": 57988,
       "fontFamily": "Flowbite",
-      "identifier": "replyOutline"
+      "identifier": "replyOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "reply-solid": {
       "codepoint": 57989,
       "fontFamily": "Flowbite",
-      "identifier": "replySolid"
+      "identifier": "replySolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "restore-window-outline": {
       "codepoint": 57990,
       "fontFamily": "Flowbite",
-      "identifier": "restoreWindowOutline"
+      "identifier": "restoreWindowOutline",
+      "categories": [
+        "General"
+      ]
     },
     "rocket-outline": {
       "codepoint": 57991,
       "fontFamily": "Flowbite",
-      "identifier": "rocketOutline"
+      "identifier": "rocketOutline",
+      "categories": [
+        "General"
+      ]
     },
     "rocket-solid": {
       "codepoint": 57992,
       "fontFamily": "Flowbite",
-      "identifier": "rocketSolid"
+      "identifier": "rocketSolid",
+      "categories": [
+        "General"
+      ]
     },
     "rotate-solid": {
       "codepoint": 57993,
@@ -3284,257 +5043,410 @@
     "ruler-combined-outline": {
       "codepoint": 57994,
       "fontFamily": "Flowbite",
-      "identifier": "rulerCombinedOutline"
+      "identifier": "rulerCombinedOutline",
+      "categories": [
+        "General"
+      ]
     },
     "ruler-combined-solid": {
       "codepoint": 57995,
       "fontFamily": "Flowbite",
-      "identifier": "rulerCombinedSolid"
+      "identifier": "rulerCombinedSolid",
+      "categories": [
+        "General"
+      ]
     },
     "sale-percent-outline": {
       "codepoint": 57996,
       "fontFamily": "Flowbite",
-      "identifier": "salePercentOutline"
+      "identifier": "salePercentOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "sale-percent-solid": {
       "codepoint": 57997,
       "fontFamily": "Flowbite",
-      "identifier": "salePercentSolid"
+      "identifier": "salePercentSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "scale-balanced-outline": {
       "codepoint": 57998,
       "fontFamily": "Flowbite",
-      "identifier": "scaleBalancedOutline"
+      "identifier": "scaleBalancedOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "scale-balanced-solid": {
       "codepoint": 57999,
       "fontFamily": "Flowbite",
-      "identifier": "scaleBalancedSolid"
+      "identifier": "scaleBalancedSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "school-alt-outline": {
       "codepoint": 58000,
       "fontFamily": "Flowbite",
-      "identifier": "schoolAltOutline"
+      "identifier": "schoolAltOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-alt-solid": {
       "codepoint": 58001,
       "fontFamily": "Flowbite",
-      "identifier": "schoolAltSolid"
+      "identifier": "schoolAltSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-check-alt-outline": {
       "codepoint": 58002,
       "fontFamily": "Flowbite",
-      "identifier": "schoolCheckAltOutline"
+      "identifier": "schoolCheckAltOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-check-alt-solid": {
       "codepoint": 58003,
       "fontFamily": "Flowbite",
-      "identifier": "schoolCheckAltSolid"
+      "identifier": "schoolCheckAltSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-check-outline": {
       "codepoint": 58004,
       "fontFamily": "Flowbite",
-      "identifier": "schoolCheckOutline"
+      "identifier": "schoolCheckOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-check-solid": {
       "codepoint": 58005,
       "fontFamily": "Flowbite",
-      "identifier": "schoolCheckSolid"
+      "identifier": "schoolCheckSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-exclamation-alt-outline": {
       "codepoint": 58006,
       "fontFamily": "Flowbite",
-      "identifier": "schoolExclamationAltOutline"
+      "identifier": "schoolExclamationAltOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-exclamation-alt-solid": {
       "codepoint": 58007,
       "fontFamily": "Flowbite",
-      "identifier": "schoolExclamationAltSolid"
+      "identifier": "schoolExclamationAltSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-exclamation-outline": {
       "codepoint": 58008,
       "fontFamily": "Flowbite",
-      "identifier": "schoolExclamationOutline"
+      "identifier": "schoolExclamationOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-exclamation-solid": {
       "codepoint": 58009,
       "fontFamily": "Flowbite",
-      "identifier": "schoolExclamationSolid"
+      "identifier": "schoolExclamationSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-flag-alt-outline": {
       "codepoint": 58010,
       "fontFamily": "Flowbite",
-      "identifier": "schoolFlagAltOutline"
+      "identifier": "schoolFlagAltOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-flag-alt-solid": {
       "codepoint": 58011,
       "fontFamily": "Flowbite",
-      "identifier": "schoolFlagAltSolid"
+      "identifier": "schoolFlagAltSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-flag-outline": {
       "codepoint": 58012,
       "fontFamily": "Flowbite",
-      "identifier": "schoolFlagOutline"
+      "identifier": "schoolFlagOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-flag-solid": {
       "codepoint": 58013,
       "fontFamily": "Flowbite",
-      "identifier": "schoolFlagSolid"
+      "identifier": "schoolFlagSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-lock-alt-outline": {
       "codepoint": 58014,
       "fontFamily": "Flowbite",
-      "identifier": "schoolLockAltOutline"
+      "identifier": "schoolLockAltOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-lock-alt-solid": {
       "codepoint": 58015,
       "fontFamily": "Flowbite",
-      "identifier": "schoolLockAltSolid"
+      "identifier": "schoolLockAltSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-lock-outline": {
       "codepoint": 58016,
       "fontFamily": "Flowbite",
-      "identifier": "schoolLockOutline"
+      "identifier": "schoolLockOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-lock-solid": {
       "codepoint": 58017,
       "fontFamily": "Flowbite",
-      "identifier": "schoolLockSolid"
+      "identifier": "schoolLockSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-outline": {
       "codepoint": 58018,
       "fontFamily": "Flowbite",
-      "identifier": "schoolOutline"
+      "identifier": "schoolOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-solid": {
       "codepoint": 58019,
       "fontFamily": "Flowbite",
-      "identifier": "schoolSolid"
+      "identifier": "schoolSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-xmark-alt-outline": {
       "codepoint": 58020,
       "fontFamily": "Flowbite",
-      "identifier": "schoolXmarkAltOutline"
+      "identifier": "schoolXmarkAltOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-xmark-alt-solid": {
       "codepoint": 58021,
       "fontFamily": "Flowbite",
-      "identifier": "schoolXmarkAltSolid"
+      "identifier": "schoolXmarkAltSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "school-xmark-outline": {
       "codepoint": 58022,
       "fontFamily": "Flowbite",
-      "identifier": "schoolXmarkOutline"
+      "identifier": "schoolXmarkOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "school-xmark-solid": {
       "codepoint": 58023,
       "fontFamily": "Flowbite",
-      "identifier": "schoolXmarkSolid"
+      "identifier": "schoolXmarkSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "search-outline": {
       "codepoint": 58024,
       "fontFamily": "Flowbite",
-      "identifier": "searchOutline"
+      "identifier": "searchOutline",
+      "categories": [
+        "General"
+      ]
     },
     "search-solid": {
       "codepoint": 58025,
       "fontFamily": "Flowbite",
-      "identifier": "searchSolid"
+      "identifier": "searchSolid",
+      "categories": [
+        "General"
+      ]
     },
     "seedling-outline": {
       "codepoint": 58026,
       "fontFamily": "Flowbite",
-      "identifier": "seedlingOutline"
+      "identifier": "seedlingOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "seedling-solid": {
       "codepoint": 58027,
       "fontFamily": "Flowbite",
-      "identifier": "seedlingSolid"
+      "identifier": "seedlingSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "server-outline": {
       "codepoint": 58028,
       "fontFamily": "Flowbite",
-      "identifier": "serverOutline"
+      "identifier": "serverOutline",
+      "categories": [
+        "General"
+      ]
     },
     "server-solid": {
       "codepoint": 58029,
       "fontFamily": "Flowbite",
-      "identifier": "serverSolid"
+      "identifier": "serverSolid",
+      "categories": [
+        "General"
+      ]
     },
     "shapes-outline": {
       "codepoint": 58030,
       "fontFamily": "Flowbite",
-      "identifier": "shapesOutline"
+      "identifier": "shapesOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "shapes-solid": {
       "codepoint": 58031,
       "fontFamily": "Flowbite",
-      "identifier": "shapesSolid"
+      "identifier": "shapesSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "share-all-outline": {
       "codepoint": 58032,
       "fontFamily": "Flowbite",
-      "identifier": "shareAllOutline"
+      "identifier": "shareAllOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "share-all-solid": {
       "codepoint": 58033,
       "fontFamily": "Flowbite",
-      "identifier": "shareAllSolid"
+      "identifier": "shareAllSolid",
+      "categories": [
+        "Arrows"
+      ]
     },
     "share-nodes-outline": {
       "codepoint": 58034,
       "fontFamily": "Flowbite",
-      "identifier": "shareNodesOutline"
+      "identifier": "shareNodesOutline",
+      "categories": [
+        "General"
+      ]
     },
     "share-nodes-solid": {
       "codepoint": 58035,
       "fontFamily": "Flowbite",
-      "identifier": "shareNodesSolid"
+      "identifier": "shareNodesSolid",
+      "categories": [
+        "General"
+      ]
     },
     "shield-check-outline": {
       "codepoint": 58036,
       "fontFamily": "Flowbite",
-      "identifier": "shieldCheckOutline"
+      "identifier": "shieldCheckOutline",
+      "categories": [
+        "General"
+      ]
     },
     "shield-check-solid": {
       "codepoint": 58037,
       "fontFamily": "Flowbite",
-      "identifier": "shieldCheckSolid"
+      "identifier": "shieldCheckSolid",
+      "categories": [
+        "General"
+      ]
     },
     "shield-outline": {
       "codepoint": 58038,
       "fontFamily": "Flowbite",
-      "identifier": "shieldOutline"
+      "identifier": "shieldOutline",
+      "categories": [
+        "General"
+      ]
     },
     "shield-solid": {
       "codepoint": 58039,
       "fontFamily": "Flowbite",
-      "identifier": "shieldSolid"
+      "identifier": "shieldSolid",
+      "categories": [
+        "General"
+      ]
     },
     "shopping-bag-outline": {
       "codepoint": 58040,
       "fontFamily": "Flowbite",
-      "identifier": "shoppingBagOutline"
+      "identifier": "shoppingBagOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "shopping-bag-solid": {
       "codepoint": 58041,
       "fontFamily": "Flowbite",
-      "identifier": "shoppingBagSolid"
+      "identifier": "shoppingBagSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "shrimp-outline": {
       "codepoint": 58042,
       "fontFamily": "Flowbite",
-      "identifier": "shrimpOutline"
+      "identifier": "shrimpOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "shrimp-solid": {
       "codepoint": 58043,
       "fontFamily": "Flowbite",
-      "identifier": "shrimpSolid"
+      "identifier": "shrimpSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "shuffle-outline": {
       "codepoint": 58044,
       "fontFamily": "Flowbite",
-      "identifier": "shuffleOutline"
+      "identifier": "shuffleOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "shuffle-solid": {
       "codepoint": 58045,
@@ -3544,12 +5456,18 @@
     "sort-horizontal-outline": {
       "codepoint": 58046,
       "fontFamily": "Flowbite",
-      "identifier": "sortHorizontalOutline"
+      "identifier": "sortHorizontalOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "sort-outline": {
       "codepoint": 58047,
       "fontFamily": "Flowbite",
-      "identifier": "sortOutline"
+      "identifier": "sortOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "sort-solid": {
       "codepoint": 58048,
@@ -3559,182 +5477,290 @@
     "split-cells-outline": {
       "codepoint": 58049,
       "fontFamily": "Flowbite",
-      "identifier": "splitCellsOutline"
+      "identifier": "splitCellsOutline",
+      "categories": [
+        "General"
+      ]
     },
     "stackoverflow-solid": {
       "codepoint": 58050,
       "fontFamily": "Flowbite",
-      "identifier": "stackoverflowSolid"
+      "identifier": "stackoverflowSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "star-half-outline": {
       "codepoint": 58051,
       "fontFamily": "Flowbite",
-      "identifier": "starHalfOutline"
+      "identifier": "starHalfOutline",
+      "categories": [
+        "General"
+      ]
     },
     "star-half-solid": {
       "codepoint": 58052,
       "fontFamily": "Flowbite",
-      "identifier": "starHalfSolid"
+      "identifier": "starHalfSolid",
+      "categories": [
+        "General"
+      ]
     },
     "star-half-stroke-outline": {
       "codepoint": 58053,
       "fontFamily": "Flowbite",
-      "identifier": "starHalfStrokeOutline"
+      "identifier": "starHalfStrokeOutline",
+      "categories": [
+        "General"
+      ]
     },
     "star-half-stroke-solid": {
       "codepoint": 58054,
       "fontFamily": "Flowbite",
-      "identifier": "starHalfStrokeSolid"
+      "identifier": "starHalfStrokeSolid",
+      "categories": [
+        "General"
+      ]
     },
     "star-outline": {
       "codepoint": 58055,
       "fontFamily": "Flowbite",
-      "identifier": "starOutline"
+      "identifier": "starOutline",
+      "categories": [
+        "General"
+      ]
     },
     "star-solid": {
       "codepoint": 58056,
       "fontFamily": "Flowbite",
-      "identifier": "starSolid"
+      "identifier": "starSolid",
+      "categories": [
+        "General"
+      ]
     },
     "stop-outline": {
       "codepoint": 58057,
       "fontFamily": "Flowbite",
-      "identifier": "stopOutline"
+      "identifier": "stopOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "stop-solid": {
       "codepoint": 58058,
       "fontFamily": "Flowbite",
-      "identifier": "stopSolid"
+      "identifier": "stopSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "store-outline": {
       "codepoint": 58059,
       "fontFamily": "Flowbite",
-      "identifier": "storeOutline"
+      "identifier": "storeOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "store-solid": {
       "codepoint": 58060,
       "fontFamily": "Flowbite",
-      "identifier": "storeSolid"
+      "identifier": "storeSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "stroopwafel-outline": {
       "codepoint": 58061,
       "fontFamily": "Flowbite",
-      "identifier": "stroopwafelOutline"
+      "identifier": "stroopwafelOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "stroopwafel-solid": {
       "codepoint": 58062,
       "fontFamily": "Flowbite",
-      "identifier": "stroopwafelSolid"
+      "identifier": "stroopwafelSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "subscript-outline": {
       "codepoint": 58063,
       "fontFamily": "Flowbite",
-      "identifier": "subscriptOutline"
+      "identifier": "subscriptOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "sun-outline": {
       "codepoint": 58064,
       "fontFamily": "Flowbite",
-      "identifier": "sunOutline"
+      "identifier": "sunOutline",
+      "categories": [
+        "Weather"
+      ]
     },
     "sun-solid": {
       "codepoint": 58065,
       "fontFamily": "Flowbite",
-      "identifier": "sunSolid"
+      "identifier": "sunSolid",
+      "categories": [
+        "Weather"
+      ]
     },
     "superscript-outline": {
       "codepoint": 58066,
       "fontFamily": "Flowbite",
-      "identifier": "superscriptOutline"
+      "identifier": "superscriptOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "swatchbook-outline": {
       "codepoint": 58067,
       "fontFamily": "Flowbite",
-      "identifier": "swatchbookOutline"
+      "identifier": "swatchbookOutline",
+      "categories": [
+        "General"
+      ]
     },
     "swatchbook-solid": {
       "codepoint": 58068,
       "fontFamily": "Flowbite",
-      "identifier": "swatchbookSolid"
+      "identifier": "swatchbookSolid",
+      "categories": [
+        "General"
+      ]
     },
     "t-shirt-outline": {
       "codepoint": 58069,
       "fontFamily": "Flowbite",
-      "identifier": "tShirtOutline"
+      "identifier": "tShirtOutline",
+      "categories": [
+        "General"
+      ]
     },
     "t-shirt-solid": {
       "codepoint": 58070,
       "fontFamily": "Flowbite",
-      "identifier": "tShirtSolid"
+      "identifier": "tShirtSolid",
+      "categories": [
+        "General"
+      ]
     },
     "table-column-outline": {
       "codepoint": 58071,
       "fontFamily": "Flowbite",
-      "identifier": "tableColumnOutline"
+      "identifier": "tableColumnOutline",
+      "categories": [
+        "General"
+      ]
     },
     "table-column-solid": {
       "codepoint": 58072,
       "fontFamily": "Flowbite",
-      "identifier": "tableColumnSolid"
+      "identifier": "tableColumnSolid",
+      "categories": [
+        "General"
+      ]
     },
     "table-row-outline": {
       "codepoint": 58073,
       "fontFamily": "Flowbite",
-      "identifier": "tableRowOutline"
+      "identifier": "tableRowOutline",
+      "categories": [
+        "General"
+      ]
     },
     "table-row-solid": {
       "codepoint": 58074,
       "fontFamily": "Flowbite",
-      "identifier": "tableRowSolid"
+      "identifier": "tableRowSolid",
+      "categories": [
+        "General"
+      ]
     },
     "tablet-outline": {
       "codepoint": 58075,
       "fontFamily": "Flowbite",
-      "identifier": "tabletOutline"
+      "identifier": "tabletOutline",
+      "categories": [
+        "General"
+      ]
     },
     "tablet-solid": {
       "codepoint": 58076,
       "fontFamily": "Flowbite",
-      "identifier": "tabletSolid"
+      "identifier": "tabletSolid",
+      "categories": [
+        "General"
+      ]
     },
     "tag-outline": {
       "codepoint": 58077,
       "fontFamily": "Flowbite",
-      "identifier": "tagOutline"
+      "identifier": "tagOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "tag-solid": {
       "codepoint": 58078,
       "fontFamily": "Flowbite",
-      "identifier": "tagSolid"
+      "identifier": "tagSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "tailwind-solid": {
       "codepoint": 58079,
       "fontFamily": "Flowbite",
-      "identifier": "tailwindSolid"
+      "identifier": "tailwindSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "teddy-bear-outline": {
       "codepoint": 58080,
       "fontFamily": "Flowbite",
-      "identifier": "teddyBearOutline"
+      "identifier": "teddyBearOutline",
+      "categories": [
+        "General"
+      ]
     },
     "teddy-bear-solid": {
       "codepoint": 58081,
       "fontFamily": "Flowbite",
-      "identifier": "teddyBearSolid"
+      "identifier": "teddyBearSolid",
+      "categories": [
+        "General"
+      ]
     },
     "terminal-outline": {
       "codepoint": 58082,
       "fontFamily": "Flowbite",
-      "identifier": "terminalOutline"
+      "identifier": "terminalOutline",
+      "categories": [
+        "General"
+      ]
     },
     "terminal-solid": {
       "codepoint": 58083,
       "fontFamily": "Flowbite",
-      "identifier": "terminalSolid"
+      "identifier": "terminalSolid",
+      "categories": [
+        "General"
+      ]
     },
     "text-size-outline": {
       "codepoint": 58084,
       "fontFamily": "Flowbite",
-      "identifier": "textSizeOutline"
+      "identifier": "textSizeOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "text-size-solid": {
       "codepoint": 58085,
@@ -3744,7 +5770,10 @@
     "text-slash-outline": {
       "codepoint": 58086,
       "fontFamily": "Flowbite",
-      "identifier": "textSlashOutline"
+      "identifier": "textSlashOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "text-slash-solid": {
       "codepoint": 58087,
@@ -3754,127 +5783,202 @@
     "text-underline-outline": {
       "codepoint": 58088,
       "fontFamily": "Flowbite",
-      "identifier": "textUnderlineOutline"
+      "identifier": "textUnderlineOutline",
+      "categories": [
+        "Text"
+      ]
     },
     "theatre-outline": {
       "codepoint": 58089,
       "fontFamily": "Flowbite",
-      "identifier": "theatreOutline"
+      "identifier": "theatreOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "theatre-solid": {
       "codepoint": 58090,
       "fontFamily": "Flowbite",
-      "identifier": "theatreSolid"
+      "identifier": "theatreSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "thumbs-down-outline": {
       "codepoint": 58091,
       "fontFamily": "Flowbite",
-      "identifier": "thumbsDownOutline"
+      "identifier": "thumbsDownOutline",
+      "categories": [
+        "Emoji"
+      ]
     },
     "thumbs-down-solid": {
       "codepoint": 58092,
       "fontFamily": "Flowbite",
-      "identifier": "thumbsDownSolid"
+      "identifier": "thumbsDownSolid",
+      "categories": [
+        "Emoji"
+      ]
     },
     "thumbs-up-outline": {
       "codepoint": 58093,
       "fontFamily": "Flowbite",
-      "identifier": "thumbsUpOutline"
+      "identifier": "thumbsUpOutline",
+      "categories": [
+        "Emoji"
+      ]
     },
     "thumbs-up-solid": {
       "codepoint": 58094,
       "fontFamily": "Flowbite",
-      "identifier": "thumbsUpSolid"
+      "identifier": "thumbsUpSolid",
+      "categories": [
+        "Emoji"
+      ]
     },
     "thumbtack-outline": {
       "codepoint": 58095,
       "fontFamily": "Flowbite",
-      "identifier": "thumbtackOutline"
+      "identifier": "thumbtackOutline",
+      "categories": [
+        "General"
+      ]
     },
     "thumbtack-solid": {
       "codepoint": 58096,
       "fontFamily": "Flowbite",
-      "identifier": "thumbtackSolid"
+      "identifier": "thumbtackSolid",
+      "categories": [
+        "General"
+      ]
     },
     "ticket-outline": {
       "codepoint": 58097,
       "fontFamily": "Flowbite",
-      "identifier": "ticketOutline"
+      "identifier": "ticketOutline",
+      "categories": [
+        "General"
+      ]
     },
     "ticket-solid": {
       "codepoint": 58098,
       "fontFamily": "Flowbite",
-      "identifier": "ticketSolid"
+      "identifier": "ticketSolid",
+      "categories": [
+        "General"
+      ]
     },
     "toggle-header-cell-outline": {
       "codepoint": 58099,
       "fontFamily": "Flowbite",
-      "identifier": "toggleHeaderCellOutline"
+      "identifier": "toggleHeaderCellOutline",
+      "categories": [
+        "General"
+      ]
     },
     "toggle-header-column-outline": {
       "codepoint": 58100,
       "fontFamily": "Flowbite",
-      "identifier": "toggleHeaderColumnOutline"
+      "identifier": "toggleHeaderColumnOutline",
+      "categories": [
+        "General"
+      ]
     },
     "toggle-header-row-outline": {
       "codepoint": 58101,
       "fontFamily": "Flowbite",
-      "identifier": "toggleHeaderRowOutline"
+      "identifier": "toggleHeaderRowOutline",
+      "categories": [
+        "General"
+      ]
     },
     "tools-outline": {
       "codepoint": 58102,
       "fontFamily": "Flowbite",
-      "identifier": "toolsOutline"
+      "identifier": "toolsOutline",
+      "categories": [
+        "General"
+      ]
     },
     "tracking-outline": {
       "codepoint": 58103,
       "fontFamily": "Flowbite",
-      "identifier": "trackingOutline"
+      "identifier": "trackingOutline",
+      "categories": [
+        "General"
+      ]
     },
     "tracking-solid": {
       "codepoint": 58104,
       "fontFamily": "Flowbite",
-      "identifier": "trackingSolid"
+      "identifier": "trackingSolid",
+      "categories": [
+        "General"
+      ]
     },
     "trash-bin-outline": {
       "codepoint": 58105,
       "fontFamily": "Flowbite",
-      "identifier": "trashBinOutline"
+      "identifier": "trashBinOutline",
+      "categories": [
+        "General"
+      ]
     },
     "trash-bin-solid": {
       "codepoint": 58106,
       "fontFamily": "Flowbite",
-      "identifier": "trashBinSolid"
+      "identifier": "trashBinSolid",
+      "categories": [
+        "General"
+      ]
     },
     "truck-clock-outline": {
       "codepoint": 58107,
       "fontFamily": "Flowbite",
-      "identifier": "truckClockOutline"
+      "identifier": "truckClockOutline",
+      "categories": [
+        "General"
+      ]
     },
     "truck-clock-solid": {
       "codepoint": 58108,
       "fontFamily": "Flowbite",
-      "identifier": "truckClockSolid"
+      "identifier": "truckClockSolid",
+      "categories": [
+        "General"
+      ]
     },
     "truck-outline": {
       "codepoint": 58109,
       "fontFamily": "Flowbite",
-      "identifier": "truckOutline"
+      "identifier": "truckOutline",
+      "categories": [
+        "General"
+      ]
     },
     "truck-solid": {
       "codepoint": 58110,
       "fontFamily": "Flowbite",
-      "identifier": "truckSolid"
+      "identifier": "truckSolid",
+      "categories": [
+        "General"
+      ]
     },
     "twitter-solid": {
       "codepoint": 58111,
       "fontFamily": "Flowbite",
-      "identifier": "twitterSolid"
+      "identifier": "twitterSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "undo-outline": {
       "codepoint": 58112,
       "fontFamily": "Flowbite",
-      "identifier": "undoOutline"
+      "identifier": "undoOutline",
+      "categories": [
+        "Arrows"
+      ]
     },
     "undo-solid": {
       "codepoint": 58113,
@@ -3884,272 +5988,432 @@
     "upload-outline": {
       "codepoint": 58114,
       "fontFamily": "Flowbite",
-      "identifier": "uploadOutline"
+      "identifier": "uploadOutline",
+      "categories": [
+        "General"
+      ]
     },
     "upload-solid": {
       "codepoint": 58115,
       "fontFamily": "Flowbite",
-      "identifier": "uploadSolid"
+      "identifier": "uploadSolid",
+      "categories": [
+        "General"
+      ]
     },
     "user-add-outline": {
       "codepoint": 58116,
       "fontFamily": "Flowbite",
-      "identifier": "userAddOutline"
+      "identifier": "userAddOutline",
+      "categories": [
+        "User"
+      ]
     },
     "user-add-solid": {
       "codepoint": 58117,
       "fontFamily": "Flowbite",
-      "identifier": "userAddSolid"
+      "identifier": "userAddSolid",
+      "categories": [
+        "User"
+      ]
     },
     "user-circle-outline": {
       "codepoint": 58118,
       "fontFamily": "Flowbite",
-      "identifier": "userCircleOutline"
+      "identifier": "userCircleOutline",
+      "categories": [
+        "User"
+      ]
     },
     "user-circle-solid": {
       "codepoint": 58119,
       "fontFamily": "Flowbite",
-      "identifier": "userCircleSolid"
+      "identifier": "userCircleSolid",
+      "categories": [
+        "User"
+      ]
     },
     "user-edit-outline": {
       "codepoint": 58120,
       "fontFamily": "Flowbite",
-      "identifier": "userEditOutline"
+      "identifier": "userEditOutline",
+      "categories": [
+        "User"
+      ]
     },
     "user-edit-solid": {
       "codepoint": 58121,
       "fontFamily": "Flowbite",
-      "identifier": "userEditSolid"
+      "identifier": "userEditSolid",
+      "categories": [
+        "User"
+      ]
     },
     "user-graduate-outline": {
       "codepoint": 58122,
       "fontFamily": "Flowbite",
-      "identifier": "userGraduateOutline"
+      "identifier": "userGraduateOutline",
+      "categories": [
+        "Education"
+      ]
     },
     "user-graduate-solid": {
       "codepoint": 58123,
       "fontFamily": "Flowbite",
-      "identifier": "userGraduateSolid"
+      "identifier": "userGraduateSolid",
+      "categories": [
+        "Education"
+      ]
     },
     "user-headset-outline": {
       "codepoint": 58124,
       "fontFamily": "Flowbite",
-      "identifier": "userHeadsetOutline"
+      "identifier": "userHeadsetOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "user-headset-solid": {
       "codepoint": 58125,
       "fontFamily": "Flowbite",
-      "identifier": "userHeadsetSolid"
+      "identifier": "userHeadsetSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "user-outline": {
       "codepoint": 58126,
       "fontFamily": "Flowbite",
-      "identifier": "userOutline"
+      "identifier": "userOutline",
+      "categories": [
+        "User"
+      ]
     },
     "user-remove-outline": {
       "codepoint": 58127,
       "fontFamily": "Flowbite",
-      "identifier": "userRemoveOutline"
+      "identifier": "userRemoveOutline",
+      "categories": [
+        "User"
+      ]
     },
     "user-remove-solid": {
       "codepoint": 58128,
       "fontFamily": "Flowbite",
-      "identifier": "userRemoveSolid"
+      "identifier": "userRemoveSolid",
+      "categories": [
+        "User"
+      ]
     },
     "user-settings-outline": {
       "codepoint": 58129,
       "fontFamily": "Flowbite",
-      "identifier": "userSettingsOutline"
+      "identifier": "userSettingsOutline",
+      "categories": [
+        "User"
+      ]
     },
     "user-settings-solid": {
       "codepoint": 58130,
       "fontFamily": "Flowbite",
-      "identifier": "userSettingsSolid"
+      "identifier": "userSettingsSolid",
+      "categories": [
+        "User"
+      ]
     },
     "user-solid": {
       "codepoint": 58131,
       "fontFamily": "Flowbite",
-      "identifier": "userSolid"
+      "identifier": "userSolid",
+      "categories": [
+        "User"
+      ]
     },
     "users-group-outline": {
       "codepoint": 58132,
       "fontFamily": "Flowbite",
-      "identifier": "usersGroupOutline"
+      "identifier": "usersGroupOutline",
+      "categories": [
+        "User"
+      ]
     },
     "users-group-solid": {
       "codepoint": 58133,
       "fontFamily": "Flowbite",
-      "identifier": "usersGroupSolid"
+      "identifier": "usersGroupSolid",
+      "categories": [
+        "User"
+      ]
     },
     "users-outline": {
       "codepoint": 58134,
       "fontFamily": "Flowbite",
-      "identifier": "usersOutline"
+      "identifier": "usersOutline",
+      "categories": [
+        "User"
+      ]
     },
     "users-solid": {
       "codepoint": 58135,
       "fontFamily": "Flowbite",
-      "identifier": "usersSolid"
+      "identifier": "usersSolid",
+      "categories": [
+        "User"
+      ]
     },
     "video-camera-outline": {
       "codepoint": 58136,
       "fontFamily": "Flowbite",
-      "identifier": "videoCameraOutline"
+      "identifier": "videoCameraOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "video-camera-solid": {
       "codepoint": 58137,
       "fontFamily": "Flowbite",
-      "identifier": "videoCameraSolid"
+      "identifier": "videoCameraSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "visa-solid": {
       "codepoint": 58138,
       "fontFamily": "Flowbite",
-      "identifier": "visaSolid"
+      "identifier": "visaSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "volume-down-outline": {
       "codepoint": 58139,
       "fontFamily": "Flowbite",
-      "identifier": "volumeDownOutline"
+      "identifier": "volumeDownOutline",
+      "categories": [
+        "General"
+      ]
     },
     "volume-down-solid": {
       "codepoint": 58140,
       "fontFamily": "Flowbite",
-      "identifier": "volumeDownSolid"
+      "identifier": "volumeDownSolid",
+      "categories": [
+        "General"
+      ]
     },
     "volume-mute-outline": {
       "codepoint": 58141,
       "fontFamily": "Flowbite",
-      "identifier": "volumeMuteOutline"
+      "identifier": "volumeMuteOutline",
+      "categories": [
+        "Media"
+      ]
     },
     "volume-mute-solid": {
       "codepoint": 58142,
       "fontFamily": "Flowbite",
-      "identifier": "volumeMuteSolid"
+      "identifier": "volumeMuteSolid",
+      "categories": [
+        "Media"
+      ]
     },
     "volume-up-outline": {
       "codepoint": 58143,
       "fontFamily": "Flowbite",
-      "identifier": "volumeUpOutline"
+      "identifier": "volumeUpOutline",
+      "categories": [
+        "General"
+      ]
     },
     "volume-up-solid": {
       "codepoint": 58144,
       "fontFamily": "Flowbite",
-      "identifier": "volumeUpSolid"
+      "identifier": "volumeUpSolid",
+      "categories": [
+        "General"
+      ]
     },
     "vue-solid": {
       "codepoint": 58145,
       "fontFamily": "Flowbite",
-      "identifier": "vueSolid"
+      "identifier": "vueSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "wallet-outline": {
       "codepoint": 58146,
       "fontFamily": "Flowbite",
-      "identifier": "walletOutline"
+      "identifier": "walletOutline",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "wallet-solid": {
       "codepoint": 58147,
       "fontFamily": "Flowbite",
-      "identifier": "walletSolid"
+      "identifier": "walletSolid",
+      "categories": [
+        "E-commerce"
+      ]
     },
     "wand-magic-sparkles-outline": {
       "codepoint": 58148,
       "fontFamily": "Flowbite",
-      "identifier": "wandMagicSparklesOutline"
+      "identifier": "wandMagicSparklesOutline",
+      "categories": [
+        "General"
+      ]
     },
     "wand-magic-sparkles-solid": {
       "codepoint": 58149,
       "fontFamily": "Flowbite",
-      "identifier": "wandMagicSparklesSolid"
+      "identifier": "wandMagicSparklesSolid",
+      "categories": [
+        "General"
+      ]
     },
     "water-bottle-outline": {
       "codepoint": 58150,
       "fontFamily": "Flowbite",
-      "identifier": "waterBottleOutline"
+      "identifier": "waterBottleOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "water-bottle-solid": {
       "codepoint": 58151,
       "fontFamily": "Flowbite",
-      "identifier": "waterBottleSolid"
+      "identifier": "waterBottleSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "whatsapp-solid": {
       "codepoint": 58152,
       "fontFamily": "Flowbite",
-      "identifier": "whatsappSolid"
+      "identifier": "whatsappSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "wheat-exclamation-outline": {
       "codepoint": 58153,
       "fontFamily": "Flowbite",
-      "identifier": "wheatExclamationOutline"
+      "identifier": "wheatExclamationOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "wheat-outline": {
       "codepoint": 58154,
       "fontFamily": "Flowbite",
-      "identifier": "wheatOutline"
+      "identifier": "wheatOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "whiskey-glass-outline": {
       "codepoint": 58155,
       "fontFamily": "Flowbite",
-      "identifier": "whiskeyGlassOutline"
+      "identifier": "whiskeyGlassOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "whiskey-glass-solid": {
       "codepoint": 58156,
       "fontFamily": "Flowbite",
-      "identifier": "whiskeyGlassSolid"
+      "identifier": "whiskeyGlassSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "window-outline": {
       "codepoint": 58157,
       "fontFamily": "Flowbite",
-      "identifier": "windowOutline"
+      "identifier": "windowOutline",
+      "categories": [
+        "General"
+      ]
     },
     "window-restore-solid": {
       "codepoint": 58158,
       "fontFamily": "Flowbite",
-      "identifier": "windowRestoreSolid"
+      "identifier": "windowRestoreSolid",
+      "categories": [
+        "General"
+      ]
     },
     "window-solid": {
       "codepoint": 58159,
       "fontFamily": "Flowbite",
-      "identifier": "windowSolid"
+      "identifier": "windowSolid",
+      "categories": [
+        "General"
+      ]
     },
     "windows-solid": {
       "codepoint": 58160,
       "fontFamily": "Flowbite",
-      "identifier": "windowsSolid"
+      "identifier": "windowsSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "wine-bottle-outline": {
       "codepoint": 58161,
       "fontFamily": "Flowbite",
-      "identifier": "wineBottleOutline"
+      "identifier": "wineBottleOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "wine-bottle-solid": {
       "codepoint": 58162,
       "fontFamily": "Flowbite",
-      "identifier": "wineBottleSolid"
+      "identifier": "wineBottleSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "wine-glass-empty-outline": {
       "codepoint": 58163,
       "fontFamily": "Flowbite",
-      "identifier": "wineGlassEmptyOutline"
+      "identifier": "wineGlassEmptyOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "wine-glass-empty-solid": {
       "codepoint": 58164,
       "fontFamily": "Flowbite",
-      "identifier": "wineGlassEmptySolid"
+      "identifier": "wineGlassEmptySolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "wine-glass-outline": {
       "codepoint": 58165,
       "fontFamily": "Flowbite",
-      "identifier": "wineGlassOutline"
+      "identifier": "wineGlassOutline",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "wine-glass-solid": {
       "codepoint": 58166,
       "fontFamily": "Flowbite",
-      "identifier": "wineGlassSolid"
+      "identifier": "wineGlassSolid",
+      "categories": [
+        "Food Beverage"
+      ]
     },
     "x-circle-outline": {
-      "codepoint": 58167,
+      "codepoint": 57574,
       "fontFamily": "Flowbite",
-      "identifier": "xCircleOutline"
+      "identifier": "xCircleOutline",
+      "aliasOf": "close-circle-outline"
     },
     "x-circle-solid": {
       "codepoint": 58168,
@@ -4162,39 +6426,58 @@
       "identifier": "xCompanySolid"
     },
     "x-outline": {
-      "codepoint": 58170,
+      "codepoint": 57576,
       "fontFamily": "Flowbite",
-      "identifier": "xOutline"
+      "identifier": "xOutline",
+      "aliasOf": "close-outline"
     },
     "x-solid": {
       "codepoint": 58171,
       "fontFamily": "Flowbite",
-      "identifier": "xSolid"
+      "identifier": "xSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "youtube-solid": {
       "codepoint": 58172,
       "fontFamily": "Flowbite",
-      "identifier": "youtubeSolid"
+      "identifier": "youtubeSolid",
+      "categories": [
+        "Brands"
+      ]
     },
     "zoom-in-outline": {
       "codepoint": 58173,
       "fontFamily": "Flowbite",
-      "identifier": "zoomInOutline"
+      "identifier": "zoomInOutline",
+      "categories": [
+        "General"
+      ]
     },
     "zoom-in-solid": {
       "codepoint": 58174,
       "fontFamily": "Flowbite",
-      "identifier": "zoomInSolid"
+      "identifier": "zoomInSolid",
+      "categories": [
+        "General"
+      ]
     },
     "zoom-out-outline": {
       "codepoint": 58175,
       "fontFamily": "Flowbite",
-      "identifier": "zoomOutOutline"
+      "identifier": "zoomOutOutline",
+      "categories": [
+        "General"
+      ]
     },
     "zoom-out-solid": {
       "codepoint": 58176,
       "fontFamily": "Flowbite",
-      "identifier": "zoomOutSolid"
+      "identifier": "zoomOutSolid",
+      "categories": [
+        "General"
+      ]
     }
   }
 }

@@ -16,7 +16,7 @@
       "spdx": "MIT",
       "url": "https://github.com/lipis/flag-icons/blob/main/LICENSE"
     },
-    "total": 485,
+    "total": 489,
     "tags": [
       "Uses Stroke"
     ]
@@ -24,16 +24,32 @@
   "fonts": [
     {
       "family": "Flag",
-      "nextCodepoint": 57835,
-      "iconCount": 485
+      "nextCodepoint": 57839,
+      "iconCount": 483
     },
     {
       "family": "FlagSecondary",
-      "nextCodepoint": 57835,
-      "iconCount": 47
+      "nextCodepoint": 57839,
+      "iconCount": 46
     }
   ],
   "icons": {
+    "ac-1x1": {
+      "codepoint": 57837,
+      "fontFamily": "Flag",
+      "identifier": "ac1x1",
+      "aliasOf": "sh-ac-1x1",
+      "duotone": false,
+      "secondaryAliased": true
+    },
+    "ac-4x3": {
+      "codepoint": 57838,
+      "fontFamily": "Flag",
+      "identifier": "ac4x3",
+      "aliasOf": "sh-ac-4x3",
+      "duotone": false,
+      "secondaryAliased": true
+    },
     "ad-1x1": {
       "codepoint": 57344,
       "fontFamily": "Flag",
@@ -315,6 +331,18 @@
       "codepoint": 57397,
       "fontFamily": "Flag",
       "identifier": "bm4x3"
+    },
+    "br-1x1": {
+      "codepoint": 57835,
+      "fontFamily": "Flag",
+      "identifier": "br1x1",
+      "duotone": true
+    },
+    "br-4x3": {
+      "codepoint": 57836,
+      "fontFamily": "Flag",
+      "identifier": "br4x3",
+      "duotone": true
     },
     "bs-1x1": {
       "codepoint": 57398,
@@ -665,14 +693,16 @@
       "identifier": "dz4x3"
     },
     "ea-1x1": {
-      "codepoint": 57466,
+      "codepoint": 57480,
       "fontFamily": "Flag",
-      "identifier": "ea1x1"
+      "identifier": "ea1x1",
+      "aliasOf": "es-1x1"
     },
     "ea-4x3": {
-      "codepoint": 57467,
+      "codepoint": 57481,
       "fontFamily": "Flag",
-      "identifier": "ea4x3"
+      "identifier": "ea4x3",
+      "aliasOf": "es-4x3"
     },
     "eac-1x1": {
       "codepoint": 57468,
@@ -835,14 +865,16 @@
       "fontFamily": "Flag",
       "identifier": "fm1x1",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "fm-4x3": {
       "codepoint": 57499,
       "fontFamily": "Flag",
       "identifier": "fm4x3",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "fo-1x1": {
       "codepoint": 57500,
@@ -891,12 +923,20 @@
     "gb-nir-1x1": {
       "codepoint": 57508,
       "fontFamily": "Flag",
-      "identifier": "gbNir1x1"
+      "identifier": "gbNir1x1",
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "gb-nir-4x3": {
       "codepoint": 57509,
       "fontFamily": "Flag",
-      "identifier": "gbNir4x3"
+      "identifier": "gbNir4x3",
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "gb-sct-1x1": {
       "codepoint": 57510,
@@ -1492,15 +1532,15 @@
       "codepoint": 57624,
       "fontFamily": "Flag",
       "identifier": "mc1x1",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "duotone": false,
+      "secondaryAliased": true
     },
     "mc-4x3": {
       "codepoint": 57625,
       "fontFamily": "Flag",
       "identifier": "mc4x3",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "duotone": false,
+      "secondaryAliased": true
     },
     "md-1x1": {
       "codepoint": 57626,
@@ -1890,15 +1930,15 @@
       "codepoint": 57700,
       "fontFamily": "Flag",
       "identifier": "pl1x1",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pl-4x3": {
       "codepoint": 57701,
       "fontFamily": "Flag",
       "identifier": "pl4x3",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "duotone": false,
+      "secondaryAliased": true
     },
     "pm-1x1": {
       "codepoint": 57702,
@@ -1945,14 +1985,16 @@
       "fontFamily": "Flag",
       "identifier": "pw1x1",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "pw-4x3": {
       "codepoint": 57711,
       "fontFamily": "Flag",
       "identifier": "pw4x3",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "py-1x1": {
       "codepoint": 57712,
@@ -2082,6 +2124,18 @@
       "fontFamily": "Flag",
       "identifier": "sg4x3"
     },
+    "sh-ac-1x1": {
+      "codepoint": 57837,
+      "fontFamily": "Flag",
+      "identifier": "shAc1x1",
+      "duotone": true
+    },
+    "sh-ac-4x3": {
+      "codepoint": 57838,
+      "fontFamily": "Flag",
+      "identifier": "shAc4x3",
+      "duotone": true
+    },
     "sh-hl-1x1": {
       "codepoint": 57736,
       "fontFamily": "Flag",
@@ -2157,14 +2211,16 @@
       "fontFamily": "Flag",
       "identifier": "so1x1",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "so-4x3": {
       "codepoint": 57751,
       "fontFamily": "Flag",
       "identifier": "so4x3",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "st-1x1": {
       "codepoint": 57752,
@@ -2207,14 +2263,16 @@
       "identifier": "sy4x3"
     },
     "ta-1x1": {
-      "codepoint": 57760,
+      "codepoint": 57738,
       "fontFamily": "Flag",
-      "identifier": "ta1x1"
+      "identifier": "ta1x1",
+      "aliasOf": "sh-ta-1x1"
     },
     "ta-4x3": {
-      "codepoint": 57761,
+      "codepoint": 57739,
       "fontFamily": "Flag",
-      "identifier": "ta4x3"
+      "identifier": "ta4x3",
+      "aliasOf": "sh-ta-4x3"
     },
     "tc-4x3": {
       "codepoint": 57762,
@@ -2375,8 +2433,8 @@
       "codepoint": 57791,
       "fontFamily": "Flag",
       "identifier": "ua4x3",
-      "duotone": true,
-      "duotoneKind": "paintOrder"
+      "duotone": false,
+      "secondaryAliased": true
     },
     "ug-1x1": {
       "codepoint": 57792,

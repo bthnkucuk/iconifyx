@@ -11,7 +11,7 @@ const PackInfo packInfo = PackInfo(
   prefix: 'devicon',
   name: 'Devicon',
   category: 'Programming',
-  iconCount: 924,
+  iconCount: 905,
   hasDuotone: true,
   hasPaintOrder: true,
   iconifyJsonVersion: '2.2.472',
@@ -27,7 +27,7 @@ const PackInfo packInfo = PackInfo(
     licenseTitle: 'MIT',
     licenseSpdx: 'MIT',
     licenseUrl: 'https://github.com/devicons/devicon/blob/master/LICENSE',
-    iconCount: 924,
+    iconCount: 905,
   ),
 );
 
@@ -43,5 +43,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/devicons/devicon/blob/master/LICENSE',
-  iconCount: 924,
+  iconCount: 905,
 );

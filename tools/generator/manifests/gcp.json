@@ -50,7 +50,8 @@
       "fontFamily": "Gcp",
       "identifier": "advancedSolutionsLab",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "agent-assist": {
       "codepoint": 57348,
@@ -147,7 +148,8 @@
       "identifier": "automl",
       "duotone": true,
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "automl-natural-language": {
       "codepoint": 57366,
@@ -873,7 +875,8 @@
       "fontFamily": "Gcp",
       "identifier": "myCloud",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "network-connectivity-center": {
       "codepoint": 57499,

@@ -9,12 +9,22 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Panayiotis Lipiridis
 /// License: MIT — https://github.com/lipis/flag-icons/blob/main/LICENSE
-/// Icons: 485 (split across 2 fonts)
+/// Icons: 489 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
 class FlagIcons {
   const FlagIcons._();
+
+  /// `ac-1x1`
+  static const IconifyIconData ac1x1 = IconifyIconData.solo(
+    IconData(0xe1ed, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+  );
+
+  /// `ac-4x3`
+  static const IconifyIconData ac4x3 = IconifyIconData.solo(
+    IconData(0xe1ee, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+  );
 
   /// `ad-1x1`
   static const IconifyIconData ad1x1 = IconifyIconData.solo(
@@ -290,6 +300,18 @@ class FlagIcons {
   /// `bm-4x3`
   static const IconifyIconData bm4x3 = IconifyIconData.solo(
     IconData(0xe035, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+  );
+
+  /// `br-1x1` (duo-tone)
+  static const IconifyIconData br1x1 = IconifyIconData.duo(
+    IconData(0xe1eb, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe1eb, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'),
+  );
+
+  /// `br-4x3` (duo-tone)
+  static const IconifyIconData br4x3 = IconifyIconData.duo(
+    IconData(0xe1ec, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe1ec, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'),
   );
 
   /// `bs-1x1`
@@ -638,12 +660,12 @@ class FlagIcons {
 
   /// `ea-1x1`
   static const IconifyIconData ea1x1 = IconifyIconData.solo(
-    IconData(0xe07a, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe088, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
   /// `ea-4x3`
   static const IconifyIconData ea4x3 = IconifyIconData.solo(
-    IconData(0xe07b, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe089, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
   /// `eac-1x1`
@@ -840,16 +862,6 @@ class FlagIcons {
   static const IconifyIconData gbEng4x3 = IconifyIconData.duo(
     IconData(0xe0a3, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
     IconData(0xe0a3, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'), kind: IconifyIconData.kindPaintOrder,
-  );
-
-  /// `gb-nir-1x1`
-  static const IconifyIconData gbNir1x1 = IconifyIconData.solo(
-    IconData(0xe0a4, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-  );
-
-  /// `gb-nir-4x3`
-  static const IconifyIconData gbNir4x3 = IconifyIconData.solo(
-    IconData(0xe0a5, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
   /// `gb-sct-1x1`
@@ -1432,16 +1444,14 @@ class FlagIcons {
     IconData(0xe117, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
-  /// `mc-1x1` (paint-order duotone)
-  static const IconifyIconData mc1x1 = IconifyIconData.duo(
+  /// `mc-1x1`
+  static const IconifyIconData mc1x1 = IconifyIconData.solo(
     IconData(0xe118, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-    IconData(0xe118, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `mc-4x3` (paint-order duotone)
-  static const IconifyIconData mc4x3 = IconifyIconData.duo(
+  /// `mc-4x3`
+  static const IconifyIconData mc4x3 = IconifyIconData.solo(
     IconData(0xe119, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-    IconData(0xe119, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `md-1x1`
@@ -1821,16 +1831,14 @@ class FlagIcons {
     IconData(0xe163, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
-  /// `pl-1x1` (paint-order duotone)
-  static const IconifyIconData pl1x1 = IconifyIconData.duo(
+  /// `pl-1x1`
+  static const IconifyIconData pl1x1 = IconifyIconData.solo(
     IconData(0xe164, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-    IconData(0xe164, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `pl-4x3` (paint-order duotone)
-  static const IconifyIconData pl4x3 = IconifyIconData.duo(
+  /// `pl-4x3`
+  static const IconifyIconData pl4x3 = IconifyIconData.solo(
     IconData(0xe165, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-    IconData(0xe165, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `pm-1x1`
@@ -1997,6 +2005,18 @@ class FlagIcons {
     IconData(0xe187, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
+  /// `sh-ac-1x1` (duo-tone)
+  static const IconifyIconData shAc1x1 = IconifyIconData.duo(
+    IconData(0xe1ed, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe1ed, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'),
+  );
+
+  /// `sh-ac-4x3` (duo-tone)
+  static const IconifyIconData shAc4x3 = IconifyIconData.duo(
+    IconData(0xe1ee, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe1ee, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'),
+  );
+
   /// `sh-hl-1x1`
   static const IconifyIconData shHl1x1 = IconifyIconData.solo(
     IconData(0xe188, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
@@ -2109,12 +2129,12 @@ class FlagIcons {
 
   /// `ta-1x1`
   static const IconifyIconData ta1x1 = IconifyIconData.solo(
-    IconData(0xe1a0, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe18a, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
   /// `ta-4x3`
   static const IconifyIconData ta4x3 = IconifyIconData.solo(
-    IconData(0xe1a1, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
+    IconData(0xe18b, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
   );
 
   /// `tc-4x3`
@@ -2267,10 +2287,9 @@ class FlagIcons {
     IconData(0xe1be, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `ua-4x3` (paint-order duotone)
-  static const IconifyIconData ua4x3 = IconifyIconData.duo(
+  /// `ua-4x3`
+  static const IconifyIconData ua4x3 = IconifyIconData.solo(
     IconData(0xe1bf, fontFamily: 'Flag', fontPackage: 'iconifyx_flag'),
-    IconData(0xe1bf, fontFamily: 'FlagSecondary', fontPackage: 'iconifyx_flag'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `ug-1x1`

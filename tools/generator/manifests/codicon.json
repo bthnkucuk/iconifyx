@@ -26,7 +26,7 @@
     {
       "family": "Codicon",
       "nextCodepoint": 57912,
-      "iconCount": 567
+      "iconCount": 564
     }
   ],
   "icons": {
@@ -185,7 +185,8 @@
       "fontFamily": "Codicon",
       "identifier": "blank",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "bold": {
       "codepoint": 57375,
@@ -363,14 +364,16 @@
       "identifier": "circleLargeFilled"
     },
     "circle-large-outline": {
-      "codepoint": 57410,
+      "codepoint": 57408,
       "fontFamily": "Codicon",
-      "identifier": "circleLargeOutline"
+      "identifier": "circleLargeOutline",
+      "aliasOf": "circle-large"
     },
     "circle-outline": {
-      "codepoint": 57411,
+      "codepoint": 57406,
       "fontFamily": "Codicon",
-      "identifier": "circleOutline"
+      "identifier": "circleOutline",
+      "aliasOf": "circle"
     },
     "circle-slash": {
       "codepoint": 57412,
@@ -768,9 +771,10 @@
       "identifier": "debugStackframeActive"
     },
     "debug-stackframe-dot": {
-      "codepoint": 57491,
+      "codepoint": 57415,
       "fontFamily": "Codicon",
-      "identifier": "debugStackframeDot"
+      "identifier": "debugStackframeDot",
+      "aliasOf": "circle-small-filled"
     },
     "debug-start": {
       "codepoint": 57492,

@@ -55,28 +55,32 @@
       "fontFamily": "Meteocons",
       "identifier": "clearDay",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "clear-day-fill": {
       "codepoint": 57349,
       "fontFamily": "Meteocons",
       "identifier": "clearDayFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "clear-night": {
       "codepoint": 57350,
       "fontFamily": "Meteocons",
       "identifier": "clearNight",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "clear-night-fill": {
       "codepoint": 57351,
       "fontFamily": "Meteocons",
       "identifier": "clearNightFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "cloud-down": {
       "codepoint": 57352,
@@ -103,7 +107,8 @@
       "fontFamily": "Meteocons",
       "identifier": "cloudy",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "cloudy-fill": {
       "codepoint": 57357,
@@ -115,7 +120,8 @@
       "fontFamily": "Meteocons",
       "identifier": "codeGreen",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "code-green-fill": {
       "codepoint": 57359,
@@ -127,7 +133,8 @@
       "fontFamily": "Meteocons",
       "identifier": "codeOrange",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "code-orange-fill": {
       "codepoint": 57361,
@@ -149,7 +156,8 @@
       "fontFamily": "Meteocons",
       "identifier": "codeYellow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "code-yellow-fill": {
       "codepoint": 57365,
@@ -176,56 +184,66 @@
       "fontFamily": "Meteocons",
       "identifier": "dust",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "dust-day": {
       "codepoint": 57370,
       "fontFamily": "Meteocons",
       "identifier": "dustDay",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "dust-day-fill": {
       "codepoint": 57371,
       "fontFamily": "Meteocons",
       "identifier": "dustDayFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "dust-fill": {
       "codepoint": 57372,
       "fontFamily": "Meteocons",
       "identifier": "dustFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "dust-night": {
       "codepoint": 57373,
       "fontFamily": "Meteocons",
       "identifier": "dustNight",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "dust-night-fill": {
       "codepoint": 57374,
       "fontFamily": "Meteocons",
       "identifier": "dustNightFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "dust-wind": {
       "codepoint": 57375,
       "fontFamily": "Meteocons",
       "identifier": "dustWind",
+      "duotone": true,
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "dust-wind-fill": {
       "codepoint": 57376,
       "fontFamily": "Meteocons",
       "identifier": "dustWindFill",
+      "duotone": true,
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "extreme": {
       "codepoint": 57377,
@@ -501,15 +519,19 @@
       "codepoint": 57431,
       "fontFamily": "Meteocons",
       "identifier": "fallingStars",
+      "duotone": true,
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "falling-stars-fill": {
       "codepoint": 57432,
       "fontFamily": "Meteocons",
       "identifier": "fallingStarsFill",
+      "duotone": true,
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "flag-gale-warning": {
       "codepoint": 57433,
@@ -556,42 +578,48 @@
       "fontFamily": "Meteocons",
       "identifier": "fog",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "fog-day": {
       "codepoint": 57442,
       "fontFamily": "Meteocons",
       "identifier": "fogDay",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "fog-day-fill": {
       "codepoint": 57443,
       "fontFamily": "Meteocons",
       "identifier": "fogDayFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "fog-fill": {
       "codepoint": 57444,
       "fontFamily": "Meteocons",
       "identifier": "fogFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "fog-night": {
       "codepoint": 57445,
       "fontFamily": "Meteocons",
       "identifier": "fogNight",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "fog-night-fill": {
       "codepoint": 57446,
       "fontFamily": "Meteocons",
       "identifier": "fogNightFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "glove": {
       "codepoint": 57447,
@@ -608,35 +636,40 @@
       "fontFamily": "Meteocons",
       "identifier": "hail",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "hail-fill": {
       "codepoint": 57450,
       "fontFamily": "Meteocons",
       "identifier": "hailFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "haze": {
       "codepoint": 57451,
       "fontFamily": "Meteocons",
       "identifier": "haze",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "haze-day": {
       "codepoint": 57452,
       "fontFamily": "Meteocons",
       "identifier": "hazeDay",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "haze-day-fill": {
       "codepoint": 57453,
       "fontFamily": "Meteocons",
       "identifier": "hazeDayFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "haze-fill": {
       "codepoint": 57454,
@@ -648,14 +681,16 @@
       "fontFamily": "Meteocons",
       "identifier": "hazeNight",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "haze-night-fill": {
       "codepoint": 57456,
       "fontFamily": "Meteocons",
       "identifier": "hazeNightFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "horizon": {
       "codepoint": 57457,
@@ -682,154 +717,176 @@
       "fontFamily": "Meteocons",
       "identifier": "hurricane",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "hurricane-fill": {
       "codepoint": 57462,
       "fontFamily": "Meteocons",
       "identifier": "hurricaneFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "lightning-bolt": {
       "codepoint": 57463,
       "fontFamily": "Meteocons",
       "identifier": "lightningBolt",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "lightning-bolt-fill": {
       "codepoint": 57464,
       "fontFamily": "Meteocons",
       "identifier": "lightningBoltFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "mist": {
       "codepoint": 57465,
       "fontFamily": "Meteocons",
       "identifier": "mist",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "mist-fill": {
       "codepoint": 57466,
       "fontFamily": "Meteocons",
       "identifier": "mistFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-first-quarter": {
       "codepoint": 57467,
       "fontFamily": "Meteocons",
       "identifier": "moonFirstQuarter",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-first-quarter-fill": {
       "codepoint": 57468,
       "fontFamily": "Meteocons",
       "identifier": "moonFirstQuarterFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-full": {
       "codepoint": 57469,
       "fontFamily": "Meteocons",
       "identifier": "moonFull",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-full-fill": {
       "codepoint": 57470,
       "fontFamily": "Meteocons",
       "identifier": "moonFullFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-last-quarter": {
       "codepoint": 57471,
       "fontFamily": "Meteocons",
       "identifier": "moonLastQuarter",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-last-quarter-fill": {
       "codepoint": 57472,
       "fontFamily": "Meteocons",
       "identifier": "moonLastQuarterFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-new": {
       "codepoint": 57473,
       "fontFamily": "Meteocons",
       "identifier": "moonNew",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-new-fill": {
       "codepoint": 57474,
       "fontFamily": "Meteocons",
       "identifier": "moonNewFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-waning-crescent": {
       "codepoint": 57475,
       "fontFamily": "Meteocons",
       "identifier": "moonWaningCrescent",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-waning-crescent-fill": {
       "codepoint": 57476,
       "fontFamily": "Meteocons",
       "identifier": "moonWaningCrescentFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-waning-gibbous": {
       "codepoint": 57477,
       "fontFamily": "Meteocons",
       "identifier": "moonWaningGibbous",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-waning-gibbous-fill": {
       "codepoint": 57478,
       "fontFamily": "Meteocons",
       "identifier": "moonWaningGibbousFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-waxing-crescent": {
       "codepoint": 57479,
       "fontFamily": "Meteocons",
       "identifier": "moonWaxingCrescent",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-waxing-crescent-fill": {
       "codepoint": 57480,
       "fontFamily": "Meteocons",
       "identifier": "moonWaxingCrescentFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-waxing-gibbous": {
       "codepoint": 57481,
       "fontFamily": "Meteocons",
       "identifier": "moonWaxingGibbous",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moon-waxing-gibbous-fill": {
       "codepoint": 57482,
       "fontFamily": "Meteocons",
       "identifier": "moonWaxingGibbousFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "moonrise": {
       "codepoint": 57483,
@@ -856,14 +913,16 @@
       "fontFamily": "Meteocons",
       "identifier": "overcast",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-day": {
       "codepoint": 57488,
       "fontFamily": "Meteocons",
       "identifier": "overcastDay",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-day-drizzle": {
       "codepoint": 57489,
@@ -885,7 +944,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastDayFog",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-day-fog-fill": {
       "codepoint": 57493,
@@ -897,7 +957,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastDayHail",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-day-hail-fill": {
       "codepoint": 57495,
@@ -909,7 +970,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastDayHaze",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-day-haze-fill": {
       "codepoint": 57497,
@@ -941,7 +1003,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastDaySmoke",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-day-smoke-fill": {
       "codepoint": 57503,
@@ -953,7 +1016,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastDaySnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-day-snow-fill": {
       "codepoint": 57505,
@@ -980,7 +1044,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastFog",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-fog-fill": {
       "codepoint": 57510,
@@ -992,7 +1057,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastHail",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-hail-fill": {
       "codepoint": 57512,
@@ -1004,7 +1070,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastHaze",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-haze-fill": {
       "codepoint": 57514,
@@ -1016,7 +1083,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastNight",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-night-drizzle": {
       "codepoint": 57516,
@@ -1038,7 +1106,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastNightFog",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-night-fog-fill": {
       "codepoint": 57520,
@@ -1050,7 +1119,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastNightHail",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-night-hail-fill": {
       "codepoint": 57522,
@@ -1062,7 +1132,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastNightHaze",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-night-haze-fill": {
       "codepoint": 57524,
@@ -1094,7 +1165,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastNightSmoke",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-night-smoke-fill": {
       "codepoint": 57530,
@@ -1106,7 +1178,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastNightSnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-night-snow-fill": {
       "codepoint": 57532,
@@ -1138,7 +1211,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastSmoke",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-smoke-fill": {
       "codepoint": 57538,
@@ -1150,7 +1224,8 @@
       "fontFamily": "Meteocons",
       "identifier": "overcastSnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "overcast-snow-fill": {
       "codepoint": 57540,
@@ -1162,7 +1237,8 @@
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDay",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-drizzle": {
       "codepoint": 57542,
@@ -1179,49 +1255,56 @@
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDayFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-fog": {
       "codepoint": 57545,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDayFog",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-fog-fill": {
       "codepoint": 57546,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDayFogFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-hail": {
       "codepoint": 57547,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDayHail",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-hail-fill": {
       "codepoint": 57548,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDayHailFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-haze": {
       "codepoint": 57549,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDayHaze",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-haze-fill": {
       "codepoint": 57550,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDayHazeFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-rain": {
       "codepoint": 57551,
@@ -1248,35 +1331,40 @@
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDaySmoke",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-smoke-fill": {
       "codepoint": 57556,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDaySmokeFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-snow": {
       "codepoint": 57557,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDaySnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-day-snow-fill": {
       "codepoint": 57558,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyDaySnowFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night": {
       "codepoint": 57559,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNight",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-drizzle": {
       "codepoint": 57560,
@@ -1293,49 +1381,56 @@
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-fog": {
       "codepoint": 57563,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightFog",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-fog-fill": {
       "codepoint": 57564,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightFogFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-hail": {
       "codepoint": 57565,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightHail",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-hail-fill": {
       "codepoint": 57566,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightHailFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-haze": {
       "codepoint": 57567,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightHaze",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-haze-fill": {
       "codepoint": 57568,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightHazeFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-rain": {
       "codepoint": 57569,
@@ -1362,49 +1457,56 @@
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightSmoke",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-smoke-fill": {
       "codepoint": 57574,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightSmokeFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-snow": {
       "codepoint": 57575,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightSnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "partly-cloudy-night-snow-fill": {
       "codepoint": 57576,
       "fontFamily": "Meteocons",
       "identifier": "partlyCloudyNightSnowFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "pollen": {
       "codepoint": 57577,
       "fontFamily": "Meteocons",
       "identifier": "pollen",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "pollen-fill": {
       "codepoint": 57578,
       "fontFamily": "Meteocons",
       "identifier": "pollenFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "pollen-flower": {
       "codepoint": 57579,
       "fontFamily": "Meteocons",
       "identifier": "pollenFlower",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "pollen-flower-fill": {
       "codepoint": 57580,
@@ -1416,14 +1518,16 @@
       "fontFamily": "Meteocons",
       "identifier": "pollenGrass",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "pollen-grass-fill": {
       "codepoint": 57582,
       "fontFamily": "Meteocons",
       "identifier": "pollenGrassFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "pollen-tree": {
       "codepoint": 57583,
@@ -1480,14 +1584,16 @@
       "fontFamily": "Meteocons",
       "identifier": "rainbow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "rainbow-clear": {
       "codepoint": 57594,
       "fontFamily": "Meteocons",
       "identifier": "rainbowClear",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "rainbow-clear-fill": {
       "codepoint": 57595,
@@ -1519,7 +1625,8 @@
       "fontFamily": "Meteocons",
       "identifier": "raindropMeasureFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "raindrops": {
       "codepoint": 57601,
@@ -1546,56 +1653,64 @@
       "fontFamily": "Meteocons",
       "identifier": "smoke",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "smoke-fill": {
       "codepoint": 57606,
       "fontFamily": "Meteocons",
       "identifier": "smokeFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "smoke-particles": {
       "codepoint": 57607,
       "fontFamily": "Meteocons",
       "identifier": "smokeParticles",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "smoke-particles-fill": {
       "codepoint": 57608,
       "fontFamily": "Meteocons",
       "identifier": "smokeParticlesFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "snow": {
       "codepoint": 57609,
       "fontFamily": "Meteocons",
       "identifier": "snow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "snow-fill": {
       "codepoint": 57610,
       "fontFamily": "Meteocons",
       "identifier": "snowFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "snowflake": {
       "codepoint": 57611,
       "fontFamily": "Meteocons",
       "identifier": "snowflake",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "snowflake-fill": {
       "codepoint": 57612,
       "fontFamily": "Meteocons",
       "identifier": "snowflakeFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "snowman": {
       "codepoint": 57613,
@@ -1607,56 +1722,64 @@
       "fontFamily": "Meteocons",
       "identifier": "solarEclipse",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "solar-eclipse-fill": {
       "codepoint": 57615,
       "fontFamily": "Meteocons",
       "identifier": "solarEclipseFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "star": {
       "codepoint": 57616,
       "fontFamily": "Meteocons",
       "identifier": "star",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "star-fill": {
       "codepoint": 57617,
       "fontFamily": "Meteocons",
       "identifier": "starFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "starry-night": {
       "codepoint": 57618,
       "fontFamily": "Meteocons",
       "identifier": "starryNight",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "starry-night-fill": {
       "codepoint": 57619,
       "fontFamily": "Meteocons",
       "identifier": "starryNightFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "sun-hot": {
       "codepoint": 57620,
       "fontFamily": "Meteocons",
       "identifier": "sunHot",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "sun-hot-fill": {
       "codepoint": 57621,
       "fontFamily": "Meteocons",
       "identifier": "sunHotFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "sunrise": {
       "codepoint": 57622,
@@ -1723,7 +1846,8 @@
       "fontFamily": "Meteocons",
       "identifier": "thermometerGlass",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thermometer-glass-celsius": {
       "codepoint": 57635,
@@ -1835,14 +1959,16 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstorms",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-day": {
       "codepoint": 57657,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDay",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-day-extreme": {
       "codepoint": 57658,
@@ -1869,14 +1995,16 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-day-overcast": {
       "codepoint": 57663,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayOvercast",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-day-overcast-fill": {
       "codepoint": 57664,
@@ -1888,7 +2016,8 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayOvercastSnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-day-overcast-snow-fill": {
       "codepoint": 57666,
@@ -1900,14 +2029,16 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDaySnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-day-snow-fill": {
       "codepoint": 57668,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDaySnowFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-extreme": {
       "codepoint": 57669,
@@ -1934,14 +2065,16 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-night": {
       "codepoint": 57674,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNight",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-night-extreme": {
       "codepoint": 57675,
@@ -1968,14 +2101,16 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-night-overcast": {
       "codepoint": 57680,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightOvercast",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-night-overcast-fill": {
       "codepoint": 57681,
@@ -1987,7 +2122,8 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightOvercastSnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-night-overcast-snow-fill": {
       "codepoint": 57683,
@@ -1999,21 +2135,24 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightSnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-night-snow-fill": {
       "codepoint": 57685,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightSnowFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-overcast": {
       "codepoint": 57686,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsOvercast",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-overcast-fill": {
       "codepoint": 57687,
@@ -2025,7 +2164,8 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsOvercastSnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-overcast-snow-fill": {
       "codepoint": 57689,
@@ -2037,14 +2177,16 @@
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsSnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "thunderstorms-snow-fill": {
       "codepoint": 57691,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsSnowFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "tide-high": {
       "codepoint": 57692,
@@ -2151,14 +2293,16 @@
       "fontFamily": "Meteocons",
       "identifier": "tornado",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "tornado-fill": {
       "codepoint": 57713,
       "fontFamily": "Meteocons",
       "identifier": "tornadoFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "umbrella": {
       "codepoint": 57714,
@@ -2200,14 +2344,16 @@
       "fontFamily": "Meteocons",
       "identifier": "uvIndex1",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-1-fill": {
       "codepoint": 57722,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex1Fill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-10": {
       "codepoint": 57723,
@@ -2234,84 +2380,96 @@
       "fontFamily": "Meteocons",
       "identifier": "uvIndex2",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-2-fill": {
       "codepoint": 57728,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex2Fill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-3": {
       "codepoint": 57729,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex3",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-3-fill": {
       "codepoint": 57730,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex3Fill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-4": {
       "codepoint": 57731,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex4",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-4-fill": {
       "codepoint": 57732,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex4Fill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-5": {
       "codepoint": 57733,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex5",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-5-fill": {
       "codepoint": 57734,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex5Fill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-6": {
       "codepoint": 57735,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex6",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-6-fill": {
       "codepoint": 57736,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex6Fill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-7": {
       "codepoint": 57737,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex7",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-7-fill": {
       "codepoint": 57738,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex7Fill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "uv-index-8": {
       "codepoint": 57739,
@@ -2343,7 +2501,8 @@
       "fontFamily": "Meteocons",
       "identifier": "wind",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "wind-alert": {
       "codepoint": 57745,
@@ -2490,7 +2649,8 @@
       "fontFamily": "Meteocons",
       "identifier": "windFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "wind-offshore": {
       "codepoint": 57774,
@@ -2517,14 +2677,16 @@
       "fontFamily": "Meteocons",
       "identifier": "windSnow",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "wind-snow-fill": {
       "codepoint": 57779,
       "fontFamily": "Meteocons",
       "identifier": "windSnowFill",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "windsock": {
       "codepoint": 57780,

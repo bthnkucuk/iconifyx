@@ -1363,9 +1363,10 @@ class LogosIcons {
     IconData(0xe0fa, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'), kind: IconifyIconData.kindPaintOrder,
   );
 
-  /// `ember-tomster`
-  static const IconifyIconData emberTomster = IconifyIconData.solo(
+  /// `ember-tomster` (duo-tone)
+  static const IconifyIconData emberTomster = IconifyIconData.duo(
     IconData(0xe0fb, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe0fb, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
   /// `envato`
@@ -1842,14 +1843,16 @@ class LogosIcons {
     IconData(0xe155, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `greensock`
-  static const IconifyIconData greensock = IconifyIconData.solo(
+  /// `greensock` (duo-tone)
+  static const IconifyIconData greensock = IconifyIconData.duo(
     IconData(0xe156, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe156, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
-  /// `greensock-icon`
-  static const IconifyIconData greensockIcon = IconifyIconData.solo(
+  /// `greensock-icon` (duo-tone)
+  static const IconifyIconData greensockIcon = IconifyIconData.duo(
     IconData(0xe157, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+    IconData(0xe157, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
   );
 
   /// `gridsome`

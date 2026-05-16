@@ -11,7 +11,7 @@ const PackInfo packInfo = PackInfo(
   prefix: 'flagpack',
   name: 'Flagpack',
   category: 'Flags / Maps',
-  iconCount: 246,
+  iconCount: 243,
   hasDuotone: true,
   hasPaintOrder: true,
   iconifyJsonVersion: '2.2.472',
@@ -27,7 +27,7 @@ const PackInfo packInfo = PackInfo(
     licenseTitle: 'MIT',
     licenseSpdx: 'MIT',
     licenseUrl: 'https://github.com/Yummygum/flagpack-core/blob/main/LICENSE',
-    iconCount: 246,
+    iconCount: 243,
   ),
 );
 
@@ -43,5 +43,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/Yummygum/flagpack-core/blob/main/LICENSE',
-  iconCount: 246,
+  iconCount: 243,
 );

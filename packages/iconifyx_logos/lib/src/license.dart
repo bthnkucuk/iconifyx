@@ -11,7 +11,7 @@ const PackInfo packInfo = PackInfo(
   prefix: 'logos',
   name: 'SVG Logos',
   category: 'Logos',
-  iconCount: 928,
+  iconCount: 930,
   hasDuotone: true,
   hasPaintOrder: true,
   iconifyJsonVersion: '2.2.472',
@@ -27,7 +27,7 @@ const PackInfo packInfo = PackInfo(
     licenseTitle: 'CC0',
     licenseSpdx: 'CC0-1.0',
     licenseUrl: 'https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt',
-    iconCount: 928,
+    iconCount: 930,
   ),
 );
 
@@ -43,5 +43,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC0',
   licenseSpdx: 'CC0-1.0',
   licenseUrl: 'https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt',
-  iconCount: 928,
+  iconCount: 930,
 );

@@ -12,7 +12,7 @@ const PackInfo packInfo = PackInfo(
   name: 'OpenMoji',
   category: 'Emoji',
   tags: <String>['Precise Shapes', 'Has Padding', 'Uses Stroke'],
-  iconCount: 4048,
+  iconCount: 4045,
   hasDuotone: true,
   iconifyJsonVersion: '2.2.472',
   author: IconAuthor(
@@ -27,7 +27,7 @@ const PackInfo packInfo = PackInfo(
     licenseTitle: 'CC BY-SA 4.0',
     licenseSpdx: 'CC-BY-SA-4.0',
     licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/',
-    iconCount: 4048,
+    iconCount: 4045,
   ),
 );
 
@@ -43,5 +43,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC BY-SA 4.0',
   licenseSpdx: 'CC-BY-SA-4.0',
   licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/',
-  iconCount: 4048,
+  iconCount: 4045,
 );

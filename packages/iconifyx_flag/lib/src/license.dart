@@ -12,7 +12,7 @@ const PackInfo packInfo = PackInfo(
   name: 'Flag Icons',
   category: 'Flags / Maps',
   tags: <String>['Uses Stroke'],
-  iconCount: 485,
+  iconCount: 489,
   hasDuotone: true,
   hasPaintOrder: true,
   iconifyJsonVersion: '2.2.472',
@@ -28,7 +28,7 @@ const PackInfo packInfo = PackInfo(
     licenseTitle: 'MIT',
     licenseSpdx: 'MIT',
     licenseUrl: 'https://github.com/lipis/flag-icons/blob/main/LICENSE',
-    iconCount: 485,
+    iconCount: 489,
   ),
 );
 
@@ -44,5 +44,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/lipis/flag-icons/blob/main/LICENSE',
-  iconCount: 485,
+  iconCount: 489,
 );

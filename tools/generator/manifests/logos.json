@@ -16,7 +16,7 @@
       "spdx": "CC0-1.0",
       "url": "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt"
     },
-    "total": 928
+    "total": 930
   },
   "fonts": [
     {
@@ -27,7 +27,7 @@
     {
       "family": "LogosSecondary",
       "nextCodepoint": 58281,
-      "iconCount": 375
+      "iconCount": 378
     }
   ],
   "icons": {
@@ -387,7 +387,8 @@
       "fontFamily": "Logos",
       "identifier": "appveyor",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "architect": {
       "codepoint": 57403,
@@ -689,7 +690,8 @@
       "fontFamily": "Logos",
       "identifier": "brandfolderIcon",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "broadcom-icon": {
       "codepoint": 57455,
@@ -710,7 +712,8 @@
       "fontFamily": "Logos",
       "identifier": "browserify",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "browserify-icon": {
       "codepoint": 57458,
@@ -1503,7 +1506,8 @@
     "ember-tomster": {
       "codepoint": 57595,
       "fontFamily": "Logos",
-      "identifier": "emberTomster"
+      "identifier": "emberTomster",
+      "duotone": true
     },
     "envato": {
       "codepoint": 57596,
@@ -1831,7 +1835,8 @@
       "identifier": "geekbot",
       "duotone": true,
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "geetest": {
       "codepoint": 57652,
@@ -1933,7 +1938,8 @@
       "identifier": "gnuNet",
       "duotone": true,
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "gnupg": {
       "codepoint": 57669,
@@ -2035,12 +2041,14 @@
     "greensock": {
       "codepoint": 57686,
       "fontFamily": "Logos",
-      "identifier": "greensock"
+      "identifier": "greensock",
+      "duotone": true
     },
     "greensock-icon": {
       "codepoint": 57687,
       "fontFamily": "Logos",
-      "identifier": "greensockIcon"
+      "identifier": "greensockIcon",
+      "duotone": true
     },
     "gridsome": {
       "codepoint": 57688,
@@ -4932,7 +4940,8 @@
       "fontFamily": "Logos",
       "identifier": "tsu",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "tsuru": {
       "codepoint": 58187,
@@ -4954,7 +4963,8 @@
       "fontFamily": "Logos",
       "identifier": "tunein",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "turret": {
       "codepoint": 58191,

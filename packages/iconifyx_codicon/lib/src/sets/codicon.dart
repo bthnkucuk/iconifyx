@@ -343,12 +343,12 @@ class CodiconIcons {
 
   /// `circle-large-outline`
   static const IconifyIconData circleLargeOutline = IconifyIconData.solo(
-    IconData(0xe042, fontFamily: 'Codicon', fontPackage: 'iconifyx_codicon'),
+    IconData(0xe040, fontFamily: 'Codicon', fontPackage: 'iconifyx_codicon'),
   );
 
   /// `circle-outline`
   static const IconifyIconData circleOutline = IconifyIconData.solo(
-    IconData(0xe043, fontFamily: 'Codicon', fontPackage: 'iconifyx_codicon'),
+    IconData(0xe03e, fontFamily: 'Codicon', fontPackage: 'iconifyx_codicon'),
   );
 
   /// `circle-slash`
@@ -748,7 +748,7 @@ class CodiconIcons {
 
   /// `debug-stackframe-dot`
   static const IconifyIconData debugStackframeDot = IconifyIconData.solo(
-    IconData(0xe093, fontFamily: 'Codicon', fontPackage: 'iconifyx_codicon'),
+    IconData(0xe047, fontFamily: 'Codicon', fontPackage: 'iconifyx_codicon'),
   );
 
   /// `debug-start`

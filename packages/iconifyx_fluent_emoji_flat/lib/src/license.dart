@@ -12,7 +12,7 @@ const PackInfo packInfo = PackInfo(
   name: 'Fluent Emoji Flat',
   category: 'Emoji',
   tags: <String>['Precise Shapes', 'Has Padding'],
-  iconCount: 645,
+  iconCount: 2986,
   hasDuotone: true,
   hasPaintOrder: true,
   iconifyJsonVersion: '2.2.472',
@@ -28,7 +28,7 @@ const PackInfo packInfo = PackInfo(
     licenseTitle: 'MIT',
     licenseSpdx: 'MIT',
     licenseUrl: 'https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE',
-    iconCount: 645,
+    iconCount: 2986,
   ),
 );
 
@@ -44,5 +44,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE',
-  iconCount: 645,
+  iconCount: 2986,
 );

@@ -751,7 +751,8 @@
       "fontFamily": "Oui",
       "identifier": "empty",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "eql": {
       "codepoint": 57489,
@@ -1138,7 +1139,8 @@
       "fontFamily": "Oui",
       "identifier": "menu",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "menu-down": {
       "codepoint": 57566,
@@ -1480,7 +1482,8 @@
       "fontFamily": "Oui",
       "identifier": "playFilled",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "plus": {
       "codepoint": 57634,
@@ -1717,7 +1720,8 @@
       "fontFamily": "Oui",
       "identifier": "submodule",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "swatch-input": {
       "codepoint": 57681,
@@ -1729,7 +1733,8 @@
       "fontFamily": "Oui",
       "identifier": "symlink",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "table-density-compact": {
       "codepoint": 57683,
@@ -1786,7 +1791,8 @@
       "fontFamily": "Oui",
       "identifier": "timeslider",
       "deprecated": true,
-      "deprecatedSince": "2026-05-16"
+      "deprecatedSince": "2026-05-16",
+      "deprecatedReason": "svg2ttf-silent-empty"
     },
     "token-alias": {
       "codepoint": 57694,

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Yummygum
 /// License: MIT — https://github.com/Yummygum/flagpack-core/blob/main/LICENSE
-/// Icons: 246 (split across 2 fonts)
+/// Icons: 243 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -494,11 +494,6 @@ class FlagpackIcons {
     IconData(0xe061, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `gu`
-  static const IconifyIconData gu = IconifyIconData.solo(
-    IconData(0xe062, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
   /// `gw`
   static const IconifyIconData gw = IconifyIconData.solo(
     IconData(0xe063, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
@@ -716,11 +711,6 @@ class FlagpackIcons {
     IconData(0xe090, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `md`
-  static const IconifyIconData md = IconifyIconData.solo(
-    IconData(0xe091, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
   /// `me`
   static const IconifyIconData me = IconifyIconData.solo(
     IconData(0xe092, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
@@ -794,11 +784,6 @@ class FlagpackIcons {
   /// `mu`
   static const IconifyIconData mu = IconifyIconData.solo(
     IconData(0xe0a0, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-  );
-
-  /// `mv`
-  static const IconifyIconData mv = IconifyIconData.solo(
-    IconData(0xe0a1, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `mw`
@@ -953,10 +938,9 @@ class FlagpackIcons {
     IconData(0xe0c0, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `qa` (paint-order duotone)
-  static const IconifyIconData qa = IconifyIconData.duo(
+  /// `qa`
+  static const IconifyIconData qa = IconifyIconData.solo(
     IconData(0xe0c1, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
-    IconData(0xe0c1, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `re`
