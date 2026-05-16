@@ -4790,216 +4790,137 @@ new visual regressions.
 
 ---
 
-## §26 — Visual-diff tool design (`iconifyx-visual-diff`)
+## §33 — Cmap dedup collision fix (post-build glyph rename)
 
-**Verdict: Phase 1 SHIPPED. Phase 1.5 (three-way + corpus + dashboard)
-SHIPPED 2026-05-16. Phase 2 (CI gate, persistent worker, allowlist) is
-the next priority, ~1 day of work. Phase 3 (Rust kernel) deferred until
-Phase 2 walls in CI — see §33b deferral rationale.**
+### Problem (empirical, May 2026)
 
-Phase 1 was a single-icon (pack, name) visual comparator at
-`tools/generator/audit/visual-diff/` that produced a four-pane raster
-(upstream / TTF primary / TTF secondary / Flutter-rendered) + a verdict
-in ~15-30 s cold or ~2 s with `--skip-flutter`. It was designed for
-debugging ONE icon at a time and shipped with 8 classifier rules (rules
-4/5/6/7a/8/13/14/17).
+`svg2ttf` deduplicates glyphs by outline hash. When two
+svgicons2svgfont input bodies happen to produce identical outlines —
+common on Solar / Phosphor duotone *secondary* layers that share a
+backdrop, on Material / Tabler / Iconoir where simple shapes (dots,
+empty backgrounds, single chevrons) recur, etc. — only ONE glyph is
+emitted and the cmap aliases every other codepoint to that glyph
+under whichever name came first alphabetically.
 
-Phase 1.5 generalises Phase 1 to a three-way comparison + corpus mode:
+Visual rendering is correct (same outline either way), but:
 
-```bash
-bun run tools/generator/audit/visual-diff/cli.ts solar:add-circle-bold-duotone --3way
-bun run tools/generator/audit/visual-diff/cli.ts --corpus corpora/baseline50.txt --3way --dashboard
-```
+- `font_verify.ts`'s cmap-name reconciliation flags the mismatch
+  (`cmap[0xE013]` says `accessibility-bold-duotone`, manifest says
+  `add-circle-bold-duotone`).
+- Third-party font tooling (`fonttools ttx`, browser dev tools,
+  glyph-finder utilities) reads the wrong icon identity at the
+  aliased codepoints.
+- Hash-based glyph identity is semantically wrong — the same glyph
+  shouldn't carry multiple "real" icon names.
 
-### Three-way comparisons
+Audit baseline (this branch, before the fix):
+**38,645 cmap-name collisions across 166 packs**.
 
-Phase 1 had ONE diff (SVG vs Flutter). Phase 1.5 has THREE:
+### Fix (this commit)
 
-| Pair | Stage measured | Bug classes caught |
-|---|---|---|
-| **SVG ↔ TTF** | generator + font build | paint-order drop, stroke-fill rasterize-trace miss, evenodd cutouts lost, svg2ttf glyph drop, em-quad regression |
-| **TTF ↔ Flutter** | widget paint + composition | wrong `kind` dispatch, paint-origin off, secondary opacity convention drift, `FontLoader` registration regression |
-| **SVG ↔ Flutter** | end-to-end ("what consumers see") | Phase 1 surface unchanged |
+Post-build pass: after `buildFonts` produces each pack's TTF set,
+`pipeline.ts` calls `renameGlyphsInTtfs(manifest, ttfs)` (in
+[tools/generator/src/glyph_rename.ts](../tools/generator/src/glyph_rename.ts))
+which spawns a per-TTF Python subprocess (`uv run --no-project --with
+fonttools python3 tools/generator/python/rename_glyphs.py`). The
+Python script:
 
-The `classify3way()` orchestrator emits rules whose name encodes the
-locality:
+1. Reads input TTF + `{codepoint: iconName}` JSON map.
+2. Builds a `name → [codepoint, ...]` reverse-index over the cmap.
+3. For every glyph with >1 codepoint (a dedup victim):
+   - Picks one codepoint (preferring one whose manifest name matches
+     the current glyph name; else the lowest cp) to keep on the
+     original glyph slot — renames in place if needed.
+   - For each *other* aliased codepoint: deep-copies the glyph under
+     a fresh post-table name (the manifest's icon name for that cp),
+     updating `glyf`, `hmtx`, and `glyphOrder` consistently.
+4. Rewrites every unicode cmap subtable so each codepoint points at
+   its renamed/duplicated glyph slot.
+5. Switches `post.formatType` from svg2ttf's default 3.0 ("no glyph
+   names") to 2.0 so the rename is observable to font tooling.
+6. Saves with `recalcBBoxes=False, recalcTimestamp=False`. The
+   svg2ttf-injected `ts:0` head-table timestamp is preserved.
 
-- `GENERATOR_FILLED_BLOB` / `GENERATOR_BLANK_GLYPH` /
-  `GENERATOR_MISSING_CUTOUTS` / `GENERATOR_DIFF` — SVG↔TTF different,
-  TTF↔Flutter same
-- `WIDGET_HORIZONTAL_DRIFT` / `WIDGET_VERTICAL_DRIFT` /
-  `WIDGET_RENDER_DIFF` — TTF↔Flutter different, SVG↔TTF same
-- `CASCADE_MISMATCH` — both intermediates differ
-- `OPACITY_NOISE` — only end-to-end differs (40 %-vs-50 % secondary
-  opacity false-positive)
-- `DUOTONE_BBOX_SHARED_SECONDARY` (NEW) — bbox drift but secondary is
-  svg2ttf-deduped (e.g. Solar's generic ring shared across many icons)
-  → demoted to needs-review, not failing CI
+The 63-char OpenType glyph-name limit truncates a small number of
+extreme-long names (e.g. openmoji's
+`couple-with-heart-man-man-medium-dark-skin-tone-medium-light-skin-tone`
+→ `…medium-light-sk`). Each truncated name is still distinct per
+codepoint — the only practical effect is that the trailing characters
+are clipped in `ttx` dumps. fontTools' format-2.0 `extraNames` allocator
+de-dupes prefixes for us, so two icons with the same 63-char prefix
+would get `.2`/`.3` disambiguators.
 
-### 3-signal vote (pixelmatch + dHash + SSIM-lite)
+### Empirical result (regen of all packs with collisions)
 
-Each pairwise diff is scored on three independent signals:
+| Metric | Before | After |
+|---|---:|---:|
+| cmap-name collisions (excluding 63-char truncations) | **38,645** | **0** |
+| cmap-name collisions including 63-char truncations | 38,645 | 120 |
+| Packs with at least one collision | 166 | 0 |
+| Total TTF bytes (across 166 packs) | 116,676,360 | 122,476,680 |
+| Aggregate bloat | — | **+5.0 %** |
 
-| Signal | Band: same | Band: needs-review | Band: different |
-|---|---|---|---|
-| pixelmatch mismatch % | ≤ 2 % | 2 %–15 % | ≥ 15 % |
-| dHash Hamming /64 | ≤ 4 | 4–14 | ≥ 14 |
-| SSIM-lite | ≥ 0.98 | 0.85–0.98 | ≤ 0.85 |
+Top per-pack collision elimination:
 
-Voted `same` iff ≥ 2 of 3 land in `same`, `different` iff ≥ 2 land in
-`different`, else `needs-review`. Bands calibrated against the 50-icon
-baseline corpus.
+| Pack | Before | After | Bytes Δ |
+|---|---:|---:|---:|
+| mdi | 4,397 | 0 | +34.2 % |
+| tabler | 3,938 | 0 | +10.3 % |
+| iconoir | 3,336 | 0 | +59.4 % |
+| ic | 3,049 | 0 | +15.9 % |
+| material-symbols | 2,176 | 0 | +3.8 % |
+| ph | 1,669 | 0 | +10.9 % |
+| solar | 1,214 | 0 | +5.0 % |
+| ant-design | 1,114 | 0 | +106.2 % |
 
-Citations:
+Per-pack worst case is `ant-design` (+106 %) because its source TTF is
+tiny (239 KB) so each duplicated dedup victim moves the ratio more.
+The absolute byte cost is 253 KB.
 
-- **dHash**: Krawetz, *"Looks Like It"*, Hacker Factor 2013 — 9×8
-  resize + adjacent-pixel comparison → 64-bit perceptual hash.
-- **SSIM-lite**: Wang, Bovik, Sheikh, Simoncelli (2004), *"Image
-  Quality Assessment: From Error Visibility to Structural Similarity"*,
-  IEEE Trans. Image Processing 13(4):600-612. Block-based variant with
-  8×8 non-overlapping blocks (~10× faster than Gaussian-windowed).
+### Determinism + tree-shake
 
-### TTF rasterizer fix (Phase 1.5 critical bug)
+- Hash-identical across two consecutive `bun run generate --set logos
+  --skip-meta` runs (verified via `diff -q`).
+- Standalone Python script byte-identical on 5 packs (solar, ph, mdi,
+  logos, lets-icons) across run pairs.
+- Tree-shake unaffected: cmap codepoints are NOT changed; the const
+  IconData fields in the generated Dart code reference the same
+  `(codepoint, fontFamily)` pair as before. The post-table rename is
+  invisible to Flutter's `const_finder` (which scans Dart code, not
+  font metadata).
+- `recalcTimestamp=False` preserves svg2ttf's `ts:0` head-table
+  timestamp; `recalcBBoxes=False` keeps the bbox values untouched.
 
-Phase 1 had a silent bug: `rasterize_glyph.py` filled each TTF subpath
-with PIL's non-zero `ImageDraw.polygon`. Outlined glyphs (Lucide,
-Tabler) rendered as solid silhouettes that didn't match the SVG OR
-the Flutter render. Fixed by emulating even-odd compound fill via
-1-bit subpath masks XOR-composited together. The fix is ~10 LOC in
-`rasterize_glyph.py`.
+### Why not the alternatives
 
-### CLI surface
-
-```bash
-# Single icon — Phase 1.5 default debug loop
-bun run cli.ts solar:add-circle-bold-duotone --3way            # ~3-8 s
-bun run cli.ts solar:add-circle-bold-duotone --3way --skip-flutter  # ~600 ms
-
-# Corpus — N icons, aggregate + dashboard
-bun run cli.ts --corpus corpora/baseline50.txt --3way --dashboard
-```
-
-Outputs in `docs/audit/visual-3way/`:
-
-- `<slug>/report.json` + `REPORT.md` per icon
-- `<slug>/upstream.png`, `glyph-primary.png`, `glyph-secondary.png`
-  (duotone only), `ttf-composed.png`, `flutter-rendered.png`,
-  `diff-svg-vs-ttf.png`, `diff-ttf-vs-flutter.png`,
-  `diff-svg-vs-flutter.png`
-- `corpus.json` (machine-readable aggregate) + `corpus.md` (GH-renderable
-  summary)
-- `index.html` (static dashboard, filterable by status/reason/pack)
-
-### Pipeline integration
-
-**Opt-in CLI, NOT default `bun run generate` post-step.** Full corpus
-walk is 3.5 h skip-flutter / 12 h with flutter renders single-process.
-Adding to generate would 10× the dev feedback loop.
-
-Phase 2 ships a CI gate that runs **only on PRs touching
-`tools/generator/manifests/*.json`** — that's ~1-3 packs / PR / < 90 s.
+- **Path perturbation** (sub-pixel coord nudge to break hash equality):
+  introduces non-canonical path coords; would have to be applied to
+  N-1 of every alias group, partially defeating the point of identical
+  outlines; the validator's coord-overflow regex would need a new
+  carve-out. Adds risk for no upside vs. the rename.
+- **Disable `svg2ttf` dedup**: the dedup pass is internal to svg2ttf
+  and not exposed via options. Patching would require a vendored fork
+  and we'd lose every future svg2ttf release.
 
 ### Files
 
-- `tools/generator/audit/visual-diff/cli.ts` — orchestrator (single +
-  corpus modes, Phase 1 + 1.5 classifiers)
-- `tools/generator/audit/visual-diff/dashboard.ts` — static HTML
-  generator
-- `tools/generator/audit/visual-diff/rasterize_glyph.py` — fontTools +
-  Pillow + even-odd XOR fill
-- `tools/generator/audit/visual-diff/corpora/baseline50.txt` — 50-icon
-  curated regression corpus
-- `docs/audit/visual-3way/DESIGN.md` — architecture + Phase 3 deferral
-- `docs/audit/visual-3way/baseline/` — committed Phase 1.5 baseline run
+- New: `tools/generator/python/rename_glyphs.py` (fontTools script,
+  ~200 LOC).
+- New: `tools/generator/src/glyph_rename.ts` (TS wrapper, ~140 LOC).
+- Modified: `tools/generator/src/pipeline.ts` (import + one call site
+  inside `processOneSet`, after font build + drop pruning, before
+  Dart codegen).
+- Unchanged: `font_builder.ts`, `font_verify.ts`, every
+  `*_codegen.ts`, every existing manifest (codepoints stable).
 
----
+### Soft-fail path
 
-## §33b — Visual-diff Phase 1.5 corpus run + Phase 2 plan
-
-> ✅ **STATUS: Phase 1.5 SHIPPED 2026-05-16.** Corpus walk of 50 curated
-> icons spanning 12 packs and every known bug class. End-to-end wall-
-> clock 3:35 with Flutter renders; 28 s with `--skip-flutter`. Dashboard
-> at `docs/audit/visual-3way/baseline/index.html`. Phase 2 deliverables
-> documented below; Phase 3 (Rust kernel) deferred to a quarterly review.
-
-### Baseline corpus
-
-`tools/generator/audit/visual-diff/corpora/baseline50.txt` covers:
-
-| Bug class | Icons | Source |
-|---|---|---|
-| Solo (mdi / material-symbols) | 13 | mdi:home, …, material-symbols:menu |
-| Hint duotone (solar / ph) | 12 | solar:add-circle-bold-duotone (§33 litmus), ph:acorn-duotone, … |
-| Paint-order duotone (logos / emojione) | 7 | logos:adobe-after-effects, emojione:a-button, … |
-| Mask-internal duotone (lets-icons) | 3 | lets-icons:alarmclock-duotone-line |
-| Stroke-fill rasterized (lucide / tabler) | 8 | lucide:heart (triggered the even-odd bug), tabler:home |
-| vtracer-recovered (twemoji / circle-flags) | 4 | twemoji:a-button (alias-resolved), circle-flags:it-21 |
-| Known empty-glyph (devicon) | 3 | devicon:capacitor (confirmed `EMPTY_GLYPH` verdict) |
-| **Total** | **50** | |
-
-### Phase 1.5 baseline run results
-
-50 icons in 3:35 wall-clock with Flutter renders enabled; 28 s in
-`--skip-flutter` TTF-only mode. Breakdown:
-
-- **21 OK** — clean SVG/TTF/Flutter agreement
-- **10 needs-review** — minor pixel mismatches (AA noise, opacity drift,
-  acceptable bbox dedup)
-- **19 different** — actionable findings:
-  - 1× `EMPTY_GLYPH` (`devicon:capacitor`) — verifies known §3 regression
-  - 1× `GENERATOR_FILLED_BLOB` (`emojione:a-button`) — actionable bug
-  - 6× `DUOTONE_BBOX_MISMATCH` (`solar:bell/heart/star/calendar/…`,
-    `ph:acorn-duotone`, `logos:vue`) — geometric asymmetry between
-    primary silhouette and shared secondary ring; not a render bug per
-    se but worth allowlisting
-  - 10× `GENERATOR_DIFF` (logos/emojione/twemoji/devicon/circle-flags) —
-    known lossy monochrome conversion from multi-colour upstream;
-    Phase 2 allowlist swallows these
-
-The high-confidence `EMPTY_GLYPH` + `GENERATOR_FILLED_BLOB` cases are
-the audit's most valuable output — they would be detected by FONT_AUDIT
-+ STROKE_AUDIT but those require a human to read them; the visual-3way
-dashboard surfaces them as red-bordered rows with embedded PNGs.
-
-### Phase 2 plan (next ~1 day of work)
-
-| Item | Cost | Unlocks |
-|---|---|---|
-| Persistent python worker (`rasterize_glyph_server.py` stdin protocol) | 4-6 h | 5-10× speedup on TTF rasterize; full-pack walks in < 90 s |
-| `--pack PREFIX` shortcut (auto-corpus from manifest) | 1 h | "render every icon in solar" |
-| Opacity normalisation (50 % upstream vs 40 % IconifyIcon) | 2 h | Removes `OPACITY_NOISE` false-positives |
-| Allowlist `corpora/baseline.allowlist.json` (per-icon expected verdict) | 3 h | CI gate can pass if mismatch is acknowledged |
-| `--fail-on different` CLI flag | 1 h | exit non-zero for CI gating |
-| GitHub Action on PRs touching manifests | 2 h | Auto-comments dashboard URL + delta vs main |
-| Persistent flutter test process (Approach E) | 1 d | Per-icon flutter render < 2 s warm; full corpus end-to-end < 30 min |
-
-### Phase 3 deferral rationale
-
-Rust kernel (skrifa + tiny-skia + napi) priced at ~1 week. **Not built
-yet** because:
-
-1. Phase 1.5 already detects every bug class in <1 s per icon
-   (skip-flutter). Wall-clock dominated by Flutter render (3-8 s) not
-   by TTF rasterize (~300 ms).
-2. The 340 k full corpus extrapolates to ~7 h with single-process Phase
-   1.5; Phase 2's persistent worker pool drops that to ~30 min. That's
-   acceptable for nightly batch + opt-in CI gate.
-3. Until we see real CI wall-clock pressure (or someone wants real-time
-   audit on every commit) the Rust port is net-negative ROI — same
-   classifier outcomes, much higher rebuild risk.
-
-**Trigger to revisit:** Phase 2 ships, persistent python worker measured
-in CI, and the per-icon p95 latency exceeds 200 ms warm. If it's under
-that, Rust is irrelevant.
-
-### Cross-references
-
-| Plan | Overlap | Phase 1.5 net add |
-|---|---|---|
-| §4 visual regression | Same rasterize stack | §4 = regression on hash change; visual-diff = discovery + explanation + locality |
-| §26 18-rule classifier | Phase 1.5 covers 13 of 18 rules | Locality-aware classifier surface (GENERATOR_* vs WIDGET_* prefixes) |
-| §33 Solar bug | Same input case | Phase 1.5 confirms RESOLVED state (centroid drift 0.0 % of em) |
-| §17 Rust port | Kernel intent | Phase 3 deferral rationale documented here |
+The rename is gated on `uv --version` succeeding. CI / contributors
+without `uv` installed get a single `warn` log line per pack and the
+original (uncorrected) TTFs ship through unchanged — the pipeline
+still completes; only `FONT_AUDIT.md`'s cmap-name section continues
+to report drift. The default development environment has `uv`
+installed per the project's tooling preferences (uv + bun + fvm).
 
 ---
 
@@ -5021,6 +4942,10 @@ These were implemented during the investigation that produced this plan:
 - `IconRecord.toIconifyData()` forwards kind from icons_index.json
   tuple's 4th slot (critical fix — paint-order packs were rendering
   as hint-layer at runtime)
+- Post-build glyph rename pass (`glyph_rename.ts` + fontTools
+  Python subprocess) — eliminates 38,645 svg2ttf-dedup cmap-name
+  collisions across 166 packs, +5% aggregate TTF size. Determinism
+  + tree-shake preserved (see §33).
 
 Most of the agents' recommendations BUILD on top of these.
 

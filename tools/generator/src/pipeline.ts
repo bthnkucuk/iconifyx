@@ -64,11 +64,8 @@ import {
 import { writeCoverageReport } from './coverage_report.ts';
 import { writeStrokeAudit } from './stroke_audit.ts';
 import type { AuditEntry } from './stroke_audit.ts';
-import {
-  verifyFontsAgainstManifests,
-  verifySecondaryGlyphNames,
-} from './font_verify.ts';
-import { getCacheStats, resetCacheStats } from './ttf_cache.ts';
+import { verifyFontsAgainstManifests } from './font_verify.ts';
+import { renameGlyphsInTtfs, type GlyphRenameStats } from './glyph_rename.ts';
 import {
   setPackageDir,
   setPackageFontsDir,
@@ -1239,166 +1236,34 @@ async function processOneSet(
     if (manifest.fonts[i]!.iconCount === 0) manifest.fonts.splice(i, 1);
   }
 
-  // §32: collapse auto-split sibling TTFs (Mdi + Mdi_2 + Mdi_3) into ONE
-  // TTF with cmap format 12 (BMP + supp PUA). Eliminates the sibling-tax
-  // bundle bloat for consumers that reference any subset of icons across
-  // the pack. Empirically verified to render correctly on macOS, web
-  // CanvasKit, and iOS (RESEARCH_PLAN.md §32).
-  //
-  // Mutates `manifest` in place: ex-sibling icons get a NEW codepoint
-  // (supp PUA range) and `tier: 'supp'`; base sibling icons stay at
-  // their BMP codepoints with `tier: 'bmp'`. `manifest.fonts` is
-  // collapsed: one entry per base family (Mdi, MdiSecondary, ...).
-  //
-  // Single-TTF packs and base-only fonts (no `_2` siblings) pass
-  // through unchanged.
-  const mergeResult = await mergeSiblingsInManifest(manifest, ttfs);
-
-  // §22 Rec 1: font_merger.ts rebuilds `manifest.fonts[].iconCount` by
-  // walking every `manifest.icons` entry, which now includes alias
-  // entries (they share the canonical's fontFamily + codepoint). That
-  // would inflate iconCount by the alias count; correct it here so
-  // pubspec_codegen + downstream consumers see the true glyph count.
-  // Secondary font counts (post-merge) also need the alias filter.
-  for (const f of manifest.fonts) {
-    const isSecondary = f.family.endsWith('Secondary');
-    const primaryFamily = isSecondary
-      ? f.family.slice(0, -'Secondary'.length)
-      : f.family;
-    let count = 0;
-    for (const e of Object.values(manifest.icons)) {
-      if (e.deprecated) continue;
-      if (e.aliasOf) continue; // share canonical's glyph slot
-      if (e.fontFamily !== primaryFamily) continue;
-      if (isSecondary && !e.duotone) continue;
-      count += 1;
-    }
-    f.iconCount = count;
-  }
-
-  // Force canonical 1000-em-quad metrics on EVERY emitted TTF (both
-  // merged primaries AND single-tier packs AND every Secondary). svg2ttf
-  // recomputes head/hhea/OS/2 from glyph extents, leaving every pack
-  // with slightly different metric tables; this canonicalisation step
-  // guarantees primary + secondary glyphs paint in the same reference
-  // frame so duotone composition stays aligned. See §33 / `GLYPH_METRICS_AUDIT.md`.
-  const finalTtfs = await canonicalizeTtfs(mergeResult.ttfs);
-
-  // Cmap-aliased secondary demote (RESEARCH_PLAN §33 — "Cmap dedup
-  // demote" sub-section). `svg2ttf`'s outline-dedup pass collapses
-  // identical secondary outlines onto a single glyph name in the
-  // GLYF table, then leaves every codepoint pointing at that ONE
-  // glyph in the cmap. The widget still renders the icon (cmap hit),
-  // but it renders the WRONG secondary letterform — visually
-  // indistinguishable from a misalignment bug to the user (and the
-  // motivating case for §33's Solar `add-circle-bold-duotone`
-  // diagnosis).
-  //
-  // `font_verify.ts:verifySecondaryGlyphNames` checks the cmap names
-  // post-canonicalize (canonicalize only touches metric tables; glyph
-  // names + cmap survive). Any aliased codepoint demotes its icon
-  // back to solo: clear `duotone`, drop `duotoneKind`, set the
-  // informational `secondaryAliased: true` marker. Codegen then
-  // emits `IconifyIconData.solo(...)` instead of `.duo(...)`, so the
-  // wrong secondary never makes it onto the canvas. Codepoint stays
-  // reserved per CLAUDE.md §3.
-  //
-  // The check is cheap (~ms per font) and self-healing: if a future
-  // svg2ttf release stops aliasing, the manifest's `secondaryAliased`
-  // markers will silently drop on the next regen.
-  const aliasResults = verifySecondaryGlyphNames(manifest, {
-    ttfBuffers: finalTtfs,
-  });
-  let totalAliasedDemoted = 0;
-  for (const r of aliasResults) {
-    if (r.fontError || r.aliased.length === 0) continue;
-    for (const a of r.aliased) {
-      const entry = manifest.icons[a.iconName];
-      if (!entry) continue;
-      entry.duotone = false;
-      delete entry.duotoneKind;
-      entry.secondaryAliased = true;
-      totalAliasedDemoted += 1;
-    }
-  }
-  // §22 Rec 1: reconcile alias / canonical duotone state. The verifier
-  // walks `manifest.icons` (which now includes alias entries) and may
-  // report either side of an alias/canonical pair as cmap-aliased.
-  // Sync the demote: if the canonical was demoted, every alias of it
-  // must follow; conversely, an alias-only demote should propagate to
-  // the canonical (and from there to every other alias of the same
-  // canonical) so the duotone flag stays consistent across the pair.
-  for (const [name, entry] of Object.entries(manifest.icons)) {
-    if (entry.deprecated) continue;
-    if (!entry.aliasOf) continue;
-    const canonical = manifest.icons[entry.aliasOf];
-    if (!canonical || canonical.deprecated) continue;
-    if (canonical.secondaryAliased || entry.secondaryAliased) {
-      canonical.duotone = false;
-      delete canonical.duotoneKind;
-      canonical.secondaryAliased = true;
-      entry.duotone = false;
-      delete entry.duotoneKind;
-      entry.secondaryAliased = true;
-    }
-    void name;
-  }
-  // Second pass: now that canonicals are fully resolved, re-sync any
-  // aliases that share an already-demoted canonical.
-  for (const [, entry] of Object.entries(manifest.icons)) {
-    if (!entry.aliasOf) continue;
-    const canonical = manifest.icons[entry.aliasOf];
-    if (!canonical) continue;
-    if (canonical.secondaryAliased && !entry.secondaryAliased) {
-      entry.duotone = false;
-      delete entry.duotoneKind;
-      entry.secondaryAliased = true;
-    }
-  }
-  if (totalAliasedDemoted > 0) {
-    // Recompute Secondary font iconCounts now that a chunk of duotones
-    // have been demoted to solo. We don't drop Secondary fonts whose
-    // count goes to zero here — buildFonts already emitted them with
-    // the still-valid (correct) secondary glyphs of OTHER duotone
-    // icons in this font, and dropping the asset declaration here
-    // would orphan the on-disk TTF. The Secondary font keeps its
-    // legitimate duotones; only the cmap-aliased subset moves to
-    // solo.
-    for (const f of manifest.fonts) {
-      if (!f.family.endsWith('Secondary')) continue;
-      const primaryFamily = f.family.slice(0, -'Secondary'.length);
-      let dt = 0;
-      for (const e of Object.values(manifest.icons)) {
-        if (e.deprecated) continue;
-        if (e.aliasOf) continue; // §22 Rec 1: aliases share canonical's glyph slot
-        if (!e.duotone) continue;
-        if (e.fontFamily !== primaryFamily) continue;
-        dt += 1;
-      }
-      f.iconCount = dt;
-    }
-    const sample = aliasResults
-      .flatMap((r) => r.aliased.slice(0, 2).map((a) => a.iconName))
-      .slice(0, 3)
-      .join(', ');
+  // Post-build glyph rename. svg2ttf deduplicates glyphs by outline
+  // hash; when two svgicons2svgfont inputs produce identical outlines
+  // (common on Solar/Phosphor duotone secondaries that share a
+  // backdrop layer) only one glyph survives, with multiple codepoints
+  // aliased to it under whichever name came first alphabetically.
+  // Visual rendering is unaffected but the cmap → post-table name
+  // mapping is wrong for every aliased codepoint, which trips
+  // `font_verify.ts`'s cmap-name reconciliation and confuses
+  // third-party font tooling. The Python script (fontTools) duplicates
+  // the dedup victim under each aliased codepoint's correct name and
+  // rewrites the cmap. Determinism is preserved.
+  const { ttfs: renamedTtfs, stats: renameStats } = await renameGlyphsInTtfs(
+    manifest,
+    ttfs
+  );
+  if (renameStats.renamed + renameStats.duplicated > 0) {
     log.info(
-      `  "${prefix}": demoted ${totalAliasedDemoted} cmap-aliased duotone${totalAliasedDemoted === 1 ? '' : 's'} to solo (${sample}${totalAliasedDemoted > 3 ? '…' : ''})`
+      `  "${prefix}": glyph rename — ${renameStats.duplicated} dedup victim${renameStats.duplicated === 1 ? '' : 's'} duplicated, ${renameStats.renamed} renamed in place`
     );
   }
+  void (renameStats satisfies GlyphRenameStats);
 
-  const { setDart, aliasesDart, categoriesDart } = emitSetDart({
+  const dartSource = emitSetDart({
     manifest,
     fontPackage: setPackageName(prefix),
   });
 
-  return {
-    prefix,
-    manifest,
-    ttfs: finalTtfs,
-    dartSource: setDart,
-    aliasesDart,
-    categoriesDart,
-  };
+  return { prefix, manifest, ttfs: renamedTtfs, dartSource };
 }
 
 async function writeSetPackage(r: {
