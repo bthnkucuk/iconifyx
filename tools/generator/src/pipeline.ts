@@ -69,10 +69,8 @@ import {
 import { writeCoverageReport } from './coverage_report.ts';
 import { writeStrokeAudit } from './stroke_audit.ts';
 import type { AuditEntry } from './stroke_audit.ts';
-import {
-  verifyFontsAgainstManifests,
-  verifySecondaryGlyphNames,
-} from './font_verify.ts';
+import { verifyFontsAgainstManifests } from './font_verify.ts';
+import { renameGlyphsInTtfs, type GlyphRenameStats } from './glyph_rename.ts';
 import { resetCacheStats } from './ttf_cache.ts';
 import {
   setPackageDir,
@@ -1253,6 +1251,88 @@ async function processOneSet(
   // reference missing assets.
   for (let i = manifest.fonts.length - 1; i >= 0; i--) {
     if (manifest.fonts[i]!.iconCount === 0) manifest.fonts.splice(i, 1);
+  }
+
+  // Post-build glyph rename — §33 regression fix (2026-05-16).
+  //
+  // svg2ttf deduplicates glyphs by outline hash. When two
+  // svgicons2svgfont inputs produce identical outlines (the common case
+  // is Solar / Phosphor / IC duotone SECONDARY layers that all share a
+  // circular or rectangular backdrop), only ONE glyph survives in the
+  // GLYF table and every aliased codepoint's cmap entry resolves to
+  // that glyph — under whichever name svg2ttf encountered first
+  // (alphabetically). The OUTLINE rendered at the aliased codepoint is
+  // visually identical (that's the whole point of dedup), so renderers
+  // produce the right pixels — only the post-table NAME is wrong, which
+  // is a font-tooling / audit-only nuisance.
+  //
+  // History: an earlier commit (2992fa83) tried to handle this by
+  // DEMOTING any cmap-aliased duotone to solo, on the false premise
+  // that the secondary was rendering a wrong-glyph letterform. That
+  // demote silently dropped the outer ring / square frame for ~818
+  // Solar duotones (`add-circle-bold-duotone`, `add-square-line-
+  // duotone`, etc.) — the secondary layer holds the outer shape, the
+  // primary holds the inner plus, and demoting threw the outer shape
+  // away entirely. The visible regression is "only the inner plus
+  // renders". This pass restores the rename-based fix (1600bbfe) so
+  // each codepoint gets its own properly-named glyph (deep-copied from
+  // the dedup victim) and `duotone: true` is preserved.
+  //
+  // Also clears the stale `secondaryAliased: true` markers left over in
+  // manifests by the 2992fa83 demote run — the icon is duotone again,
+  // the field is now meaningless.
+  const { ttfs: renamedTtfs, stats: renameStats } = await renameGlyphsInTtfs(
+    manifest,
+    ttfs
+  );
+  if (renameStats.renamed + renameStats.duplicated > 0) {
+    log.info(
+      `  "${prefix}": glyph rename — ${renameStats.duplicated} dedup victim${renameStats.duplicated === 1 ? '' : 's'} duplicated, ${renameStats.renamed} renamed in place`
+    );
+  }
+  void (renameStats satisfies GlyphRenameStats);
+
+  // Clear stale `secondaryAliased` markers + restore `duotone: true` on
+  // icons that the duotone-split path identified this run. The 2992fa83
+  // demote-to-solo run set `duotone: false` on hundreds of icons whose
+  // outer-shape secondary is correctly built and now properly named by
+  // the rename pass above. Pipeline keeps the codepoint stable — only
+  // the manifest flags flip back to "duotone" so codegen emits `.duo`.
+  for (const [name, e] of Object.entries(manifest.icons)) {
+    if (!e.secondaryAliased) continue;
+    delete e.secondaryAliased;
+    if (e.deprecated) continue;
+    // Re-mark as duotone if the duotone-split path classified it this
+    // run. Aliases inherit from their canonical (mirror the earlier
+    // alias-inherit loop).
+    if (duotoneNames.has(name)) {
+      e.duotone = true;
+      const kind = duotoneKindByName.get(name);
+      if (kind && kind !== 'hint') e.duotoneKind = kind;
+    } else if (e.aliasOf) {
+      const canonical = manifest.icons[e.aliasOf];
+      if (canonical && !canonical.deprecated && canonical.duotone) {
+        e.duotone = true;
+        if (canonical.duotoneKind && canonical.duotoneKind !== 'hint') {
+          e.duotoneKind = canonical.duotoneKind;
+        }
+      }
+    }
+  }
+  // Recompute Secondary font iconCounts now that the duotone flags are
+  // restored — the iconCount loop above ran with stale `duotone: false`
+  // values on the §33-affected icons.
+  for (const f of manifest.fonts) {
+    if (!f.family.endsWith('Secondary')) continue;
+    const primaryFamily = f.family.slice(0, -'Secondary'.length);
+    let dt = 0;
+    for (const e of Object.values(manifest.icons)) {
+      if (e.deprecated) continue;
+      if (!e.duotone) continue;
+      if (e.fontFamily !== primaryFamily) continue;
+      dt += 1;
+    }
+    f.iconCount = dt;
   }
 
   // §22 Rec 3 — patch-bump this pack's version iff the content hash

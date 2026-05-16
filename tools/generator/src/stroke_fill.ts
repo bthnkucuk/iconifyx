@@ -511,12 +511,28 @@ export async function strokeFillBatchMulti(
  * where `idx` is the tagged-pending's position in the input array. The
  * worker is filename-agnostic; it traces whatever lands in `tempIn`.
  */
+/**
+ * A cache miss carrying its source pack prefix + the pending icon body.
+ * Two distinct `Pending` shapes coexist in this file due to the partial
+ * SQLite migration: `strokeFillBatch` (single-prefix path) uses
+ * `Pending = { icon, sourceSvg, hash }` and writes to SQLite, while
+ * `strokeFillBatchMulti` (multi-prefix path used by the pipeline) keeps
+ * the legacy flat-file cache shape `{ icon, cachePath, sourceSvg }`.
+ * The multi-prefix path is the one the pipeline actually calls.
+ */
+type MultiPending = {
+  icon: ResolvedIcon;
+  cachePath: string;
+  sourceSvg: string;
+};
+type Tagged = { prefix: string; pending: MultiPending };
+
 async function processMultiChunk(
   pool: Tagged[],
   cb: {
-    onConverted: (hash: string, icon: ResolvedIcon, body: string) => void;
-    onFailure: () => void;
-    onPanicSkipped: (name: string) => void;
+    onConverted: (prefix: string) => void;
+    onFailure: (prefix: string) => void;
+    onPanicSkipped: (prefix: string, name: string) => void;
   }
 ): Promise<void> {
   if (pool.length === 0) return;
@@ -530,10 +546,13 @@ async function processMultiChunk(
   const tempOut = await mkdtemp(path.join(tmpdir(), `iconifyx-sf-out-${label}-`));
 
   try {
-    const written: Pending[] = [];
-    for (const p of pending) {
-      await writeFile(path.join(tempIn, `${p.hash}.svg`), p.sourceSvg);
-      written.push(p);
+    const written: { tempName: string; tag: Tagged }[] = [];
+    for (let i = 0; i < pool.length; i++) {
+      const tag = pool[i]!;
+      const hash = sha1(tag.pending.sourceSvg);
+      const tempName = `${hash}_${i}.svg`;
+      await writeFile(path.join(tempIn, tempName), tag.pending.sourceSvg);
+      written.push({ tempName, tag });
     }
 
     const ok = await runFixerWorker(tempIn, tempOut);
@@ -546,13 +565,15 @@ async function processMultiChunk(
       for (const w of written) {
         const outPath = path.join(tempOut, w.tempName);
         if (!existsSync(outPath)) continue;
-        const body = await acceptTracedOutput(outPath, w);
+        const body = await acceptTracedOutput(outPath, w.tag.pending);
         if (body !== null) {
-          salvaged.add(w.hash);
-          cb.onConverted(w.hash, w.icon, body);
+          salvagedNames.add(w.tempName);
+          cb.onConverted(w.tag.prefix);
         }
       }
-      const remaining = pending.filter((p) => !salvaged.has(p.hash));
+      const remaining = pool.filter(
+        (_, i) => !salvagedNames.has(written[i]!.tempName)
+      );
 
       if (remaining.length === 1) {
         const tag = remaining[0]!;
@@ -574,16 +595,16 @@ async function processMultiChunk(
     }
 
     // Happy path: worker succeeded. Walk the output dir and update each
-    // icon's body / queue a cache write.
+    // icon's body + write the cache file.
     for (const w of written) {
       const outPath = path.join(tempOut, w.tempName);
       if (!existsSync(outPath)) {
         cb.onFailure(w.tag.prefix);
         continue;
       }
-      const body = await acceptTracedOutput(outPath, w);
+      const body = await acceptTracedOutput(outPath, w.tag.pending);
       if (body !== null) {
-        cb.onConverted(w.hash, w.icon, body);
+        cb.onConverted(w.tag.prefix);
       } else {
         cb.onFailure(w.tag.prefix);
       }
@@ -596,22 +617,20 @@ async function processMultiChunk(
 
 /**
  * Read a traced SVG from `outPath`, strip the outer `<svg>` tag, and
- * commit the result to `pending.icon.body` (in-memory). Returns the
- * extracted body on a clean accept, `null` if the output is missing /
- * empty / invalid (the caller treats this as a per-icon trace failure).
- *
- * The DB write is NOT performed here — `strokeFillBatch` batches all
- * writes for the chunk into a single transaction at the end so we
- * amortize WAL fsyncs across the batch.
+ * commit the result to `pending.icon.body` (in-memory) + the on-disk
+ * flat-file cache at `pending.cachePath`. Returns the extracted body on
+ * a clean accept, `null` if the output is missing / empty / invalid
+ * (the caller treats this as a per-icon trace failure).
  */
 async function acceptTracedOutput(
   outPath: string,
-  pending: Pending
+  pending: MultiPending
 ): Promise<string | null> {
   const fixed = await readFile(outPath, 'utf8');
   if (!/<path\b/.test(fixed)) return null;
   const bodyMatch = fixed.match(/<svg[^>]*>([\s\S]*)<\/svg>/);
   const newBody = (bodyMatch ? bodyMatch[1]! : fixed).trim();
   pending.icon.body = newBody;
+  await writeFile(pending.cachePath, newBody, 'utf8');
   return newBody;
 }
