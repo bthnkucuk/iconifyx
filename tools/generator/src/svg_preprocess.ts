@@ -4,6 +4,7 @@ import {
   cloneShallow,
   deleteAttr,
   directElementChildren,
+  getAttr,
   getAttrLower,
   isPaintableLeaf,
   makeGroup,
@@ -140,49 +141,129 @@ export function isLikelyStrokeSet(icons: readonly ResolvedIcon[]): boolean {
  * without touching the rest of the pack.
  */
 export function iconNeedsRasterTrace(body: string): boolean {
-  // fill-rule="evenodd" is a pure attribute check — no inheritance to
-  // worry about (SVG applies it per element). Fast-path before parsing.
+  // Fast-path on `fill-rule="evenodd"` — TTF rendering is always non-zero
+  // winding, so any evenodd path needs rasterize-trace regardless of fill
+  // or stroke. Cheap regex avoids parsing for the common case.
   if (/fill-rule\s*=\s*["']?evenodd["']?/.test(body)) return true;
-  if (body.indexOf('stroke') === -1) return false;
-  // Walk the AST and ask "does any element paint via stroke while
-  // contributing no fill ink?" — i.e. it relies on stroke geometry which
-  // svgicons2svgfont collapses to zero width. The unified `elementHasNoInk`
-  // predicate is fill-AND-stroke aware, so we instead check the two
-  // channels independently per element.
-  const root = parseBody(body);
-  for (const el of walkElements(root)) {
-    if (!isPaintableLeaf(el)) continue;
-    // Build the effective ancestor-group attrs by walking parents up to
-    // (but not including) the synthetic `<svg>` root. Closer ancestors
-    // override outer ones, so we set keys only when not already present.
-    const groupAttrs: Record<string, string> = {};
-    let p = el.parent;
-    while (p !== null && isTag(p as AnyNode)) {
-      const pe = p as Element;
-      if (pe.name === 'svg') break;
-      for (const [k, v] of Object.entries(pe.attribs)) {
-        if (!(k in groupAttrs)) groupAttrs[k] = v;
-      }
-      p = pe.parent;
-    }
-    const ownStyle = parseInlineStyle(el.attribs.style);
-    const stroke =
-      ownStyle.stroke ?? el.attribs.stroke ?? groupAttrs.stroke;
-    if (stroke === undefined || paintValueIsNoInk(stroke)) continue;
-    // Stroke is visible-paint. Is the fill no-ink? If yes, stroke is the
-    // only paint contributor → rasterize-trace needed.
-    const fill =
-      ownStyle.fill ?? el.attribs.fill ?? groupAttrs.fill;
-    const fillOp =
-      ownStyle['fill-opacity'] ??
-      el.attribs['fill-opacity'] ??
-      groupAttrs['fill-opacity'];
-    const fillNoInk =
-      (fill !== undefined && paintValueIsNoInk(fill)) ||
-      (fillOp !== undefined && parseFloat(fillOp) === 0);
-    if (fillNoInk) return true;
+  // Bodies with no stroke at all can't be stroke-only; bail before parsing.
+  if (!/\bstroke\s*[=:]/.test(body)) return false;
+
+  // Walk the body's AST and resolve effective paint per leaf against its
+  // ancestor `<g>` chain. The regex-only predicate (kept above as a fast
+  // bail-out) misses:
+  //
+  //   - `<g stroke="…"><path d="…"/></g>`: the leaf has no `stroke` attr;
+  //     the regex saw "no stroke" and let the icon through as filled.
+  //   - `style="stroke: …; fill: none"`: the regex looked at `stroke=` /
+  //     `fill=` attributes, never inline style declarations.
+  //   - `<g fill="none"><path stroke="…" d="…"/></g>`: leaf has stroke but
+  //     no own fill; regex's `!/fill=/.test(body)` flipped FALSE because
+  //     the wrapper has `fill=`, so the body was passed through filled.
+  //   - Open paths (no `Z`): if the path is `<path stroke="…" d="M0 0L10
+  //     10"/>` and svgicons2svgfont fills it, the unclosed shape paints
+  //     either a triangle to (0,0) or vanishes — either way wrong.
+  //
+  // AST walk fixes all four by resolving paint along the ancestor chain
+  // with "latest set wins" semantics (matching CSS / SVG inheritance) and
+  // then checking each leaf's effective state.
+  let root: Element;
+  try {
+    root = parseBody(body);
+  } catch {
+    // Fallback to the cheap regex if parsing fails (malformed body — the
+    // validator will reject it downstream anyway).
+    return /\bstroke\s*=/.test(body) && /fill\s*=\s*["']?(?:none|transparent)["']?/.test(body);
   }
-  return false;
+
+  // Iterative AST descent with an inherited-paint context. Each frame
+  // tracks the effective fill / stroke / stroke-width / fill-rule that
+  // would apply to a leaf at this level if it didn't override them.
+  interface PaintCtx {
+    fill?: string;        // lowercased; `none` / `transparent` count as "no fill"
+    stroke?: string;      // lowercased; concrete colour or `currentcolor`
+    strokeWidth?: number;
+    fillRule?: string;    // `evenodd` / `nonzero` (latter is default)
+  }
+  const visit = (el: Element, ctx: PaintCtx): boolean => {
+    // Compute effective paint at this element.
+    const eff: PaintCtx = { ...ctx };
+    // 1. Resolve from attributes.
+    const fillAttr = getAttrLower(el, 'fill');
+    if (fillAttr !== undefined) eff.fill = fillAttr;
+    const strokeAttr = getAttrLower(el, 'stroke');
+    if (strokeAttr !== undefined) eff.stroke = strokeAttr;
+    const swAttr = getAttrLower(el, 'stroke-width');
+    if (swAttr !== undefined) {
+      const w = parseFloat(swAttr);
+      if (Number.isFinite(w)) eff.strokeWidth = w;
+    }
+    const frAttr = getAttrLower(el, 'fill-rule');
+    if (frAttr !== undefined) eff.fillRule = frAttr;
+    // 2. Resolve from style="…" (after attributes — CSS specificity wins
+    // for inline style, but for our purposes "either set" is enough). We
+    // walk the raw `style=` for `fill:`, `stroke:`, `stroke-width:`, and
+    // `fill-rule:`.
+    const styleRaw = getAttrLower(el, 'style');
+    if (styleRaw) {
+      const decls = styleRaw.split(';');
+      for (const d of decls) {
+        const idx = d.indexOf(':');
+        if (idx < 0) continue;
+        const k = d.slice(0, idx).trim();
+        const v = d.slice(idx + 1).trim();
+        if (k === 'fill') eff.fill = v;
+        else if (k === 'stroke') eff.stroke = v;
+        else if (k === 'stroke-width') {
+          const w = parseFloat(v);
+          if (Number.isFinite(w)) eff.strokeWidth = w;
+        } else if (k === 'fill-rule') eff.fillRule = v;
+      }
+    }
+
+    // evenodd anywhere on an ancestor path is enough — we don't actually
+    // need to be at a leaf to know we'll trip the predicate.
+    if (eff.fillRule === 'evenodd') return true;
+
+    // Leaf check.
+    if (isPaintableLeaf(el)) {
+      const fillNone =
+        eff.fill === undefined
+          ? false // default fill = black; missing means filled
+          : eff.fill === 'none' || eff.fill === 'transparent';
+      const strokeVisible =
+        eff.stroke !== undefined &&
+        eff.stroke !== 'none' &&
+        eff.stroke !== 'transparent' &&
+        !eff.stroke.startsWith('url(');
+      // Effective stroke width: explicit value if set, else SVG default
+      // of 1. A leaf with `stroke="…"` and width ≥ 1 will rasterize as a
+      // visible stroke under non-zero winding fill; svgicons2svgfont
+      // strips the stroke and treats it as zero-width geometry, so any
+      // such leaf needs raster-trace recovery.
+      const effSw = eff.strokeWidth ?? 1;
+      // Case A: stroke-only paint (no fill, visible stroke).
+      if (fillNone && strokeVisible && effSw >= 1) return true;
+      // Case B: open path with visible stroke. SVG paints open paths fine
+      // (the stroke follows the curve), but svgicons2svgfont treats the
+      // stroke as zero-width AND fills the implicit-closed region,
+      // producing the wrong glyph. Detected by absence of `Z`/`z` close
+      // command in `d`.
+      if (el.name === 'path' && strokeVisible && effSw >= 1) {
+        const d = getAttr(el, 'd') ?? '';
+        if (d.length > 0 && !/[Zz]/.test(d)) return true;
+      }
+    }
+
+    // Recurse into children.
+    for (const child of el.children) {
+      if (isTag(child)) {
+        if (visit(child, eff)) return true;
+      }
+    }
+    return false;
+  };
+
+  return visit(root, {});
 }
 
 // ============================================================================
@@ -1423,6 +1504,7 @@ export function scaleStrokeWidths(body: string, ratio: number): string {
 
   return out;
 }
+
 // ============================================================================
 // Stroke-as-fill skip
 // ============================================================================

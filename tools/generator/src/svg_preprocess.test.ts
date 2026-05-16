@@ -9,6 +9,7 @@ import {
   setStrokeWidth,
   strokeIsFillLike,
   maxStrokeWidth,
+  iconNeedsRasterTrace,
 } from './svg_preprocess.ts';
 import { parseBody, directElementChildren } from './dom.ts';
 import type { ResolvedIcon } from './load_iconify.ts';
@@ -387,6 +388,75 @@ describe('strokeIsFillLike', () => {
     const body =
       `<path style="fill: currentColor; stroke: currentColor; stroke-width: 5" d="M0 0"/>`;
     expect(strokeIsFillLike(body, 24)).toBe(true);
+  });
+});
+
+describe('iconNeedsRasterTrace (DOM-based)', () => {
+  test('detects inherited stroke from outer group + fill=none', () => {
+    // The original regex predicate missed this: leaf had no own stroke,
+    // so `/stroke=/.test(body)` matched only the <g>'s attribute and
+    // `!/fill=/.test(body)` flipped FALSE because of the wrapper's
+    // own fill=none. AST walk resolves inheritance correctly.
+    const body =
+      `<g stroke="currentColor" fill="none">` +
+      `<path d="M0 0Z"/>` +
+      `</g>`;
+    expect(iconNeedsRasterTrace(body)).toBe(true);
+  });
+
+  test('detects inline-style stroke (no `stroke=` attribute)', () => {
+    const body = `<path style="stroke: currentColor; fill: none" d="M0 0Z"/>`;
+    expect(iconNeedsRasterTrace(body)).toBe(true);
+  });
+
+  test('detects open paths (stroke without Z)', () => {
+    // An open path with a visible stroke fills as a wrong region under
+    // svgicons2svgfont's non-zero winding.
+    const body = `<path stroke="currentColor" fill="none" d="M0 0L10 10"/>`;
+    expect(iconNeedsRasterTrace(body)).toBe(true);
+  });
+
+  test('returns false for flat filled icons (no stroke anywhere)', () => {
+    // Cheap fast-path bail.
+    const body = `<path fill="currentColor" d="M0 0Z"/>`;
+    expect(iconNeedsRasterTrace(body)).toBe(false);
+  });
+
+  test('still picks up fill-rule="evenodd"', () => {
+    const body = `<path fill="currentColor" fill-rule="evenodd" d="M0 0Z"/>`;
+    expect(iconNeedsRasterTrace(body)).toBe(true);
+  });
+
+  test('does NOT flag closed stroke + inherited fill=currentColor (true filled)', () => {
+    // A leaf with a closed `Z` path inheriting a concrete fill from its
+    // group AND a stroke is a filled icon with an outline. svgicons2svgfont
+    // can render the filled body; we don't need to trace.
+    const body =
+      `<g stroke="currentColor" fill="currentColor">` +
+      `<path d="M0 0L10 10L0 10Z"/>` +
+      `</g>`;
+    expect(iconNeedsRasterTrace(body)).toBe(false);
+  });
+
+  test('handles missing fill on leaf with fill=none on parent', () => {
+    // Inherited fill=none + leaf with own stroke: classic stroke-only.
+    const body =
+      `<g fill="none">` +
+      `<path stroke="currentColor" d="M0 0Z"/>` +
+      `</g>`;
+    expect(iconNeedsRasterTrace(body)).toBe(true);
+  });
+
+  test('handles nested groups (deep inheritance)', () => {
+    // 2-level nesting; the leaf's effective paint comes from the
+    // outer <g>'s fill=none + the middle <g>'s stroke=currentColor.
+    const body =
+      `<g fill="none">` +
+        `<g stroke="currentColor">` +
+          `<path d="M0 0Z"/>` +
+        `</g>` +
+      `</g>`;
+    expect(iconNeedsRasterTrace(body)).toBe(true);
   });
 });
 
