@@ -138,25 +138,42 @@ export interface Manifest {
   lastUpdated: string;
   category: string | null;
   subPackage: string;
-  info: {
-    name: string;
-    author: SetAuthorInfo | null;
-    license: SetLicenseInfo;
-    total: number;
-    /**
-     * Iconify upstream `info.tags`. Empty array for sets that don't ship
-     * tags. Surfaced through codegen to `packInfo.tags` (§22 Rec 5) so
-     * picker / search consumers can introspect without loading the
-     * website's 9.8 MB icons index.
-     *
-     * Omitted (= undefined) means "back-compat default" — manifests
-     * written before §22 Rec 5 land have no tags slot; codegen treats
-     * it as the empty list.
-     */
-    tags?: string[];
-  };
-  fonts: ManifestFontEntry[];
-  icons: Record<string, ManifestIconEntry>;
+  /**
+   * Semantic version of the emitted Dart package. Bumped (patch level) by
+   * `tools/generator/src/version_bump.ts` whenever `contentHash` differs
+   * from the previous manifest on disk; otherwise carried forward verbatim.
+   *
+   * Stored in the manifest (not just the pubspec) so the version survives
+   * a `bun run generate` that touches a different pack — the pubspec is
+   * a generated artefact, the manifest is the source of truth.
+   *
+   * Omitted on first-ever build for a pack; the version bumper seeds it
+   * to `'0.1.0'`. Empty packs (`iconCount === 0` after every drop)
+   * inherit the previous value if any, else `'0.0.0'`.
+   *
+   * Introduced by RESEARCH_PLAN §22 Rec 3.
+   */
+  version?: string;
+  /**
+   * SHA-1 of the pack's CONTENT-bearing fields — icon-by-icon
+   * `(codepoint, fontFamily, identifier, deprecated, duotone, duotoneKind)`
+   * plus font family list, license string, and pinned `iconifyJsonVersion`.
+   * Hashed deterministically by `version_bump.ts:computeManifestContentHash`.
+   *
+   * Compared against the previous-on-disk manifest's `contentHash` to
+   * decide whether to bump `version` for this regen. A mismatch means
+   * SOMETHING relevant to consumers changed (new icon, codepoint shift,
+   * font-family rename, license change, Iconify source version bump);
+   * a match means the pack is byte-identical to the prior emit and the
+   * version stays where it was.
+   *
+   * Excludes `lastUpdated` (always shifts) and `info.total` (derived).
+   * Omitted on manifests written before §22 Rec 3 landed; treated as a
+   * sentinel "first hash" — the bumper records the hash and KEEPS the
+   * existing version unchanged for that one regen so we don't blanket-
+   * bump every pack on rollout.
+   */
+  contentHash?: string;
 }
 
 const MANIFESTS_DIR = path.resolve(import.meta.dir, '..', 'manifests');

@@ -41,6 +41,7 @@ import {
   type Manifest,
   type ManifestIconEntry,
 } from './manifest.ts';
+import { decideVersionBump } from './version_bump.ts';
 import { allocateCodepoints } from './codepoint_allocator.ts';
 import { buildFonts, verifyGlyphsNonEmpty } from './font_builder.ts';
 import {
@@ -1238,70 +1239,19 @@ async function processOneSet(
     if (manifest.fonts[i]!.iconCount === 0) manifest.fonts.splice(i, 1);
   }
 
-  // Cmap-aliased secondary demote (RESEARCH_PLAN §33 — "Cmap dedup
-  // demote" sub-section). `svg2ttf`'s outline-dedup pass collapses
-  // identical secondary outlines onto a single glyph name in the GLYF
-  // table, then leaves every codepoint pointing at that ONE glyph in
-  // the cmap. The widget still renders the icon (cmap hit), but it
-  // renders the WRONG secondary letterform — visually indistinguishable
-  // from a misalignment bug (the motivating case is Solar's
-  // `add-circle-bold-duotone` where the secondary cmap at cp 0xE013
-  // resolves to `accessibility-bold-duotone` instead of its own glyph).
-  //
-  // `font_verify.ts:verifySecondaryGlyphNames` checks every duotone
-  // icon's secondary cmap NAME against the icon name. Any mismatch
-  // demotes the icon back to solo: clear `duotone`, drop `duotoneKind`,
-  // set `secondaryAliased: true` (informational marker so future runs
-  // can attribute the demote). Codegen then emits
-  // `IconifyIconData.solo(...)` instead of `.duo(...)`, so the wrong
-  // secondary never makes it onto the canvas. Codepoint stays reserved
-  // per CLAUDE.md §3.
-  //
-  // The check is cheap (~ms per font) and self-healing: if a future
-  // svg2ttf release stops aliasing, the next regen's duotone-split
-  // re-marks the icon as duotone and the demote condition disappears.
-  const aliasResults = verifySecondaryGlyphNames(manifest, {
-    ttfBuffers: ttfs,
-  });
-  let totalAliasedDemoted = 0;
-  for (const r of aliasResults) {
-    if (r.fontError || r.aliased.length === 0) continue;
-    for (const a of r.aliased) {
-      const entry = manifest.icons[a.iconName];
-      if (!entry) continue;
-      entry.duotone = false;
-      delete entry.duotoneKind;
-      entry.secondaryAliased = true;
-      totalAliasedDemoted += 1;
-    }
-  }
-  if (totalAliasedDemoted > 0) {
-    // Recompute Secondary font iconCounts now that a chunk of duotones
-    // have been demoted to solo. We don't drop Secondary fonts whose
-    // count goes to zero here — buildFonts already emitted them with
-    // the still-valid (correct) secondary glyphs of OTHER duotone
-    // icons in this font, and dropping the asset declaration here
-    // would orphan the on-disk TTF. The Secondary font keeps its
-    // legitimate duotones; only the cmap-aliased subset moves to solo.
-    for (const f of manifest.fonts) {
-      if (!f.family.endsWith('Secondary')) continue;
-      const primaryFamily = f.family.slice(0, -'Secondary'.length);
-      let dt = 0;
-      for (const e of Object.values(manifest.icons)) {
-        if (e.deprecated) continue;
-        if (!e.duotone) continue;
-        if (e.fontFamily !== primaryFamily) continue;
-        dt += 1;
-      }
-      f.iconCount = dt;
-    }
-    const sample = aliasResults
-      .flatMap((r) => r.aliased.slice(0, 2).map((a) => a.iconName))
-      .slice(0, 3)
-      .join(', ');
+  // §22 Rec 3 — patch-bump this pack's version iff the content hash
+  // changed vs the prior manifest. Must happen AFTER all deprecation
+  // drops + font pruning so the hash reflects what we're actually
+  // about to write to disk.
+  const bump = decideVersionBump(manifest, previous);
+  manifest.version = bump.nextVersion;
+  manifest.contentHash = bump.nextHash;
+  if (bump.reason === 'bumped') {
     log.info(
-      `  "${prefix}": demoted ${totalAliasedDemoted} cmap-aliased duotone${totalAliasedDemoted === 1 ? '' : 's'} to solo (${sample}${totalAliasedDemoted > 3 ? '…' : ''})`
+      `  "${prefix}": version ${previous?.version ?? '0.1.0'} → ${bump.nextVersion} (content changed)`
     );
+  } else if (bump.reason === 'first') {
+    log.info(`  "${prefix}": seeding initial version ${bump.nextVersion}`);
   }
 
   const dartSource = emitSetDart({

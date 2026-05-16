@@ -25,10 +25,17 @@ export function emitSetPubspec(input: SetPubspecInput): string {
     fontEntries.push(`        - asset: assets/fonts/${f.family}.ttf`);
   }
 
+  // §22 Rec 3 — per-pack independent semver. The version lives in the
+  // manifest (the source of truth) and is computed by
+  // `version_bump.ts:decideVersionBump`. Fallback to the initial 0.1.0
+  // covers the (vanishingly small) window where a regen reads a manifest
+  // written before Rec 3 landed.
+  const version = manifest.version ?? '0.1.0';
+
   return `name: ${pkgName}
 description: >-
   ${escapeYaml(desc)}
-version: 0.1.0
+version: ${version}
 publish_to: 'none'
 
 environment:
