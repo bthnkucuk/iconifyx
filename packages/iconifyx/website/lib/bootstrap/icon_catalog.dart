@@ -323,7 +323,32 @@ class IconCatalog {
     return out;
   }
 
+  /// Load the full icon catalog.
+  ///
+  /// With [kUseCdn] = false (default) this is identical to the legacy
+  /// behaviour: read the bundled ~10 MB `icons_index.json` from
+  /// rootBundle and parse it in a background isolate.
+  ///
+  /// With [kUseCdn] = true we:
+  ///   1. Fetch the per-pack shard manifest (`<base>/icons-index/v1/index.json`)
+  ///   2. Fan-out fetch every shard in parallel (HTTP/2 multiplexing makes
+  ///      this competitive with one big GET for the same total bytes;
+  ///      jsDelivr's edge cache + brotli further compress).
+  ///   3. Assemble a single in-memory `IconCatalog` byte-equivalent to
+  ///      what the monolithic parser would have produced.
+  ///   4. On ANY failure (missing manifest, network error, parse error)
+  ///      fall back to the bundled monolithic `icons_index.json` and log
+  ///      a warning. The bundled copy stays committed for safety.
+  ///
+  /// The shard fetch happens before [compute] so individual shard JSON
+  /// reads can be inspected by the dev-tools network panel; the heavy
+  /// parse + record assembly still runs in a worker isolate.
   static Future<IconCatalog> load(Map<String, PackSummary> packsByPrefix) async {
+    if (kUseCdn) {
+      final cdn = await _tryLoadViaCdn(packsByPrefix);
+      if (cdn != null) return cdn;
+      // Fall through to the bundled path.
+    }
     final raw = await rootBundle.loadString('lib/data/icons_index.json');
     final catalog = await compute(_parse, _ParseInput(raw, packsByPrefix));
     // Log boot diagnostics once. The build runs INSIDE the worker via
@@ -335,6 +360,80 @@ class IconCatalog {
       'retained',
     );
     return catalog;
+  }
+
+  /// Best-effort CDN load. Returns null on any failure so the caller
+  /// falls back to the bundled monolithic JSON.
+  static Future<IconCatalog?> _tryLoadViaCdn(
+    Map<String, PackSummary> packsByPrefix,
+  ) async {
+    final manifest = await CdnManifest.loadFromBundle();
+    if (manifest == null || manifest.baseUrl.isEmpty) {
+      debugPrint(
+        '[iconifyx/website] cdn_manifest.json missing or empty — '
+        'falling back to bundled icons_index.json',
+      );
+      return null;
+    }
+    final client = CdnHttpClient();
+    try {
+      // Step 1: shard manifest.
+      final shardManifestRaw =
+          await client.getString(manifest.iconsIndexManifestUrl);
+      final shardManifest =
+          jsonDecode(shardManifestRaw) as Map<String, dynamic>;
+      final entries = (shardManifest['packs'] as List).cast<Map<String, dynamic>>();
+
+      // Step 2: parallel fetch all shards (HTTP/2 multiplexed against
+      // jsDelivr). The order matters for determinism: we sort by prefix
+      // before iteration so the resulting `icons` flat list is byte-
+      // equivalent to the monolithic loader's output.
+      final sortedEntries = [...entries]
+        ..sort((a, b) =>
+            (a['prefix'] as String).compareTo(b['prefix'] as String));
+
+      final shardBodies = await Future.wait(
+        sortedEntries.map((e) async {
+          final prefix = e['prefix'] as String;
+          return MapEntry(prefix, await client.getString(manifest.shardUrl(prefix)));
+        }),
+      );
+
+      // Step 3: assemble a synthetic monolithic JSON the existing
+      // [_parse] entry point can consume. This keeps the heavy parsing +
+      // record allocation inside the worker isolate (no duplicated
+      // parser surface across the two modes). The synthetic JSON
+      // matches the monolithic schema:
+      //   { schemaVersion, packs: { <prefix>: { fonts, icons } } }
+      final synthetic = <String, dynamic>{
+        'schemaVersion': shardManifest['schemaVersion'] ?? 1,
+        'packs': <String, dynamic>{},
+      };
+      final synthPacks = synthetic['packs'] as Map<String, dynamic>;
+      for (final entry in shardBodies) {
+        final shard = jsonDecode(entry.value) as Map<String, dynamic>;
+        synthPacks[entry.key] = <String, dynamic>{
+          'fonts': shard['fonts'],
+          'icons': shard['icons'],
+        };
+      }
+      final raw = jsonEncode(synthetic);
+      return await compute(_parse, _ParseInput(raw, packsByPrefix));
+    } on CdnFetchException catch (e) {
+      debugPrint(
+        '[iconifyx/website] CDN icons-index load failed: $e — falling '
+        'back to bundled icons_index.json',
+      );
+      return null;
+    } catch (e) {
+      debugPrint(
+        '[iconifyx/website] CDN icons-index parse failed: $e — falling '
+        'back to bundled icons_index.json',
+      );
+      return null;
+    } finally {
+      client.close();
+    }
   }
 
   static IconCatalog _parse(_ParseInput input) {

@@ -1,3 +1,5 @@
+import { createHash } from 'node:crypto';
+
 import type { Manifest } from './manifest.ts';
 
 /**
@@ -13,12 +15,14 @@ import type { Manifest } from './manifest.ts';
  *   - packs.json — bootstrap manifest (one row per pack, ~200 KB).
  *   - icons_index.json — flat icon index in compact pack-grouped tuple form
  *     (~10 MB for the full ~165K-icon corpus).
- *   - cdn_manifest.json — tiny routing manifest (see RESEARCH_PLAN §12).
+ *   - cdn_manifest.json — tiny routing manifest (see RESEARCH_PLAN §11/§12).
  *
  * CDN tree (`lib/cdn/` — emitted but NOT a Flutter asset; intended to be
- * served from jsDelivr / a static host so the JSONs drop out of the Flutter
+ * served from jsDelivr / a static host so the JSON drops out of the Flutter
  * web bundle once `kUseCdn = true` is flipped in `icon_catalog.dart`):
  *   - cdn/packs/v1/packs.json — identical content to the bundled file.
+ *   - cdn/icons-index/v1/<prefix>.json — one shard per pack.
+ *   - cdn/icons-index/v1/index.json — shard manifest (sha + iconCount).
  */
 
 export interface WebsiteCodegenInput {
@@ -26,6 +30,50 @@ export interface WebsiteCodegenInput {
   entries: { manifest: Manifest; displayCategory: string }[];
   /** Upstream @iconify/json version used to produce these manifests. */
   iconifyJsonVersion: string;
+}
+
+/**
+ * Per-pack icon shard payload. Computing this once and reusing across the
+ * monolithic `icons_index.json` and the per-pack CDN shards guarantees
+ * byte-deterministic shards across both code paths.
+ *
+ * tuple: [name, codepoint, fontIdx, duotoneKindCode?]
+ *   fontIdx is into the pack's `fonts` array
+ *   duotoneKindCode mirrors `IconifyIconData.kind*`:
+ *     (absent / 0) → solo
+ *     1            → hint-layer duotone (default)
+ *     2            → paint-order duotone (logos, crypto-color, …)
+ *     3            → mask-internal duotone (lets-icons *-duotone-line)
+ */
+interface PackShardPayload {
+  fonts: string[];
+  icons: unknown[][];
+}
+
+function buildPackShardPayload(m: Manifest): PackShardPayload | null {
+  const fonts = m.fonts.map((f) => f.family);
+  const fontIdx = new Map(fonts.map((f, i) => [f, i]));
+
+  const live = Object.entries(m.icons)
+    .filter(([, v]) => !v.deprecated)
+    .sort(([a], [b]) => a.localeCompare(b));
+  if (live.length === 0) return null;
+
+  const icons: unknown[][] = live.map(([name, v]) => {
+    const row: unknown[] = [name, v.codepoint, fontIdx.get(v.fontFamily) ?? 0];
+    if (v.duotone) {
+      // Map manifest's `duotoneKind` string to the int codes that
+      // mirror `IconifyIconData.kind*`. Omit when "hint" (the default)
+      // so existing tuples stay 1 → hint, no schema churn.
+      const kind = v.duotoneKind;
+      if (kind === 'paintOrder') row.push(2);
+      else if (kind === 'maskInternal') row.push(3);
+      else row.push(1);
+    }
+    return row;
+  });
+
+  return { fonts, icons };
 }
 
 /**
@@ -106,55 +154,129 @@ export function buildPacksJson(input: WebsiteCodegenInput): string {
 /**
  * Flat icon index. Pack-grouped, tuple rows to save bytes at 300K scale.
  *
- * Schema:
- *   packs: Map<prefix, { fonts: string[], icons: tuple[] }>
- *   tuple: [name, codepoint, fontIdx, duotoneKindCode?]
- *     fontIdx is into the pack's `fonts` array
- *     duotoneKindCode mirrors `IconifyIconData.kind*`:
- *       (absent / 0) → solo
- *       1            → hint-layer duotone (default)
- *       2            → paint-order duotone (logos, crypto-color, …)
- *       3            → mask-internal duotone (lets-icons *-duotone-line)
- *     The website reads this and constructs `IconifyIconData.duo(p, s,
- *     kind: ...)` so the runtime widget composes layers correctly.
+ * See {@link buildPackShardPayload} for the per-pack tuple schema. The
+ * monolithic file keeps the same content the legacy bundled-asset loader
+ * has always read; the per-pack CDN shards (see {@link buildIconShards})
+ * are byte-identical extractions of the same per-pack payload, so toggling
+ * `kUseCdn` in `icon_catalog.dart` builds an identical in-memory catalog.
  */
 export function buildIconsIndexJson(input: WebsiteCodegenInput): string {
   const sorted = [...input.entries].sort((a, b) =>
     a.manifest.prefix.localeCompare(b.manifest.prefix)
   );
 
-  const packs: Record<string, { fonts: string[]; icons: unknown[][] }> = {};
+  const packs: Record<string, PackShardPayload> = {};
   for (const e of sorted) {
-    const m = e.manifest;
-    const fonts = m.fonts.map((f) => f.family);
-    const fontIdx = new Map(fonts.map((f, i) => [f, i]));
-
-    const live = Object.entries(m.icons)
-      .filter(([, v]) => !v.deprecated)
-      .sort(([a], [b]) => a.localeCompare(b));
-    if (live.length === 0) continue;
-
-    const icons: unknown[][] = live.map(([name, v]) => {
-      const row: unknown[] = [name, v.codepoint, fontIdx.get(v.fontFamily) ?? 0];
-      if (v.duotone) {
-        // Map manifest's `duotoneKind` string to the int codes that
-        // mirror `IconifyIconData.kind*`. Omit when "hint" (the default)
-        // so existing tuples stay 1 → hint, no schema churn.
-        const kind = v.duotoneKind;
-        if (kind === 'paintOrder') row.push(2);
-        else if (kind === 'maskInternal') row.push(3);
-        else row.push(1);
-      }
-      return row;
-    });
-
-    packs[m.prefix] = { fonts, icons };
+    const payload = buildPackShardPayload(e.manifest);
+    if (!payload) continue;
+    packs[e.manifest.prefix] = payload;
   }
 
   return JSON.stringify({
     schemaVersion: 1,
     generatedAt: new Date().toISOString().slice(0, 10),
     packs,
+  });
+}
+
+/**
+ * Per-pack icon shards for the CDN tree (RESEARCH_PLAN §11).
+ *
+ * Returned map keys are relative file paths under the CDN root, e.g.
+ * `icons-index/v1/mdi.json`; values are the JSON file body. The shard
+ * shape is a flat `{ schemaVersion, prefix, fonts, icons }` — the
+ * website's CDN fetcher parses it directly into the same per-pack record
+ * the monolithic loader produces.
+ *
+ * Sort order is fixed (pack prefix asc, then icon name asc) so the same
+ * `(manifests + @iconify/json version)` input always produces
+ * byte-identical shard files — see "Determinism" in the §11/§12 task
+ * brief.
+ */
+export interface IconShardEmit {
+  /** `icons-index/v1/<prefix>.json` body, one entry per pack. */
+  shards: Map<string, string>;
+  /** `icons-index/v1/index.json` body (per-pack sha + iconCount). */
+  manifest: string;
+}
+
+export function buildIconShards(input: WebsiteCodegenInput): IconShardEmit {
+  const sorted = [...input.entries].sort((a, b) =>
+    a.manifest.prefix.localeCompare(b.manifest.prefix)
+  );
+
+  const shards = new Map<string, string>();
+  const manifestPacks: {
+    prefix: string;
+    shardSha: string;
+    iconCount: number;
+    path: string;
+  }[] = [];
+
+  for (const e of sorted) {
+    const payload = buildPackShardPayload(e.manifest);
+    if (!payload) continue;
+
+    const body = JSON.stringify({
+      schemaVersion: 1,
+      prefix: e.manifest.prefix,
+      fonts: payload.fonts,
+      icons: payload.icons,
+    });
+    const filePath = `icons-index/v1/${e.manifest.prefix}.json`;
+    shards.set(filePath, body);
+    manifestPacks.push({
+      prefix: e.manifest.prefix,
+      shardSha: createHash('sha256').update(body).digest('hex'),
+      iconCount: payload.icons.length,
+      path: filePath,
+    });
+  }
+
+  const manifest = JSON.stringify({
+    schemaVersion: 1,
+    generatedAt: new Date().toISOString().slice(0, 10),
+    iconifyJsonVersion: input.iconifyJsonVersion,
+    packs: manifestPacks,
+  });
+
+  return { shards, manifest };
+}
+
+/**
+ * Tiny manifest committed at `lib/data/cdn_manifest.json` (RESEARCH_PLAN
+ * §11/§12). Tells the runtime where the CDN tree lives + which version of
+ * the data it expects.
+ *
+ * The bundle commits THIS file (a few hundred bytes); the bulky JSONs
+ * (packs.json + icons_index shards) can drop out of the Flutter web
+ * bundle entirely once `kUseCdn = true` is flipped in
+ * `lib/bootstrap/icon_catalog.dart`.
+ *
+ * The default baseUrl points at jsDelivr's
+ * `gh:Bthn/icons@iconify-<version>/packages/iconifyx/website/lib/cdn`
+ * path. Override at deploy time by hand-editing the committed manifest
+ * (or by regenerating with a future `ICONIFYX_CDN_BASE_URL` env var).
+ */
+export interface CdnManifestInput {
+  iconifyJsonVersion: string;
+  /** jsDelivr / static-host URL the website fetches from at runtime. */
+  baseUrl?: string;
+}
+
+export function buildCdnManifest(input: CdnManifestInput): string {
+  const baseUrl =
+    input.baseUrl ??
+    `https://cdn.jsdelivr.net/gh/Bthn/icons@iconify-${input.iconifyJsonVersion}/packages/iconifyx/website/lib/cdn`;
+
+  return JSON.stringify({
+    schemaVersion: 1,
+    version: 'v1',
+    iconifyJsonVersion: input.iconifyJsonVersion,
+    baseUrl,
+    packsPath: 'packs/v1/packs.json',
+    iconsIndexPath: 'icons-index/v1',
+    iconsIndexManifestPath: 'icons-index/v1/index.json',
   });
 }
 
@@ -246,46 +368,6 @@ flutter:
         - asset: assets/fonts/JetBrainsMono-Bold.ttf
           weight: 700
 `;
-}
-
-/**
- * Tiny manifest committed at `lib/data/cdn_manifest.json` (RESEARCH_PLAN
- * §12). Tells the runtime where the CDN tree lives + which version of the
- * data it expects.
- *
- * The bundle commits THIS file (a few hundred bytes); the bulky
- * `packs.json` (and eventually the per-pack icons-index shards added in
- * §11) can drop out of the Flutter web bundle entirely once
- * `kUseCdn = true` is flipped in `lib/bootstrap/icon_catalog.dart`.
- *
- * The default baseUrl points at jsDelivr's
- * `gh:Bthn/icons@iconify-<version>/packages/iconifyx/website/lib/cdn`
- * path. Override at deploy time by hand-editing the committed manifest
- * (or by regenerating with a future `ICONIFYX_CDN_BASE_URL` env var).
- */
-export interface CdnManifestInput {
-  iconifyJsonVersion: string;
-  /** jsDelivr / static-host URL the website fetches from at runtime. */
-  baseUrl?: string;
-}
-
-export function buildCdnManifest(input: CdnManifestInput): string {
-  const baseUrl =
-    input.baseUrl ??
-    `https://cdn.jsdelivr.net/gh/Bthn/icons@iconify-${input.iconifyJsonVersion}/packages/iconifyx/website/lib/cdn`;
-
-  return JSON.stringify({
-    schemaVersion: 1,
-    version: 'v1',
-    iconifyJsonVersion: input.iconifyJsonVersion,
-    baseUrl,
-    packsPath: 'packs/v1/packs.json',
-    // §11 (deferred to the next commit) populates these too; the
-    // routing manifest carries them ahead so the website's
-    // `CdnManifest` class can ignore version mismatches.
-    iconsIndexPath: 'icons-index/v1',
-    iconsIndexManifestPath: 'icons-index/v1/index.json',
-  });
 }
 
 function categorySlug(name: string): string {

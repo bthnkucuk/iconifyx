@@ -62,6 +62,7 @@ import { emitSetThirdPartyLicense, emitSetLicenseDart } from './license_codegen.
 import {
   buildPacksJson,
   buildIconsIndexJson,
+  buildIconShards,
   buildCdnManifest,
   emitWebsitePubspec,
 } from './website_codegen.ts';
@@ -1493,19 +1494,20 @@ async function writeWebsiteData(
   //   2. `lib/data/cdn_manifest.json` — tiny routing manifest committed
   //      alongside the legacy assets so the CDN fetcher has a starting
   //      point. Always bundled.
-  //   3. `lib/cdn/packs/v1/packs.json` — mirror of the bundled
-  //      packs.json, intended to be served from jsDelivr. The per-pack
-  //      icons-index shards land here in the §11 follow-up commit.
+  //   3. `lib/cdn/...` — the CDN tree (packs.json + per-pack icons-index
+  //      shards) intended to be served from jsDelivr. Not a Flutter asset
+  //      itself; mirrors are pushed to GitHub for jsDelivr's gh: path.
   //
   // See website_codegen.ts header for the exact layout. See
   // RESEARCH_PLAN §11/§12 for the design rationale.
   const codegenInput = { entries, iconifyJsonVersion };
   const packsJsonBody = buildPacksJson(codegenInput);
+  const iconsIndexBody = buildIconsIndexJson(codegenInput);
 
   await writeFile(path.join(dataDir, 'packs.json'), packsJsonBody, 'utf8');
   await writeFile(
     path.join(dataDir, 'icons_index.json'),
-    buildIconsIndexJson(codegenInput),
+    iconsIndexBody,
     'utf8'
   );
   await writeFile(
@@ -1514,12 +1516,29 @@ async function writeWebsiteData(
     'utf8'
   );
 
-  // CDN tree. Mirror the bundled `packs.json` verbatim so a jsDelivr URL
-  // returns the same bytes the legacy code reads from rootBundle.
+  // CDN tree. Mirror the bundled `packs.json` verbatim (so a jsDelivr URL
+  // returns the same bytes the legacy code reads from rootBundle), then
+  // emit one shard per pack + a small index manifest.
   const cdnRoot = path.join(websiteDir(), 'lib', 'cdn');
   const cdnPacksDir = path.join(cdnRoot, 'packs', 'v1');
+  const cdnIconsIndexDir = path.join(cdnRoot, 'icons-index', 'v1');
   await mkdir(cdnPacksDir, { recursive: true });
+  await mkdir(cdnIconsIndexDir, { recursive: true });
+
   await writeFile(path.join(cdnPacksDir, 'packs.json'), packsJsonBody, 'utf8');
+
+  const { shards, manifest: shardManifestBody } = buildIconShards(codegenInput);
+  for (const [relPath, body] of shards) {
+    // Shard paths always look like `icons-index/v1/<prefix>.json`. We only
+    // need the leaf filename here because the directory is fixed.
+    const filename = relPath.split('/').pop()!;
+    await writeFile(path.join(cdnIconsIndexDir, filename), body, 'utf8');
+  }
+  await writeFile(
+    path.join(cdnIconsIndexDir, 'index.json'),
+    shardManifestBody,
+    'utf8'
+  );
 
   // Pubspec lists every per-set package as a direct path dep so their TTF
   // assets ship with the build — even though the Dart code never imports
