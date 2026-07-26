@@ -1,5 +1,6 @@
 import 'dart:math' as math;
 
+import 'package:flutter/foundation.dart' show listEquals;
 import 'package:flutter/widgets.dart';
 
 import 'icon_data.dart';
@@ -38,7 +39,7 @@ import 'icon_data.dart';
 /// `iconifyx_core` depends ONLY on `flutter/widgets`; no Material context
 /// is required. Material apps can hand any colour they like down through
 /// [secondaryColor].
-class IconifyIcon extends StatelessWidget {
+class IconifyIcon extends StatefulWidget {
   /// Fallback when a paint-order duotone renders without an explicit
   /// [secondaryColor]. Chosen so light foreground letterforms (most
   /// `logos:*`, crypto-color, emoji packs) read against a dark primary
@@ -88,43 +89,111 @@ class IconifyIcon extends StatelessWidget {
   });
 
   @override
+  State<IconifyIcon> createState() => _IconifyIconState();
+}
+
+/// Owns the laid-out [TextPainter]s.
+///
+/// They live on the State, not on the [CustomPainter], because a `TextPainter`
+/// holds a native `ui.Paragraph` and must be disposed — and `CustomPainter` has no
+/// disposal hook. Building them in the painter's constructor (as this widget used
+/// to, while it was a `StatelessWidget`) leaked one or two paragraphs on **every
+/// rebuild**, which leak_tracker flags in any widget test that renders an icon.
+///
+/// The painters still lay out once and are reused across paint() ticks: they are
+/// rebuilt only when a value they were shaped from actually changes. Some of those
+/// values come from the ambient [IconTheme] / [Directionality] rather than from the
+/// widget, so the check has to happen in [build] — `didUpdateWidget` alone would
+/// miss a theme change.
+class _IconifyIconState extends State<IconifyIcon> {
+  TextPainter? _primaryTp;
+  TextPainter? _secondaryTp;
+  _GlyphSpec? _spec;
+
+  @override
+  void dispose() {
+    _primaryTp?.dispose();
+    _secondaryTp?.dispose();
+    super.dispose();
+  }
+
+  /// Rebuilds the painters iff [spec] differs from what they were shaped from.
+  ///
+  /// Disposing here is safe: the only reference to the outgoing painters is the
+  /// outgoing [_IconifyPainter], and this runs during `build` — the replacement
+  /// painter is installed on the render object before the frame paints.
+  void _syncPainters(_GlyphSpec spec) {
+    if (_spec == spec) return;
+    _primaryTp?.dispose();
+    _secondaryTp?.dispose();
+    _primaryTp = _buildPainter(spec, spec.primary, spec.primaryColor)..layout();
+    final s = spec.secondary;
+    final sc = spec.secondaryColor;
+    _secondaryTp = (s != null && sc != null) ? (_buildPainter(spec, s, sc)..layout()) : null;
+    _spec = spec;
+  }
+
+  TextPainter _buildPainter(_GlyphSpec spec, IconData glyph, Color glyphColor) => TextPainter(
+        text: TextSpan(
+          text: String.fromCharCode(glyph.codePoint),
+          style: TextStyle(
+            inherit: false,
+            color: glyphColor,
+            fontSize: spec.size,
+            fontFamily: glyph.fontFamily,
+            package: glyph.fontPackage,
+            height: 1.0,
+            leadingDistribution: TextLeadingDistribution.even,
+            shadows: spec.shadows,
+          ),
+        ),
+        textDirection: spec.textDirection,
+      );
+
+  @override
   Widget build(BuildContext context) {
     final iconTheme = IconTheme.of(context);
-    final effectiveSize = size ?? iconTheme.size ?? 24.0;
-    final effectiveColor = color ?? iconTheme.color ?? const Color(0xFF000000);
-    final effectiveDir =
-        textDirection ?? Directionality.maybeOf(context) ?? TextDirection.ltr;
+    final effectiveSize = widget.size ?? iconTheme.size ?? 24.0;
+    final effectiveColor = widget.color ?? iconTheme.color ?? const Color(0xFF000000);
+    final effectiveDir = widget.textDirection ?? Directionality.maybeOf(context) ?? TextDirection.ltr;
 
-    final IconData? secondary = icon.secondary;
-    final bool paintOrder = icon.isPaintOrderDuotone;
+    final IconData? secondary = widget.icon.secondary;
+    final bool paintOrder = widget.icon.isPaintOrderDuotone;
     Color? effectiveSecondary;
     if (secondary != null) {
-      final Color secBase = secondaryColor ??
-          (paintOrder ? paintOrderSecondaryFallback : effectiveColor);
-      final double secAlpha = secondaryOpacity ?? (paintOrder ? 1.0 : 0.4);
+      final Color secBase =
+          widget.secondaryColor ?? (paintOrder ? IconifyIcon.paintOrderSecondaryFallback : effectiveColor);
+      final double secAlpha = widget.secondaryOpacity ?? (paintOrder ? 1.0 : 0.4);
       effectiveSecondary = secBase.withValues(alpha: secAlpha);
     }
 
+    final spec = _GlyphSpec(
+      primary: widget.icon.primary,
+      secondary: secondary,
+      primaryColor: effectiveColor,
+      secondaryColor: effectiveSecondary,
+      size: effectiveSize,
+      textDirection: effectiveDir,
+      shadows: widget.shadows,
+    );
+    _syncPainters(spec);
+
     return Semantics(
-      label: semanticLabel,
-      excludeSemantics: semanticLabel == null,
+      label: widget.semanticLabel,
+      excludeSemantics: widget.semanticLabel == null,
       child: SizedBox(
         width: effectiveSize,
         height: effectiveSize,
         child: CustomPaint(
           size: Size.square(effectiveSize),
           painter: _IconifyPainter(
-            primary: icon.primary,
-            secondary: secondary,
-            primaryColor: effectiveColor,
-            secondaryColor: effectiveSecondary,
+            primaryTp: _primaryTp!,
+            secondaryTp: _secondaryTp,
+            spec: spec,
             // Paint-order: primary BEHIND, secondary ON TOP.
             // Else (hint / mask-internal / solo): standard z-order
             // (secondary BEHIND if present, primary ON TOP).
             secondaryOnTop: paintOrder,
-            size: effectiveSize,
-            textDirection: effectiveDir,
-            shadows: shadows,
           ),
         ),
       ),
@@ -132,67 +201,79 @@ class IconifyIcon extends StatelessWidget {
   }
 }
 
-/// Paints solo + every duotone flavour in a single render layer.
-///
-/// TextPainters are laid out once in the constructor and reused across
-/// paint() ticks — `shouldRepaint` returns true only when an input
-/// differs, at which point a fresh painter (and fresh TextPainters)
-/// replaces this one. Within paint(), a [BoxFit.contain] scale + centre
-/// transform is applied to fit the glyph's intrinsic ink into the
-/// declared canvas size, matching the wide-glyph fitting that
-/// `IconifyThumb`'s old per-layer FittedBox provided.
-class _IconifyPainter extends CustomPainter {
-  final IconData primary;
-  final IconData? secondary;
-  final Color primaryColor;
-  final Color? secondaryColor;
-  final bool secondaryOnTop;
-  final double size;
-  final TextDirection textDirection;
-  final List<Shadow>? shadows;
-
-  late final TextPainter _primaryTp;
-  late final TextPainter? _secondaryTp;
-
-  _IconifyPainter({
+/// Everything a glyph's [TextPainter] is shaped from — the cache key that decides
+/// whether the laid-out painters can be reused.
+@immutable
+class _GlyphSpec {
+  const _GlyphSpec({
     required this.primary,
     required this.secondary,
     required this.primaryColor,
     required this.secondaryColor,
-    required this.secondaryOnTop,
     required this.size,
     required this.textDirection,
-    this.shadows,
-  }) {
-    _primaryTp = _buildPainter(primary, primaryColor);
-    _primaryTp.layout();
-    final s = secondary;
-    final sc = secondaryColor;
-    if (s != null && sc != null) {
-      final tp = _buildPainter(s, sc);
-      tp.layout();
-      _secondaryTp = tp;
-    } else {
-      _secondaryTp = null;
-    }
+    required this.shadows,
+  });
+
+  final IconData primary;
+  final IconData? secondary;
+  final Color primaryColor;
+  final Color? secondaryColor;
+  final double size;
+  final TextDirection textDirection;
+  final List<Shadow>? shadows;
+
+  @override
+  bool operator ==(Object other) {
+    if (identical(this, other)) return true;
+    return other is _GlyphSpec &&
+        other.primary == primary &&
+        other.secondary == secondary &&
+        other.primaryColor == primaryColor &&
+        other.secondaryColor == secondaryColor &&
+        other.size == size &&
+        other.textDirection == textDirection &&
+        // By value, not identity: `Shadow` has value equality, so a caller passing
+        // a fresh `[Shadow(...)]` literal every build no longer re-shapes the glyph.
+        listEquals(other.shadows, shadows);
   }
 
-  TextPainter _buildPainter(IconData glyph, Color glyphColor) => TextPainter(
-        text: TextSpan(
-          text: String.fromCharCode(glyph.codePoint),
-          style: TextStyle(
-            inherit: false,
-            color: glyphColor,
-            fontSize: size,
-            fontFamily: glyph.fontFamily,
-            package: glyph.fontPackage,
-            height: 1.0,
-            leadingDistribution: TextLeadingDistribution.even,
-            shadows: shadows,
-          ),
-        ),
-        textDirection: textDirection,
+  @override
+  int get hashCode => Object.hash(
+        primary,
+        secondary,
+        primaryColor,
+        secondaryColor,
+        size,
+        textDirection,
+        shadows == null ? null : Object.hashAll(shadows!),
       );
+}
+
+/// Paints solo + every duotone flavour in a single render layer.
+///
+/// It does NOT own the [TextPainter]s — [_IconifyIconState] builds, lays out and
+/// disposes them, because a `TextPainter` holds a native `ui.Paragraph` and
+/// `CustomPainter` has no disposal hook. This class only draws.
+///
+/// Within paint(), a [BoxFit.contain] scale + centre transform is applied to fit
+/// the glyph's intrinsic ink into the declared canvas size, matching the wide-glyph
+/// fitting that `IconifyThumb`'s old per-layer FittedBox provided.
+class _IconifyPainter extends CustomPainter {
+  _IconifyPainter({
+    required TextPainter primaryTp,
+    required TextPainter? secondaryTp,
+    required this.spec,
+    required this.secondaryOnTop,
+  })  : _primaryTp = primaryTp,
+        _secondaryTp = secondaryTp;
+
+  /// What the painters were shaped from; drives [shouldRepaint].
+  final _GlyphSpec spec;
+  final bool secondaryOnTop;
+
+  final TextPainter _primaryTp;
+  final TextPainter? _secondaryTp;
 
   @override
   void paint(Canvas canvas, Size canvasSize) {
@@ -241,12 +322,10 @@ class _IconifyPainter extends CustomPainter {
 
   @override
   bool shouldRepaint(_IconifyPainter old) =>
-      old.primary != primary ||
-      old.secondary != secondary ||
-      old.primaryColor != primaryColor ||
-      old.secondaryColor != secondaryColor ||
+      old.spec != spec ||
       old.secondaryOnTop != secondaryOnTop ||
-      old.size != size ||
-      old.textDirection != textDirection ||
-      old.shadows != shadows;
+      // Identity, not value: when the spec is unchanged the State hands back the
+      // very same laid-out painters, so this is false and nothing repaints.
+      !identical(old._primaryTp, _primaryTp) ||
+      !identical(old._secondaryTp, _secondaryTp);
 }
